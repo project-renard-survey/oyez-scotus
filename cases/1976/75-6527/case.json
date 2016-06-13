@@ -2,11 +2,12 @@
     "ID": 51627,
     "name": "Ingraham v. Wright",
     "href": "https:\/\/api.oyez.org\/cases\/1976\/75-6527",
+    "view_count": 629,
     "docket_number": "75-6527",
     "additional_docket_numbers": null,
-    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
-    "first_party": "Ingraham",
-    "second_party": "Wright",
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
+    "first_party": "James Ingraham, Roosevelt Andrews",
+    "second_party": "Willie J. Wright, Lemmie Deliford, Solomon Barnes, Edward L. Whigham",
     "timeline": [
         {
             "event": "Argued",
@@ -22,6 +23,13 @@
                 230277600
             ],
             "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/32464"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                201762000
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53576"
         }
     ],
     "lower_court": {
@@ -29,15 +37,16 @@
         "name": "United States Court of Appeals for the Fifth Circuit",
         "href": "https:\/\/api.oyez.org\/taxonomy\/term\/10"
     },
-    "facts_of_the_case": "",
-    "question": "",
-    "conclusion": "",
+    "facts_of_the_case": "<p>On October 1, 1970, Assistant Principal Solomon Barnes applied corporal punishment to Roosevelt Andrews and fifteen other boys in a restroom at Charles R. Drew Junior High School. A teacher had accused Andrews of tardiness, but Andrews claimed he still had two minutes to get to class when he was seized. When Andrews resisted paddling, Barnes struck him on the arm, back, and across the neck.<\/p>\n<p>On October 6, 1970, Principal Willie J. Wright removed James Ingraham and several other disruptive students to his office, where he paddled eight to ten of them. When Ingraham refused to assume a paddling position, Wright called on Barnes and Assistant Principal Lemmie Deliford to hold Ingraham in a prone position while Wright administered twenty blows. Ingraham\u2019s mother later took him to a hospital for treatment, where he was prescribed cold compresses, laxatives and pain-killing pills for a hematoma.<\/p>\n<p>Ingraham and Andrews filed a complaint against Wright, Deliford, Barnes and Edwart L. Whigham, the superintendant of the Dade County School System; the complaint alleged the deprivation of constitutional rights and damages from the administration of corporal punishment. They also filed a class action for declaratory and injunctive relief on behalf of all students in the Dade County schools. At the close of Ingraham and Andrews\u2019 case, the defendants successfully moved to dismiss the third count because the plaintiffs showed no right to relief. The court also ruled that the evidence for the first two counts was insufficient to go to a jury. The United States Court of Appeals, Fifth Circuit, reversed. The Fifth Circuit held that the punishment of Ingraham and Andrews was so severe that it violated the Eighth and Fourteenth amendments and that the school\u2019s corporal punishment policy failed to satisfy due process. Upon rehearing, the en banc court rejected this conclusion and affirmed the judgment of the trial court. It held that due process did not require that students receive notice or an opportunity to be heard and that the Eighth and Fourteenth Amendments do not forbid corporal punishment in schools.<\/p>\n",
+    "question": "<p>Does the cruel and unusual punishment clause of the Eighth Amendment forbid corporal punishment inflicted by teachers and administrators upon Ingraham and Andrews at Charles R. Drew Junior High School? Does Dade County School System\u2019s corporal punishment policy violate due process?<\/p>\n",
+    "conclusion": "<p>No and no. In a 5-4 decision written by Justice Louis Powell, the Court held that the Eighth Amendment does not prevent corporal punishment in public schools. While acknowledging the general abandonment of corporal punishment as a means of punishing criminals, Justice Powell looked to the common law history of similar punishment in schools and discerned no trend towards its elimination. Rather, common law suggested that teachers could legally impose reasonable, non-excessive force on their students. He also noted that the Court previously limited the application of the Eighth Amendment\u2019s \u201ccruel and unusual\u201d language to criminal punishment. Justice Powell reasoned that Ingraham and Andrews had less need for similar Eighth Amendment protection because they attended an open institution subject to more public scrutiny.<\/p>\n<p>Justice Powell also held that the Fourteenth Amendment\u2019s requirement of procedural due process was satisfied by Florida law. Florida recognized students\u2019 common law right to be free from excessive corporal punishment in school, mandating that teachers and administrators exercise prudence and restraint in administering physical punishment. Unreasonable or excessive punishment could result in criminal or civil liability for the responsible teacher or administrator.<\/p>\n<p>Justice Byron White dissented, joined by Justices William Brennan, Thurgood Marshall and John Paul Stevens. Justice White rejected the majority\u2019s holding and reasoned that if some types of extreme corporal punishment violate the Eighth Amendment when used against criminals, similar punishment cannot be imposed on students for obviously lesser infractions.<\/p>\n",
     "advocates": [
         {
             "advocate": {
                 "ID": 17968,
                 "name": "Bruce S. Rogow",
                 "href": "https:\/\/api.oyez.org\/people\/bruce_s_rogow",
+                "view_count": 0,
                 "last_name": "Rogow",
                 "roles": null,
                 "thumbnail": null,
@@ -49,23 +58,10 @@
         },
         {
             "advocate": {
-                "ID": 24059,
-                "name": "Frank A. Howard",
-                "href": "https:\/\/api.oyez.org\/people\/frank_a_howard-_jr",
-                "last_name": "Howard",
-                "roles": null,
-                "thumbnail": null,
-                "length_of_service": 0,
-                "identifier": "frank_a_howard-_jr"
-            },
-            "advocate_description": "",
-            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/10556"
-        },
-        {
-            "advocate": {
                 "ID": 24053,
                 "name": "Frank A. Howard, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/frank_a_howard_jr",
+                "view_count": 0,
                 "last_name": "Howard,",
                 "roles": null,
                 "thumbnail": null,
@@ -107,6 +103,7 @@
                         "ID": 15043,
                         "name": "Potter Stewart",
                         "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                        "view_count": 31,
                         "last_name": "Stewart",
                         "roles": [
                             {
@@ -124,7 +121,7 @@
                             "id": 32752,
                             "mime": "image\/png",
                             "size": 56350,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                         },
                         "length_of_service": 8298,
                         "identifier": "potter_stewart"
@@ -141,6 +138,7 @@
                         "ID": 15104,
                         "name": "Thurgood Marshall",
                         "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                        "view_count": 53,
                         "last_name": "Marshall",
                         "roles": [
                             {
@@ -158,7 +156,7 @@
                             "id": 32770,
                             "mime": "image\/png",
                             "size": 59272,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                         },
                         "length_of_service": 8765,
                         "identifier": "thurgood_marshall"
@@ -170,6 +168,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -187,7 +186,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -202,6 +201,7 @@
                         "ID": 15140,
                         "name": "William J. Brennan, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                        "view_count": 28,
                         "last_name": "Brennan",
                         "roles": [
                             {
@@ -219,7 +219,7 @@
                             "id": 32778,
                             "mime": "image\/png",
                             "size": 56873,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                         },
                         "length_of_service": 12330,
                         "identifier": "william_j_brennan_jr"
@@ -231,6 +231,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -248,7 +249,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -263,6 +264,7 @@
                         "ID": 15071,
                         "name": "Byron R. White",
                         "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                        "view_count": 0,
                         "last_name": "White",
                         "roles": [
                             {
@@ -280,7 +282,7 @@
                             "id": 32699,
                             "mime": "image\/png",
                             "size": 55559,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                         },
                         "length_of_service": 11396,
                         "identifier": "byron_r_white"
@@ -297,6 +299,7 @@
                         "ID": 15073,
                         "name": "Warren E. Burger",
                         "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                        "view_count": 0,
                         "last_name": "Burger",
                         "roles": [
                             {
@@ -314,7 +317,7 @@
                             "id": 32773,
                             "mime": "image\/png",
                             "size": 52511,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                         },
                         "length_of_service": 6304,
                         "identifier": "warren_e_burger"
@@ -331,6 +334,7 @@
                         "ID": 15045,
                         "name": "Harry A. Blackmun",
                         "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                        "view_count": 34,
                         "last_name": "Blackmun",
                         "roles": [
                             {
@@ -348,7 +352,7 @@
                             "id": 32712,
                             "mime": "image\/png",
                             "size": 50281,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                         },
                         "length_of_service": 8821,
                         "identifier": "harry_a_blackmun"
@@ -365,6 +369,7 @@
                         "ID": 15119,
                         "name": "Lewis F. Powell, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/lewis_f_powell_jr",
+                        "view_count": 0,
                         "last_name": "Powell",
                         "roles": [
                             {
@@ -382,7 +387,7 @@
                             "id": 32738,
                             "mime": "image\/png",
                             "size": 53543,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/lewis_f_powell_jr.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/lewis_f_powell_jr\/lewis_f_powell_jr.thumb.png"
                         },
                         "length_of_service": 5649,
                         "identifier": "lewis_f_powell_jr"
@@ -399,6 +404,7 @@
                         "ID": 15141,
                         "name": "William H. Rehnquist",
                         "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                        "view_count": 28,
                         "last_name": "Rehnquist",
                         "roles": [
                             {
@@ -426,7 +432,7 @@
                             "id": 32786,
                             "mime": "image\/png",
                             "size": 46923,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                         },
                         "length_of_service": 12293,
                         "identifier": "william_h_rehnquist"
@@ -443,6 +449,7 @@
                         "ID": 15060,
                         "name": "John Paul Stevens",
                         "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                        "view_count": 0,
                         "last_name": "Stevens",
                         "roles": [
                             {
@@ -460,7 +467,7 @@
                             "id": 32732,
                             "mime": "image\/png",
                             "size": 62101,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                         },
                         "length_of_service": 12611,
                         "identifier": "john_paul_stevens"
@@ -472,6 +479,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -489,7 +497,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -514,11 +522,13 @@
             "ID": 15329,
             "name": "Burger Court (1975-1981)",
             "href": "https:\/\/api.oyez.org\/courts\/burger6",
+            "view_count": 0,
             "members": [
                 {
                     "ID": 15073,
                     "name": "Warren E. Burger",
                     "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                    "view_count": 0,
                     "last_name": "Burger",
                     "roles": [
                         {
@@ -536,7 +546,7 @@
                         "id": 32773,
                         "mime": "image\/png",
                         "size": 52511,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                     },
                     "length_of_service": 6304,
                     "identifier": "warren_e_burger"
@@ -545,6 +555,7 @@
                     "ID": 15140,
                     "name": "William J. Brennan, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                    "view_count": 28,
                     "last_name": "Brennan",
                     "roles": [
                         {
@@ -562,7 +573,7 @@
                         "id": 32778,
                         "mime": "image\/png",
                         "size": 56873,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                     },
                     "length_of_service": 12330,
                     "identifier": "william_j_brennan_jr"
@@ -571,6 +582,7 @@
                     "ID": 15043,
                     "name": "Potter Stewart",
                     "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                    "view_count": 31,
                     "last_name": "Stewart",
                     "roles": [
                         {
@@ -588,7 +600,7 @@
                         "id": 32752,
                         "mime": "image\/png",
                         "size": 56350,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                     },
                     "length_of_service": 8298,
                     "identifier": "potter_stewart"
@@ -597,6 +609,7 @@
                     "ID": 15071,
                     "name": "Byron R. White",
                     "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                    "view_count": 0,
                     "last_name": "White",
                     "roles": [
                         {
@@ -614,7 +627,7 @@
                         "id": 32699,
                         "mime": "image\/png",
                         "size": 55559,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                     },
                     "length_of_service": 11396,
                     "identifier": "byron_r_white"
@@ -623,6 +636,7 @@
                     "ID": 15104,
                     "name": "Thurgood Marshall",
                     "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                    "view_count": 53,
                     "last_name": "Marshall",
                     "roles": [
                         {
@@ -640,7 +654,7 @@
                         "id": 32770,
                         "mime": "image\/png",
                         "size": 59272,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                     },
                     "length_of_service": 8765,
                     "identifier": "thurgood_marshall"
@@ -649,6 +663,7 @@
                     "ID": 15045,
                     "name": "Harry A. Blackmun",
                     "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                    "view_count": 34,
                     "last_name": "Blackmun",
                     "roles": [
                         {
@@ -666,7 +681,7 @@
                         "id": 32712,
                         "mime": "image\/png",
                         "size": 50281,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                     },
                     "length_of_service": 8821,
                     "identifier": "harry_a_blackmun"
@@ -675,6 +690,7 @@
                     "ID": 15119,
                     "name": "Lewis F. Powell, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/lewis_f_powell_jr",
+                    "view_count": 0,
                     "last_name": "Powell",
                     "roles": [
                         {
@@ -692,7 +708,7 @@
                         "id": 32738,
                         "mime": "image\/png",
                         "size": 53543,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/lewis_f_powell_jr.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/lewis_f_powell_jr\/lewis_f_powell_jr.thumb.png"
                     },
                     "length_of_service": 5649,
                     "identifier": "lewis_f_powell_jr"
@@ -701,6 +717,7 @@
                     "ID": 15141,
                     "name": "William H. Rehnquist",
                     "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                    "view_count": 28,
                     "last_name": "Rehnquist",
                     "roles": [
                         {
@@ -728,7 +745,7 @@
                         "id": 32786,
                         "mime": "image\/png",
                         "size": 46923,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                     },
                     "length_of_service": 12293,
                     "identifier": "william_h_rehnquist"
@@ -737,6 +754,7 @@
                     "ID": 15060,
                     "name": "John Paul Stevens",
                     "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                    "view_count": 0,
                     "last_name": "Stevens",
                     "roles": [
                         {
@@ -754,7 +772,7 @@
                         "id": 32732,
                         "mime": "image\/png",
                         "size": 62101,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                     },
                     "length_of_service": 12611,
                     "identifier": "john_paul_stevens"
@@ -766,7 +784,7 @@
                     "id": 12277,
                     "mime": "image\/jpeg",
                     "size": 44058,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/burger_court_1975-1981.jpg"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/burger6.jpg"
                 }
             ],
             "identifier": "burger6"
@@ -776,11 +794,13 @@
         "ID": 15329,
         "name": "Burger Court (1975-1981)",
         "href": "https:\/\/api.oyez.org\/courts\/burger6",
+        "view_count": 0,
         "members": [
             {
                 "ID": 15073,
                 "name": "Warren E. Burger",
                 "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                "view_count": 0,
                 "last_name": "Burger",
                 "roles": [
                     {
@@ -798,7 +818,7 @@
                     "id": 32773,
                     "mime": "image\/png",
                     "size": 52511,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                 },
                 "length_of_service": 6304,
                 "identifier": "warren_e_burger"
@@ -807,6 +827,7 @@
                 "ID": 15140,
                 "name": "William J. Brennan, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                "view_count": 28,
                 "last_name": "Brennan",
                 "roles": [
                     {
@@ -824,7 +845,7 @@
                     "id": 32778,
                     "mime": "image\/png",
                     "size": 56873,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                 },
                 "length_of_service": 12330,
                 "identifier": "william_j_brennan_jr"
@@ -833,6 +854,7 @@
                 "ID": 15043,
                 "name": "Potter Stewart",
                 "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                "view_count": 31,
                 "last_name": "Stewart",
                 "roles": [
                     {
@@ -850,7 +872,7 @@
                     "id": 32752,
                     "mime": "image\/png",
                     "size": 56350,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                 },
                 "length_of_service": 8298,
                 "identifier": "potter_stewart"
@@ -859,6 +881,7 @@
                 "ID": 15071,
                 "name": "Byron R. White",
                 "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                "view_count": 0,
                 "last_name": "White",
                 "roles": [
                     {
@@ -876,7 +899,7 @@
                     "id": 32699,
                     "mime": "image\/png",
                     "size": 55559,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                 },
                 "length_of_service": 11396,
                 "identifier": "byron_r_white"
@@ -885,6 +908,7 @@
                 "ID": 15104,
                 "name": "Thurgood Marshall",
                 "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                "view_count": 53,
                 "last_name": "Marshall",
                 "roles": [
                     {
@@ -902,7 +926,7 @@
                     "id": 32770,
                     "mime": "image\/png",
                     "size": 59272,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                 },
                 "length_of_service": 8765,
                 "identifier": "thurgood_marshall"
@@ -911,6 +935,7 @@
                 "ID": 15045,
                 "name": "Harry A. Blackmun",
                 "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                "view_count": 34,
                 "last_name": "Blackmun",
                 "roles": [
                     {
@@ -928,7 +953,7 @@
                     "id": 32712,
                     "mime": "image\/png",
                     "size": 50281,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                 },
                 "length_of_service": 8821,
                 "identifier": "harry_a_blackmun"
@@ -937,6 +962,7 @@
                 "ID": 15119,
                 "name": "Lewis F. Powell, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/lewis_f_powell_jr",
+                "view_count": 0,
                 "last_name": "Powell",
                 "roles": [
                     {
@@ -954,7 +980,7 @@
                     "id": 32738,
                     "mime": "image\/png",
                     "size": 53543,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/lewis_f_powell_jr.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/lewis_f_powell_jr\/lewis_f_powell_jr.thumb.png"
                 },
                 "length_of_service": 5649,
                 "identifier": "lewis_f_powell_jr"
@@ -963,6 +989,7 @@
                 "ID": 15141,
                 "name": "William H. Rehnquist",
                 "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                "view_count": 28,
                 "last_name": "Rehnquist",
                 "roles": [
                     {
@@ -990,7 +1017,7 @@
                     "id": 32786,
                     "mime": "image\/png",
                     "size": 46923,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                 },
                 "length_of_service": 12293,
                 "identifier": "william_h_rehnquist"
@@ -999,6 +1026,7 @@
                 "ID": 15060,
                 "name": "John Paul Stevens",
                 "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                "view_count": 0,
                 "last_name": "Stevens",
                 "roles": [
                     {
@@ -1016,7 +1044,7 @@
                     "id": 32732,
                     "mime": "image\/png",
                     "size": 62101,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                 },
                 "length_of_service": 12611,
                 "identifier": "john_paul_stevens"
@@ -1028,13 +1056,22 @@
                 "id": 12277,
                 "mime": "image\/jpeg",
                 "size": 44058,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/burger_court_1975-1981.jpg"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/burger6.jpg"
             }
         ],
         "identifier": "burger6"
     },
     "term": "1976",
-    "location": null,
+    "location": {
+        "latitude": 25.82988,
+        "longitude": -80.226884,
+        "name": "Charles R. Drew Middle School, formerly Charles R. Drew Junior High School",
+        "street": "1801 NW 60th Street",
+        "city": "Miami",
+        "province": "FL",
+        "postal_code": null,
+        "province_name": "Florida"
+    },
     "opinion_announcement": [
         {
             "id": 17743,

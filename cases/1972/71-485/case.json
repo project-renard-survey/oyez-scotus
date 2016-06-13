@@ -2,9 +2,10 @@
     "ID": 50877,
     "name": "Gottschalk v. Benson",
     "href": "https:\/\/api.oyez.org\/cases\/1972\/71-485",
+    "view_count": 0,
     "docket_number": "71-485",
     "additional_docket_numbers": null,
-    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
     "first_party": "Gottschalk",
     "second_party": "Benson",
     "timeline": [
@@ -24,15 +25,16 @@
         }
     ],
     "lower_court": null,
-    "facts_of_the_case": "\u003Cp\u003EEngineers Gary Benson and Arthur Tabbot invented a faster and more efficient mathematical procedure for transforming the normal \u0022decimal\u0022 type of numbers (base 10) into true \u0022binary\u0022 numbers (base 2) which are simpler to process within computers. Their mathematical procedure was somewhat akin to long division, albeit with different steps. Their attorney argued before the patent examiner that the inventors were entitled to a broad patent covering any use of their new mathematical procedure, even use of it by a human using pencil and paper. The examiner rejected their invention. An appellate court overruled the examiner and ordered a patent to issue. The Commissioner of Patents then petitioned successfully to have the Supreme Court review this decision. Before the Supreme Court, the inventors\u0027 attorney backed down from his earlier position and argued that the inventors were entitled to a patent covering all uses of their new mathematical procedure in computers, but not necessarily to its use by humans using pencil and paper. (The members of the Supreme Court at that time knew very little about computers.)\u003C\/p\u003E\n",
-    "question": "\u003Cp\u003EIs a computer program patentable? More specifically, is a mathematical procedure such as long division patentable?\u003C\/p\u003E\n",
-    "conclusion": "\u003Cp\u003ENo and no. The Supreme Court held that a patent cannot cover all possible uses of a mathematical procedure or equation within a computer. That would be tantamount to granting the inventor a patent on the mathematical procedure itself, and this was no more acceptable than granting Samuel Morse a patent covering all possible uses of magnetism to communicate, rather than a narrower patent covering only the specific way in which Morse actually used magnetism to communicate in his telegraph. The court then said that \u0022[i]f these programs are to be patentable, considerable problems are raised which only committees of Congress can manage ....\u0022 This decision was accepted as a final determination that computer programs were not patentable, and the Patent Office immediately ceased examining all computer program inventions. Very few patent applications directed to computer programs were filed until after the Supreme Court readdressed this issue in Diamond v. Diehr some nine years later. During these nine years, alternative ways of protecting computer programs were developed under the laws of copyright and trade secret which remain part of our law today.\u003C\/p\u003E\n",
+    "facts_of_the_case": "<p>Engineers Gary Benson and Arthur Tabbot invented a faster and more efficient mathematical procedure for transforming the normal \"decimal\" type of numbers (base 10) into true \"binary\" numbers (base 2) which are simpler to process within computers. Their mathematical procedure was somewhat akin to long division, albeit with different steps. Their attorney argued before the patent examiner that the inventors were entitled to a broad patent covering any use of their new mathematical procedure, even use of it by a human using pencil and paper. The examiner rejected their invention. An appellate court overruled the examiner and ordered a patent to issue. The Commissioner of Patents then petitioned successfully to have the Supreme Court review this decision. Before the Supreme Court, the inventors' attorney backed down from his earlier position and argued that the inventors were entitled to a patent covering all uses of their new mathematical procedure in computers, but not necessarily to its use by humans using pencil and paper. (The members of the Supreme Court at that time knew very little about computers.)<\/p>\n",
+    "question": "<p>Is a computer program patentable? More specifically, is a mathematical procedure such as long division patentable?<\/p>\n",
+    "conclusion": "<p>No and no. The Supreme Court held that a patent cannot cover all possible uses of a mathematical procedure or equation within a computer. That would be tantamount to granting the inventor a patent on the mathematical procedure itself, and this was no more acceptable than granting Samuel Morse a patent covering all possible uses of magnetism to communicate, rather than a narrower patent covering only the specific way in which Morse actually used magnetism to communicate in his telegraph. The court then said that \"[i]f these programs are to be patentable, considerable problems are raised which only committees of Congress can manage ....\" This decision was accepted as a final determination that computer programs were not patentable, and the Patent Office immediately ceased examining all computer program inventions. Very few patent applications directed to computer programs were filed until after the Supreme Court readdressed this issue in Diamond v. Diehr some nine years later. During these nine years, alternative ways of protecting computer programs were developed under the laws of copyright and trade secret which remain part of our law today.<\/p>\n",
     "advocates": [
         {
             "advocate": {
                 "ID": 26750,
                 "name": "Hugh B. Cox",
                 "href": "https:\/\/api.oyez.org\/people\/hugh_b_cox",
+                "view_count": 0,
                 "last_name": "Cox",
                 "roles": null,
                 "thumbnail": null,
@@ -47,6 +49,7 @@
                 "ID": 40553,
                 "name": "Richard B. Stone",
                 "href": "https:\/\/api.oyez.org\/people\/richard_b_stone",
+                "view_count": 0,
                 "last_name": "Stone",
                 "roles": null,
                 "thumbnail": null,
@@ -81,6 +84,7 @@
                         "ID": 15107,
                         "name": "William O. Douglas",
                         "href": "https:\/\/api.oyez.org\/people\/william_o_douglas",
+                        "view_count": 0,
                         "last_name": "Douglas",
                         "roles": [
                             {
@@ -98,7 +102,7 @@
                             "id": 32781,
                             "mime": "image\/png",
                             "size": 56651,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_o_douglas.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_o_douglas\/william_o_douglas.thumb.png"
                         },
                         "length_of_service": 13358,
                         "identifier": "william_o_douglas"
@@ -115,6 +119,7 @@
                         "ID": 15043,
                         "name": "Potter Stewart",
                         "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                        "view_count": 31,
                         "last_name": "Stewart",
                         "roles": [
                             {
@@ -132,7 +137,7 @@
                             "id": 32752,
                             "mime": "image\/png",
                             "size": 56350,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                         },
                         "length_of_service": 8298,
                         "identifier": "potter_stewart"
@@ -149,6 +154,7 @@
                         "ID": 15104,
                         "name": "Thurgood Marshall",
                         "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                        "view_count": 53,
                         "last_name": "Marshall",
                         "roles": [
                             {
@@ -166,7 +172,7 @@
                             "id": 32770,
                             "mime": "image\/png",
                             "size": 59272,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                         },
                         "length_of_service": 8765,
                         "identifier": "thurgood_marshall"
@@ -183,6 +189,7 @@
                         "ID": 15140,
                         "name": "William J. Brennan, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                        "view_count": 28,
                         "last_name": "Brennan",
                         "roles": [
                             {
@@ -200,7 +207,7 @@
                             "id": 32778,
                             "mime": "image\/png",
                             "size": 56873,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                         },
                         "length_of_service": 12330,
                         "identifier": "william_j_brennan_jr"
@@ -217,6 +224,7 @@
                         "ID": 15071,
                         "name": "Byron R. White",
                         "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                        "view_count": 0,
                         "last_name": "White",
                         "roles": [
                             {
@@ -234,7 +242,7 @@
                             "id": 32699,
                             "mime": "image\/png",
                             "size": 55559,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                         },
                         "length_of_service": 11396,
                         "identifier": "byron_r_white"
@@ -251,6 +259,7 @@
                         "ID": 15073,
                         "name": "Warren E. Burger",
                         "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                        "view_count": 0,
                         "last_name": "Burger",
                         "roles": [
                             {
@@ -268,7 +277,7 @@
                             "id": 32773,
                             "mime": "image\/png",
                             "size": 52511,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                         },
                         "length_of_service": 6304,
                         "identifier": "warren_e_burger"
@@ -285,6 +294,7 @@
                         "ID": 15045,
                         "name": "Harry A. Blackmun",
                         "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                        "view_count": 34,
                         "last_name": "Blackmun",
                         "roles": [
                             {
@@ -302,7 +312,7 @@
                             "id": 32712,
                             "mime": "image\/png",
                             "size": 50281,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                         },
                         "length_of_service": 8821,
                         "identifier": "harry_a_blackmun"
@@ -319,6 +329,7 @@
                         "ID": 15119,
                         "name": "Lewis F. Powell, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/lewis_f_powell_jr",
+                        "view_count": 0,
                         "last_name": "Powell",
                         "roles": [
                             {
@@ -336,7 +347,7 @@
                             "id": 32738,
                             "mime": "image\/png",
                             "size": 53543,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/lewis_f_powell_jr.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/lewis_f_powell_jr\/lewis_f_powell_jr.thumb.png"
                         },
                         "length_of_service": 5649,
                         "identifier": "lewis_f_powell_jr"
@@ -353,6 +364,7 @@
                         "ID": 15141,
                         "name": "William H. Rehnquist",
                         "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                        "view_count": 28,
                         "last_name": "Rehnquist",
                         "roles": [
                             {
@@ -380,7 +392,7 @@
                             "id": 32786,
                             "mime": "image\/png",
                             "size": 46923,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                         },
                         "length_of_service": 12293,
                         "identifier": "william_h_rehnquist"
@@ -407,11 +419,13 @@
             "ID": 15330,
             "name": "Burger Court (1972-1975)",
             "href": "https:\/\/api.oyez.org\/courts\/burger4",
+            "view_count": 0,
             "members": [
                 {
                     "ID": 15073,
                     "name": "Warren E. Burger",
                     "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                    "view_count": 0,
                     "last_name": "Burger",
                     "roles": [
                         {
@@ -429,7 +443,7 @@
                         "id": 32773,
                         "mime": "image\/png",
                         "size": 52511,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                     },
                     "length_of_service": 6304,
                     "identifier": "warren_e_burger"
@@ -438,6 +452,7 @@
                     "ID": 15107,
                     "name": "William O. Douglas",
                     "href": "https:\/\/api.oyez.org\/people\/william_o_douglas",
+                    "view_count": 0,
                     "last_name": "Douglas",
                     "roles": [
                         {
@@ -455,7 +470,7 @@
                         "id": 32781,
                         "mime": "image\/png",
                         "size": 56651,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_o_douglas.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_o_douglas\/william_o_douglas.thumb.png"
                     },
                     "length_of_service": 13358,
                     "identifier": "william_o_douglas"
@@ -464,6 +479,7 @@
                     "ID": 15140,
                     "name": "William J. Brennan, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                    "view_count": 28,
                     "last_name": "Brennan",
                     "roles": [
                         {
@@ -481,7 +497,7 @@
                         "id": 32778,
                         "mime": "image\/png",
                         "size": 56873,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                     },
                     "length_of_service": 12330,
                     "identifier": "william_j_brennan_jr"
@@ -490,6 +506,7 @@
                     "ID": 15043,
                     "name": "Potter Stewart",
                     "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                    "view_count": 31,
                     "last_name": "Stewart",
                     "roles": [
                         {
@@ -507,7 +524,7 @@
                         "id": 32752,
                         "mime": "image\/png",
                         "size": 56350,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                     },
                     "length_of_service": 8298,
                     "identifier": "potter_stewart"
@@ -516,6 +533,7 @@
                     "ID": 15071,
                     "name": "Byron R. White",
                     "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                    "view_count": 0,
                     "last_name": "White",
                     "roles": [
                         {
@@ -533,7 +551,7 @@
                         "id": 32699,
                         "mime": "image\/png",
                         "size": 55559,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                     },
                     "length_of_service": 11396,
                     "identifier": "byron_r_white"
@@ -542,6 +560,7 @@
                     "ID": 15104,
                     "name": "Thurgood Marshall",
                     "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                    "view_count": 53,
                     "last_name": "Marshall",
                     "roles": [
                         {
@@ -559,7 +578,7 @@
                         "id": 32770,
                         "mime": "image\/png",
                         "size": 59272,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                     },
                     "length_of_service": 8765,
                     "identifier": "thurgood_marshall"
@@ -568,6 +587,7 @@
                     "ID": 15045,
                     "name": "Harry A. Blackmun",
                     "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                    "view_count": 34,
                     "last_name": "Blackmun",
                     "roles": [
                         {
@@ -585,7 +605,7 @@
                         "id": 32712,
                         "mime": "image\/png",
                         "size": 50281,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                     },
                     "length_of_service": 8821,
                     "identifier": "harry_a_blackmun"
@@ -594,6 +614,7 @@
                     "ID": 15119,
                     "name": "Lewis F. Powell, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/lewis_f_powell_jr",
+                    "view_count": 0,
                     "last_name": "Powell",
                     "roles": [
                         {
@@ -611,7 +632,7 @@
                         "id": 32738,
                         "mime": "image\/png",
                         "size": 53543,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/lewis_f_powell_jr.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/lewis_f_powell_jr\/lewis_f_powell_jr.thumb.png"
                     },
                     "length_of_service": 5649,
                     "identifier": "lewis_f_powell_jr"
@@ -620,6 +641,7 @@
                     "ID": 15141,
                     "name": "William H. Rehnquist",
                     "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                    "view_count": 28,
                     "last_name": "Rehnquist",
                     "roles": [
                         {
@@ -647,7 +669,7 @@
                         "id": 32786,
                         "mime": "image\/png",
                         "size": 46923,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                     },
                     "length_of_service": 12293,
                     "identifier": "william_h_rehnquist"
@@ -659,7 +681,7 @@
                     "id": 12278,
                     "mime": "image\/jpeg",
                     "size": 43427,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/burger_court_1972-1975.jpg"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/burger4.jpg"
                 }
             ],
             "identifier": "burger4"
@@ -669,11 +691,13 @@
         "ID": 15330,
         "name": "Burger Court (1972-1975)",
         "href": "https:\/\/api.oyez.org\/courts\/burger4",
+        "view_count": 0,
         "members": [
             {
                 "ID": 15073,
                 "name": "Warren E. Burger",
                 "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                "view_count": 0,
                 "last_name": "Burger",
                 "roles": [
                     {
@@ -691,7 +715,7 @@
                     "id": 32773,
                     "mime": "image\/png",
                     "size": 52511,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                 },
                 "length_of_service": 6304,
                 "identifier": "warren_e_burger"
@@ -700,6 +724,7 @@
                 "ID": 15107,
                 "name": "William O. Douglas",
                 "href": "https:\/\/api.oyez.org\/people\/william_o_douglas",
+                "view_count": 0,
                 "last_name": "Douglas",
                 "roles": [
                     {
@@ -717,7 +742,7 @@
                     "id": 32781,
                     "mime": "image\/png",
                     "size": 56651,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_o_douglas.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_o_douglas\/william_o_douglas.thumb.png"
                 },
                 "length_of_service": 13358,
                 "identifier": "william_o_douglas"
@@ -726,6 +751,7 @@
                 "ID": 15140,
                 "name": "William J. Brennan, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                "view_count": 28,
                 "last_name": "Brennan",
                 "roles": [
                     {
@@ -743,7 +769,7 @@
                     "id": 32778,
                     "mime": "image\/png",
                     "size": 56873,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                 },
                 "length_of_service": 12330,
                 "identifier": "william_j_brennan_jr"
@@ -752,6 +778,7 @@
                 "ID": 15043,
                 "name": "Potter Stewart",
                 "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                "view_count": 31,
                 "last_name": "Stewart",
                 "roles": [
                     {
@@ -769,7 +796,7 @@
                     "id": 32752,
                     "mime": "image\/png",
                     "size": 56350,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                 },
                 "length_of_service": 8298,
                 "identifier": "potter_stewart"
@@ -778,6 +805,7 @@
                 "ID": 15071,
                 "name": "Byron R. White",
                 "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                "view_count": 0,
                 "last_name": "White",
                 "roles": [
                     {
@@ -795,7 +823,7 @@
                     "id": 32699,
                     "mime": "image\/png",
                     "size": 55559,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                 },
                 "length_of_service": 11396,
                 "identifier": "byron_r_white"
@@ -804,6 +832,7 @@
                 "ID": 15104,
                 "name": "Thurgood Marshall",
                 "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                "view_count": 53,
                 "last_name": "Marshall",
                 "roles": [
                     {
@@ -821,7 +850,7 @@
                     "id": 32770,
                     "mime": "image\/png",
                     "size": 59272,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                 },
                 "length_of_service": 8765,
                 "identifier": "thurgood_marshall"
@@ -830,6 +859,7 @@
                 "ID": 15045,
                 "name": "Harry A. Blackmun",
                 "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                "view_count": 34,
                 "last_name": "Blackmun",
                 "roles": [
                     {
@@ -847,7 +877,7 @@
                     "id": 32712,
                     "mime": "image\/png",
                     "size": 50281,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                 },
                 "length_of_service": 8821,
                 "identifier": "harry_a_blackmun"
@@ -856,6 +886,7 @@
                 "ID": 15119,
                 "name": "Lewis F. Powell, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/lewis_f_powell_jr",
+                "view_count": 0,
                 "last_name": "Powell",
                 "roles": [
                     {
@@ -873,7 +904,7 @@
                     "id": 32738,
                     "mime": "image\/png",
                     "size": 53543,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/lewis_f_powell_jr.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/lewis_f_powell_jr\/lewis_f_powell_jr.thumb.png"
                 },
                 "length_of_service": 5649,
                 "identifier": "lewis_f_powell_jr"
@@ -882,6 +913,7 @@
                 "ID": 15141,
                 "name": "William H. Rehnquist",
                 "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                "view_count": 28,
                 "last_name": "Rehnquist",
                 "roles": [
                     {
@@ -909,7 +941,7 @@
                     "id": 32786,
                     "mime": "image\/png",
                     "size": 46923,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                 },
                 "length_of_service": 12293,
                 "identifier": "william_h_rehnquist"
@@ -921,7 +953,7 @@
                 "id": 12278,
                 "mime": "image\/jpeg",
                 "size": 43427,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/burger_court_1972-1975.jpg"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/burger4.jpg"
             }
         ],
         "identifier": "burger4"

@@ -2,9 +2,10 @@
     "ID": 53940,
     "name": "Lee v. Weisman",
     "href": "https:\/\/api.oyez.org\/cases\/1991\/90-1014",
+    "view_count": 1409,
     "docket_number": "90-1014",
     "additional_docket_numbers": null,
-    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
     "first_party": "Lee",
     "second_party": "Weisman",
     "timeline": [
@@ -28,15 +29,16 @@
         "name": "United States Court of Appeals for the First Circuit",
         "href": "https:\/\/api.oyez.org\/taxonomy\/term\/6"
     },
-    "facts_of_the_case": "\u003Cp\u003EIn keeping with the practice of several other public middle and high school principals in Providence, Rhode Island, Robert E. Lee, a middle school principal, invited a rabbi to speak at his school\u0027s graduation ceremony. Daniel Weisman\u0027s daughter, Deborah, was among the graduates. Hoping to stop the rabbi from speaking at his daughter\u0027s graduation, Weisman sought a temporary restaining order in District Court - but was denied. After the ceremony, where prayers were recited, Weisman filed for a permanent injunction barring Lee and other Providence public school officials from inviting clergy to deliver invocations and benedictions at their schools\u0027 ceremonies. When the Court of Appeals affirmed a District Court ruling against the schools, Lee appealed to the Supreme Court and was granted certiorari.\u003C\/p\u003E\n",
-    "question": "\u003Cp\u003EDoes the inclusion of clergy who offer prayers at official public school ceremonies violate the Establishment Clause of the First Amendment?\u003C\/p\u003E\n",
-    "conclusion": "\u003Cp\u003EYes. In a 5-to-4 decision, the Court held that government involvement in this case creates \u0022a state-sponsored and state-directed religious exercise in a public school.\u0022 Such conduct conflicts with settled rules proscribing prayer for students. The school\u0027s rule creates subtle and indirect coercion (students must stand respectfully and silently), forcing students to act in ways which establish a state religion. The cornerstone principle of the Establishment Clause is that government may not compose official prayers to recite as part of a religious program carried on by government.\u003C\/p\u003E\n",
+    "facts_of_the_case": "<p>In keeping with the practice of several other public middle and high school principals in Providence, Rhode Island, Robert E. Lee, a middle school principal, invited a rabbi to speak at his school's graduation ceremony. Daniel Weisman's daughter, Deborah, was among the graduates. Hoping to stop the rabbi from speaking at his daughter's graduation, Weisman sought a temporary restaining order in District Court - but was denied. After the ceremony, where prayers were recited, Weisman filed for a permanent injunction barring Lee and other Providence public school officials from inviting clergy to deliver invocations and benedictions at their schools' ceremonies. When the Court of Appeals affirmed a District Court ruling against the schools, Lee appealed to the Supreme Court and was granted certiorari.<\/p>\n",
+    "question": "<p>Does the inclusion of clergy who offer prayers at official public school ceremonies violate the Establishment Clause of the First Amendment?<\/p>\n",
+    "conclusion": "<p>Yes. In a 5-to-4 decision, the Court held that government involvement in this case creates \"a state-sponsored and state-directed religious exercise in a public school.\" Such conduct conflicts with settled rules proscribing prayer for students. The school's rule creates subtle and indirect coercion (students must stand respectfully and silently), forcing students to act in ways which establish a state religion. The cornerstone principle of the Establishment Clause is that government may not compose official prayers to recite as part of a religious program carried on by government.<\/p>\n",
     "advocates": [
         {
             "advocate": {
                 "ID": 18687,
                 "name": "Charles J. Cooper",
                 "href": "https:\/\/api.oyez.org\/people\/charles_j_cooper",
+                "view_count": 0,
                 "last_name": "Cooper",
                 "roles": null,
                 "thumbnail": null,
@@ -51,6 +53,7 @@
                 "ID": 41055,
                 "name": "Sandra A. Blanding",
                 "href": "https:\/\/api.oyez.org\/people\/sandra_a_blanding",
+                "view_count": 0,
                 "last_name": "Blanding",
                 "roles": null,
                 "thumbnail": null,
@@ -65,6 +68,7 @@
                 "ID": 33983,
                 "name": "Kenneth W. Starr",
                 "href": "https:\/\/api.oyez.org\/people\/kenneth_w_starr",
+                "view_count": 0,
                 "last_name": "Starr",
                 "roles": null,
                 "thumbnail": null,
@@ -99,6 +103,7 @@
                         "ID": 15071,
                         "name": "Byron R. White",
                         "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                        "view_count": 0,
                         "last_name": "White",
                         "roles": [
                             {
@@ -116,7 +121,7 @@
                             "id": 32699,
                             "mime": "image\/png",
                             "size": 55559,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                         },
                         "length_of_service": 11396,
                         "identifier": "byron_r_white"
@@ -128,13 +133,14 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
                                     "id": 2693,
                                     "type": "scotus_justice",
                                     "date_start": 528094800,
-                                    "date_end": 0,
+                                    "date_end": 1455343200,
                                     "appointing_president": "Ronald Reagan",
                                     "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
@@ -145,9 +151,9 @@
                                 "id": 32678,
                                 "mime": "image\/png",
                                 "size": 58944,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                             },
-                            "length_of_service": 10699,
+                            "length_of_service": 10732,
                             "identifier": "antonin_scalia"
                         }
                     ],
@@ -160,6 +166,7 @@
                         "ID": 15045,
                         "name": "Harry A. Blackmun",
                         "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                        "view_count": 34,
                         "last_name": "Blackmun",
                         "roles": [
                             {
@@ -177,7 +184,7 @@
                             "id": 32712,
                             "mime": "image\/png",
                             "size": 50281,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                         },
                         "length_of_service": 8821,
                         "identifier": "harry_a_blackmun"
@@ -194,6 +201,7 @@
                         "ID": 15141,
                         "name": "William H. Rehnquist",
                         "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                        "view_count": 28,
                         "last_name": "Rehnquist",
                         "roles": [
                             {
@@ -221,7 +229,7 @@
                             "id": 32786,
                             "mime": "image\/png",
                             "size": 46923,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                         },
                         "length_of_service": 12293,
                         "identifier": "william_h_rehnquist"
@@ -233,13 +241,14 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
                                     "id": 2693,
                                     "type": "scotus_justice",
                                     "date_start": 528094800,
-                                    "date_end": 0,
+                                    "date_end": 1455343200,
                                     "appointing_president": "Ronald Reagan",
                                     "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
@@ -250,9 +259,9 @@
                                 "id": 32678,
                                 "mime": "image\/png",
                                 "size": 58944,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                             },
-                            "length_of_service": 10699,
+                            "length_of_service": 10732,
                             "identifier": "antonin_scalia"
                         }
                     ],
@@ -265,6 +274,7 @@
                         "ID": 15060,
                         "name": "John Paul Stevens",
                         "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                        "view_count": 0,
                         "last_name": "Stevens",
                         "roles": [
                             {
@@ -282,7 +292,7 @@
                             "id": 32732,
                             "mime": "image\/png",
                             "size": 62101,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                         },
                         "length_of_service": 12611,
                         "identifier": "john_paul_stevens"
@@ -294,6 +304,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -311,7 +322,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -320,6 +331,7 @@
                             "ID": 15042,
                             "name": "David H. Souter",
                             "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                            "view_count": 0,
                             "last_name": "Souter",
                             "roles": [
                                 {
@@ -337,7 +349,7 @@
                                 "id": 32703,
                                 "mime": "image\/png",
                                 "size": 42141,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_souter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
                             },
                             "length_of_service": 6839,
                             "identifier": "david_h_souter"
@@ -350,9 +362,10 @@
                 {
                     "member": {
                         "ID": 15092,
-                        "name": "Sandra Day O\u0027Connor",
+                        "name": "Sandra Day O'Connor",
                         "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                        "last_name": "O\u0027Connor",
+                        "view_count": 30,
+                        "last_name": "O'Connor",
                         "roles": [
                             {
                                 "id": 2736,
@@ -369,7 +382,7 @@
                             "id": 32763,
                             "mime": "image\/png",
                             "size": 49563,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                         },
                         "length_of_service": 8894,
                         "identifier": "sandra_day_oconnor"
@@ -381,6 +394,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -398,7 +412,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -407,6 +421,7 @@
                             "ID": 15042,
                             "name": "David H. Souter",
                             "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                            "view_count": 0,
                             "last_name": "Souter",
                             "roles": [
                                 {
@@ -424,7 +439,7 @@
                                 "id": 32703,
                                 "mime": "image\/png",
                                 "size": 42141,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_souter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
                             },
                             "length_of_service": 6839,
                             "identifier": "david_h_souter"
@@ -439,13 +454,14 @@
                         "ID": 15049,
                         "name": "Antonin Scalia",
                         "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                        "view_count": 54,
                         "last_name": "Scalia",
                         "roles": [
                             {
                                 "id": 2693,
                                 "type": "scotus_justice",
                                 "date_start": 528094800,
-                                "date_end": 0,
+                                "date_end": 1455343200,
                                 "appointing_president": "Ronald Reagan",
                                 "role_title": "Associate Justice of the Supreme Court of the United States",
                                 "institution_name": "Supreme Court of the United States",
@@ -456,9 +472,9 @@
                             "id": 32678,
                             "mime": "image\/png",
                             "size": 58944,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                         },
-                        "length_of_service": 10699,
+                        "length_of_service": 10732,
                         "identifier": "antonin_scalia"
                     },
                     "vote": "minority",
@@ -473,6 +489,7 @@
                         "ID": 15113,
                         "name": "Anthony M. Kennedy",
                         "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                        "view_count": 73,
                         "last_name": "Kennedy",
                         "roles": [
                             {
@@ -490,9 +507,9 @@
                             "id": 32679,
                             "mime": "image\/png",
                             "size": 47100,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                         },
-                        "length_of_service": 10147,
+                        "length_of_service": 10275,
                         "identifier": "anthony_m_kennedy"
                     },
                     "vote": "majority",
@@ -507,6 +524,7 @@
                         "ID": 15042,
                         "name": "David H. Souter",
                         "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                        "view_count": 0,
                         "last_name": "Souter",
                         "roles": [
                             {
@@ -524,7 +542,7 @@
                             "id": 32703,
                             "mime": "image\/png",
                             "size": 42141,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_souter.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
                         },
                         "length_of_service": 6839,
                         "identifier": "david_h_souter"
@@ -541,6 +559,7 @@
                         "ID": 15100,
                         "name": "Clarence Thomas",
                         "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                        "view_count": 91,
                         "last_name": "Thomas",
                         "roles": [
                             {
@@ -558,9 +577,9 @@
                             "id": 32680,
                             "mime": "image\/png",
                             "size": 49064,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                         },
-                        "length_of_service": 8870,
+                        "length_of_service": 8932,
                         "identifier": "clarence_thomas"
                     },
                     "vote": "minority",
@@ -570,13 +589,14 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
                                     "id": 2693,
                                     "type": "scotus_justice",
                                     "date_start": 528094800,
-                                    "date_end": 0,
+                                    "date_end": 1455343200,
                                     "appointing_president": "Ronald Reagan",
                                     "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
@@ -587,9 +607,9 @@
                                 "id": 32678,
                                 "mime": "image\/png",
                                 "size": 58944,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                             },
-                            "length_of_service": 10699,
+                            "length_of_service": 10732,
                             "identifier": "antonin_scalia"
                         }
                     ],
@@ -612,11 +632,13 @@
             "ID": 15244,
             "name": "Rehnquist Court (1991-1993)",
             "href": "https:\/\/api.oyez.org\/courts\/rehnquist7",
+            "view_count": 0,
             "members": [
                 {
                     "ID": 15141,
                     "name": "William H. Rehnquist",
                     "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                    "view_count": 28,
                     "last_name": "Rehnquist",
                     "roles": [
                         {
@@ -644,7 +666,7 @@
                         "id": 32786,
                         "mime": "image\/png",
                         "size": 46923,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                     },
                     "length_of_service": 12293,
                     "identifier": "william_h_rehnquist"
@@ -653,6 +675,7 @@
                     "ID": 15071,
                     "name": "Byron R. White",
                     "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                    "view_count": 0,
                     "last_name": "White",
                     "roles": [
                         {
@@ -670,7 +693,7 @@
                         "id": 32699,
                         "mime": "image\/png",
                         "size": 55559,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                     },
                     "length_of_service": 11396,
                     "identifier": "byron_r_white"
@@ -679,6 +702,7 @@
                     "ID": 15045,
                     "name": "Harry A. Blackmun",
                     "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                    "view_count": 34,
                     "last_name": "Blackmun",
                     "roles": [
                         {
@@ -696,7 +720,7 @@
                         "id": 32712,
                         "mime": "image\/png",
                         "size": 50281,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                     },
                     "length_of_service": 8821,
                     "identifier": "harry_a_blackmun"
@@ -705,6 +729,7 @@
                     "ID": 15060,
                     "name": "John Paul Stevens",
                     "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                    "view_count": 0,
                     "last_name": "Stevens",
                     "roles": [
                         {
@@ -722,16 +747,17 @@
                         "id": 32732,
                         "mime": "image\/png",
                         "size": 62101,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                     },
                     "length_of_service": 12611,
                     "identifier": "john_paul_stevens"
                 },
                 {
                     "ID": 15092,
-                    "name": "Sandra Day O\u0027Connor",
+                    "name": "Sandra Day O'Connor",
                     "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                    "last_name": "O\u0027Connor",
+                    "view_count": 30,
+                    "last_name": "O'Connor",
                     "roles": [
                         {
                             "id": 2736,
@@ -748,7 +774,7 @@
                         "id": 32763,
                         "mime": "image\/png",
                         "size": 49563,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                     },
                     "length_of_service": 8894,
                     "identifier": "sandra_day_oconnor"
@@ -757,13 +783,14 @@
                     "ID": 15049,
                     "name": "Antonin Scalia",
                     "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                    "view_count": 54,
                     "last_name": "Scalia",
                     "roles": [
                         {
                             "id": 2693,
                             "type": "scotus_justice",
                             "date_start": 528094800,
-                            "date_end": 0,
+                            "date_end": 1455343200,
                             "appointing_president": "Ronald Reagan",
                             "role_title": "Associate Justice of the Supreme Court of the United States",
                             "institution_name": "Supreme Court of the United States",
@@ -774,15 +801,16 @@
                         "id": 32678,
                         "mime": "image\/png",
                         "size": 58944,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                     },
-                    "length_of_service": 10699,
+                    "length_of_service": 10732,
                     "identifier": "antonin_scalia"
                 },
                 {
                     "ID": 15113,
                     "name": "Anthony M. Kennedy",
                     "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                    "view_count": 73,
                     "last_name": "Kennedy",
                     "roles": [
                         {
@@ -800,15 +828,16 @@
                         "id": 32679,
                         "mime": "image\/png",
                         "size": 47100,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                     },
-                    "length_of_service": 10147,
+                    "length_of_service": 10275,
                     "identifier": "anthony_m_kennedy"
                 },
                 {
                     "ID": 15042,
                     "name": "David H. Souter",
                     "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                    "view_count": 0,
                     "last_name": "Souter",
                     "roles": [
                         {
@@ -826,7 +855,7 @@
                         "id": 32703,
                         "mime": "image\/png",
                         "size": 42141,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_souter.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
                     },
                     "length_of_service": 6839,
                     "identifier": "david_h_souter"
@@ -835,6 +864,7 @@
                     "ID": 15100,
                     "name": "Clarence Thomas",
                     "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                    "view_count": 91,
                     "last_name": "Thomas",
                     "roles": [
                         {
@@ -852,9 +882,9 @@
                         "id": 32680,
                         "mime": "image\/png",
                         "size": 49064,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                     },
-                    "length_of_service": 8870,
+                    "length_of_service": 8932,
                     "identifier": "clarence_thomas"
                 }
             ],
@@ -864,7 +894,7 @@
                     "id": 12255,
                     "mime": "image\/jpeg",
                     "size": 31210,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/rehnquist_court_1991-1993.jpg"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/rehnquist7.jpg"
                 }
             ],
             "identifier": "rehnquist7"
@@ -874,11 +904,13 @@
         "ID": 15244,
         "name": "Rehnquist Court (1991-1993)",
         "href": "https:\/\/api.oyez.org\/courts\/rehnquist7",
+        "view_count": 0,
         "members": [
             {
                 "ID": 15141,
                 "name": "William H. Rehnquist",
                 "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                "view_count": 28,
                 "last_name": "Rehnquist",
                 "roles": [
                     {
@@ -906,7 +938,7 @@
                     "id": 32786,
                     "mime": "image\/png",
                     "size": 46923,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                 },
                 "length_of_service": 12293,
                 "identifier": "william_h_rehnquist"
@@ -915,6 +947,7 @@
                 "ID": 15071,
                 "name": "Byron R. White",
                 "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                "view_count": 0,
                 "last_name": "White",
                 "roles": [
                     {
@@ -932,7 +965,7 @@
                     "id": 32699,
                     "mime": "image\/png",
                     "size": 55559,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                 },
                 "length_of_service": 11396,
                 "identifier": "byron_r_white"
@@ -941,6 +974,7 @@
                 "ID": 15045,
                 "name": "Harry A. Blackmun",
                 "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                "view_count": 34,
                 "last_name": "Blackmun",
                 "roles": [
                     {
@@ -958,7 +992,7 @@
                     "id": 32712,
                     "mime": "image\/png",
                     "size": 50281,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                 },
                 "length_of_service": 8821,
                 "identifier": "harry_a_blackmun"
@@ -967,6 +1001,7 @@
                 "ID": 15060,
                 "name": "John Paul Stevens",
                 "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                "view_count": 0,
                 "last_name": "Stevens",
                 "roles": [
                     {
@@ -984,16 +1019,17 @@
                     "id": 32732,
                     "mime": "image\/png",
                     "size": 62101,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                 },
                 "length_of_service": 12611,
                 "identifier": "john_paul_stevens"
             },
             {
                 "ID": 15092,
-                "name": "Sandra Day O\u0027Connor",
+                "name": "Sandra Day O'Connor",
                 "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                "last_name": "O\u0027Connor",
+                "view_count": 30,
+                "last_name": "O'Connor",
                 "roles": [
                     {
                         "id": 2736,
@@ -1010,7 +1046,7 @@
                     "id": 32763,
                     "mime": "image\/png",
                     "size": 49563,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                 },
                 "length_of_service": 8894,
                 "identifier": "sandra_day_oconnor"
@@ -1019,13 +1055,14 @@
                 "ID": 15049,
                 "name": "Antonin Scalia",
                 "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                "view_count": 54,
                 "last_name": "Scalia",
                 "roles": [
                     {
                         "id": 2693,
                         "type": "scotus_justice",
                         "date_start": 528094800,
-                        "date_end": 0,
+                        "date_end": 1455343200,
                         "appointing_president": "Ronald Reagan",
                         "role_title": "Associate Justice of the Supreme Court of the United States",
                         "institution_name": "Supreme Court of the United States",
@@ -1036,15 +1073,16 @@
                     "id": 32678,
                     "mime": "image\/png",
                     "size": 58944,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                 },
-                "length_of_service": 10699,
+                "length_of_service": 10732,
                 "identifier": "antonin_scalia"
             },
             {
                 "ID": 15113,
                 "name": "Anthony M. Kennedy",
                 "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                "view_count": 73,
                 "last_name": "Kennedy",
                 "roles": [
                     {
@@ -1062,15 +1100,16 @@
                     "id": 32679,
                     "mime": "image\/png",
                     "size": 47100,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                 },
-                "length_of_service": 10147,
+                "length_of_service": 10275,
                 "identifier": "anthony_m_kennedy"
             },
             {
                 "ID": 15042,
                 "name": "David H. Souter",
                 "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                "view_count": 0,
                 "last_name": "Souter",
                 "roles": [
                     {
@@ -1088,7 +1127,7 @@
                     "id": 32703,
                     "mime": "image\/png",
                     "size": 42141,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_souter.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
                 },
                 "length_of_service": 6839,
                 "identifier": "david_h_souter"
@@ -1097,6 +1136,7 @@
                 "ID": 15100,
                 "name": "Clarence Thomas",
                 "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                "view_count": 91,
                 "last_name": "Thomas",
                 "roles": [
                     {
@@ -1114,9 +1154,9 @@
                     "id": 32680,
                     "mime": "image\/png",
                     "size": 49064,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                 },
-                "length_of_service": 8870,
+                "length_of_service": 8932,
                 "identifier": "clarence_thomas"
             }
         ],
@@ -1126,7 +1166,7 @@
                 "id": 12255,
                 "mime": "image\/jpeg",
                 "size": 31210,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/rehnquist_court_1991-1993.jpg"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/rehnquist7.jpg"
             }
         ],
         "identifier": "rehnquist7"

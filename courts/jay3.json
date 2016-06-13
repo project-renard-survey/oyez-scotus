@@ -2,11 +2,13 @@
     "ID": 15291,
     "name": "Jay Court (1791-1792)",
     "href": "https:\/\/api.oyez.org\/courts\/jay3",
+    "view_count": 0,
     "members": [
         {
             "ID": 15128,
             "name": "John Jay",
             "href": "https:\/\/api.oyez.org\/people\/john_jay",
+            "view_count": 0,
             "last_name": "Jay",
             "roles": [
                 {
@@ -24,7 +26,7 @@
                 "id": 32793,
                 "mime": "image\/png",
                 "size": 44551,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_jay.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_jay\/john_jay.thumb.png"
             },
             "length_of_service": 2079,
             "identifier": "john_jay"
@@ -33,6 +35,7 @@
             "ID": 15077,
             "name": "William Cushing",
             "href": "https:\/\/api.oyez.org\/people\/william_cushing",
+            "view_count": 0,
             "last_name": "Cushing",
             "roles": [
                 {
@@ -50,7 +53,7 @@
                 "id": 32776,
                 "mime": "image\/png",
                 "size": 52796,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_cushing.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_cushing\/william_cushing.thumb.png"
             },
             "length_of_service": 7527,
             "identifier": "william_cushing"
@@ -59,6 +62,7 @@
             "ID": 15132,
             "name": "James Wilson",
             "href": "https:\/\/api.oyez.org\/people\/james_wilson",
+            "view_count": 0,
             "last_name": "Wilson",
             "roles": [
                 {
@@ -76,7 +80,7 @@
                 "id": 32723,
                 "mime": "image\/png",
                 "size": 52013,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_wilson.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/james_wilson\/james_wilson.thumb.png"
             },
             "length_of_service": 3242,
             "identifier": "james_wilson"
@@ -85,6 +89,7 @@
             "ID": 15067,
             "name": "John Blair, Jr.",
             "href": "https:\/\/api.oyez.org\/people\/john_blair",
+            "view_count": 0,
             "last_name": "Blair",
             "roles": [
                 {
@@ -102,7 +107,7 @@
                 "id": 32725,
                 "mime": "image\/png",
                 "size": 49367,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_blair.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_blair\/john_blair.thumb.png"
             },
             "length_of_service": 2091,
             "identifier": "john_blair"
@@ -111,6 +116,7 @@
             "ID": 15130,
             "name": "James Iredell",
             "href": "https:\/\/api.oyez.org\/people\/james_iredell",
+            "view_count": 0,
             "last_name": "Iredell",
             "roles": [
                 {
@@ -128,7 +134,7 @@
                 "id": 32791,
                 "mime": "image\/png",
                 "size": 55311,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_iredell.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/james_iredell\/james_iredell.thumb.png"
             },
             "length_of_service": 3448,
             "identifier": "james_iredell"
@@ -141,7 +147,7 @@
             "id": 57146,
             "mime": "image\/jpeg",
             "size": 1992107,
-            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/1990-270-for-repro.jpg"
+            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/jay3.jpg"
         }
     ],
     "identifier": "jay3"

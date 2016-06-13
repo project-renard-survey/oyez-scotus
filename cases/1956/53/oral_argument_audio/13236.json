@@ -40,6 +40,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -57,7 +58,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"
@@ -75,7 +76,7 @@
                                 "stop": 24.832,
                                 "byte_start": 173223,
                                 "byte_stop": 202794,
-                                "text": "Mr. Greenberg, you don\u0027t have much time for lunch but we do need the time so I think we\u0027ll proceed."
+                                "text": "Mr. Greenberg, you don't have much time for lunch but we do need the time so I think we'll proceed."
                             }
                         ]
                     },
@@ -88,6 +89,7 @@
                             "ID": 30616,
                             "name": "Jack Greenberg",
                             "href": "https:\/\/api.oyez.org\/people\/jack_greenberg",
+                            "view_count": 0,
                             "last_name": "Greenberg",
                             "roles": null,
                             "thumbnail": null,
@@ -198,7 +200,7 @@
                                 "stop": 209.816,
                                 "byte_start": 870797,
                                 "byte_stop": 942791,
-                                "text": "A month later, it was reported that with the petitioner\u0027s arrest, the docket of unsolved burglaries and rapes had been solved and that petitioner later on was indicted on at least six counts of which this particular crime was won."
+                                "text": "A month later, it was reported that with the petitioner's arrest, the docket of unsolved burglaries and rapes had been solved and that petitioner later on was indicted on at least six counts of which this particular crime was won."
                             },
                             {
                                 "start": 209.816,
@@ -218,6 +220,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -235,7 +238,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"
@@ -246,7 +249,7 @@
                                 "stop": 215.295,
                                 "byte_start": 950732,
                                 "byte_stop": 964524,
-                                "text": "We\u0027ll recess now, Mr. Greenberg."
+                                "text": "We'll recess now, Mr. Greenberg."
                             }
                         ]
                     }

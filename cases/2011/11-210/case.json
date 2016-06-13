@@ -2,9 +2,10 @@
     "ID": 55829,
     "name": "United States v. Alvarez",
     "href": "https:\/\/api.oyez.org\/cases\/2011\/11-210",
+    "view_count": 516,
     "docket_number": "11-210",
     "additional_docket_numbers": null,
-    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
     "first_party": "United States",
     "second_party": "Xavier Alvarez",
     "timeline": [
@@ -35,15 +36,16 @@
         "name": "United States Court of Appeals for the Ninth Circuit",
         "href": "https:\/\/api.oyez.org\/taxonomy\/term\/5"
     },
-    "facts_of_the_case": "\u003Cp\u003EOn July 23, 2007, Xavier Alvarez, a member of the Three Valleys Water District Board of Directors, attended a joint meeting with the Walnut Valley Water District Board of Directors at the Board\u0027s headquarters. Mr. Alvarez was invited to speak about his background, and he stated, \u0022I\u0027m a retired marine of 25 years. I retired in the year 2001. Back in 1987, I was awarded the Congressional Medal of Honor.\u0022 In fact, Mr. Alvarez had not received the Congressional Medal of Honor, nor any other military medal or decoration. He had also had never served in the United States Armed Forces.\u003C\/p\u003E\n\u003Cp\u003EThe Stolen Valor Act of 2005 makes it a crime to falsely claim receipt of military decorations or medals. On September 26, 2007, Mr. Alvarez was charged in the Central District of California with two counts of falsely representing that he had been awarded the Congressional Medal of Honor in violation the Stolen Valor Act of 2005. Mr. Alvarez moved to dismiss on the grounds that the statute violated his first amendment right to free speech. The district court denied Alvarez\u0027s motion to dismiss. The respondent thereafter pleaded guilty, but reserved his right to appeal.\u003C\/p\u003E\n\u003Cp\u003EAlvarez appealed to the U.S. Court of Appeals for the Ninth Circuit, and the court reversed and remanded the lower court\u0027s decision. It reasoned that the Supreme Court had never held that the government may prohibit speech simply because it is knowingly false and that some knowingly false speech could have affirmative constitutional value. The court of appeals denied the government\u0027s request for rehearing. Thereafter, the government appealed the court of appeals\u0027 decision.\u003C\/p\u003E\n",
-    "question": "\u003Cp\u003EDoes 18 U.S.C. 704(b), the Stolen Valor Act, violate the Free Speech Clause of the First Amendment?\u003C\/p\u003E\n",
-    "conclusion": "\u003Cp\u003EYes. Justice Anthony M. Kennedy, writing for a 6-3 majority, affirmed the Court of Appeals. Content-based restrictions on speech are subject to strict scrutiny and are almost always invalid, except in rare and extreme circumstances. While categories of speech, such as defamation and true threats, present a grave and imminent threat, false statements alone do not present such a threat. Congress drafted the Stolen Valor Act too broadly, attempting to limit speech that could cause no harm. Criminal punishment for such speech is improper.\u003C\/p\u003E\n\u003Cp\u003EJustice Stephen G. Breyer concurred, concluding that false statements of fact should be subject to intermediate scrutiny. However, as drafted, the Stolen Valor Act violates intermediate scrutiny because it applies to situations that are unlikely to cause harm. Justice Elena Kagan joined in the concurrence.\u003C\/p\u003E\n\u003Cp\u003EJustice Samuel A. Alito dissented. Congress could not draft the Stolen Valor Act more narrowly, while still preventing the substantial harm caused by false statements concerning military decoration. Justice Antonin Scalia and Justice Clarence Thomas joined in the dissent.\u003C\/p\u003E\n",
+    "facts_of_the_case": "<p>On July 23, 2007, Xavier Alvarez, a member of the Three Valleys Water District Board of Directors, attended a joint meeting with the Walnut Valley Water District Board of Directors at the Board's headquarters. Mr. Alvarez was invited to speak about his background, and he stated, \"I'm a retired marine of 25 years. I retired in the year 2001. Back in 1987, I was awarded the Congressional Medal of Honor.\" In fact, Mr. Alvarez had not received the Congressional Medal of Honor, nor any other military medal or decoration. He had also had never served in the United States Armed Forces.<\/p>\n<p>The Stolen Valor Act of 2005 makes it a crime to falsely claim receipt of military decorations or medals. On September 26, 2007, Mr. Alvarez was charged in the Central District of California with two counts of falsely representing that he had been awarded the Congressional Medal of Honor in violation the Stolen Valor Act of 2005. Mr. Alvarez moved to dismiss on the grounds that the statute violated his first amendment right to free speech. The district court denied Alvarez's motion to dismiss. The respondent thereafter pleaded guilty, but reserved his right to appeal.<\/p>\n<p>Alvarez appealed to the U.S. Court of Appeals for the Ninth Circuit, and the court reversed and remanded the lower court's decision. It reasoned that the Supreme Court had never held that the government may prohibit speech simply because it is knowingly false and that some knowingly false speech could have affirmative constitutional value. The court of appeals denied the government's request for rehearing. Thereafter, the government appealed the court of appeals' decision.<\/p>\n",
+    "question": "<p>Does 18 U.S.C. 704(b), the Stolen Valor Act, violate the Free Speech Clause of the First Amendment?<\/p>\n",
+    "conclusion": "<p>Yes. Justice Anthony M. Kennedy, writing for a 6-3 majority, affirmed the Court of Appeals. Content-based restrictions on speech are subject to strict scrutiny and are almost always invalid, except in rare and extreme circumstances. While categories of speech, such as defamation and true threats, present a grave and imminent threat, false statements alone do not present such a threat. Congress drafted the Stolen Valor Act too broadly, attempting to limit speech that could cause no harm. Criminal punishment for such speech is improper.<\/p>\n<p>Justice Stephen G. Breyer concurred, concluding that false statements of fact should be subject to intermediate scrutiny. However, as drafted, the Stolen Valor Act violates intermediate scrutiny because it applies to situations that are unlikely to cause harm. Justice Elena Kagan joined in the concurrence.<\/p>\n<p>Justice Samuel A. Alito dissented. Congress could not draft the Stolen Valor Act more narrowly, while still preventing the substantial harm caused by false statements concerning military decoration. Justice Antonin Scalia and Justice Clarence Thomas joined in the dissent.<\/p>\n",
     "advocates": [
         {
             "advocate": {
                 "ID": 21656,
                 "name": "Donald B. Verrilli, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/donald_b_verrilli_jr",
+                "view_count": 0,
                 "last_name": "Verrilli,",
                 "roles": null,
                 "thumbnail": null,
@@ -58,6 +60,7 @@
                 "ID": 31595,
                 "name": "Jonathan D. Libby",
                 "href": "https:\/\/api.oyez.org\/people\/jonathan_d_libby",
+                "view_count": 0,
                 "last_name": "Libby",
                 "roles": null,
                 "thumbnail": null,
@@ -92,6 +95,7 @@
                         "ID": 15086,
                         "name": "John G. Roberts, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                        "view_count": 40,
                         "last_name": "Roberts",
                         "roles": [
                             {
@@ -109,9 +113,9 @@
                             "id": 32683,
                             "mime": "image\/png",
                             "size": 52305,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_g_roberts_jr\/john_g_roberts_jr.thumb.png"
                         },
-                        "length_of_service": 3702,
+                        "length_of_service": 3842,
                         "identifier": "john_g_roberts_jr"
                     },
                     "vote": "majority",
@@ -126,13 +130,14 @@
                         "ID": 15049,
                         "name": "Antonin Scalia",
                         "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                        "view_count": 54,
                         "last_name": "Scalia",
                         "roles": [
                             {
                                 "id": 2693,
                                 "type": "scotus_justice",
                                 "date_start": 528094800,
-                                "date_end": 0,
+                                "date_end": 1455343200,
                                 "appointing_president": "Ronald Reagan",
                                 "role_title": "Associate Justice of the Supreme Court of the United States",
                                 "institution_name": "Supreme Court of the United States",
@@ -143,9 +148,9 @@
                             "id": 32678,
                             "mime": "image\/png",
                             "size": 58944,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                         },
-                        "length_of_service": 10699,
+                        "length_of_service": 10732,
                         "identifier": "antonin_scalia"
                     },
                     "vote": "minority",
@@ -154,7 +159,8 @@
                         {
                             "ID": 15068,
                             "name": "Samuel A. Alito, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                            "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                            "view_count": 74,
                             "last_name": "Alito",
                             "roles": [
                                 {
@@ -172,10 +178,10 @@
                                 "id": 32684,
                                 "mime": "image\/png",
                                 "size": 44799,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
                             },
-                            "length_of_service": 3531,
-                            "identifier": "samuel_alito_jr"
+                            "length_of_service": 3718,
+                            "identifier": "samuel_a_alito_jr"
                         }
                     ],
                     "seniority": 2,
@@ -187,6 +193,7 @@
                         "ID": 15113,
                         "name": "Anthony M. Kennedy",
                         "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                        "view_count": 73,
                         "last_name": "Kennedy",
                         "roles": [
                             {
@@ -204,9 +211,9 @@
                             "id": 32679,
                             "mime": "image\/png",
                             "size": 47100,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                         },
-                        "length_of_service": 10147,
+                        "length_of_service": 10275,
                         "identifier": "anthony_m_kennedy"
                     },
                     "vote": "majority",
@@ -221,6 +228,7 @@
                         "ID": 15100,
                         "name": "Clarence Thomas",
                         "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                        "view_count": 91,
                         "last_name": "Thomas",
                         "roles": [
                             {
@@ -238,9 +246,9 @@
                             "id": 32680,
                             "mime": "image\/png",
                             "size": 49064,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                         },
-                        "length_of_service": 8870,
+                        "length_of_service": 8932,
                         "identifier": "clarence_thomas"
                     },
                     "vote": "minority",
@@ -249,7 +257,8 @@
                         {
                             "ID": 15068,
                             "name": "Samuel A. Alito, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                            "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                            "view_count": 74,
                             "last_name": "Alito",
                             "roles": [
                                 {
@@ -267,10 +276,10 @@
                                 "id": 32684,
                                 "mime": "image\/png",
                                 "size": 44799,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
                             },
-                            "length_of_service": 3531,
-                            "identifier": "samuel_alito_jr"
+                            "length_of_service": 3718,
+                            "identifier": "samuel_a_alito_jr"
                         }
                     ],
                     "seniority": 4,
@@ -282,6 +291,7 @@
                         "ID": 15084,
                         "name": "Ruth Bader Ginsburg",
                         "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                        "view_count": 55,
                         "last_name": "Ginsburg",
                         "roles": [
                             {
@@ -299,9 +309,9 @@
                             "id": 32681,
                             "mime": "image\/png",
                             "size": 45030,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
                         },
-                        "length_of_service": 8135,
+                        "length_of_service": 8275,
                         "identifier": "ruth_bader_ginsburg"
                     },
                     "vote": "majority",
@@ -316,6 +326,7 @@
                         "ID": 15139,
                         "name": "Stephen G. Breyer",
                         "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                        "view_count": 58,
                         "last_name": "Breyer",
                         "roles": [
                             {
@@ -333,9 +344,9 @@
                             "id": 32682,
                             "mime": "image\/png",
                             "size": 49908,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
                         },
-                        "length_of_service": 7777,
+                        "length_of_service": 7917,
                         "identifier": "stephen_g_breyer"
                     },
                     "vote": "majority",
@@ -349,7 +360,8 @@
                     "member": {
                         "ID": 15068,
                         "name": "Samuel A. Alito, Jr.",
-                        "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                        "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                        "view_count": 74,
                         "last_name": "Alito",
                         "roles": [
                             {
@@ -367,10 +379,10 @@
                             "id": 32684,
                             "mime": "image\/png",
                             "size": 44799,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
                         },
-                        "length_of_service": 3531,
-                        "identifier": "samuel_alito_jr"
+                        "length_of_service": 3718,
+                        "identifier": "samuel_a_alito_jr"
                     },
                     "vote": "minority",
                     "opinion_type": "dissent",
@@ -384,6 +396,7 @@
                         "ID": 15131,
                         "name": "Sonia Sotomayor",
                         "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
+                        "view_count": 63,
                         "last_name": "Sotomayor",
                         "roles": [
                             {
@@ -401,9 +414,9 @@
                             "id": 32685,
                             "mime": "image\/png",
                             "size": 50379,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sonia_sotomayor_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sonia_sotomayor\/sonia_sotomayor.thumb.png"
                         },
-                        "length_of_service": 2293,
+                        "length_of_service": 2433,
                         "identifier": "sonia_sotomayor"
                     },
                     "vote": "majority",
@@ -418,6 +431,7 @@
                         "ID": 15094,
                         "name": "Elena Kagan",
                         "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
+                        "view_count": 80,
                         "last_name": "Kagan",
                         "roles": [
                             {
@@ -435,9 +449,9 @@
                             "id": 32690,
                             "mime": "image\/png",
                             "size": 44456,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/elena-kagan-photo_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                         },
-                        "length_of_service": 1931,
+                        "length_of_service": 2069,
                         "identifier": "elena_kagan"
                     },
                     "vote": "majority",
@@ -447,6 +461,7 @@
                             "ID": 15139,
                             "name": "Stephen G. Breyer",
                             "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                            "view_count": 58,
                             "last_name": "Breyer",
                             "roles": [
                                 {
@@ -464,9 +479,9 @@
                                 "id": 32682,
                                 "mime": "image\/png",
                                 "size": 49908,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
                             },
-                            "length_of_service": 7777,
+                            "length_of_service": 7917,
                             "identifier": "stephen_g_breyer"
                         }
                     ],
@@ -487,13 +502,15 @@
     "heard_by": [
         {
             "ID": 15151,
-            "name": "Roberts Court (2010-     )",
+            "name": "Roberts Court (2010-2016)",
             "href": "https:\/\/api.oyez.org\/courts\/roberts6",
+            "view_count": 0,
             "members": [
                 {
                     "ID": 15086,
                     "name": "John G. Roberts, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                    "view_count": 40,
                     "last_name": "Roberts",
                     "roles": [
                         {
@@ -511,22 +528,23 @@
                         "id": 32683,
                         "mime": "image\/png",
                         "size": 52305,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_g_roberts_jr\/john_g_roberts_jr.thumb.png"
                     },
-                    "length_of_service": 3702,
+                    "length_of_service": 3842,
                     "identifier": "john_g_roberts_jr"
                 },
                 {
                     "ID": 15049,
                     "name": "Antonin Scalia",
                     "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                    "view_count": 54,
                     "last_name": "Scalia",
                     "roles": [
                         {
                             "id": 2693,
                             "type": "scotus_justice",
                             "date_start": 528094800,
-                            "date_end": 0,
+                            "date_end": 1455343200,
                             "appointing_president": "Ronald Reagan",
                             "role_title": "Associate Justice of the Supreme Court of the United States",
                             "institution_name": "Supreme Court of the United States",
@@ -537,15 +555,16 @@
                         "id": 32678,
                         "mime": "image\/png",
                         "size": 58944,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                     },
-                    "length_of_service": 10699,
+                    "length_of_service": 10732,
                     "identifier": "antonin_scalia"
                 },
                 {
                     "ID": 15113,
                     "name": "Anthony M. Kennedy",
                     "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                    "view_count": 73,
                     "last_name": "Kennedy",
                     "roles": [
                         {
@@ -563,15 +582,16 @@
                         "id": 32679,
                         "mime": "image\/png",
                         "size": 47100,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                     },
-                    "length_of_service": 10147,
+                    "length_of_service": 10275,
                     "identifier": "anthony_m_kennedy"
                 },
                 {
                     "ID": 15100,
                     "name": "Clarence Thomas",
                     "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                    "view_count": 91,
                     "last_name": "Thomas",
                     "roles": [
                         {
@@ -589,15 +609,16 @@
                         "id": 32680,
                         "mime": "image\/png",
                         "size": 49064,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                     },
-                    "length_of_service": 8870,
+                    "length_of_service": 8932,
                     "identifier": "clarence_thomas"
                 },
                 {
                     "ID": 15084,
                     "name": "Ruth Bader Ginsburg",
                     "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                    "view_count": 55,
                     "last_name": "Ginsburg",
                     "roles": [
                         {
@@ -615,15 +636,16 @@
                         "id": 32681,
                         "mime": "image\/png",
                         "size": 45030,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
                     },
-                    "length_of_service": 8135,
+                    "length_of_service": 8275,
                     "identifier": "ruth_bader_ginsburg"
                 },
                 {
                     "ID": 15139,
                     "name": "Stephen G. Breyer",
                     "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                    "view_count": 58,
                     "last_name": "Breyer",
                     "roles": [
                         {
@@ -641,15 +663,16 @@
                         "id": 32682,
                         "mime": "image\/png",
                         "size": 49908,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
                     },
-                    "length_of_service": 7777,
+                    "length_of_service": 7917,
                     "identifier": "stephen_g_breyer"
                 },
                 {
                     "ID": 15068,
                     "name": "Samuel A. Alito, Jr.",
-                    "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                    "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                    "view_count": 74,
                     "last_name": "Alito",
                     "roles": [
                         {
@@ -667,15 +690,16 @@
                         "id": 32684,
                         "mime": "image\/png",
                         "size": 44799,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
                     },
-                    "length_of_service": 3531,
-                    "identifier": "samuel_alito_jr"
+                    "length_of_service": 3718,
+                    "identifier": "samuel_a_alito_jr"
                 },
                 {
                     "ID": 15131,
                     "name": "Sonia Sotomayor",
                     "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
+                    "view_count": 63,
                     "last_name": "Sotomayor",
                     "roles": [
                         {
@@ -693,15 +717,16 @@
                         "id": 32685,
                         "mime": "image\/png",
                         "size": 50379,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sonia_sotomayor_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sonia_sotomayor\/sonia_sotomayor.thumb.png"
                     },
-                    "length_of_service": 2293,
+                    "length_of_service": 2433,
                     "identifier": "sonia_sotomayor"
                 },
                 {
                     "ID": 15094,
                     "name": "Elena Kagan",
                     "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
+                    "view_count": 80,
                     "last_name": "Kagan",
                     "roles": [
                         {
@@ -719,9 +744,9 @@
                         "id": 32690,
                         "mime": "image\/png",
                         "size": 44456,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/elena-kagan-photo_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                     },
-                    "length_of_service": 1931,
+                    "length_of_service": 2069,
                     "identifier": "elena_kagan"
                 }
             ],
@@ -731,7 +756,7 @@
                     "id": 12235,
                     "mime": "image\/jpeg",
                     "size": 359998,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/roberts_court_2010-.jpg"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/roberts6.jpg"
                 }
             ],
             "identifier": "roberts6"
@@ -739,13 +764,15 @@
     ],
     "decided_by": {
         "ID": 15151,
-        "name": "Roberts Court (2010-     )",
+        "name": "Roberts Court (2010-2016)",
         "href": "https:\/\/api.oyez.org\/courts\/roberts6",
+        "view_count": 0,
         "members": [
             {
                 "ID": 15086,
                 "name": "John G. Roberts, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                "view_count": 40,
                 "last_name": "Roberts",
                 "roles": [
                     {
@@ -763,22 +790,23 @@
                     "id": 32683,
                     "mime": "image\/png",
                     "size": 52305,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_g_roberts_jr\/john_g_roberts_jr.thumb.png"
                 },
-                "length_of_service": 3702,
+                "length_of_service": 3842,
                 "identifier": "john_g_roberts_jr"
             },
             {
                 "ID": 15049,
                 "name": "Antonin Scalia",
                 "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                "view_count": 54,
                 "last_name": "Scalia",
                 "roles": [
                     {
                         "id": 2693,
                         "type": "scotus_justice",
                         "date_start": 528094800,
-                        "date_end": 0,
+                        "date_end": 1455343200,
                         "appointing_president": "Ronald Reagan",
                         "role_title": "Associate Justice of the Supreme Court of the United States",
                         "institution_name": "Supreme Court of the United States",
@@ -789,15 +817,16 @@
                     "id": 32678,
                     "mime": "image\/png",
                     "size": 58944,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                 },
-                "length_of_service": 10699,
+                "length_of_service": 10732,
                 "identifier": "antonin_scalia"
             },
             {
                 "ID": 15113,
                 "name": "Anthony M. Kennedy",
                 "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                "view_count": 73,
                 "last_name": "Kennedy",
                 "roles": [
                     {
@@ -815,15 +844,16 @@
                     "id": 32679,
                     "mime": "image\/png",
                     "size": 47100,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                 },
-                "length_of_service": 10147,
+                "length_of_service": 10275,
                 "identifier": "anthony_m_kennedy"
             },
             {
                 "ID": 15100,
                 "name": "Clarence Thomas",
                 "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                "view_count": 91,
                 "last_name": "Thomas",
                 "roles": [
                     {
@@ -841,15 +871,16 @@
                     "id": 32680,
                     "mime": "image\/png",
                     "size": 49064,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                 },
-                "length_of_service": 8870,
+                "length_of_service": 8932,
                 "identifier": "clarence_thomas"
             },
             {
                 "ID": 15084,
                 "name": "Ruth Bader Ginsburg",
                 "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                "view_count": 55,
                 "last_name": "Ginsburg",
                 "roles": [
                     {
@@ -867,15 +898,16 @@
                     "id": 32681,
                     "mime": "image\/png",
                     "size": 45030,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
                 },
-                "length_of_service": 8135,
+                "length_of_service": 8275,
                 "identifier": "ruth_bader_ginsburg"
             },
             {
                 "ID": 15139,
                 "name": "Stephen G. Breyer",
                 "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                "view_count": 58,
                 "last_name": "Breyer",
                 "roles": [
                     {
@@ -893,15 +925,16 @@
                     "id": 32682,
                     "mime": "image\/png",
                     "size": 49908,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
                 },
-                "length_of_service": 7777,
+                "length_of_service": 7917,
                 "identifier": "stephen_g_breyer"
             },
             {
                 "ID": 15068,
                 "name": "Samuel A. Alito, Jr.",
-                "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                "view_count": 74,
                 "last_name": "Alito",
                 "roles": [
                     {
@@ -919,15 +952,16 @@
                     "id": 32684,
                     "mime": "image\/png",
                     "size": 44799,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
                 },
-                "length_of_service": 3531,
-                "identifier": "samuel_alito_jr"
+                "length_of_service": 3718,
+                "identifier": "samuel_a_alito_jr"
             },
             {
                 "ID": 15131,
                 "name": "Sonia Sotomayor",
                 "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
+                "view_count": 63,
                 "last_name": "Sotomayor",
                 "roles": [
                     {
@@ -945,15 +979,16 @@
                     "id": 32685,
                     "mime": "image\/png",
                     "size": 50379,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sonia_sotomayor_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sonia_sotomayor\/sonia_sotomayor.thumb.png"
                 },
-                "length_of_service": 2293,
+                "length_of_service": 2433,
                 "identifier": "sonia_sotomayor"
             },
             {
                 "ID": 15094,
                 "name": "Elena Kagan",
                 "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
+                "view_count": 80,
                 "last_name": "Kagan",
                 "roles": [
                     {
@@ -971,9 +1006,9 @@
                     "id": 32690,
                     "mime": "image\/png",
                     "size": 44456,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/elena-kagan-photo_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                 },
-                "length_of_service": 1931,
+                "length_of_service": 2069,
                 "identifier": "elena_kagan"
             }
         ],
@@ -983,13 +1018,22 @@
                 "id": 12235,
                 "mime": "image\/jpeg",
                 "size": 359998,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/roberts_court_2010-.jpg"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/roberts6.jpg"
             }
         ],
         "identifier": "roberts6"
     },
     "term": "2011",
-    "location": null,
+    "location": {
+        "latitude": 34.016918,
+        "longitude": -117.841566,
+        "name": "Walnut Valley Water District Board of Directors",
+        "street": "271 Brea Canyon Road",
+        "city": "Walnut",
+        "province": "CA",
+        "postal_code": null,
+        "province_name": "California"
+    },
     "opinion_announcement": [
         {
             "id": 22409,

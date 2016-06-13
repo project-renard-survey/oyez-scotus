@@ -1,10 +1,11 @@
 {
     "ID": 62641,
     "name": "Berger v. New York",
-    "href": "https:\/\/api.oyez.org\/cases\/1900-1940\/460",
+    "href": "https:\/\/api.oyez.org\/cases\/1900-1940\/255us22",
+    "view_count": 0,
     "docket_number": "460",
     "additional_docket_numbers": null,
-    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
     "first_party": "Victor L. Berger, et al.",
     "second_party": "United States",
     "timeline": [
@@ -28,15 +29,16 @@
         "name": "United States Court of Appeals for the Seventh Circuit",
         "href": "https:\/\/api.oyez.org\/taxonomy\/term\/12"
     },
-    "facts_of_the_case": "\u003Cp\u003EVictor L. Berger, Adolph Germer, William F. Kruse, J. Louis Engdahl, and Irwin St. John Tucker were all indicted and charged with violating the Espionage Act of 1917. Their case was assigned to Judge Kenesaw Mountain Landis, and the defendants moved to have another judge preside over the trial under Section 21 of the Judicial Code, which states that, whenever a party to an action files an affidavit that the judge before whom the action is proceeding has a personal bias or prejudice, another judge will be designated to hear the case. In this case, the defendants provided an affidavit alleging that Judge Landis was biased against people of German descent, and several of the defendants were German. The motion was denied, Judge Landis heard the case, and the defendants were convicted. The defendants appealed to the U.S. Court of Appeals for the Seventh Circuit, which certified questions of law about Section 21 to the Supreme Court.\u003C\/p\u003E\n",
-    "question": "\u003Cp\u003EDoes the filing of an affidavit of personal bias or personal prejudice require the judge in question to remove himself from the case?\u003C\/p\u003E\n",
-    "conclusion": "\u003Cp\u003EIf the affidavit is sufficient to establish that the judge in question has a personal bias or prejudice regarding the case, then Section 21 requires that the judge remove himself from the case. Justice Joseph McKenna delivered the opinion of the 6-3 majority. The Court held that the language of Section 21 is clear and unambiguous in stating that the \u201cjudge shall proceed no further therein, but another judge shall be designated.\u201d However, the absolutism of that statement is moderated by requirement that the affidavit detailing the relevant personal bias or prejudice allege sufficient facts to support the claim of bias and show that it is more than merely a belief. When a sufficient affidavit is filed under Section 21, it triggers a duty for the judge in question to remove himself from the case, as Judge Landis should have done in this case.\u003C\/p\u003E\n\u003Cp\u003EJustice William R. Day wrote a dissent in which he argued that Section 21 was not intended to require a judge to remove himself from the case based on the filing of an affidavit sufficient to establish a claim of personal bias. Instead, the duty is only imposed when the affidavit is sufficient to stand up to a challenge. In this case, the affidavit in question was not sufficient to trigger the duty for Judge Landis to remove himself from the case. Justice Mahlon Pitney joined in the dissent. In his separate dissent, Justice James C. McReynolds wrote that Section 21 required an affidavit that alleged personal bias against the particular party to the case in question; an affidavit that alleged personal bias against a group to which the party belonged was not sufficient. The affidavit in this case did not allege sufficient facts to trigger the judge\u0027s duty to remove himself under Section 21, and therefore Judge Landis properly heard the case.\u003C\/p\u003E\n",
+    "facts_of_the_case": "<p>Victor L. Berger, Adolph Germer, William F. Kruse, J. Louis Engdahl, and Irwin St. John Tucker were all indicted and charged with violating the Espionage Act of 1917. Their case was assigned to Judge Kenesaw Mountain Landis, and the defendants moved to have another judge preside over the trial under Section 21 of the Judicial Code, which states that, whenever a party to an action files an affidavit that the judge before whom the action is proceeding has a personal bias or prejudice, another judge will be designated to hear the case. In this case, the defendants provided an affidavit alleging that Judge Landis was biased against people of German descent, and several of the defendants were German. The motion was denied, Judge Landis heard the case, and the defendants were convicted. The defendants appealed to the U.S. Court of Appeals for the Seventh Circuit, which certified questions of law about Section 21 to the Supreme Court.<\/p>\n",
+    "question": "<p>Does the filing of an affidavit of personal bias or personal prejudice require the judge in question to remove himself from the case?<\/p>\n",
+    "conclusion": "<p>If the affidavit is sufficient to establish that the judge in question has a personal bias or prejudice regarding the case, then Section 21 requires that the judge remove himself from the case. Justice Joseph McKenna delivered the opinion of the 6-3 majority. The Court held that the language of Section 21 is clear and unambiguous in stating that the \u201cjudge shall proceed no further therein, but another judge shall be designated.\u201d However, the absolutism of that statement is moderated by requirement that the affidavit detailing the relevant personal bias or prejudice allege sufficient facts to support the claim of bias and show that it is more than merely a belief. When a sufficient affidavit is filed under Section 21, it triggers a duty for the judge in question to remove himself from the case, as Judge Landis should have done in this case.<\/p>\n<p>Justice William R. Day wrote a dissent in which he argued that Section 21 was not intended to require a judge to remove himself from the case based on the filing of an affidavit sufficient to establish a claim of personal bias. Instead, the duty is only imposed when the affidavit is sufficient to stand up to a challenge. In this case, the affidavit in question was not sufficient to trigger the duty for Judge Landis to remove himself from the case. Justice Mahlon Pitney joined in the dissent. In his separate dissent, Justice James C. McReynolds wrote that Section 21 required an affidavit that alleged personal bias against the particular party to the case in question; an affidavit that alleged personal bias against a group to which the party belonged was not sufficient. The affidavit in this case did not allege sufficient facts to trigger the judge's duty to remove himself under Section 21, and therefore Judge Landis properly heard the case.<\/p>\n",
     "advocates": [
         {
             "advocate": {
                 "ID": 42028,
                 "name": "Seymour Stedman",
                 "href": "https:\/\/api.oyez.org\/people\/seymour_stedman",
+                "view_count": 0,
                 "last_name": "Stedman",
                 "roles": null,
                 "thumbnail": null,
@@ -51,6 +53,7 @@
                 "ID": 26776,
                 "name": "Henry F. Cochems",
                 "href": "https:\/\/api.oyez.org\/people\/henry_f_cochems",
+                "view_count": 0,
                 "last_name": "Cochems",
                 "roles": null,
                 "thumbnail": null,
@@ -65,6 +68,7 @@
                 "ID": 44685,
                 "name": "William L. Frierson",
                 "href": "https:\/\/api.oyez.org\/people\/william_l_frierson",
+                "view_count": 0,
                 "last_name": "Frierson",
                 "roles": null,
                 "thumbnail": null,
@@ -91,6 +95,7 @@
                         "ID": 15098,
                         "name": "Joseph McKenna",
                         "href": "https:\/\/api.oyez.org\/people\/joseph_mckenna",
+                        "view_count": 0,
                         "last_name": "McKenna",
                         "roles": [
                             {
@@ -108,7 +113,7 @@
                             "id": 32692,
                             "mime": "image\/png",
                             "size": 56275,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/joseph_mckenna.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/joseph_mckenna\/joseph_mckenna.thumb.png"
                         },
                         "length_of_service": 9840,
                         "identifier": "joseph_mckenna"
@@ -125,6 +130,7 @@
                         "ID": 15055,
                         "name": "William R. Day",
                         "href": "https:\/\/api.oyez.org\/people\/william_r_day",
+                        "view_count": 0,
                         "last_name": "Day",
                         "roles": [
                             {
@@ -142,7 +148,7 @@
                             "id": 32783,
                             "mime": "image\/png",
                             "size": 45485,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_r_day.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_r_day\/william_r_day.thumb.png"
                         },
                         "length_of_service": 7196,
                         "identifier": "william_r_day"
@@ -159,6 +165,7 @@
                         "ID": 15148,
                         "name": "Mahlon Pitney",
                         "href": "https:\/\/api.oyez.org\/people\/mahlon_pitney",
+                        "view_count": 0,
                         "last_name": "Pitney",
                         "roles": [
                             {
@@ -176,7 +183,7 @@
                             "id": 32741,
                             "mime": "image\/png",
                             "size": 49375,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/mahlon_pitney.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/mahlon_pitney\/mahlon_pitney.thumb.png"
                         },
                         "length_of_service": 3940,
                         "identifier": "mahlon_pitney"
@@ -188,6 +195,7 @@
                             "ID": 15055,
                             "name": "William R. Day",
                             "href": "https:\/\/api.oyez.org\/people\/william_r_day",
+                            "view_count": 0,
                             "last_name": "Day",
                             "roles": [
                                 {
@@ -205,7 +213,7 @@
                                 "id": 32783,
                                 "mime": "image\/png",
                                 "size": 45485,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_r_day.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_r_day\/william_r_day.thumb.png"
                             },
                             "length_of_service": 7196,
                             "identifier": "william_r_day"
@@ -220,6 +228,7 @@
                         "ID": 15066,
                         "name": "James C. McReynolds",
                         "href": "https:\/\/api.oyez.org\/people\/james_c_mcreynolds",
+                        "view_count": 0,
                         "last_name": "McReynolds",
                         "roles": [
                             {
@@ -237,7 +246,7 @@
                             "id": 32720,
                             "mime": "image\/png",
                             "size": 55380,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_c_mcreynolds.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/james_c_mcreynolds\/james_c_mcreynolds.thumb.png"
                         },
                         "length_of_service": 9608,
                         "identifier": "james_c_mcreynolds"
@@ -254,6 +263,7 @@
                         "ID": 15144,
                         "name": "Edward D. White",
                         "href": "https:\/\/api.oyez.org\/people\/edward_d_white",
+                        "view_count": 0,
                         "last_name": "White",
                         "roles": [
                             {
@@ -281,7 +291,7 @@
                             "id": 32789,
                             "mime": "image\/png",
                             "size": 53055,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/edward_d_white.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/edward_d_white\/edward_d_white.thumb.png"
                         },
                         "length_of_service": 9928,
                         "identifier": "edward_d_white"
@@ -293,6 +303,7 @@
                             "ID": 15098,
                             "name": "Joseph McKenna",
                             "href": "https:\/\/api.oyez.org\/people\/joseph_mckenna",
+                            "view_count": 0,
                             "last_name": "McKenna",
                             "roles": [
                                 {
@@ -310,7 +321,7 @@
                                 "id": 32692,
                                 "mime": "image\/png",
                                 "size": 56275,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/joseph_mckenna.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/joseph_mckenna\/joseph_mckenna.thumb.png"
                             },
                             "length_of_service": 9840,
                             "identifier": "joseph_mckenna"
@@ -325,6 +336,7 @@
                         "ID": 15048,
                         "name": "Oliver W. Holmes, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/oliver_w_holmes_jr",
+                        "view_count": 0,
                         "last_name": "Holmes",
                         "roles": [
                             {
@@ -342,7 +354,7 @@
                             "id": 32747,
                             "mime": "image\/png",
                             "size": 53023,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/oliver_wendell_holmes.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/oliver_w_holmes_jr\/oliver_w_holmes_jr.thumb.png"
                         },
                         "length_of_service": 10627,
                         "identifier": "oliver_w_holmes_jr"
@@ -354,6 +366,7 @@
                             "ID": 15098,
                             "name": "Joseph McKenna",
                             "href": "https:\/\/api.oyez.org\/people\/joseph_mckenna",
+                            "view_count": 0,
                             "last_name": "McKenna",
                             "roles": [
                                 {
@@ -371,7 +384,7 @@
                                 "id": 32692,
                                 "mime": "image\/png",
                                 "size": 56275,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/joseph_mckenna.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/joseph_mckenna\/joseph_mckenna.thumb.png"
                             },
                             "length_of_service": 9840,
                             "identifier": "joseph_mckenna"
@@ -386,6 +399,7 @@
                         "ID": 15133,
                         "name": "Willis Van Devanter",
                         "href": "https:\/\/api.oyez.org\/people\/willis_van_devanter",
+                        "view_count": 0,
                         "last_name": "Van Devanter",
                         "roles": [
                             {
@@ -403,7 +417,7 @@
                             "id": 32785,
                             "mime": "image\/png",
                             "size": 52800,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/willis_van_devanter.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/willis_van_devanter\/willis_van_devanter.thumb.png"
                         },
                         "length_of_service": 9647,
                         "identifier": "willis_van_devanter"
@@ -415,6 +429,7 @@
                             "ID": 15098,
                             "name": "Joseph McKenna",
                             "href": "https:\/\/api.oyez.org\/people\/joseph_mckenna",
+                            "view_count": 0,
                             "last_name": "McKenna",
                             "roles": [
                                 {
@@ -432,7 +447,7 @@
                                 "id": 32692,
                                 "mime": "image\/png",
                                 "size": 56275,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/joseph_mckenna.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/joseph_mckenna\/joseph_mckenna.thumb.png"
                             },
                             "length_of_service": 9840,
                             "identifier": "joseph_mckenna"
@@ -447,6 +462,7 @@
                         "ID": 15075,
                         "name": "Louis D. Brandeis",
                         "href": "https:\/\/api.oyez.org\/people\/louis_d_brandeis",
+                        "view_count": 0,
                         "last_name": "Brandeis",
                         "roles": [
                             {
@@ -464,7 +480,7 @@
                             "id": 32739,
                             "mime": "image\/png",
                             "size": 33357,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/louis_brandeis.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/louis_d_brandeis\/louis_d_brandeis.thumb.png"
                         },
                         "length_of_service": 8288,
                         "identifier": "louis_d_brandeis"
@@ -476,6 +492,7 @@
                             "ID": 15098,
                             "name": "Joseph McKenna",
                             "href": "https:\/\/api.oyez.org\/people\/joseph_mckenna",
+                            "view_count": 0,
                             "last_name": "McKenna",
                             "roles": [
                                 {
@@ -493,7 +510,7 @@
                                 "id": 32692,
                                 "mime": "image\/png",
                                 "size": 56275,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/joseph_mckenna.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/joseph_mckenna\/joseph_mckenna.thumb.png"
                             },
                             "length_of_service": 9840,
                             "identifier": "joseph_mckenna"
@@ -508,6 +525,7 @@
                         "ID": 15062,
                         "name": "John H. Clarke",
                         "href": "https:\/\/api.oyez.org\/people\/john_h_clarke",
+                        "view_count": 0,
                         "last_name": "Clarke",
                         "roles": [
                             {
@@ -525,7 +543,7 @@
                             "id": 32792,
                             "mime": "image\/png",
                             "size": 32752,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_hessin_clarke.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_h_clarke\/john_h_clarke.thumb.png"
                         },
                         "length_of_service": 2170,
                         "identifier": "john_h_clarke"
@@ -537,6 +555,7 @@
                             "ID": 15098,
                             "name": "Joseph McKenna",
                             "href": "https:\/\/api.oyez.org\/people\/joseph_mckenna",
+                            "view_count": 0,
                             "last_name": "McKenna",
                             "roles": [
                                 {
@@ -554,7 +573,7 @@
                                 "id": 32692,
                                 "mime": "image\/png",
                                 "size": 56275,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/joseph_mckenna.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/joseph_mckenna\/joseph_mckenna.thumb.png"
                             },
                             "length_of_service": 9840,
                             "identifier": "joseph_mckenna"
@@ -581,11 +600,13 @@
         "ID": 15318,
         "name": "White Court (1916-1921)",
         "href": "https:\/\/api.oyez.org\/courts\/white8",
+        "view_count": 0,
         "members": [
             {
                 "ID": 15144,
                 "name": "Edward D. White",
                 "href": "https:\/\/api.oyez.org\/people\/edward_d_white",
+                "view_count": 0,
                 "last_name": "White",
                 "roles": [
                     {
@@ -613,7 +634,7 @@
                     "id": 32789,
                     "mime": "image\/png",
                     "size": 53055,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/edward_d_white.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/edward_d_white\/edward_d_white.thumb.png"
                 },
                 "length_of_service": 9928,
                 "identifier": "edward_d_white"
@@ -622,6 +643,7 @@
                 "ID": 15098,
                 "name": "Joseph McKenna",
                 "href": "https:\/\/api.oyez.org\/people\/joseph_mckenna",
+                "view_count": 0,
                 "last_name": "McKenna",
                 "roles": [
                     {
@@ -639,7 +661,7 @@
                     "id": 32692,
                     "mime": "image\/png",
                     "size": 56275,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/joseph_mckenna.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/joseph_mckenna\/joseph_mckenna.thumb.png"
                 },
                 "length_of_service": 9840,
                 "identifier": "joseph_mckenna"
@@ -648,6 +670,7 @@
                 "ID": 15048,
                 "name": "Oliver W. Holmes, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/oliver_w_holmes_jr",
+                "view_count": 0,
                 "last_name": "Holmes",
                 "roles": [
                     {
@@ -665,7 +688,7 @@
                     "id": 32747,
                     "mime": "image\/png",
                     "size": 53023,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/oliver_wendell_holmes.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/oliver_w_holmes_jr\/oliver_w_holmes_jr.thumb.png"
                 },
                 "length_of_service": 10627,
                 "identifier": "oliver_w_holmes_jr"
@@ -674,6 +697,7 @@
                 "ID": 15055,
                 "name": "William R. Day",
                 "href": "https:\/\/api.oyez.org\/people\/william_r_day",
+                "view_count": 0,
                 "last_name": "Day",
                 "roles": [
                     {
@@ -691,7 +715,7 @@
                     "id": 32783,
                     "mime": "image\/png",
                     "size": 45485,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_r_day.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_r_day\/william_r_day.thumb.png"
                 },
                 "length_of_service": 7196,
                 "identifier": "william_r_day"
@@ -700,6 +724,7 @@
                 "ID": 15133,
                 "name": "Willis Van Devanter",
                 "href": "https:\/\/api.oyez.org\/people\/willis_van_devanter",
+                "view_count": 0,
                 "last_name": "Van Devanter",
                 "roles": [
                     {
@@ -717,7 +742,7 @@
                     "id": 32785,
                     "mime": "image\/png",
                     "size": 52800,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/willis_van_devanter.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/willis_van_devanter\/willis_van_devanter.thumb.png"
                 },
                 "length_of_service": 9647,
                 "identifier": "willis_van_devanter"
@@ -726,6 +751,7 @@
                 "ID": 15148,
                 "name": "Mahlon Pitney",
                 "href": "https:\/\/api.oyez.org\/people\/mahlon_pitney",
+                "view_count": 0,
                 "last_name": "Pitney",
                 "roles": [
                     {
@@ -743,7 +769,7 @@
                     "id": 32741,
                     "mime": "image\/png",
                     "size": 49375,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/mahlon_pitney.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/mahlon_pitney\/mahlon_pitney.thumb.png"
                 },
                 "length_of_service": 3940,
                 "identifier": "mahlon_pitney"
@@ -752,6 +778,7 @@
                 "ID": 15066,
                 "name": "James C. McReynolds",
                 "href": "https:\/\/api.oyez.org\/people\/james_c_mcreynolds",
+                "view_count": 0,
                 "last_name": "McReynolds",
                 "roles": [
                     {
@@ -769,7 +796,7 @@
                     "id": 32720,
                     "mime": "image\/png",
                     "size": 55380,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_c_mcreynolds.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/james_c_mcreynolds\/james_c_mcreynolds.thumb.png"
                 },
                 "length_of_service": 9608,
                 "identifier": "james_c_mcreynolds"
@@ -778,6 +805,7 @@
                 "ID": 15075,
                 "name": "Louis D. Brandeis",
                 "href": "https:\/\/api.oyez.org\/people\/louis_d_brandeis",
+                "view_count": 0,
                 "last_name": "Brandeis",
                 "roles": [
                     {
@@ -795,7 +823,7 @@
                     "id": 32739,
                     "mime": "image\/png",
                     "size": 33357,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/louis_brandeis.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/louis_d_brandeis\/louis_d_brandeis.thumb.png"
                 },
                 "length_of_service": 8288,
                 "identifier": "louis_d_brandeis"
@@ -804,6 +832,7 @@
                 "ID": 15062,
                 "name": "John H. Clarke",
                 "href": "https:\/\/api.oyez.org\/people\/john_h_clarke",
+                "view_count": 0,
                 "last_name": "Clarke",
                 "roles": [
                     {
@@ -821,7 +850,7 @@
                     "id": 32792,
                     "mime": "image\/png",
                     "size": 32752,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_hessin_clarke.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_h_clarke\/john_h_clarke.thumb.png"
                 },
                 "length_of_service": 2170,
                 "identifier": "john_h_clarke"
@@ -833,7 +862,7 @@
                 "id": 78539,
                 "mime": "image\/jpeg",
                 "size": 754086,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/whit6_photograph.jpg"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/white8.jpg"
             }
         ],
         "identifier": "white8"

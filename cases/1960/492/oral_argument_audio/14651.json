@@ -40,6 +40,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -57,7 +58,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"
@@ -88,6 +89,7 @@
                             "ID": 30073,
                             "name": "John F . Davis",
                             "href": "https:\/\/api.oyez.org\/people\/john_f_davis",
+                            "view_count": 0,
                             "last_name": "Davis",
                             "roles": null,
                             "thumbnail": null,
@@ -163,14 +165,14 @@
                                 "stop": 139.798,
                                 "byte_start": 646144,
                                 "byte_stop": 662653,
-                                "text": "There\u0027s no question here of constitutionality."
+                                "text": "There's no question here of constitutionality."
                             },
                             {
                                 "start": 139.798,
                                 "stop": 163.762,
                                 "byte_start": 662653,
                                 "byte_stop": 758575,
-                                "text": "There\u0027s no question here of evidences, merely a question as to whether or not the Civil Aeronautics Board has power to modify an effective certificate of convenience and -- and necessity when that certificate was granted during the pendency of motions for reconsideration."
+                                "text": "There's no question here of evidences, merely a question as to whether or not the Civil Aeronautics Board has power to modify an effective certificate of convenience and -- and necessity when that certificate was granted during the pendency of motions for reconsideration."
                             },
                             {
                                 "start": 163.762,
@@ -218,6 +220,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -235,7 +238,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"
@@ -246,7 +249,7 @@
                                 "stop": 238.633,
                                 "byte_start": 1050206,
                                 "byte_stop": 1057938,
-                                "text": "We\u0027ll recess now."
+                                "text": "We'll recess now."
                             }
                         ]
                     }

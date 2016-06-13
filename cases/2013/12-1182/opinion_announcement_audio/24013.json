@@ -20,13 +20,14 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
                                     "id": 2693,
                                     "type": "scotus_justice",
                                     "date_start": 528094800,
-                                    "date_end": 0,
+                                    "date_end": 1455343200,
                                     "appointing_president": "Ronald Reagan",
                                     "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
@@ -37,9 +38,9 @@
                                 "id": 32678,
                                 "mime": "image\/png",
                                 "size": 58944,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                             },
-                            "length_of_service": 10699,
+                            "length_of_service": 10732,
                             "identifier": "antonin_scalia"
                         },
                         "text_blocks": [
@@ -76,14 +77,14 @@
                                 "stop": 50.592,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "It established a clear and unmistakable standard for EPA\u0027s enforcement of state\u0027s interstate pollution obligations."
+                                "text": "It established a clear and unmistakable standard for EPA's enforcement of state's interstate pollution obligations."
                             },
                             {
                                 "start": 50.592,
                                 "stop": 61.796,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "Today\u0027s opinion is a textbook example of how a court established to assure government by the people, can instead assure government by the bureaucracy."
+                                "text": "Today's opinion is a textbook example of how a court established to assure government by the people, can instead assure government by the bureaucracy."
                             },
                             {
                                 "start": 61.796,
@@ -146,7 +147,7 @@
                                 "stop": 166.479,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "What the statutes says EPA must do is disapprove state implementation plans, so-called SIPS, that fail to prohibit sources in the state from \u201cemitting any air pollutant in amounts which will contribute significantly to nonattainment of EPA mandated pollution standards or interfere with maintenance of those standards by any other state.\u0022"
+                                "text": "What the statutes says EPA must do is disapprove state implementation plans, so-called SIPS, that fail to prohibit sources in the state from \u201cemitting any air pollutant in amounts which will contribute significantly to nonattainment of EPA mandated pollution standards or interfere with maintenance of those standards by any other state.\""
                             },
                             {
                                 "start": 166.479,
@@ -160,7 +161,7 @@
                                 "stop": 197.813,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "How you may ask, did what is clearly and unquestionably an amount\u0027s based standard become a cost benefit standard?"
+                                "text": "How you may ask, did what is clearly and unquestionably an amount's based standard become a cost benefit standard?"
                             },
                             {
                                 "start": 197.813,
@@ -174,7 +175,7 @@
                                 "stop": 212.917,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "In the government\u0027s argument before this Court EPA gamely tried to device a textual excuse for what it has done."
+                                "text": "In the government's argument before this Court EPA gamely tried to device a textual excuse for what it has done."
                             },
                             {
                                 "start": 212.917,
@@ -230,7 +231,7 @@
                                 "stop": 345.52,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "Having abandoned the government\u0027s feeble textual feint the majority is left with no textual basis, zero textual basis so its approval of EPA\u0027s \u201cfrom each state according to its ability approach.\u201d"
+                                "text": "Having abandoned the government's feeble textual feint the majority is left with no textual basis, zero textual basis so its approval of EPA's \u201cfrom each state according to its ability approach.\u201d"
                             },
                             {
                                 "start": 345.52,
@@ -244,7 +245,7 @@
                                 "stop": 419.565,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "Excuse me, but is this a trick question that one might find in a quiz show, \u201cif the textual criterion of responsibility is amounts of pollutants contributed, how should responsibility be assigned when states A, B and C each contribute 10 units to a downwind state\u0027s pollution but the required overall reduction in order to enable the downwind state to comply with the Clean Air Act, is only 21 units and not 30.\u201d"
+                                "text": "Excuse me, but is this a trick question that one might find in a quiz show, \u201cif the textual criterion of responsibility is amounts of pollutants contributed, how should responsibility be assigned when states A, B and C each contribute 10 units to a downwind state's pollution but the required overall reduction in order to enable the downwind state to comply with the Clean Air Act, is only 21 units and not 30.\u201d"
                             },
                             {
                                 "start": 419.565,
@@ -272,7 +273,7 @@
                                 "stop": 484.6,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "To make matters worse, the majority allows EPA to regulate on the basis of cost efficiency even beyond the imaginary gap that is to say where no apportionment is required at all under the approach articulated in EPA\u0027s transport rule an upwind state\u0027s reduction responsibility is based on the cost of eliminating emissions rather than on the amounts of pollutions emitted even if that state is the only one sending pollution to some downwind location."
+                                "text": "To make matters worse, the majority allows EPA to regulate on the basis of cost efficiency even beyond the imaginary gap that is to say where no apportionment is required at all under the approach articulated in EPA's transport rule an upwind state's reduction responsibility is based on the cost of eliminating emissions rather than on the amounts of pollutions emitted even if that state is the only one sending pollution to some downwind location."
                             },
                             {
                                 "start": 484.6,
@@ -286,7 +287,7 @@
                                 "stop": 505.742,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "In contrast to the approach taken by EPA and the majority from each according to its ability approach, the proportional reduction approach outlined by the DC Circuit below and by my opinion here comports with the \u201cGood Neighbor\u201d provision\u0027s amounts based rule."
+                                "text": "In contrast to the approach taken by EPA and the majority from each according to its ability approach, the proportional reduction approach outlined by the DC Circuit below and by my opinion here comports with the \u201cGood Neighbor\u201d provision's amounts based rule."
                             },
                             {
                                 "start": 505.742,
@@ -314,7 +315,7 @@
                                 "stop": 561.286,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "Second, the majority asserts that my approach and the DC Circuit\u0027s approach will result in massive over-regulation, but there is no reason why EPA cannot anticipate the possibility of over-regulation and adjust the proportional obligations of the states accordingly."
+                                "text": "Second, the majority asserts that my approach and the DC Circuit's approach will result in massive over-regulation, but there is no reason why EPA cannot anticipate the possibility of over-regulation and adjust the proportional obligations of the states accordingly."
                             },
                             {
                                 "start": 561.286,
@@ -405,14 +406,14 @@
                                 "stop": 723.52,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "The majority\u0027s primary argument is that the Clean Air Act says that if a State fails to submit an acceptable implementation plan, EPA may issue its own \u201cat any time within two years.\u201d"
+                                "text": "The majority's primary argument is that the Clean Air Act says that if a State fails to submit an acceptable implementation plan, EPA may issue its own \u201cat any time within two years.\u201d"
                             },
                             {
                                 "start": 723.52,
                                 "stop": 732.644,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "But by holding that within two years can mean within two seconds, the majority disregards the act\u0027s fundamental state respecting structure."
+                                "text": "But by holding that within two years can mean within two seconds, the majority disregards the act's fundamental state respecting structure."
                             },
                             {
                                 "start": 732.644,
@@ -433,7 +434,7 @@
                                 "stop": 764.333,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "Today\u0027s decision feeds the uncontrolled growth of the administrative state at the expense of government by the people."
+                                "text": "Today's decision feeds the uncontrolled growth of the administrative state at the expense of government by the people."
                             },
                             {
                                 "start": 764.333,

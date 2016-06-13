@@ -36,16 +36,7 @@
                         "stop": 29.488,
                         "byte_start": 103424,
                         "byte_stop": 221393,
-                        "speaker": {
-                            "ID": 36857,
-                            "name": "Mr.Chief Justice Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/mrchief_justice_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "mrchief_justice_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 0,
@@ -80,6 +71,7 @@
                             "ID": 24565,
                             "name": "F. Gordon Shermack",
                             "href": "https:\/\/api.oyez.org\/people\/f_gordon_shermack",
+                            "view_count": 0,
                             "last_name": "Shermack",
                             "roles": null,
                             "thumbnail": null,
@@ -106,14 +98,14 @@
                                 "stop": 50.393,
                                 "byte_start": 268727,
                                 "byte_stop": 305089,
-                                "text": "I think there\u0027s no difference of opinion between petitioner and the State of New Mexico as to what occurred."
+                                "text": "I think there's no difference of opinion between petitioner and the State of New Mexico as to what occurred."
                             },
                             {
                                 "start": 50.393,
                                 "stop": 78.378,
                                 "byte_start": 305089,
                                 "byte_stop": 416998,
-                                "text": "It\u0027s only in the law and the interpretation of the Fourteenth Amendment applied to the situation where we differ, stated very briefly the facts are that in 1951, petitioner was tried in the District Court of Eddy County in New Mexico, the charge of involuntary manslaughter."
+                                "text": "It's only in the law and the interpretation of the Fourteenth Amendment applied to the situation where we differ, stated very briefly the facts are that in 1951, petitioner was tried in the District Court of Eddy County in New Mexico, the charge of involuntary manslaughter."
                             },
                             {
                                 "start": 78.378,
@@ -232,7 +224,7 @@
                                 "stop": 431.437,
                                 "byte_start": 1670457,
                                 "byte_stop": 1829177,
-                                "text": "The particular situation in the instant case is not to bark in the petitioner\u0027s opinion from -- that of the Rochin case, rather there\u0027s no struggle or could be no struggle."
+                                "text": "The particular situation in the instant case is not to bark in the petitioner's opinion from -- that of the Rochin case, rather there's no struggle or could be no struggle."
                             },
                             {
                                 "start": 431.437,
@@ -256,23 +248,14 @@
                         "stop": 451.117,
                         "byte_start": 1882885,
                         "byte_stop": 1907858,
-                        "speaker": {
-                            "ID": 36857,
-                            "name": "Mr.Chief Justice Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/mrchief_justice_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "mrchief_justice_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 444.847,
                                 "stop": 451.117,
                                 "byte_start": 1882885,
                                 "byte_stop": 1907858,
-                                "text": "We\u0027ll recess now, Mr.--"
+                                "text": "We'll recess now, Mr.--"
                             }
                         ]
                     }

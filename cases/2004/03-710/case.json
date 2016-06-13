@@ -2,9 +2,10 @@
     "ID": 55268,
     "name": "Devenpeck v. Alford",
     "href": "https:\/\/api.oyez.org\/cases\/2004\/03-710",
+    "view_count": 52,
     "docket_number": "03-710",
     "additional_docket_numbers": null,
-    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
     "first_party": "Gerald Devenpeck, et al.",
     "second_party": "Jerome Anthony Alford",
     "timeline": [
@@ -35,15 +36,16 @@
         "name": "United States Court of Appeals for the Ninth Circuit",
         "href": "https:\/\/api.oyez.org\/taxonomy\/term\/5"
     },
-    "facts_of_the_case": "\u003Cp\u003ETony Alford was driving when Washington state police, concerned Alford was impersonating a police officer, pulled him over. During a search of Alford\u0027s car, police found a tape recorder recording the traffic stop. The police arrested Alford and said he had made an illegal recording of a private conversation - a violation, they said, of the state\u0027s Privacy Act. A state court judge dismissed charges against Alford, ruling - as another state court already had - that the Privacy Act did not apply to public police work.\u003C\/p\u003E\n\u003Cp\u003EAlford then sued the officers in federal district court, alleging his arrest violated the Fourth Amendment right to be free from unreasonable seizure. The district court ruled for the officers.\u003C\/p\u003E\n\u003Cp\u003EThe Ninth Circuit Court of Appeals reversed and ruled the officers violated Alford\u0027s Fourth Amendment rights. The facts and law were so clearly established that no reasonable officer could believe Alford violated the Privacy Act. Therefore the officers lacked probable cause for the arrest and were not protected by qualified immunity. The court rejected the officers\u0027 argument that the arrest was constitutional because there was probable cause Alford committed the crime of impersonating a police officer. That was not the reason police gave during the arrest. The Ninth Circuit said there was only one instance when an arrest for a reason the police did not articulate was constitutional: if that reason was closely related to the stated reason for the arrest. Impersonating a police officer was not closely related to violating the state Privacy Act. Other circuit courts disagreed with the Ninth Circuit\u0027s \u0022closely related offense doctrine.\u0022\u003C\/p\u003E\n",
-    "question": "\u003Cp\u003E(1) Does an arrest violate the Fourth Amendment when a police officer has probable cause to make an arrest for one offense, if that offense is not closely related to the offense articulated by the officer at the time of the arrest? (2) For the purposes of qualified immunity, was \u0022closely related offense doctrine\u0022 clearly established given that different circuit courts disagreed on its application?\u003C\/p\u003E\n",
-    "conclusion": "\u003Cp\u003ENo. In a unanimous opinion delivered by Justice Antonin Scalia, the Court held that police had probable cause to arrest Alford for impersonating a police officer, despite the fact that this was not closely related to the offense police identified during the arrest. A warrantless arrest by a police officer is reasonable under the Fourth Amendment if, given the facts known to the officer, there is probable cause to believe a crime has been or is being committed. The offense establishing probable cause need not be closely related to the offense the arresting officer identifies at the time of arrest. An arresting officer\u0027s state of mind, except for facts he knows, is irrelevant to probable cause.\u003C\/p\u003E\n",
+    "facts_of_the_case": "<p>Tony Alford was driving when Washington state police, concerned Alford was impersonating a police officer, pulled him over. During a search of Alford's car, police found a tape recorder recording the traffic stop. The police arrested Alford and said he had made an illegal recording of a private conversation - a violation, they said, of the state's Privacy Act. A state court judge dismissed charges against Alford, ruling - as another state court already had - that the Privacy Act did not apply to public police work.<\/p>\n<p>Alford then sued the officers in federal district court, alleging his arrest violated the Fourth Amendment right to be free from unreasonable seizure. The district court ruled for the officers.<\/p>\n<p>The Ninth Circuit Court of Appeals reversed and ruled the officers violated Alford's Fourth Amendment rights. The facts and law were so clearly established that no reasonable officer could believe Alford violated the Privacy Act. Therefore the officers lacked probable cause for the arrest and were not protected by qualified immunity. The court rejected the officers' argument that the arrest was constitutional because there was probable cause Alford committed the crime of impersonating a police officer. That was not the reason police gave during the arrest. The Ninth Circuit said there was only one instance when an arrest for a reason the police did not articulate was constitutional: if that reason was closely related to the stated reason for the arrest. Impersonating a police officer was not closely related to violating the state Privacy Act. Other circuit courts disagreed with the Ninth Circuit's \"closely related offense doctrine.\"<\/p>\n",
+    "question": "<p>(1) Does an arrest violate the Fourth Amendment when a police officer has probable cause to make an arrest for one offense, if that offense is not closely related to the offense articulated by the officer at the time of the arrest? (2) For the purposes of qualified immunity, was \"closely related offense doctrine\" clearly established given that different circuit courts disagreed on its application?<\/p>\n",
+    "conclusion": "<p>No. In a unanimous opinion delivered by Justice Antonin Scalia, the Court held that police had probable cause to arrest Alford for impersonating a police officer, despite the fact that this was not closely related to the offense police identified during the arrest. A warrantless arrest by a police officer is reasonable under the Fourth Amendment if, given the facts known to the officer, there is probable cause to believe a crime has been or is being committed. The offense establishing probable cause need not be closely related to the offense the arresting officer identifies at the time of arrest. An arresting officer's state of mind, except for facts he knows, is irrelevant to probable cause.<\/p>\n",
     "advocates": [
         {
             "advocate": {
                 "ID": 29497,
                 "name": "James B. Comey",
                 "href": "https:\/\/api.oyez.org\/people\/james_b_comey",
+                "view_count": 0,
                 "last_name": "Comey",
                 "roles": null,
                 "thumbnail": null,
@@ -58,6 +60,7 @@
                 "ID": 40179,
                 "name": "Randolph Stuart Phillips",
                 "href": "https:\/\/api.oyez.org\/people\/randolph_stuart_phillips",
+                "view_count": 0,
                 "last_name": "Phillips",
                 "roles": null,
                 "thumbnail": null,
@@ -72,6 +75,7 @@
                 "ID": 36051,
                 "name": "Maureen A. Hart",
                 "href": "https:\/\/api.oyez.org\/people\/maureen_a_hart",
+                "view_count": 0,
                 "last_name": "Hart",
                 "roles": null,
                 "thumbnail": null,
@@ -86,6 +90,7 @@
                 "ID": 40164,
                 "name": "R. Stuart Phillips",
                 "href": "https:\/\/api.oyez.org\/people\/r_stuart_phillips",
+                "view_count": 0,
                 "last_name": "Phillips",
                 "roles": null,
                 "thumbnail": null,
@@ -100,6 +105,7 @@
                 "ID": 41425,
                 "name": "Senior Assistant Attorney General",
                 "href": "https:\/\/api.oyez.org\/people\/senior_assistant_attorney_general",
+                "view_count": 0,
                 "last_name": "General",
                 "roles": null,
                 "thumbnail": null,
@@ -114,6 +120,7 @@
                 "ID": 20680,
                 "name": "Deputy Attorney General Comey",
                 "href": "https:\/\/api.oyez.org\/people\/deputy_attorney_general_comey",
+                "view_count": 0,
                 "last_name": "Comey",
                 "roles": null,
                 "thumbnail": null,
@@ -128,6 +135,7 @@
                 "ID": 30716,
                 "name": "Jonathan Hacker",
                 "href": "https:\/\/api.oyez.org\/people\/jonathan_hacker",
+                "view_count": 0,
                 "last_name": "Hacker",
                 "roles": null,
                 "thumbnail": null,
@@ -142,6 +150,7 @@
                 "ID": 37954,
                 "name": "Pamela Harris",
                 "href": "https:\/\/api.oyez.org\/people\/pamela_harris",
+                "view_count": 0,
                 "last_name": "Harris",
                 "roles": null,
                 "thumbnail": null,
@@ -176,6 +185,7 @@
                         "ID": 15141,
                         "name": "William H. Rehnquist",
                         "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                        "view_count": 28,
                         "last_name": "Rehnquist",
                         "roles": [
                             {
@@ -203,7 +213,7 @@
                             "id": 32786,
                             "mime": "image\/png",
                             "size": 46923,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                         },
                         "length_of_service": 12293,
                         "identifier": "william_h_rehnquist"
@@ -220,6 +230,7 @@
                         "ID": 15060,
                         "name": "John Paul Stevens",
                         "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                        "view_count": 0,
                         "last_name": "Stevens",
                         "roles": [
                             {
@@ -237,7 +248,7 @@
                             "id": 32732,
                             "mime": "image\/png",
                             "size": 62101,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                         },
                         "length_of_service": 12611,
                         "identifier": "john_paul_stevens"
@@ -252,9 +263,10 @@
                 {
                     "member": {
                         "ID": 15092,
-                        "name": "Sandra Day O\u0027Connor",
+                        "name": "Sandra Day O'Connor",
                         "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                        "last_name": "O\u0027Connor",
+                        "view_count": 30,
+                        "last_name": "O'Connor",
                         "roles": [
                             {
                                 "id": 2736,
@@ -271,7 +283,7 @@
                             "id": 32763,
                             "mime": "image\/png",
                             "size": 49563,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                         },
                         "length_of_service": 8894,
                         "identifier": "sandra_day_oconnor"
@@ -288,13 +300,14 @@
                         "ID": 15049,
                         "name": "Antonin Scalia",
                         "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                        "view_count": 54,
                         "last_name": "Scalia",
                         "roles": [
                             {
                                 "id": 2693,
                                 "type": "scotus_justice",
                                 "date_start": 528094800,
-                                "date_end": 0,
+                                "date_end": 1455343200,
                                 "appointing_president": "Ronald Reagan",
                                 "role_title": "Associate Justice of the Supreme Court of the United States",
                                 "institution_name": "Supreme Court of the United States",
@@ -305,9 +318,9 @@
                             "id": 32678,
                             "mime": "image\/png",
                             "size": 58944,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                         },
-                        "length_of_service": 10699,
+                        "length_of_service": 10732,
                         "identifier": "antonin_scalia"
                     },
                     "vote": "majority",
@@ -322,6 +335,7 @@
                         "ID": 15113,
                         "name": "Anthony M. Kennedy",
                         "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                        "view_count": 73,
                         "last_name": "Kennedy",
                         "roles": [
                             {
@@ -339,9 +353,9 @@
                             "id": 32679,
                             "mime": "image\/png",
                             "size": 47100,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                         },
-                        "length_of_service": 10147,
+                        "length_of_service": 10275,
                         "identifier": "anthony_m_kennedy"
                     },
                     "vote": "majority",
@@ -356,6 +370,7 @@
                         "ID": 15042,
                         "name": "David H. Souter",
                         "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                        "view_count": 0,
                         "last_name": "Souter",
                         "roles": [
                             {
@@ -373,7 +388,7 @@
                             "id": 32703,
                             "mime": "image\/png",
                             "size": 42141,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_souter.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
                         },
                         "length_of_service": 6839,
                         "identifier": "david_h_souter"
@@ -390,6 +405,7 @@
                         "ID": 15100,
                         "name": "Clarence Thomas",
                         "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                        "view_count": 91,
                         "last_name": "Thomas",
                         "roles": [
                             {
@@ -407,9 +423,9 @@
                             "id": 32680,
                             "mime": "image\/png",
                             "size": 49064,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                         },
-                        "length_of_service": 8870,
+                        "length_of_service": 8932,
                         "identifier": "clarence_thomas"
                     },
                     "vote": "majority",
@@ -424,6 +440,7 @@
                         "ID": 15084,
                         "name": "Ruth Bader Ginsburg",
                         "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                        "view_count": 55,
                         "last_name": "Ginsburg",
                         "roles": [
                             {
@@ -441,9 +458,9 @@
                             "id": 32681,
                             "mime": "image\/png",
                             "size": 45030,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
                         },
-                        "length_of_service": 8135,
+                        "length_of_service": 8275,
                         "identifier": "ruth_bader_ginsburg"
                     },
                     "vote": "majority",
@@ -458,6 +475,7 @@
                         "ID": 15139,
                         "name": "Stephen G. Breyer",
                         "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                        "view_count": 58,
                         "last_name": "Breyer",
                         "roles": [
                             {
@@ -475,9 +493,9 @@
                             "id": 32682,
                             "mime": "image\/png",
                             "size": 49908,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
                         },
-                        "length_of_service": 7777,
+                        "length_of_service": 7917,
                         "identifier": "stephen_g_breyer"
                     },
                     "vote": "majority",
@@ -502,11 +520,13 @@
             "ID": 15238,
             "name": "Rehnquist Court (1994-2005)",
             "href": "https:\/\/api.oyez.org\/courts\/rehnquist10",
+            "view_count": 0,
             "members": [
                 {
                     "ID": 15141,
                     "name": "William H. Rehnquist",
                     "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                    "view_count": 28,
                     "last_name": "Rehnquist",
                     "roles": [
                         {
@@ -534,7 +554,7 @@
                         "id": 32786,
                         "mime": "image\/png",
                         "size": 46923,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                     },
                     "length_of_service": 12293,
                     "identifier": "william_h_rehnquist"
@@ -543,6 +563,7 @@
                     "ID": 15060,
                     "name": "John Paul Stevens",
                     "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                    "view_count": 0,
                     "last_name": "Stevens",
                     "roles": [
                         {
@@ -560,16 +581,17 @@
                         "id": 32732,
                         "mime": "image\/png",
                         "size": 62101,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                     },
                     "length_of_service": 12611,
                     "identifier": "john_paul_stevens"
                 },
                 {
                     "ID": 15092,
-                    "name": "Sandra Day O\u0027Connor",
+                    "name": "Sandra Day O'Connor",
                     "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                    "last_name": "O\u0027Connor",
+                    "view_count": 30,
+                    "last_name": "O'Connor",
                     "roles": [
                         {
                             "id": 2736,
@@ -586,7 +608,7 @@
                         "id": 32763,
                         "mime": "image\/png",
                         "size": 49563,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                     },
                     "length_of_service": 8894,
                     "identifier": "sandra_day_oconnor"
@@ -595,13 +617,14 @@
                     "ID": 15049,
                     "name": "Antonin Scalia",
                     "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                    "view_count": 54,
                     "last_name": "Scalia",
                     "roles": [
                         {
                             "id": 2693,
                             "type": "scotus_justice",
                             "date_start": 528094800,
-                            "date_end": 0,
+                            "date_end": 1455343200,
                             "appointing_president": "Ronald Reagan",
                             "role_title": "Associate Justice of the Supreme Court of the United States",
                             "institution_name": "Supreme Court of the United States",
@@ -612,15 +635,16 @@
                         "id": 32678,
                         "mime": "image\/png",
                         "size": 58944,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                     },
-                    "length_of_service": 10699,
+                    "length_of_service": 10732,
                     "identifier": "antonin_scalia"
                 },
                 {
                     "ID": 15113,
                     "name": "Anthony M. Kennedy",
                     "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                    "view_count": 73,
                     "last_name": "Kennedy",
                     "roles": [
                         {
@@ -638,15 +662,16 @@
                         "id": 32679,
                         "mime": "image\/png",
                         "size": 47100,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                     },
-                    "length_of_service": 10147,
+                    "length_of_service": 10275,
                     "identifier": "anthony_m_kennedy"
                 },
                 {
                     "ID": 15042,
                     "name": "David H. Souter",
                     "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                    "view_count": 0,
                     "last_name": "Souter",
                     "roles": [
                         {
@@ -664,7 +689,7 @@
                         "id": 32703,
                         "mime": "image\/png",
                         "size": 42141,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_souter.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
                     },
                     "length_of_service": 6839,
                     "identifier": "david_h_souter"
@@ -673,6 +698,7 @@
                     "ID": 15100,
                     "name": "Clarence Thomas",
                     "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                    "view_count": 91,
                     "last_name": "Thomas",
                     "roles": [
                         {
@@ -690,15 +716,16 @@
                         "id": 32680,
                         "mime": "image\/png",
                         "size": 49064,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                     },
-                    "length_of_service": 8870,
+                    "length_of_service": 8932,
                     "identifier": "clarence_thomas"
                 },
                 {
                     "ID": 15084,
                     "name": "Ruth Bader Ginsburg",
                     "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                    "view_count": 55,
                     "last_name": "Ginsburg",
                     "roles": [
                         {
@@ -716,15 +743,16 @@
                         "id": 32681,
                         "mime": "image\/png",
                         "size": 45030,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
                     },
-                    "length_of_service": 8135,
+                    "length_of_service": 8275,
                     "identifier": "ruth_bader_ginsburg"
                 },
                 {
                     "ID": 15139,
                     "name": "Stephen G. Breyer",
                     "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                    "view_count": 58,
                     "last_name": "Breyer",
                     "roles": [
                         {
@@ -742,9 +770,9 @@
                         "id": 32682,
                         "mime": "image\/png",
                         "size": 49908,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
                     },
-                    "length_of_service": 7777,
+                    "length_of_service": 7917,
                     "identifier": "stephen_g_breyer"
                 }
             ],
@@ -754,7 +782,7 @@
                     "id": 78530,
                     "mime": "image\/jpeg",
                     "size": 1115948,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/rehn6_photograph2.jpg"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/rehnquist10.jpg"
                 }
             ],
             "identifier": "rehnquist10"
@@ -764,11 +792,13 @@
         "ID": 15238,
         "name": "Rehnquist Court (1994-2005)",
         "href": "https:\/\/api.oyez.org\/courts\/rehnquist10",
+        "view_count": 0,
         "members": [
             {
                 "ID": 15141,
                 "name": "William H. Rehnquist",
                 "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                "view_count": 28,
                 "last_name": "Rehnquist",
                 "roles": [
                     {
@@ -796,7 +826,7 @@
                     "id": 32786,
                     "mime": "image\/png",
                     "size": 46923,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                 },
                 "length_of_service": 12293,
                 "identifier": "william_h_rehnquist"
@@ -805,6 +835,7 @@
                 "ID": 15060,
                 "name": "John Paul Stevens",
                 "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                "view_count": 0,
                 "last_name": "Stevens",
                 "roles": [
                     {
@@ -822,16 +853,17 @@
                     "id": 32732,
                     "mime": "image\/png",
                     "size": 62101,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                 },
                 "length_of_service": 12611,
                 "identifier": "john_paul_stevens"
             },
             {
                 "ID": 15092,
-                "name": "Sandra Day O\u0027Connor",
+                "name": "Sandra Day O'Connor",
                 "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                "last_name": "O\u0027Connor",
+                "view_count": 30,
+                "last_name": "O'Connor",
                 "roles": [
                     {
                         "id": 2736,
@@ -848,7 +880,7 @@
                     "id": 32763,
                     "mime": "image\/png",
                     "size": 49563,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                 },
                 "length_of_service": 8894,
                 "identifier": "sandra_day_oconnor"
@@ -857,13 +889,14 @@
                 "ID": 15049,
                 "name": "Antonin Scalia",
                 "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                "view_count": 54,
                 "last_name": "Scalia",
                 "roles": [
                     {
                         "id": 2693,
                         "type": "scotus_justice",
                         "date_start": 528094800,
-                        "date_end": 0,
+                        "date_end": 1455343200,
                         "appointing_president": "Ronald Reagan",
                         "role_title": "Associate Justice of the Supreme Court of the United States",
                         "institution_name": "Supreme Court of the United States",
@@ -874,15 +907,16 @@
                     "id": 32678,
                     "mime": "image\/png",
                     "size": 58944,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                 },
-                "length_of_service": 10699,
+                "length_of_service": 10732,
                 "identifier": "antonin_scalia"
             },
             {
                 "ID": 15113,
                 "name": "Anthony M. Kennedy",
                 "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                "view_count": 73,
                 "last_name": "Kennedy",
                 "roles": [
                     {
@@ -900,15 +934,16 @@
                     "id": 32679,
                     "mime": "image\/png",
                     "size": 47100,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                 },
-                "length_of_service": 10147,
+                "length_of_service": 10275,
                 "identifier": "anthony_m_kennedy"
             },
             {
                 "ID": 15042,
                 "name": "David H. Souter",
                 "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                "view_count": 0,
                 "last_name": "Souter",
                 "roles": [
                     {
@@ -926,7 +961,7 @@
                     "id": 32703,
                     "mime": "image\/png",
                     "size": 42141,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_souter.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
                 },
                 "length_of_service": 6839,
                 "identifier": "david_h_souter"
@@ -935,6 +970,7 @@
                 "ID": 15100,
                 "name": "Clarence Thomas",
                 "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                "view_count": 91,
                 "last_name": "Thomas",
                 "roles": [
                     {
@@ -952,15 +988,16 @@
                     "id": 32680,
                     "mime": "image\/png",
                     "size": 49064,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                 },
-                "length_of_service": 8870,
+                "length_of_service": 8932,
                 "identifier": "clarence_thomas"
             },
             {
                 "ID": 15084,
                 "name": "Ruth Bader Ginsburg",
                 "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                "view_count": 55,
                 "last_name": "Ginsburg",
                 "roles": [
                     {
@@ -978,15 +1015,16 @@
                     "id": 32681,
                     "mime": "image\/png",
                     "size": 45030,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
                 },
-                "length_of_service": 8135,
+                "length_of_service": 8275,
                 "identifier": "ruth_bader_ginsburg"
             },
             {
                 "ID": 15139,
                 "name": "Stephen G. Breyer",
                 "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                "view_count": 58,
                 "last_name": "Breyer",
                 "roles": [
                     {
@@ -1004,9 +1042,9 @@
                     "id": 32682,
                     "mime": "image\/png",
                     "size": 49908,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
                 },
-                "length_of_service": 7777,
+                "length_of_service": 7917,
                 "identifier": "stephen_g_breyer"
             }
         ],
@@ -1016,7 +1054,7 @@
                 "id": 78530,
                 "mime": "image\/jpeg",
                 "size": 1115948,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/rehn6_photograph2.jpg"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/rehnquist10.jpg"
             }
         ],
         "identifier": "rehnquist10"

@@ -1,0 +1,58 @@
+{
+    "ID": 62693,
+    "name": "Bravo-Fernandez v. US",
+    "href": "https:\/\/api.oyez.org\/cases\/2016\/15-537",
+    "view_count": 38,
+    "docket_number": "15-537",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
+    "first_party": "Juan Bravo-Fernandez, et al.",
+    "second_party": "United States",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1459141200
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53487"
+        }
+    ],
+    "lower_court": {
+        "ID": 6,
+        "name": "United States Court of Appeals for the First Circuit",
+        "href": "https:\/\/api.oyez.org\/taxonomy\/term\/6"
+    },
+    "facts_of_the_case": "<p>In May 2005, Juan Bravo-Fernandez, the president of a private security firm in Puerto Rico, and Hector Martinez-Maldonado, a member of the Puerto Rican Senate, traveled to Las Vegas to see a boxing match. Bravo-Fernandez and Martinez-Maldonado were later indicted on charges that Bravo-Fernandez\u2019s payment for the trip was connected to Martinez-Maldonado\u2019s support of legislation beneficial to the security firm. The charges included violations of the federal bribery statute, conspiracy, and the Travel Act, which prohibits travel in interstate commerce for a criminal purpose -- in this case, the violation of the federal bribery statute. The jury convicted the defendants of violating the federal bribery statute, but found the defendants not guilty of conspiracy to violate the statute or of violating the Travel Act. The U.S. Court of Appeals for the First Circuit vacated the convictions for violating the federal bribery statute because the jury was improperly instructed about what the government needed to prove. The appellate court remanded the case.<\/p>\n<p>Based on this holding, the district court entered an order that acquitted the defendants, but that order was vacated after the government clarified that the appellate court\u2019s decision vacating the federal bribery convictions did not require the district court to enter an order of acquittal. The district court subsequently entered an order that clarified that the bribery convictions were vacated. The defendants moved to reinstate the initial order and argued that it was a judgment of acquittal that, under the Double Jeopardy Clause, could not be rescinded. The district court denied the motion. The defendants then moved for acquittal and argued that the original acquittals for the Travel Act and conspiracy charges prevented the government from relitigating the bribery charges because a jury had already determined that the government failed to prove elements essential to conviction under the bribery statute. The defendants argued that the Double Jeopardy Clause prohibits relitigation of these issues. The district court denied the motion, and the appellate court affirmed.<\/p>\n",
+    "question": "<p>Under the Double Jeopardy Clause, does the fact that a decision was vacated as unconstitutional prevent that case's acquittal from barring further prosecution on issues already decided in the defendant\u2019s favor?<\/p>\n",
+    "conclusion": null,
+    "advocates": null,
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27418"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        null
+    ],
+    "decided_by": null,
+    "term": "2016",
+    "location": {
+        "latitude": 18.424555,
+        "longitude": -66.064921,
+        "name": "United States District Court for the District of Puerto Rico",
+        "street": "150 Carlos Chard\u00f3n Street",
+        "city": "San Juan",
+        "province": "PR",
+        "postal_code": null,
+        "province_name": "Puerto Rico"
+    },
+    "opinion_announcement": null,
+    "description": "A case in which the Court will decide whether, under the Double Jeopardy Clause, a vacated, unconstitutional conviction can prevent an acquittal from barring further prosecution on issues already decided in the defendant\u2019s favor by the earlier acquittal.",
+    "written_opinion": null,
+    "related_cases": null
+}

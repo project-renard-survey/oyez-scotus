@@ -2,11 +2,13 @@
     "ID": 15256,
     "name": "Marshall Court (1801-1804)",
     "href": "https:\/\/api.oyez.org\/courts\/marshall1",
+    "view_count": 0,
     "members": [
         {
             "ID": 15085,
             "name": "John Marshall",
             "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+            "view_count": 0,
             "last_name": "Marshall",
             "roles": [
                 {
@@ -24,7 +26,7 @@
                 "id": 32729,
                 "mime": "image\/png",
                 "size": 53035,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_marshall\/john_marshall.thumb.png"
             },
             "length_of_service": 12570,
             "identifier": "john_marshall"
@@ -33,6 +35,7 @@
             "ID": 15077,
             "name": "William Cushing",
             "href": "https:\/\/api.oyez.org\/people\/william_cushing",
+            "view_count": 0,
             "last_name": "Cushing",
             "roles": [
                 {
@@ -50,7 +53,7 @@
                 "id": 32776,
                 "mime": "image\/png",
                 "size": 52796,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_cushing.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_cushing\/william_cushing.thumb.png"
             },
             "length_of_service": 7527,
             "identifier": "william_cushing"
@@ -59,6 +62,7 @@
             "ID": 15070,
             "name": "William Paterson",
             "href": "https:\/\/api.oyez.org\/people\/william_paterson",
+            "view_count": 0,
             "last_name": "Paterson",
             "roles": [
                 {
@@ -76,7 +80,7 @@
                 "id": 32782,
                 "mime": "image\/png",
                 "size": 48669,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_paterson.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_paterson\/william_paterson.thumb.png"
             },
             "length_of_service": 4929,
             "identifier": "william_paterson"
@@ -85,6 +89,7 @@
             "ID": 15105,
             "name": "Samuel Chase",
             "href": "https:\/\/api.oyez.org\/people\/samuel_chase",
+            "view_count": 0,
             "last_name": "Chase",
             "roles": [
                 {
@@ -102,7 +107,7 @@
                 "id": 32759,
                 "mime": "image\/png",
                 "size": 52231,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_chase.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_chase\/samuel_chase.thumb.png"
             },
             "length_of_service": 5613,
             "identifier": "samuel_chase"
@@ -111,6 +116,7 @@
             "ID": 15093,
             "name": "Bushrod Washington",
             "href": "https:\/\/api.oyez.org\/people\/bushrod_washington",
+            "view_count": 0,
             "last_name": "Washington",
             "roles": [
                 {
@@ -128,7 +134,7 @@
                 "id": 32698,
                 "mime": "image\/png",
                 "size": 42759,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/bushrod_washington.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/bushrod_washington\/bushrod_washington.thumb.png"
             },
             "length_of_service": 11339,
             "identifier": "bushrod_washington"
@@ -137,6 +143,7 @@
             "ID": 15123,
             "name": "Alfred Moore",
             "href": "https:\/\/api.oyez.org\/people\/alfred_moore",
+            "view_count": 0,
             "last_name": "Moore",
             "roles": [
                 {
@@ -154,7 +161,7 @@
                 "id": 32694,
                 "mime": "image\/png",
                 "size": 55117,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/alfred_moore.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/alfred_moore\/alfred_moore.thumb.png"
             },
             "length_of_service": 1375,
             "identifier": "alfred_moore"
@@ -167,7 +174,7 @@
             "id": 78517,
             "mime": "image\/jpeg",
             "size": 4355969,
-            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/North-Wing_Capital_drawing_0.jpg"
+            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/marshall1.jpg"
         }
     ],
     "identifier": "marshall1"

@@ -2,9 +2,10 @@
     "ID": 55908,
     "name": "Evans v. Michigan",
     "href": "https:\/\/api.oyez.org\/cases\/2012\/11-1327",
+    "view_count": 43,
     "docket_number": "11-1327",
     "additional_docket_numbers": null,
-    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
     "first_party": "Lamar Evans",
     "second_party": "Michigan",
     "timeline": [
@@ -35,15 +36,16 @@
         "name": "Michigan Supreme Court",
         "href": "https:\/\/api.oyez.org\/taxonomy\/term\/43"
     },
-    "facts_of_the_case": "\u003Cp\u003ELamar Evans was accused of burning a vacant house in Detroit, Michigan. He was charged with \u0022burning other real property.\u0022 The trial court required the prosecution to prove that the building was not a dwelling, although that is not an element of the crime under Michigan law. As a result of this extra element, the court granted Evans\u0027 motion for a directed verdict of acquittal. The Court of Appeals of Michigan reversed the trial court decision and remanded for further proceedings. The court held that Double Jeopardy did not bar a retrial because the trial court did not resolve any factual element of the case. The directed verdict was based only on the prosecution\u0027s failure to prove an element that is not part of the crime. The Supreme Court of Michigan affirmed.\u003C\/p\u003E\n",
-    "question": "\u003Cp\u003EDoes the Double Jeopardy Clause bar retrial after the trial judge wrongly holds a particular fact to be an element of the offense and then grants a directed verdict of acquittal because the prosecution failed to prove that fact?\u003C\/p\u003E\n",
-    "conclusion": "\u003Cp\u003EYes. Justice Sonia Sotomayor, in an 8-1 opinion, reversed the lower court\u0027s decision and held that the Double Jeopardy Clause under the Fifth Amendment of the U.S. Constitution bars Evans\u0027 retrial. Even though the trial judge arrived at his ruling by erroneously adding a statutory element, Evans was acquitted for double jeopardy purposes. In general, any ruling based on the prosecution\u0027s failure to establish criminal liability will result in an acquittal. However, the Court distinguishes between an acquittal granted for substantive purposes and one granted for procedural purposes. When determining whether double jeopardy applies, only an acquittal based on the culpability of the defendant will conclude the proceedings entirely. If the acquittal is merely procedural and unrelated to the factual guilt or innocence of the defendant, there is no expectation that double jeopardy will bar further proceedings. The Court held that the trial court\u0027s acquittal factually resolved whether Evans was guilty or not; therefore it would be unfair to prosecute him again for the same crime.\u003C\/p\u003E\n\u003Cp\u003EJustice Samuel A. Alito Jr. filed a dissenting opinion, arguing that the majority\u0027s ruling goes beyond the original intent of the Double Jeopardy Clause. The Double Jeopardy Clause is intended to protect people from prosecutors\u0027 repeat attempts to convict an individual for the same offense. Since Evans moved for the directed verdict himself, the typical fear of repeat prosecution by the State does not arise. Despite the trial judge\u0027s error, the State was entitled to one complete opportunity to convict the defendant.\u003C\/p\u003E\n",
+    "facts_of_the_case": "<p>Lamar Evans was accused of burning a vacant house in Detroit, Michigan. He was charged with \"burning other real property.\" The trial court required the prosecution to prove that the building was not a dwelling, although that is not an element of the crime under Michigan law. As a result of this extra element, the court granted Evans' motion for a directed verdict of acquittal. The Court of Appeals of Michigan reversed the trial court decision and remanded for further proceedings. The court held that Double Jeopardy did not bar a retrial because the trial court did not resolve any factual element of the case. The directed verdict was based only on the prosecution's failure to prove an element that is not part of the crime. The Supreme Court of Michigan affirmed.<\/p>\n",
+    "question": "<p>Does the Double Jeopardy Clause bar retrial after the trial judge wrongly holds a particular fact to be an element of the offense and then grants a directed verdict of acquittal because the prosecution failed to prove that fact?<\/p>\n",
+    "conclusion": "<p>Yes. Justice Sonia Sotomayor, in an 8-1 opinion, reversed the lower court's decision and held that the Double Jeopardy Clause under the Fifth Amendment of the U.S. Constitution bars Evans' retrial. Even though the trial judge arrived at his ruling by erroneously adding a statutory element, Evans was acquitted for double jeopardy purposes. In general, any ruling based on the prosecution's failure to establish criminal liability will result in an acquittal. However, the Court distinguishes between an acquittal granted for substantive purposes and one granted for procedural purposes. When determining whether double jeopardy applies, only an acquittal based on the culpability of the defendant will conclude the proceedings entirely. If the acquittal is merely procedural and unrelated to the factual guilt or innocence of the defendant, there is no expectation that double jeopardy will bar further proceedings. The Court held that the trial court's acquittal factually resolved whether Evans was guilty or not; therefore it would be unfair to prosecute him again for the same crime.<\/p>\n<p>Justice Samuel A. Alito Jr. filed a dissenting opinion, arguing that the majority's ruling goes beyond the original intent of the Double Jeopardy Clause. The Double Jeopardy Clause is intended to protect people from prosecutors' repeat attempts to convict an individual for the same offense. Since Evans moved for the directed verdict himself, the typical fear of repeat prosecution by the State does not arise. Despite the trial judge's error, the State was entitled to one complete opportunity to convict the defendant.<\/p>\n",
     "advocates": [
         {
             "advocate": {
                 "ID": 21199,
                 "name": "David A. Moran",
                 "href": "https:\/\/api.oyez.org\/people\/david_a_moran",
+                "view_count": 0,
                 "last_name": "Moran",
                 "roles": null,
                 "thumbnail": null,
@@ -58,6 +60,7 @@
                 "ID": 42452,
                 "name": "Timothy A. Baughman",
                 "href": "https:\/\/api.oyez.org\/people\/timothy_a_baughman",
+                "view_count": 0,
                 "last_name": "Baughman",
                 "roles": null,
                 "thumbnail": null,
@@ -72,6 +75,7 @@
                 "ID": 19038,
                 "name": "Curtis E. Gannon",
                 "href": "https:\/\/api.oyez.org\/people\/curtis_e_gannon",
+                "view_count": 0,
                 "last_name": "Gannon",
                 "roles": null,
                 "thumbnail": null,
@@ -106,6 +110,7 @@
                         "ID": 15086,
                         "name": "John G. Roberts, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                        "view_count": 40,
                         "last_name": "Roberts",
                         "roles": [
                             {
@@ -123,9 +128,9 @@
                             "id": 32683,
                             "mime": "image\/png",
                             "size": 52305,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_g_roberts_jr\/john_g_roberts_jr.thumb.png"
                         },
-                        "length_of_service": 3702,
+                        "length_of_service": 3842,
                         "identifier": "john_g_roberts_jr"
                     },
                     "vote": "majority",
@@ -140,13 +145,14 @@
                         "ID": 15049,
                         "name": "Antonin Scalia",
                         "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                        "view_count": 54,
                         "last_name": "Scalia",
                         "roles": [
                             {
                                 "id": 2693,
                                 "type": "scotus_justice",
                                 "date_start": 528094800,
-                                "date_end": 0,
+                                "date_end": 1455343200,
                                 "appointing_president": "Ronald Reagan",
                                 "role_title": "Associate Justice of the Supreme Court of the United States",
                                 "institution_name": "Supreme Court of the United States",
@@ -157,9 +163,9 @@
                             "id": 32678,
                             "mime": "image\/png",
                             "size": 58944,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                         },
-                        "length_of_service": 10699,
+                        "length_of_service": 10732,
                         "identifier": "antonin_scalia"
                     },
                     "vote": "majority",
@@ -174,6 +180,7 @@
                         "ID": 15113,
                         "name": "Anthony M. Kennedy",
                         "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                        "view_count": 73,
                         "last_name": "Kennedy",
                         "roles": [
                             {
@@ -191,9 +198,9 @@
                             "id": 32679,
                             "mime": "image\/png",
                             "size": 47100,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                         },
-                        "length_of_service": 10147,
+                        "length_of_service": 10275,
                         "identifier": "anthony_m_kennedy"
                     },
                     "vote": "majority",
@@ -208,6 +215,7 @@
                         "ID": 15100,
                         "name": "Clarence Thomas",
                         "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                        "view_count": 91,
                         "last_name": "Thomas",
                         "roles": [
                             {
@@ -225,9 +233,9 @@
                             "id": 32680,
                             "mime": "image\/png",
                             "size": 49064,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                         },
-                        "length_of_service": 8870,
+                        "length_of_service": 8932,
                         "identifier": "clarence_thomas"
                     },
                     "vote": "majority",
@@ -242,6 +250,7 @@
                         "ID": 15084,
                         "name": "Ruth Bader Ginsburg",
                         "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                        "view_count": 55,
                         "last_name": "Ginsburg",
                         "roles": [
                             {
@@ -259,9 +268,9 @@
                             "id": 32681,
                             "mime": "image\/png",
                             "size": 45030,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
                         },
-                        "length_of_service": 8135,
+                        "length_of_service": 8275,
                         "identifier": "ruth_bader_ginsburg"
                     },
                     "vote": "majority",
@@ -276,6 +285,7 @@
                         "ID": 15139,
                         "name": "Stephen G. Breyer",
                         "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                        "view_count": 58,
                         "last_name": "Breyer",
                         "roles": [
                             {
@@ -293,9 +303,9 @@
                             "id": 32682,
                             "mime": "image\/png",
                             "size": 49908,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
                         },
-                        "length_of_service": 7777,
+                        "length_of_service": 7917,
                         "identifier": "stephen_g_breyer"
                     },
                     "vote": "majority",
@@ -309,7 +319,8 @@
                     "member": {
                         "ID": 15068,
                         "name": "Samuel A. Alito, Jr.",
-                        "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                        "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                        "view_count": 74,
                         "last_name": "Alito",
                         "roles": [
                             {
@@ -327,10 +338,10 @@
                             "id": 32684,
                             "mime": "image\/png",
                             "size": 44799,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
                         },
-                        "length_of_service": 3531,
-                        "identifier": "samuel_alito_jr"
+                        "length_of_service": 3718,
+                        "identifier": "samuel_a_alito_jr"
                     },
                     "vote": "minority",
                     "opinion_type": "dissent",
@@ -344,6 +355,7 @@
                         "ID": 15131,
                         "name": "Sonia Sotomayor",
                         "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
+                        "view_count": 63,
                         "last_name": "Sotomayor",
                         "roles": [
                             {
@@ -361,9 +373,9 @@
                             "id": 32685,
                             "mime": "image\/png",
                             "size": 50379,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sonia_sotomayor_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sonia_sotomayor\/sonia_sotomayor.thumb.png"
                         },
-                        "length_of_service": 2293,
+                        "length_of_service": 2433,
                         "identifier": "sonia_sotomayor"
                     },
                     "vote": "majority",
@@ -378,6 +390,7 @@
                         "ID": 15094,
                         "name": "Elena Kagan",
                         "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
+                        "view_count": 80,
                         "last_name": "Kagan",
                         "roles": [
                             {
@@ -395,9 +408,9 @@
                             "id": 32690,
                             "mime": "image\/png",
                             "size": 44456,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/elena-kagan-photo_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                         },
-                        "length_of_service": 1931,
+                        "length_of_service": 2069,
                         "identifier": "elena_kagan"
                     },
                     "vote": "majority",
@@ -420,13 +433,15 @@
     "heard_by": [
         {
             "ID": 15151,
-            "name": "Roberts Court (2010-     )",
+            "name": "Roberts Court (2010-2016)",
             "href": "https:\/\/api.oyez.org\/courts\/roberts6",
+            "view_count": 0,
             "members": [
                 {
                     "ID": 15086,
                     "name": "John G. Roberts, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                    "view_count": 40,
                     "last_name": "Roberts",
                     "roles": [
                         {
@@ -444,22 +459,23 @@
                         "id": 32683,
                         "mime": "image\/png",
                         "size": 52305,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_g_roberts_jr\/john_g_roberts_jr.thumb.png"
                     },
-                    "length_of_service": 3702,
+                    "length_of_service": 3842,
                     "identifier": "john_g_roberts_jr"
                 },
                 {
                     "ID": 15049,
                     "name": "Antonin Scalia",
                     "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                    "view_count": 54,
                     "last_name": "Scalia",
                     "roles": [
                         {
                             "id": 2693,
                             "type": "scotus_justice",
                             "date_start": 528094800,
-                            "date_end": 0,
+                            "date_end": 1455343200,
                             "appointing_president": "Ronald Reagan",
                             "role_title": "Associate Justice of the Supreme Court of the United States",
                             "institution_name": "Supreme Court of the United States",
@@ -470,15 +486,16 @@
                         "id": 32678,
                         "mime": "image\/png",
                         "size": 58944,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                     },
-                    "length_of_service": 10699,
+                    "length_of_service": 10732,
                     "identifier": "antonin_scalia"
                 },
                 {
                     "ID": 15113,
                     "name": "Anthony M. Kennedy",
                     "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                    "view_count": 73,
                     "last_name": "Kennedy",
                     "roles": [
                         {
@@ -496,15 +513,16 @@
                         "id": 32679,
                         "mime": "image\/png",
                         "size": 47100,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                     },
-                    "length_of_service": 10147,
+                    "length_of_service": 10275,
                     "identifier": "anthony_m_kennedy"
                 },
                 {
                     "ID": 15100,
                     "name": "Clarence Thomas",
                     "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                    "view_count": 91,
                     "last_name": "Thomas",
                     "roles": [
                         {
@@ -522,15 +540,16 @@
                         "id": 32680,
                         "mime": "image\/png",
                         "size": 49064,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                     },
-                    "length_of_service": 8870,
+                    "length_of_service": 8932,
                     "identifier": "clarence_thomas"
                 },
                 {
                     "ID": 15084,
                     "name": "Ruth Bader Ginsburg",
                     "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                    "view_count": 55,
                     "last_name": "Ginsburg",
                     "roles": [
                         {
@@ -548,15 +567,16 @@
                         "id": 32681,
                         "mime": "image\/png",
                         "size": 45030,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
                     },
-                    "length_of_service": 8135,
+                    "length_of_service": 8275,
                     "identifier": "ruth_bader_ginsburg"
                 },
                 {
                     "ID": 15139,
                     "name": "Stephen G. Breyer",
                     "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                    "view_count": 58,
                     "last_name": "Breyer",
                     "roles": [
                         {
@@ -574,15 +594,16 @@
                         "id": 32682,
                         "mime": "image\/png",
                         "size": 49908,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
                     },
-                    "length_of_service": 7777,
+                    "length_of_service": 7917,
                     "identifier": "stephen_g_breyer"
                 },
                 {
                     "ID": 15068,
                     "name": "Samuel A. Alito, Jr.",
-                    "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                    "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                    "view_count": 74,
                     "last_name": "Alito",
                     "roles": [
                         {
@@ -600,15 +621,16 @@
                         "id": 32684,
                         "mime": "image\/png",
                         "size": 44799,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
                     },
-                    "length_of_service": 3531,
-                    "identifier": "samuel_alito_jr"
+                    "length_of_service": 3718,
+                    "identifier": "samuel_a_alito_jr"
                 },
                 {
                     "ID": 15131,
                     "name": "Sonia Sotomayor",
                     "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
+                    "view_count": 63,
                     "last_name": "Sotomayor",
                     "roles": [
                         {
@@ -626,15 +648,16 @@
                         "id": 32685,
                         "mime": "image\/png",
                         "size": 50379,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sonia_sotomayor_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sonia_sotomayor\/sonia_sotomayor.thumb.png"
                     },
-                    "length_of_service": 2293,
+                    "length_of_service": 2433,
                     "identifier": "sonia_sotomayor"
                 },
                 {
                     "ID": 15094,
                     "name": "Elena Kagan",
                     "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
+                    "view_count": 80,
                     "last_name": "Kagan",
                     "roles": [
                         {
@@ -652,9 +675,9 @@
                         "id": 32690,
                         "mime": "image\/png",
                         "size": 44456,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/elena-kagan-photo_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                     },
-                    "length_of_service": 1931,
+                    "length_of_service": 2069,
                     "identifier": "elena_kagan"
                 }
             ],
@@ -664,7 +687,7 @@
                     "id": 12235,
                     "mime": "image\/jpeg",
                     "size": 359998,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/roberts_court_2010-.jpg"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/roberts6.jpg"
                 }
             ],
             "identifier": "roberts6"
@@ -672,13 +695,15 @@
     ],
     "decided_by": {
         "ID": 15151,
-        "name": "Roberts Court (2010-     )",
+        "name": "Roberts Court (2010-2016)",
         "href": "https:\/\/api.oyez.org\/courts\/roberts6",
+        "view_count": 0,
         "members": [
             {
                 "ID": 15086,
                 "name": "John G. Roberts, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                "view_count": 40,
                 "last_name": "Roberts",
                 "roles": [
                     {
@@ -696,22 +721,23 @@
                     "id": 32683,
                     "mime": "image\/png",
                     "size": 52305,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_g_roberts_jr\/john_g_roberts_jr.thumb.png"
                 },
-                "length_of_service": 3702,
+                "length_of_service": 3842,
                 "identifier": "john_g_roberts_jr"
             },
             {
                 "ID": 15049,
                 "name": "Antonin Scalia",
                 "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                "view_count": 54,
                 "last_name": "Scalia",
                 "roles": [
                     {
                         "id": 2693,
                         "type": "scotus_justice",
                         "date_start": 528094800,
-                        "date_end": 0,
+                        "date_end": 1455343200,
                         "appointing_president": "Ronald Reagan",
                         "role_title": "Associate Justice of the Supreme Court of the United States",
                         "institution_name": "Supreme Court of the United States",
@@ -722,15 +748,16 @@
                     "id": 32678,
                     "mime": "image\/png",
                     "size": 58944,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                 },
-                "length_of_service": 10699,
+                "length_of_service": 10732,
                 "identifier": "antonin_scalia"
             },
             {
                 "ID": 15113,
                 "name": "Anthony M. Kennedy",
                 "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                "view_count": 73,
                 "last_name": "Kennedy",
                 "roles": [
                     {
@@ -748,15 +775,16 @@
                     "id": 32679,
                     "mime": "image\/png",
                     "size": 47100,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                 },
-                "length_of_service": 10147,
+                "length_of_service": 10275,
                 "identifier": "anthony_m_kennedy"
             },
             {
                 "ID": 15100,
                 "name": "Clarence Thomas",
                 "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                "view_count": 91,
                 "last_name": "Thomas",
                 "roles": [
                     {
@@ -774,15 +802,16 @@
                     "id": 32680,
                     "mime": "image\/png",
                     "size": 49064,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                 },
-                "length_of_service": 8870,
+                "length_of_service": 8932,
                 "identifier": "clarence_thomas"
             },
             {
                 "ID": 15084,
                 "name": "Ruth Bader Ginsburg",
                 "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                "view_count": 55,
                 "last_name": "Ginsburg",
                 "roles": [
                     {
@@ -800,15 +829,16 @@
                     "id": 32681,
                     "mime": "image\/png",
                     "size": 45030,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
                 },
-                "length_of_service": 8135,
+                "length_of_service": 8275,
                 "identifier": "ruth_bader_ginsburg"
             },
             {
                 "ID": 15139,
                 "name": "Stephen G. Breyer",
                 "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                "view_count": 58,
                 "last_name": "Breyer",
                 "roles": [
                     {
@@ -826,15 +856,16 @@
                     "id": 32682,
                     "mime": "image\/png",
                     "size": 49908,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
                 },
-                "length_of_service": 7777,
+                "length_of_service": 7917,
                 "identifier": "stephen_g_breyer"
             },
             {
                 "ID": 15068,
                 "name": "Samuel A. Alito, Jr.",
-                "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                "view_count": 74,
                 "last_name": "Alito",
                 "roles": [
                     {
@@ -852,15 +883,16 @@
                     "id": 32684,
                     "mime": "image\/png",
                     "size": 44799,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
                 },
-                "length_of_service": 3531,
-                "identifier": "samuel_alito_jr"
+                "length_of_service": 3718,
+                "identifier": "samuel_a_alito_jr"
             },
             {
                 "ID": 15131,
                 "name": "Sonia Sotomayor",
                 "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
+                "view_count": 63,
                 "last_name": "Sotomayor",
                 "roles": [
                     {
@@ -878,15 +910,16 @@
                     "id": 32685,
                     "mime": "image\/png",
                     "size": 50379,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sonia_sotomayor_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sonia_sotomayor\/sonia_sotomayor.thumb.png"
                 },
-                "length_of_service": 2293,
+                "length_of_service": 2433,
                 "identifier": "sonia_sotomayor"
             },
             {
                 "ID": 15094,
                 "name": "Elena Kagan",
                 "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
+                "view_count": 80,
                 "last_name": "Kagan",
                 "roles": [
                     {
@@ -904,9 +937,9 @@
                     "id": 32690,
                     "mime": "image\/png",
                     "size": 44456,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/elena-kagan-photo_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                 },
-                "length_of_service": 1931,
+                "length_of_service": 2069,
                 "identifier": "elena_kagan"
             }
         ],
@@ -916,7 +949,7 @@
                 "id": 12235,
                 "mime": "image\/jpeg",
                 "size": 359998,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/roberts_court_2010-.jpg"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/roberts6.jpg"
             }
         ],
         "identifier": "roberts6"

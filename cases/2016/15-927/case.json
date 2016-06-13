@@ -1,0 +1,58 @@
+{
+    "ID": 62703,
+    "name": "SCA Hygiene Products v. First Quality Baby Products",
+    "href": "https:\/\/api.oyez.org\/cases\/2016\/15-927",
+    "view_count": 0,
+    "docket_number": "15-927",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
+    "first_party": "SCA Hygiene Products Aktiebolag, et al.",
+    "second_party": "First Quality Baby Products, LLC, et al.",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1462165200
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53510"
+        }
+    ],
+    "lower_court": {
+        "ID": 17,
+        "name": "United States Court of Appeals for the Federal Circuit",
+        "href": "https:\/\/api.oyez.org\/taxonomy\/term\/17"
+    },
+    "facts_of_the_case": "<p>SCA Hygiene Products Aktiebolag (SCA) produces adult incontinence products, as does First Quality Baby Products, LLC (First Quality). In 2003, SCA notified First Quality that it believed First Quality was infringing on one of its patents, and First Quality responded by arguing that, because the SCA patent in question was essentially the same as a prior-filed patent, it was invalid and therefore First Quality could not be infringing. The two companies ceased communication on the issue, but in 2004, SCA requested that the U.S. Patent and Trademark Office (PTO) reexamine its patent in light of the prior-filed one, and in 2007, the PTO determined that the patent in question was valid.<\/p>\n<p>In 2010, SCA sued First Quality for patent infringement. First Quality moved for summary judgment because SCA had unreasonably delayed litigation, and the district court granted the motion. The U.S. Court of Appeals for the Federal Circuit affirmed the district court\u2019s opinion regarding the unreasonable delay because SCA should have been able to proceed with litigation after the reexamination and had not provided evidence to justify the delay. SCA requested a rehearing before the entire appellate court to reconsider the issue in light of the Supreme Court\u2019s decision in &lt;i&gt;Petrella v. Metro-Goldwyn-Mayer&lt;\/i&gt;, which held that the unreasonable delay defense cannot bar suits for copyright infringement that occurred during the three-year limitations period, and argued that the same analysis should apply to patent suits like this one. Upon rehearing, the appellate court rejected SCA\u2019s argument and held that the Petrella decision did not affect its precedent, which stated that an unreasonable delay defense may be used in patent infringement claims brought within the six-year statute of limitations, and courts must examine the circumstances underlying those claims and the defense.<\/p>\n",
+    "question": "<p>Can the defense of an unreasonable delay in litigation bar claims for patent infringement that are brought within the six-year statutory period of limitations?<\/p>\n",
+    "conclusion": null,
+    "advocates": null,
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27424"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        null
+    ],
+    "decided_by": null,
+    "term": "2016",
+    "location": {
+        "latitude": 38.899578,
+        "longitude": -77.034862,
+        "name": "U.S. Court of Appeals for the Federal Circuit",
+        "street": "717 Madison Place N.W.",
+        "city": "Washington",
+        "province": "DC",
+        "postal_code": null,
+        "province_name": "District Of Columbia"
+    },
+    "opinion_announcement": null,
+    "description": "A case in which the Court will determine whether the defense of an unreasonable delay in litigation can bar claims for patent infringement that are brought within the six-year statutory period of limitations.",
+    "written_opinion": null,
+    "related_cases": null
+}

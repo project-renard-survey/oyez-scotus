@@ -2,9 +2,10 @@
     "ID": 62657,
     "name": "Cuozzo Speed Technologies v. Lee",
     "href": "https:\/\/api.oyez.org\/cases\/2015\/15-446",
+    "view_count": 161,
     "docket_number": "15-446",
     "additional_docket_numbers": null,
-    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
     "first_party": "Cuozzo Speed Technologies, LLC",
     "second_party": "Michelle K. Lee, Under Secretary of Commerce for Intellectual Property and Director, Patent and Trademark Office",
     "timeline": [
@@ -14,6 +15,13 @@
                 1452837600
             ],
             "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53403"
+        },
+        {
+            "event": "Argued",
+            "dates": [
+                1461560400
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53436"
         }
     ],
     "lower_court": {
@@ -21,11 +29,50 @@
         "name": "United States Court of Appeals for the Federal Circuit",
         "href": "https:\/\/api.oyez.org\/taxonomy\/term\/17"
     },
-    "facts_of_the_case": "\u003Cp\u003ECuozzo Speed Technologies, LLC. (Cuozzo) owns the 074 patent, \u201cSpeed Limit Indicator and Method for Displaying Speed and the Relevant Speed Limit,\u201d and Garmin International, Inc. (Garmin) petitioned the Patent Trial and Appeal Board (Board) for \u003Cem\u003Einter partes\u003C\/em\u003E review of claims regarding the patent. The Board was established to process patent litigation faster by using \u003Cem\u003Einter partes\u003C\/em\u003E review, and during that process, the Board uses the broadest reasonable interpretation when reviewing patent claims instead of the plain and ordinary meaning of patent claims. The Board found that claims 10, 14, and 17 were unpatentable. Cuozzo filed a motion to amend by replacing claims 10, 14, and 17 with claims 21, 22, and 23. The Board denied this request by applying the broadest reasonable interpretation standard to the term \u201cintegrally attached\u201d regarding claim 14 on the components of the \u201cSpeed Limit Indicator.\u201d Cuozzo appealed to the U.S. Court of Appeals for the Federal Circuit, which held that it lacked authority to review the Board\u2019s finding under the broadest reasonable interpretation.\u003C\/p\u003E\n",
-    "question": "\u003Col\u003E\u003Cli\u003EMay the Patent Trial and Appeal Board apply the broadest reasonable interpretation of patent claims during an \u003Cem\u003Einter partes\u003C\/em\u003E review proceeding?\u003C\/li\u003E\n\u003Cli\u003EIs the Patent Trial and Appeal Board\u2019s use of \u003Cem\u003Einter partes\u003C\/em\u003E review judicially reviewable?\u003C\/li\u003E\n\u003C\/ol\u003E",
+    "facts_of_the_case": "<p>Cuozzo Speed Technologies, LLC. (Cuozzo) owns the 074 patent, \u201cSpeed Limit Indicator and Method for Displaying Speed and the Relevant Speed Limit,\u201d and Garmin International, Inc. (Garmin) petitioned the Patent Trial and Appeal Board (Board) for <em>inter partes<\/em> review of claims regarding the patent. The Board was established to process patent litigation faster by using <em>inter partes<\/em> review, and during that process, the Board uses the broadest reasonable interpretation when reviewing patent claims instead of the plain and ordinary meaning of patent claims. The Board found that claims 10, 14, and 17 were unpatentable. Cuozzo filed a motion to amend by replacing claims 10, 14, and 17 with claims 21, 22, and 23. The Board denied this request by applying the broadest reasonable interpretation standard to the term \u201cintegrally attached\u201d regarding claim 14 on the components of the \u201cSpeed Limit Indicator.\u201d Cuozzo appealed to the U.S. Court of Appeals for the Federal Circuit, which held that it lacked authority to review the Board\u2019s finding under the broadest reasonable interpretation.<\/p>\n",
+    "question": "<ol><li>May the Patent Trial and Appeal Board apply the broadest reasonable interpretation of patent claims during an <em>inter partes<\/em> review proceeding?<\/li>\n<li>Is the Patent Trial and Appeal Board\u2019s use of <em>inter partes<\/em> review judicially reviewable?<\/li>\n<\/ol>",
     "conclusion": null,
-    "advocates": null,
-    "oral_argument_audio": null,
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 24997,
+                "name": "Garrard R. Beeney",
+                "href": "https:\/\/api.oyez.org\/people\/garrard_r_beeney",
+                "view_count": 0,
+                "last_name": "Beeney",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "garrard_r_beeney"
+            },
+            "advocate_description": "for the petitioner",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21702"
+        },
+        {
+            "advocate": {
+                "ID": 19038,
+                "name": "Curtis E. Gannon",
+                "href": "https:\/\/api.oyez.org\/people\/curtis_e_gannon",
+                "view_count": 0,
+                "last_name": "Gannon",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "curtis_e_gannon"
+            },
+            "advocate_description": "Assistant to the Solicitor General, for the respondent",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21703"
+        }
+    ],
+    "oral_argument_audio": [
+        {
+            "id": 24136,
+            "title": "Oral Argument - April 25, 2016",
+            "public_note": null,
+            "unavailable": false,
+            "href": "https:\/\/api.oyez.org\/case_media\/oral_argument_audio\/24136"
+        }
+    ],
     "citation": {
         "volume": null,
         "page": null,
@@ -36,7 +83,240 @@
     "first_party_label": "Petitioner",
     "second_party_label": "Respondent",
     "heard_by": [
-        null
+        {
+            "ID": 62665,
+            "name": "Roberts Court (2016- )",
+            "href": "https:\/\/api.oyez.org\/courts\/roberts7",
+            "view_count": 0,
+            "members": [
+                {
+                    "ID": 15086,
+                    "name": "John G. Roberts, Jr.",
+                    "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                    "view_count": 40,
+                    "last_name": "Roberts",
+                    "roles": [
+                        {
+                            "id": 2730,
+                            "type": "scotus_justice",
+                            "date_start": 1127970000,
+                            "date_end": 0,
+                            "appointing_president": "George W. Bush",
+                            "role_title": "Chief Justice of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32683,
+                        "mime": "image\/png",
+                        "size": 52305,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_g_roberts_jr\/john_g_roberts_jr.thumb.png"
+                    },
+                    "length_of_service": 3842,
+                    "identifier": "john_g_roberts_jr"
+                },
+                {
+                    "ID": 15113,
+                    "name": "Anthony M. Kennedy",
+                    "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                    "view_count": 73,
+                    "last_name": "Kennedy",
+                    "roles": [
+                        {
+                            "id": 2757,
+                            "type": "scotus_justice",
+                            "date_start": 572162400,
+                            "date_end": 0,
+                            "appointing_president": "Ronald Reagan",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2757"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32679,
+                        "mime": "image\/png",
+                        "size": 47100,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
+                    },
+                    "length_of_service": 10275,
+                    "identifier": "anthony_m_kennedy"
+                },
+                {
+                    "ID": 15100,
+                    "name": "Clarence Thomas",
+                    "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                    "view_count": 91,
+                    "last_name": "Thomas",
+                    "roles": [
+                        {
+                            "id": 2744,
+                            "type": "scotus_justice",
+                            "date_start": 688194000,
+                            "date_end": 0,
+                            "appointing_president": "George H. W. Bush",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2744"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32680,
+                        "mime": "image\/png",
+                        "size": 49064,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
+                    },
+                    "length_of_service": 8932,
+                    "identifier": "clarence_thomas"
+                },
+                {
+                    "ID": 15084,
+                    "name": "Ruth Bader Ginsburg",
+                    "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                    "view_count": 55,
+                    "last_name": "Ginsburg",
+                    "roles": [
+                        {
+                            "id": 2728,
+                            "type": "scotus_justice",
+                            "date_start": 744958800,
+                            "date_end": 0,
+                            "appointing_president": "Bill Clinton",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2728"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32681,
+                        "mime": "image\/png",
+                        "size": 45030,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
+                    },
+                    "length_of_service": 8275,
+                    "identifier": "ruth_bader_ginsburg"
+                },
+                {
+                    "ID": 15139,
+                    "name": "Stephen G. Breyer",
+                    "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                    "view_count": 58,
+                    "last_name": "Breyer",
+                    "roles": [
+                        {
+                            "id": 2785,
+                            "type": "scotus_justice",
+                            "date_start": 775890000,
+                            "date_end": 0,
+                            "appointing_president": "Bill Clinton",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2785"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32682,
+                        "mime": "image\/png",
+                        "size": 49908,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
+                    },
+                    "length_of_service": 7917,
+                    "identifier": "stephen_g_breyer"
+                },
+                {
+                    "ID": 15068,
+                    "name": "Samuel A. Alito, Jr.",
+                    "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                    "view_count": 74,
+                    "last_name": "Alito",
+                    "roles": [
+                        {
+                            "id": 2712,
+                            "type": "scotus_justice",
+                            "date_start": 1138687200,
+                            "date_end": 0,
+                            "appointing_president": "George W. Bush",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2712"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32684,
+                        "mime": "image\/png",
+                        "size": 44799,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
+                    },
+                    "length_of_service": 3718,
+                    "identifier": "samuel_a_alito_jr"
+                },
+                {
+                    "ID": 15131,
+                    "name": "Sonia Sotomayor",
+                    "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
+                    "view_count": 63,
+                    "last_name": "Sotomayor",
+                    "roles": [
+                        {
+                            "id": 2776,
+                            "type": "scotus_justice",
+                            "date_start": 1249707600,
+                            "date_end": 0,
+                            "appointing_president": null,
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2776"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32685,
+                        "mime": "image\/png",
+                        "size": 50379,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sonia_sotomayor\/sonia_sotomayor.thumb.png"
+                    },
+                    "length_of_service": 2433,
+                    "identifier": "sonia_sotomayor"
+                },
+                {
+                    "ID": 15094,
+                    "name": "Elena Kagan",
+                    "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
+                    "view_count": 80,
+                    "last_name": "Kagan",
+                    "roles": [
+                        {
+                            "id": 2738,
+                            "type": "scotus_justice",
+                            "date_start": 1281157200,
+                            "date_end": 0,
+                            "appointing_president": "Barack Obama",
+                            "role_title": "Associate Justice of the Supreme Court of the United States",
+                            "institution_name": "Supreme Court of the United States",
+                            "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2738"
+                        }
+                    ],
+                    "thumbnail": {
+                        "id": 32690,
+                        "mime": "image\/png",
+                        "size": 44456,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
+                    },
+                    "length_of_service": 2069,
+                    "identifier": "elena_kagan"
+                }
+            ],
+            "court_start": 1455343200,
+            "images": [
+                {
+                    "id": 79051,
+                    "mime": "image\/jpeg",
+                    "size": 2177911,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/roberts7.jpg"
+                }
+            ],
+            "identifier": "roberts7"
+        }
     ],
     "decided_by": null,
     "term": "2015",

@@ -40,6 +40,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -57,7 +58,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -68,7 +69,7 @@
                                 "stop": 85.337,
                                 "byte_start": 126880,
                                 "byte_stop": 468248,
-                                "text": "Mr. Savage, I think you may begin whenever you\u0027re ready."
+                                "text": "Mr. Savage, I think you may begin whenever you're ready."
                             }
                         ]
                     },
@@ -81,6 +82,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -107,7 +109,7 @@
                                 "stop": 123.479,
                                 "byte_start": 542854,
                                 "byte_stop": 620803,
-                                "text": "And what Section 7609(f) says is that before the IRS can bring all of that power to bear on people whose identity it doesn\u0027t even know yet, first it has to show a court of law that it has a reasonable basis for wanting to investigate these people."
+                                "text": "And what Section 7609(f) says is that before the IRS can bring all of that power to bear on people whose identity it doesn't even know yet, first it has to show a court of law that it has a reasonable basis for wanting to investigate these people."
                             },
                             {
                                 "start": 123.479,
@@ -125,9 +127,10 @@
                         "byte_stop": 755804,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -144,7 +147,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -168,6 +171,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -229,7 +233,7 @@
                                 "stop": 247.86,
                                 "byte_start": 1040539,
                                 "byte_stop": 1118384,
-                                "text": "I don\u0027t think there would be any doubt, though... I don\u0027t think the government would contend that Congress didn\u0027t expect 7609(f) to be used to obtain identities of more than one person."
+                                "text": "I don't think there would be any doubt, though... I don't think the government would contend that Congress didn't expect 7609(f) to be used to obtain identities of more than one person."
                             },
                             {
                                 "start": 247.86,
@@ -243,14 +247,14 @@
                                 "stop": 283.651,
                                 "byte_start": 1206155,
                                 "byte_stop": 1261535,
-                                "text": "Now, the government takes the position that as long as the summons identifies one person with respect to whose tax liability it was issued, it\u0027s not a John Doe summons."
+                                "text": "Now, the government takes the position that as long as the summons identifies one person with respect to whose tax liability it was issued, it's not a John Doe summons."
                             },
                             {
                                 "start": 283.651,
                                 "stop": 287.187,
                                 "byte_start": 1261535,
                                 "byte_stop": 1275641,
-                                "text": "But that can\u0027t be a correct interpretation of the statute."
+                                "text": "But that can't be a correct interpretation of the statute."
                             },
                             {
                                 "start": 287.187,
@@ -264,21 +268,21 @@
                                 "stop": 317.189,
                                 "byte_start": 1323288,
                                 "byte_stop": 1395700,
-                                "text": "\u0022Furnish us with the letter that you gave to John Smith advising him the transaction was tax-free, and also furnish us with the names and addressed and Social Security numbers of all the other shareholders in the corporation who received the letter. \u0022"
+                                "text": "\"Furnish us with the letter that you gave to John Smith advising him the transaction was tax-free, and also furnish us with the names and addressed and Social Security numbers of all the other shareholders in the corporation who received the letter. \""
                             },
                             {
                                 "start": 317.189,
                                 "stop": 332.282,
                                 "byte_start": 1395700,
                                 "byte_stop": 1456095,
-                                "text": "I don\u0027t think the government would contend that that summons was not a John Doe summons simply because it identified one of the shareholders, John Smith, who the IRS said was under audit."
+                                "text": "I don't think the government would contend that that summons was not a John Doe summons simply because it identified one of the shareholders, John Smith, who the IRS said was under audit."
                             },
                             {
                                 "start": 332.282,
                                 "stop": 336.084,
                                 "byte_start": 1456095,
                                 "byte_stop": 1471246,
-                                "text": "So the real problem with the statute is that the word \u0022person\u0022 is used in the singular."
+                                "text": "So the real problem with the statute is that the word \"person\" is used in the singular."
                             },
                             {
                                 "start": 336.084,
@@ -299,14 +303,14 @@
                                 "stop": 369.241,
                                 "byte_start": 1559017,
                                 "byte_stop": 1603948,
-                                "text": "Otherwise, the IRS could get around the John Doe summons rules simply by identifying one of Tiffany\u0027s customers who was under investigation."
+                                "text": "Otherwise, the IRS could get around the John Doe summons rules simply by identifying one of Tiffany's customers who was under investigation."
                             },
                             {
                                 "start": 369.241,
                                 "stop": 379.613,
                                 "byte_start": 1603948,
                                 "byte_stop": 1645430,
-                                "text": "The statute itself confirms that the word \u0022person\u0022, the term \u0022person\u0022 must be read as \u0022person\u0022 or \u0022persons\u0022."
+                                "text": "The statute itself confirms that the word \"person\", the term \"person\" must be read as \"person\" or \"persons\"."
                             },
                             {
                                 "start": 379.613,
@@ -327,7 +331,7 @@
                                 "stop": 415.87,
                                 "byte_start": 1738217,
                                 "byte_stop": 1790462,
-                                "text": "One of the summonses... the summons served under Section 7602 is your standard, run-of-the mill summons, served on a taxpayer who\u0027s under audit, and who is obviously identified in the summons."
+                                "text": "One of the summonses... the summons served under Section 7602 is your standard, run-of-the mill summons, served on a taxpayer who's under audit, and who is obviously identified in the summons."
                             },
                             {
                                 "start": 415.87,
@@ -348,21 +352,21 @@
                                 "stop": 457.882,
                                 "byte_start": 1878233,
                                 "byte_stop": 1958482,
-                                "text": "Now, the Service contends that Section 7609(f) shouldn\u0027t be used to... shouldn\u0027t be read to interfere with its ability to audit companies such as Tiffany, who are taxpayers, but who also have information on other taxpayers, which is concededly of interest to the Service."
+                                "text": "Now, the Service contends that Section 7609(f) shouldn't be used to... shouldn't be read to interfere with its ability to audit companies such as Tiffany, who are taxpayers, but who also have information on other taxpayers, which is concededly of interest to the Service."
                             },
                             {
                                 "start": 457.882,
                                 "stop": 477.026,
                                 "byte_start": 1958482,
                                 "byte_stop": 2035073,
-                                "text": "I\u0027m not so sure that Section 7609(f) can be read in any other way when a purpose of the summons is to identify those other taxpayers, particularly if you read \u0022person\u0022 to mean \u0022person\u0022 or \u0022persons\u0022, which you must."
+                                "text": "I'm not so sure that Section 7609(f) can be read in any other way when a purpose of the summons is to identify those other taxpayers, particularly if you read \"person\" to mean \"person\" or \"persons\", which you must."
                             },
                             {
                                 "start": 477.026,
                                 "stop": 493.305,
                                 "byte_start": 2035073,
                                 "byte_stop": 2100170,
-                                "text": "But when the Service argues that Section 7609(f) shouldn\u0027t be read to interfere with its audit functions, it\u0027s really arguing, in effect, that it should be permitted to determine all by itself when Section 7609(f) applies."
+                                "text": "But when the Service argues that Section 7609(f) shouldn't be read to interfere with its audit functions, it's really arguing, in effect, that it should be permitted to determine all by itself when Section 7609(f) applies."
                             },
                             {
                                 "start": 493.305,
@@ -396,6 +400,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -413,7 +418,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -451,6 +456,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -463,7 +469,7 @@
                                 "stop": 541.986,
                                 "byte_start": 2237156,
                                 "byte_stop": 2294834,
-                                "text": "--What the Second Circuit Court of Appeals did, Your Honor, was: It said if a purpose of this summons was to audit Tiffany Fine Arts, we don\u0027t care whether there were any other purposes."
+                                "text": "--What the Second Circuit Court of Appeals did, Your Honor, was: It said if a purpose of this summons was to audit Tiffany Fine Arts, we don't care whether there were any other purposes."
                             },
                             {
                                 "start": 541.986,
@@ -477,14 +483,14 @@
                                 "stop": 567.786,
                                 "byte_start": 2308940,
                                 "byte_stop": 2398070,
-                                "text": "We are suggesting that if a purpose of the summons was to identify Tiffany\u0027s clients and audit them, then even if a purpose of the summons was also to audit Tiffany Fine Arts, Section 7609(f) still applies only to the question of identifying the clients."
+                                "text": "We are suggesting that if a purpose of the summons was to identify Tiffany's clients and audit them, then even if a purpose of the summons was also to audit Tiffany Fine Arts, Section 7609(f) still applies only to the question of identifying the clients."
                             },
                             {
                                 "start": 567.786,
                                 "stop": 575.876,
                                 "byte_start": 2398070,
                                 "byte_stop": 2430462,
-                                "text": "The IRS is free to have all of the other information on Tiffany that it wants, but it wants... and we\u0027re not saying that it can\u0027t have the client\u0027s identities either."
+                                "text": "The IRS is free to have all of the other information on Tiffany that it wants, but it wants... and we're not saying that it can't have the client's identities either."
                             },
                             {
                                 "start": 575.876,
@@ -504,6 +510,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -521,7 +528,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -545,6 +552,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -570,6 +578,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -587,7 +596,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -598,7 +607,7 @@
                                 "stop": 611.715,
                                 "byte_start": 2501933,
                                 "byte_stop": 2573822,
-                                "text": "May I ask, under your reading of the statute, I\u0027m not sure you aren\u0027t suggesting it should read identify not just person or persons, but I think all of the persons is really the meaning you would read into it, I think, that proves identity... I mean the summons issued."
+                                "text": "May I ask, under your reading of the statute, I'm not sure you aren't suggesting it should read identify not just person or persons, but I think all of the persons is really the meaning you would read into it, I think, that proves identity... I mean the summons issued."
                             },
                             {
                                 "start": 611.715,
@@ -612,14 +621,14 @@
                                 "stop": 633.728,
                                 "byte_start": 2623664,
                                 "byte_stop": 2661802,
-                                "text": "How could they ever get the names of the people on your list if they don\u0027t have any specific knowledge about, say, a particular John Doe?"
+                                "text": "How could they ever get the names of the people on your list if they don't have any specific knowledge about, say, a particular John Doe?"
                             },
                             {
                                 "start": 633.728,
                                 "stop": 638.882,
                                 "byte_start": 2661802,
                                 "byte_stop": 2682491,
-                                "text": "And they don\u0027t know who he is, so they really can\u0027t say whether there\u0027s any tax deficiency."
+                                "text": "And they don't know who he is, so they really can't say whether there's any tax deficiency."
                             },
                             {
                                 "start": 638.882,
@@ -639,6 +648,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -671,6 +681,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -688,7 +699,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -699,7 +710,7 @@
                                 "stop": 648.071,
                                 "byte_start": 2704434,
                                 "byte_stop": 2719167,
-                                "text": "Well, of course, under the Court of Appeals holding, they don\u0027t have any trouble."
+                                "text": "Well, of course, under the Court of Appeals holding, they don't have any trouble."
                             },
                             {
                                 "start": 648.071,
@@ -726,6 +737,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -738,14 +750,14 @@
                                 "stop": 652.556,
                                 "byte_start": 2734736,
                                 "byte_stop": 2737140,
-                                "text": "I\u0027m sorry, Your Honor."
+                                "text": "I'm sorry, Your Honor."
                             },
                             {
                                 "start": 652.556,
                                 "stop": 653.958,
                                 "byte_start": 2737140,
                                 "byte_stop": 2742782,
-                                "text": "Perhaps I didn\u0027t understand the question."
+                                "text": "Perhaps I didn't understand the question."
                             }
                         ]
                     },
@@ -758,6 +770,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -775,7 +788,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -786,7 +799,7 @@
                                 "stop": 660.879,
                                 "byte_start": 2742782,
                                 "byte_stop": 2770472,
-                                "text": "I understand that under the Court of Appeals interpretation of the statute, they will get these names if it\u0027s a secondary purpose."
+                                "text": "I understand that under the Court of Appeals interpretation of the statute, they will get these names if it's a secondary purpose."
                             },
                             {
                                 "start": 660.879,
@@ -806,6 +819,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -818,14 +832,14 @@
                                 "stop": 683.077,
                                 "byte_start": 2832121,
                                 "byte_stop": 2859288,
-                                "text": "Under my interpretation of the statute, if all they had was a hunch, then no, they couldn\u0027t get the names of these people."
+                                "text": "Under my interpretation of the statute, if all they had was a hunch, then no, they couldn't get the names of these people."
                             },
                             {
                                 "start": 683.077,
                                 "stop": 691.683,
                                 "byte_start": 2859288,
                                 "byte_stop": 2893665,
-                                "text": "That\u0027s... in my view, that\u0027s exactly what Section 7609(f) is for: to prevent the IRS from auditing lots of people based on a hunch."
+                                "text": "That's... in my view, that's exactly what Section 7609(f) is for: to prevent the IRS from auditing lots of people based on a hunch."
                             },
                             {
                                 "start": 691.683,
@@ -845,6 +859,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -862,7 +877,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -880,7 +895,7 @@
                                 "stop": 706.607,
                                 "byte_start": 2935148,
                                 "byte_stop": 2953329,
-                                "text": "But you say they shouldn\u0027t be permitted to do that."
+                                "text": "But you say they shouldn't be permitted to do that."
                             }
                         ]
                     },
@@ -893,6 +908,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -905,14 +921,14 @@
                                 "stop": 723.385,
                                 "byte_start": 2953329,
                                 "byte_stop": 3020516,
-                                "text": "--I\u0027m saying that what 7609(f) says is that if they don\u0027t have any basis for auditing these people, they may have not... people who they don\u0027t know... we are only talking about people whose identities are unknown to the Service."
+                                "text": "--I'm saying that what 7609(f) says is that if they don't have any basis for auditing these people, they may have not... people who they don't know... we are only talking about people whose identities are unknown to the Service."
                             },
                             {
                                 "start": 723.385,
                                 "stop": 732.055,
                                 "byte_start": 3020516,
                                 "byte_stop": 3055102,
-                                "text": "If they don\u0027t have any basis for auditing this group of people, if it\u0027s just a hunch, then that\u0027s right; Section 7609(f) says that they can\u0027t get their names."
+                                "text": "If they don't have any basis for auditing this group of people, if it's just a hunch, then that's right; Section 7609(f) says that they can't get their names."
                             },
                             {
                                 "start": 732.055,
@@ -940,14 +956,14 @@
                                 "stop": 751.533,
                                 "byte_start": 3128036,
                                 "byte_stop": 3133051,
-                                "text": "It\u0027s an ex parte proceeding."
+                                "text": "It's an ex parte proceeding."
                             },
                             {
                                 "start": 751.533,
                                 "stop": 761.008,
                                 "byte_start": 3133051,
                                 "byte_stop": 3170981,
-                                "text": "They tell the court they\u0027ve examined the record keeper; they\u0027ve decided that everybody who has been doing business with this record keeper probably has underpaid his taxes, and we want a John Doe summons."
+                                "text": "They tell the court they've examined the record keeper; they've decided that everybody who has been doing business with this record keeper probably has underpaid his taxes, and we want a John Doe summons."
                             },
                             {
                                 "start": 761.008,
@@ -961,28 +977,28 @@
                                 "stop": 796.012,
                                 "byte_start": 3220509,
                                 "byte_stop": 3310998,
-                                "text": "Getting back to the ease with which the Service can get around the John Doe summons rules if they don\u0027t apply, when a purpose of the summons is to audit the record keeper, as we saw in this case, Tiffany tried to show this was the kind of summons that was covered by Section 7609(f) and the IRS said so what?"
+                                "text": "Getting back to the ease with which the Service can get around the John Doe summons rules if they don't apply, when a purpose of the summons is to audit the record keeper, as we saw in this case, Tiffany tried to show this was the kind of summons that was covered by Section 7609(f) and the IRS said so what?"
                             },
                             {
                                 "start": 796.012,
                                 "stop": 798.614,
                                 "byte_start": 3310998,
                                 "byte_stop": 3321342,
-                                "text": "Tiffany\u0027s under audit."
+                                "text": "Tiffany's under audit."
                             },
                             {
                                 "start": 798.614,
                                 "stop": 801.899,
                                 "byte_start": 3321342,
                                 "byte_stop": 3334508,
-                                "text": "We can\u0027t... we don\u0027t deny that Tiffany was under audit."
+                                "text": "We can't... we don't deny that Tiffany was under audit."
                             },
                             {
                                 "start": 801.899,
                                 "stop": 804.951,
                                 "byte_start": 3334508,
                                 "byte_stop": 3346733,
-                                "text": "We can\u0027t contend that Tiffany wasn\u0027t under audit."
+                                "text": "We can't contend that Tiffany wasn't under audit."
                             },
                             {
                                 "start": 804.951,
@@ -996,14 +1012,14 @@
                                 "stop": 818.692,
                                 "byte_start": 3381424,
                                 "byte_stop": 3401695,
-                                "text": "It merely has to decide that Tiffany is under audit, and it\u0027s own power makes it so."
+                                "text": "It merely has to decide that Tiffany is under audit, and it's own power makes it so."
                             },
                             {
                                 "start": 818.692,
                                 "stop": 837.922,
                                 "byte_start": 3401695,
                                 "byte_stop": 3478599,
-                                "text": "So it would be easy to dispose of this case as the Second Circuit did... by reading the statute to mean that as long as somebody who is identified in the summons is under audit, it doesn\u0027t matter how many other people the IRS is interested in finding out about and auditing."
+                                "text": "So it would be easy to dispose of this case as the Second Circuit did... by reading the statute to mean that as long as somebody who is identified in the summons is under audit, it doesn't matter how many other people the IRS is interested in finding out about and auditing."
                             },
                             {
                                 "start": 837.922,
@@ -1030,6 +1046,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -1047,7 +1064,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -1065,14 +1082,14 @@
                                 "stop": 868.19,
                                 "byte_start": 3583298,
                                 "byte_stop": 3599703,
-                                "text": "Isn\u0027t one of the problems the statute deals with is subpoenas on banks?"
+                                "text": "Isn't one of the problems the statute deals with is subpoenas on banks?"
                             },
                             {
                                 "start": 868.19,
                                 "stop": 869.724,
                                 "byte_start": 3599703,
                                 "byte_stop": 3605868,
-                                "text": "And they don\u0027t have to audit them."
+                                "text": "And they don't have to audit them."
                             },
                             {
                                 "start": 869.724,
@@ -1092,6 +1109,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -1139,21 +1157,21 @@
                                 "stop": 932.8,
                                 "byte_start": 3834178,
                                 "byte_stop": 3858106,
-                                "text": "It presupposes that somebody like Tiffany has interest in defending its clients\u0027 identities."
+                                "text": "It presupposes that somebody like Tiffany has interest in defending its clients' identities."
                             },
                             {
                                 "start": 932.8,
                                 "stop": 936.852,
                                 "byte_start": 3858106,
                                 "byte_stop": 3874302,
-                                "text": "Tiffany\u0027s interest is solely in its own tax liability for tax purposes."
+                                "text": "Tiffany's interest is solely in its own tax liability for tax purposes."
                             },
                             {
                                 "start": 936.852,
                                 "stop": 940.637,
                                 "byte_start": 3874302,
                                 "byte_stop": 3889453,
-                                "text": "Tiffany\u0027s interest is solely in its own tax liability, which has no bearing on--"
+                                "text": "Tiffany's interest is solely in its own tax liability, which has no bearing on--"
                             }
                         ]
                     },
@@ -1164,9 +1182,10 @@
                         "byte_stop": 4041277,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -1183,7 +1202,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -1194,7 +1213,7 @@
                                 "stop": 978.579,
                                 "byte_start": 3889453,
                                 "byte_stop": 4041277,
-                                "text": "--Mr. Savage, if you were correct on your interpretation, and if the IRS went through the John Doe proceedings before the court and failed to prove that it harbored a reasonable suspicion, as provided by subsection (f), then what could the IRS review of Tiffany\u0027s own records thereafter to determine the questions that it might have concerning the proper reporting by Tiffany of its income from licensees... what would it do to verify that?"
+                                "text": "--Mr. Savage, if you were correct on your interpretation, and if the IRS went through the John Doe proceedings before the court and failed to prove that it harbored a reasonable suspicion, as provided by subsection (f), then what could the IRS review of Tiffany's own records thereafter to determine the questions that it might have concerning the proper reporting by Tiffany of its income from licensees... what would it do to verify that?"
                             }
                         ]
                     },
@@ -1207,6 +1226,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -1237,9 +1257,10 @@
                         "byte_stop": 4100313,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -1256,7 +1277,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -1274,7 +1295,7 @@
                                 "stop": 993.355,
                                 "byte_start": 4097283,
                                 "byte_stop": 4100313,
-                                "text": "Is that what you\u0027re--"
+                                "text": "Is that what you're--"
                             }
                         ]
                     },
@@ -1287,6 +1308,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -1306,14 +1328,14 @@
                                 "stop": 1001.361,
                                 "byte_start": 4116927,
                                 "byte_stop": 4132392,
-                                "text": "I don\u0027t know that the IRS can do a lot just with names."
+                                "text": "I don't know that the IRS can do a lot just with names."
                             },
                             {
                                 "start": 1001.361,
                                 "stop": 1008.698,
                                 "byte_start": 4132392,
                                 "byte_stop": 4161753,
-                                "text": "We wouldn\u0027t be concerned about giving names, but we would have deleted the addresses and the Social Security numbers."
+                                "text": "We wouldn't be concerned about giving names, but we would have deleted the addresses and the Social Security numbers."
                             },
                             {
                                 "start": 1008.698,
@@ -1331,9 +1353,10 @@
                         "byte_stop": 4231135,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -1350,7 +1373,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -1374,6 +1397,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -1386,21 +1410,21 @@
                                 "stop": 1036.534,
                                 "byte_start": 4231135,
                                 "byte_stop": 4273035,
-                                "text": "--It shouldn\u0027t... I have to concede, Your Honor, that that problem may arise in a very limited number of cases."
+                                "text": "--It shouldn't... I have to concede, Your Honor, that that problem may arise in a very limited number of cases."
                             },
                             {
                                 "start": 1036.534,
                                 "stop": 1040.236,
                                 "byte_start": 4273035,
                                 "byte_stop": 4287873,
-                                "text": "If it does, I think it\u0027s because that\u0027s what Congress has said."
+                                "text": "If it does, I think it's because that's what Congress has said."
                             },
                             {
                                 "start": 1040.236,
                                 "stop": 1045.49,
                                 "byte_start": 4287873,
                                 "byte_stop": 4308875,
-                                "text": "But I\u0027d like to point out to you that it shouldn\u0027t arise in a very large number of cases."
+                                "text": "But I'd like to point out to you that it shouldn't arise in a very large number of cases."
                             },
                             {
                                 "start": 1045.49,
@@ -1428,14 +1452,14 @@
                                 "stop": 1090.002,
                                 "byte_start": 4449936,
                                 "byte_stop": 4486926,
-                                "text": "In cases where the government isn\u0027t interested in auditing these people, Tiffany shouldn\u0027t be able to demonstrate that a purpose of the summons is to audit them."
+                                "text": "In cases where the government isn't interested in auditing these people, Tiffany shouldn't be able to demonstrate that a purpose of the summons is to audit them."
                             },
                             {
                                 "start": 1090.002,
                                 "stop": 1106.012,
                                 "byte_start": 4486926,
                                 "byte_stop": 4550978,
-                                "text": "And if it can\u0027t demonstrate that under the interpretation we\u0027re asking for, if Tiffany can\u0027t demonstrate that a purpose of the audit is to audit its customers, then the government is free to have the customers\u0027 identities without going through the John Doe procedures."
+                                "text": "And if it can't demonstrate that under the interpretation we're asking for, if Tiffany can't demonstrate that a purpose of the audit is to audit its customers, then the government is free to have the customers' identities without going through the John Doe procedures."
                             },
                             {
                                 "start": 1106.012,
@@ -1449,7 +1473,7 @@
                                 "stop": 1120.371,
                                 "byte_start": 4584728,
                                 "byte_stop": 4608447,
-                                "text": "It\u0027s just a question of which procedure it has to follow."
+                                "text": "It's just a question of which procedure it has to follow."
                             },
                             {
                                 "start": 1120.371,
@@ -1463,35 +1487,35 @@
                                 "stop": 1138.916,
                                 "byte_start": 4626942,
                                 "byte_stop": 4682635,
-                                "text": "But we\u0027re not arguing that that\u0027s the way it should be; we\u0027re arguing that that\u0027s what Congress has said in the statute."
+                                "text": "But we're not arguing that that's the way it should be; we're arguing that that's what Congress has said in the statute."
                             },
                             {
                                 "start": 1138.916,
                                 "stop": 1147.52,
                                 "byte_start": 4682635,
                                 "byte_stop": 4717012,
-                                "text": "Getting back to the government\u0027s argument that the John Doe procedures don\u0027t have to apply when the record keeper is under audit."
+                                "text": "Getting back to the government's argument that the John Doe procedures don't have to apply when the record keeper is under audit."
                             },
                             {
                                 "start": 1147.52,
                                 "stop": 1154.675,
                                 "byte_start": 4717012,
                                 "byte_stop": 4745642,
-                                "text": "I just want to point out to the Court that Tiffany really doesn\u0027t have any interest in defending the identities of its clients."
+                                "text": "I just want to point out to the Court that Tiffany really doesn't have any interest in defending the identities of its clients."
                             },
                             {
                                 "start": 1154.675,
                                 "stop": 1159.995,
                                 "byte_start": 4745642,
                                 "byte_stop": 4766958,
-                                "text": "And Tiffany doesn\u0027t have any particular objection to being audited."
+                                "text": "And Tiffany doesn't have any particular objection to being audited."
                             },
                             {
                                 "start": 1159.995,
                                 "stop": 1169.268,
                                 "byte_start": 4766958,
                                 "byte_stop": 4804052,
-                                "text": "But for the presence of the John Doe issue in this case, there wouldn\u0027t have been an enforcement proceeding."
+                                "text": "But for the presence of the John Doe issue in this case, there wouldn't have been an enforcement proceeding."
                             },
                             {
                                 "start": 1169.268,
@@ -1505,7 +1529,7 @@
                                 "stop": 1204.374,
                                 "byte_start": 4850968,
                                 "byte_stop": 4944382,
-                                "text": "So if the record keeper won\u0027t bring these summonses before the Court, and if the John Doe summons procedures don\u0027t apply, then summonses like these will never be subjected to the limited court scrutiny that Congress obviously wanted when it wrote Section 7609(f)."
+                                "text": "So if the record keeper won't bring these summonses before the Court, and if the John Doe summons procedures don't apply, then summonses like these will never be subjected to the limited court scrutiny that Congress obviously wanted when it wrote Section 7609(f)."
                             },
                             {
                                 "start": 1204.374,
@@ -1533,7 +1557,7 @@
                                 "stop": 1257.659,
                                 "byte_start": 5147510,
                                 "byte_stop": 5157541,
-                                "text": "And it\u0027s a good rule for a number of reasons."
+                                "text": "And it's a good rule for a number of reasons."
                             },
                             {
                                 "start": 1257.659,
@@ -1581,6 +1605,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -1598,7 +1623,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -1622,6 +1647,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -1641,7 +1667,7 @@
                                 "stop": 1305.074,
                                 "byte_start": 5334338,
                                 "byte_stop": 5347190,
-                                "text": "I don\u0027t see how it couldn\u0027t concede that."
+                                "text": "I don't see how it couldn't concede that."
                             }
                         ]
                     },
@@ -1654,6 +1680,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -1671,7 +1698,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -1682,7 +1709,7 @@
                                 "stop": 1320.583,
                                 "byte_start": 5347190,
                                 "byte_stop": 5409257,
-                                "text": "But do you think that getting the names of the customers and investigating the customers would help the government determine Tiffany\u0027s obligation?"
+                                "text": "But do you think that getting the names of the customers and investigating the customers would help the government determine Tiffany's obligation?"
                             },
                             {
                                 "start": 1320.583,
@@ -1702,6 +1729,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -1727,6 +1755,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -1744,7 +1773,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -1755,7 +1784,7 @@
                                 "stop": 1355.572,
                                 "byte_start": 5545930,
                                 "byte_stop": 5549169,
-                                "text": "It wouldn\u0027t?"
+                                "text": "It wouldn't?"
                             }
                         ]
                     },
@@ -1768,6 +1797,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -1793,6 +1823,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -1810,7 +1841,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -1821,7 +1852,7 @@
                                 "stop": 1359.741,
                                 "byte_start": 5562753,
                                 "byte_stop": 5565887,
-                                "text": "Why, if they\u0027re under audit?"
+                                "text": "Why, if they're under audit?"
                             }
                         ]
                     },
@@ -1834,6 +1865,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -1859,6 +1891,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -1876,7 +1909,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -1887,7 +1920,7 @@
                                 "stop": 1361.693,
                                 "byte_start": 5568186,
                                 "byte_stop": 5573724,
-                                "text": "Would it help... I\u0027ll put it this way."
+                                "text": "Would it help... I'll put it this way."
                             },
                             {
                                 "start": 1361.693,
@@ -1907,6 +1940,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -1926,21 +1960,21 @@
                                 "stop": 1385.176,
                                 "byte_start": 5648748,
                                 "byte_stop": 5667660,
-                                "text": "I\u0027ve been through a lot of audits."
+                                "text": "I've been through a lot of audits."
                             },
                             {
                                 "start": 1385.176,
                                 "stop": 1394.198,
                                 "byte_start": 5667660,
                                 "byte_stop": 5703709,
-                                "text": "I\u0027ve never once seen the government go to a customer and say, well, did you really pay this person so much money, or did you really receive so much money?"
+                                "text": "I've never once seen the government go to a customer and say, well, did you really pay this person so much money, or did you really receive so much money?"
                             },
                             {
                                 "start": 1394.198,
                                 "stop": 1405.488,
                                 "byte_start": 5703709,
                                 "byte_stop": 5748849,
-                                "text": "The government usually goes after... the government usually inquires, makes inquiries of the taxpayer\u0027s customers when it suspects under-reporting."
+                                "text": "The government usually goes after... the government usually inquires, makes inquiries of the taxpayer's customers when it suspects under-reporting."
                             }
                         ]
                     },
@@ -1953,6 +1987,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -1970,7 +2005,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -1994,6 +2029,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -2006,14 +2042,14 @@
                                 "stop": 1425.567,
                                 "byte_start": 5757313,
                                 "byte_stop": 5829202,
-                                "text": "Even when it knows who they are, in my experience... in my experience, they verify the income based on the records they have before them when they have to reconstruct income, for example, or when they think that there\u0027s fraud involved and they need witnesses."
+                                "text": "Even when it knows who they are, in my experience... in my experience, they verify the income based on the records they have before them when they have to reconstruct income, for example, or when they think that there's fraud involved and they need witnesses."
                             },
                             {
                                 "start": 1425.567,
                                 "stop": 1431.821,
                                 "byte_start": 5829202,
                                 "byte_stop": 5854175,
-                                "text": "Then they start to inquire, make inquiries of the taxpayer\u0027s customers."
+                                "text": "Then they start to inquire, make inquiries of the taxpayer's customers."
                             }
                         ]
                     },
@@ -2026,6 +2062,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2043,7 +2080,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2067,6 +2104,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -2086,7 +2124,7 @@
                                 "stop": 1453.986,
                                 "byte_start": 5868385,
                                 "byte_stop": 5942887,
-                                "text": "And in a case in which the government had gone in and had merely started to audit the record keeper and hadn\u0027t showed any intention or any interest in its customers, then they\u0027re entitled to find out who they are without going through the John Doe procedures."
+                                "text": "And in a case in which the government had gone in and had merely started to audit the record keeper and hadn't showed any intention or any interest in its customers, then they're entitled to find out who they are without going through the John Doe procedures."
                             }
                         ]
                     },
@@ -2099,6 +2137,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2116,7 +2155,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2127,7 +2166,7 @@
                                 "stop": 1457.705,
                                 "byte_start": 5942887,
                                 "byte_stop": 5957724,
-                                "text": "But I guess the Court of Appeals didn\u0027t proceed on this basis anyway."
+                                "text": "But I guess the Court of Appeals didn't proceed on this basis anyway."
                             },
                             {
                                 "start": 1457.705,
@@ -2147,6 +2186,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -2159,7 +2199,7 @@
                                 "stop": 1465.211,
                                 "byte_start": 5972875,
                                 "byte_stop": 5987817,
-                                "text": "The Court of Appeals said we don\u0027t really care if there\u0027s a dual purpose."
+                                "text": "The Court of Appeals said we don't really care if there's a dual purpose."
                             }
                         ]
                     },
@@ -2172,6 +2212,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2189,7 +2230,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2213,6 +2254,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -2225,14 +2267,14 @@
                                 "stop": 1483.956,
                                 "byte_start": 6060333,
                                 "byte_stop": 6062736,
-                                "text": "That\u0027s correct."
+                                "text": "That's correct."
                             },
                             {
                                 "start": 1483.956,
                                 "stop": 1492.626,
                                 "byte_start": 6062736,
                                 "byte_stop": 6097427,
-                                "text": "That\u0027s what the Court of Appeals did."
+                                "text": "That's what the Court of Appeals did."
                             }
                         ]
                     },
@@ -2243,9 +2285,10 @@
                         "byte_stop": 6161897,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -2262,7 +2305,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -2293,6 +2336,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -2305,7 +2349,7 @@
                                 "stop": 1513.289,
                                 "byte_start": 6161897,
                                 "byte_stop": 6180078,
-                                "text": "I don\u0027t... we didn\u0027t intend to raise the issue."
+                                "text": "I don't... we didn't intend to raise the issue."
                             }
                         ]
                     },
@@ -2316,9 +2360,10 @@
                         "byte_stop": 6182064,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -2335,7 +2380,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -2359,6 +2404,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -2371,14 +2417,14 @@
                                 "stop": 1523.597,
                                 "byte_start": 6182064,
                                 "byte_stop": 6221352,
-                                "text": "We might have said, we argued below that the government didn\u0027t really need this information to complete its audit of Tiffany, but we didn\u0027t challenge the relevancy."
+                                "text": "We might have said, we argued below that the government didn't really need this information to complete its audit of Tiffany, but we didn't challenge the relevancy."
                             },
                             {
                                 "start": 1523.597,
                                 "stop": 1533.62,
                                 "byte_start": 6221352,
                                 "byte_stop": 6261371,
-                                "text": "We can\u0027t challenge the relevancy of what the customers\u0027 identifications... or of the licensing agreements which contain the customers\u0027 identifications."
+                                "text": "We can't challenge the relevancy of what the customers' identifications... or of the licensing agreements which contain the customers' identifications."
                             }
                         ]
                     },
@@ -2391,6 +2437,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -2408,7 +2455,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -2419,7 +2466,7 @@
                                 "stop": 1560.872,
                                 "byte_start": 6261371,
                                 "byte_stop": 6370459,
-                                "text": "Excuse me for going back to the statutory language again, but I keep rereading this darn statute, and I just confess that even if you read it your way and say the person or persons, and assume there\u0027s a bunch of unidentified persons, and then you go around the one, two, and three, it still does relate to the investigation of a particular person, namely, your client, and there is reason perhaps for believing that person hasn\u0027t paid all his taxes and the information contained with him would relate to his liability."
+                                "text": "Excuse me for going back to the statutory language again, but I keep rereading this darn statute, and I just confess that even if you read it your way and say the person or persons, and assume there's a bunch of unidentified persons, and then you go around the one, two, and three, it still does relate to the investigation of a particular person, namely, your client, and there is reason perhaps for believing that person hasn't paid all his taxes and the information contained with him would relate to his liability."
                             },
                             {
                                 "start": 1560.872,
@@ -2446,6 +2493,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -2471,6 +2519,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -2488,7 +2537,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -2506,7 +2555,7 @@
                                 "stop": 1602.949,
                                 "byte_start": 6479651,
                                 "byte_stop": 6538687,
-                                "text": "But what I\u0027m suggesting is that as long as you read \u0022person\u0022 to mean \u0022person or persons\u0022, one of those persons would have been Tiffany in any event, and the showing necessary to get enforcement of the subpoena would merely have required them to show that Tiffany was under audit."
+                                "text": "But what I'm suggesting is that as long as you read \"person\" to mean \"person or persons\", one of those persons would have been Tiffany in any event, and the showing necessary to get enforcement of the subpoena would merely have required them to show that Tiffany was under audit."
                             },
                             {
                                 "start": 1602.949,
@@ -2526,6 +2575,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -2551,6 +2601,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -2568,7 +2619,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -2579,14 +2630,14 @@
                                 "stop": 1611.003,
                                 "byte_start": 6568676,
                                 "byte_stop": 6570975,
-                                "text": "That\u0027s what it says."
+                                "text": "That's what it says."
                             },
                             {
                                 "start": 1611.003,
                                 "stop": 1615.69,
                                 "byte_start": 6570975,
                                 "byte_stop": 6589678,
-                                "text": "They\u0027ve got to show the summons relates to the investigation of a particular person or ascertainable group."
+                                "text": "They've got to show the summons relates to the investigation of a particular person or ascertainable group."
                             },
                             {
                                 "start": 1615.69,
@@ -2600,14 +2651,14 @@
                                 "stop": 1625.796,
                                 "byte_start": 6597411,
                                 "byte_stop": 6630116,
-                                "text": "And there\u0027s a reasonable belief for believing that such person, Tiffany, is... you know, is the... and so forth."
+                                "text": "And there's a reasonable belief for believing that such person, Tiffany, is... you know, is the... and so forth."
                             },
                             {
                                 "start": 1625.796,
                                 "stop": 1634.318,
                                 "byte_start": 6630116,
                                 "byte_stop": 6664180,
-                                "text": "So that it seems to me that as long as... even reading the introductory portion your way, I don\u0027t see that... you could require a court proceeding, I agree, but--"
+                                "text": "So that it seems to me that as long as... even reading the introductory portion your way, I don't see that... you could require a court proceeding, I agree, but--"
                             },
                             {
                                 "start": 1634.318,
@@ -2635,28 +2686,28 @@
                                 "stop": 1656.167,
                                 "byte_start": 6736696,
                                 "byte_stop": 6751638,
-                                "text": "Then paragraph 1 isn\u0027t satisfied."
+                                "text": "Then paragraph 1 isn't satisfied."
                             },
                             {
                                 "start": 1656.167,
                                 "stop": 1663.171,
                                 "byte_start": 6751638,
                                 "byte_stop": 6779641,
-                                "text": "The summons relates to the investigation because the IRS says... and says no, this summons doesn\u0027t relate the investigation of Tiffany at all."
+                                "text": "The summons relates to the investigation because the IRS says... and says no, this summons doesn't relate the investigation of Tiffany at all."
                             },
                             {
                                 "start": 1663.171,
                                 "stop": 1679.43,
                                 "byte_start": 6779641,
                                 "byte_stop": 6844633,
-                                "text": "And I asked you a minute ago... you said that even if that happens, the Court of Appeals for the Second Circuit would say you don\u0027t have to follow the John Doe proceedings."
+                                "text": "And I asked you a minute ago... you said that even if that happens, the Court of Appeals for the Second Circuit would say you don't have to follow the John Doe proceedings."
                             },
                             {
                                 "start": 1679.43,
                                 "stop": 1687.436,
                                 "byte_start": 6844633,
                                 "byte_stop": 6876712,
-                                "text": "If you don\u0027t read it that way, I would think Justice Stevens is certainly right."
+                                "text": "If you don't read it that way, I would think Justice Stevens is certainly right."
                             },
                             {
                                 "start": 1687.436,
@@ -2676,6 +2727,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -2695,21 +2747,21 @@
                                 "stop": 1712.001,
                                 "byte_start": 6906491,
                                 "byte_stop": 6974932,
-                                "text": "The IRS has to establish, in order to get its John Doe summons, assuming it has served a summons which doesn\u0027t identify the person with respect to whose tax liability it was issued."
+                                "text": "The IRS has to establish, in order to get its John Doe summons, assuming it has served a summons which doesn't identify the person with respect to whose tax liability it was issued."
                             },
                             {
                                 "start": 1712.001,
                                 "stop": 1719.424,
                                 "byte_start": 6974932,
                                 "byte_stop": 7004607,
-                                "text": "We\u0027re not even into a John Doe proceeding if we haven\u0027t gotten that far."
+                                "text": "We're not even into a John Doe proceeding if we haven't gotten that far."
                             },
                             {
                                 "start": 1719.424,
                                 "stop": 1730.049,
                                 "byte_start": 7004607,
                                 "byte_stop": 7047135,
-                                "text": "So if Section 7609(f) read a \u0022person or persons\u0022, then I would argue, first, okay this summons was served on Tiffany Fine Arts."
+                                "text": "So if Section 7609(f) read a \"person or persons\", then I would argue, first, okay this summons was served on Tiffany Fine Arts."
                             },
                             {
                                 "start": 1730.049,
@@ -2723,21 +2775,21 @@
                                 "stop": 1740.421,
                                 "byte_start": 7056225,
                                 "byte_stop": 7088617,
-                                "text": "Give us an evidentiary hearing and we\u0027ll also show that it was issued not only with respect to Tiffany\u0027s tax liability, but with respect to the tax liabilities of its clients."
+                                "text": "Give us an evidentiary hearing and we'll also show that it was issued not only with respect to Tiffany's tax liability, but with respect to the tax liabilities of its clients."
                             },
                             {
                                 "start": 1740.421,
                                 "stop": 1742.107,
                                 "byte_start": 7088617,
                                 "byte_stop": 7095409,
-                                "text": "Didn\u0027t identify the clients."
+                                "text": "Didn't identify the clients."
                             },
                             {
                                 "start": 1742.107,
                                 "stop": 1745.742,
                                 "byte_start": 7095409,
                                 "byte_stop": 7109933,
-                                "text": "So far, I\u0027m past the introductory language."
+                                "text": "So far, I'm past the introductory language."
                             }
                         ]
                     },
@@ -2750,6 +2802,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -2767,7 +2820,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -2785,7 +2838,7 @@
                                 "stop": 1747.475,
                                 "byte_start": 7111500,
                                 "byte_stop": 7116829,
-                                "text": "And you\u0027re in court now."
+                                "text": "And you're in court now."
                             }
                         ]
                     },
@@ -2798,6 +2851,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -2823,6 +2877,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -2840,7 +2895,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -2864,6 +2919,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -2889,6 +2945,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -2906,7 +2963,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -2930,6 +2987,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -2949,7 +3007,7 @@
                                 "stop": 1799.809,
                                 "byte_start": 7246815,
                                 "byte_stop": 7326122,
-                                "text": "The three paragraphs, the three numbered paragraphs can\u0027t be referring to Tiffany once you\u0027re into the John Doe summons procedure; by definition, we are in the John Doe summons procedure because we can\u0027t identify the people who we want to get information on."
+                                "text": "The three paragraphs, the three numbered paragraphs can't be referring to Tiffany once you're into the John Doe summons procedure; by definition, we are in the John Doe summons procedure because we can't identify the people who we want to get information on."
                             }
                         ]
                     },
@@ -2962,6 +3020,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2979,7 +3038,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3004,7 +3063,7 @@
                                 "stop": 1813.869,
                                 "byte_start": 7374292,
                                 "byte_stop": 7382442,
-                                "text": "They could always say well, it\u0027s Tiffany."
+                                "text": "They could always say well, it's Tiffany."
                             }
                         ]
                     },
@@ -3017,6 +3076,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -3042,6 +3102,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -3059,7 +3120,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3083,6 +3144,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -3095,7 +3157,7 @@
                                 "stop": 1829.946,
                                 "byte_start": 7404699,
                                 "byte_stop": 7446704,
-                                "text": "If the statute could be read that way, and then there wouldn\u0027t be any purpose for the statute at all, obviously."
+                                "text": "If the statute could be read that way, and then there wouldn't be any purpose for the statute at all, obviously."
                             },
                             {
                                 "start": 1829.946,
@@ -3115,6 +3177,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -3132,7 +3195,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -3143,7 +3206,7 @@
                                 "stop": 1835.716,
                                 "byte_start": 7456003,
                                 "byte_stop": 7469796,
-                                "text": "There would be if they weren\u0027t investigating Tiffany\u0027s tax liability."
+                                "text": "There would be if they weren't investigating Tiffany's tax liability."
                             },
                             {
                                 "start": 1835.716,
@@ -3157,7 +3220,7 @@
                                 "stop": 1845.59,
                                 "byte_start": 7480036,
                                 "byte_stop": 7509293,
-                                "text": "If they conceded that Tiffany paid all their taxes every year, but they still want to look at their customers\u0027 liability, then the statute would apply."
+                                "text": "If they conceded that Tiffany paid all their taxes every year, but they still want to look at their customers' liability, then the statute would apply."
                             },
                             {
                                 "start": 1845.59,
@@ -3171,7 +3234,7 @@
                                 "stop": 1852.428,
                                 "byte_start": 7519429,
                                 "byte_stop": 7536669,
-                                "text": "You don\u0027t audit every record keeper whose records you want to look at, I don\u0027t suppose."
+                                "text": "You don't audit every record keeper whose records you want to look at, I don't suppose."
                             }
                         ]
                     },
@@ -3184,6 +3247,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -3216,6 +3280,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -3243,7 +3308,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -3254,7 +3319,7 @@
                                 "stop": 1862.636,
                                 "byte_start": 7562583,
                                 "byte_stop": 7577525,
-                                "text": "Wasn\u0027t that really what Congress was concerned in, in passing the statute?"
+                                "text": "Wasn't that really what Congress was concerned in, in passing the statute?"
                             },
                             {
                                 "start": 1862.636,
@@ -3275,7 +3340,7 @@
                                 "stop": 1875.359,
                                 "byte_start": 7618798,
                                 "byte_stop": 7628411,
-                                "text": "They don\u0027t have any real motive to protest."
+                                "text": "They don't have any real motive to protest."
                             },
                             {
                                 "start": 1875.359,
@@ -3295,6 +3360,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -3328,7 +3394,7 @@
                                 "stop": 1900.54,
                                 "byte_start": 7691314,
                                 "byte_stop": 7729140,
-                                "text": "I don\u0027t know that it realized, I don\u0027t know that it was aware at the time that it wrote Section 7609(f) that there would be dual purpose summonses."
+                                "text": "I don't know that it realized, I don't know that it was aware at the time that it wrote Section 7609(f) that there would be dual purpose summonses."
                             },
                             {
                                 "start": 1900.54,
@@ -3362,6 +3428,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -3379,7 +3446,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -3403,6 +3470,7 @@
                             "ID": 36695,
                             "name": "Michael D. Savage",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_savage",
+                            "view_count": 0,
                             "last_name": "Savage",
                             "roles": null,
                             "thumbnail": null,
@@ -3435,6 +3503,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -3452,7 +3521,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -3484,6 +3553,7 @@
                             "ID": 35240,
                             "name": "Lawrence G. Wallace",
                             "href": "https:\/\/api.oyez.org\/people\/lawrence_g_wallace",
+                            "view_count": 0,
                             "last_name": "Wallace",
                             "roles": null,
                             "thumbnail": null,
@@ -3552,7 +3622,7 @@
                                 "stop": 2056.972,
                                 "byte_start": 8246573,
                                 "byte_stop": 8354824,
-                                "text": "All the Commissioner must show is that the investigation is conducted pursuant to a legitimate purpose; that the inquiry may be relevant... he doesn\u0027t have to show that it is relevant, it may be relevant to that purpose... and that the information sought is not already within the Commissioner\u0027s possession; that the administrative steps required by the Code have been followed, and that it has not been issue for an improper purpose."
+                                "text": "All the Commissioner must show is that the investigation is conducted pursuant to a legitimate purpose; that the inquiry may be relevant... he doesn't have to show that it is relevant, it may be relevant to that purpose... and that the information sought is not already within the Commissioner's possession; that the administrative steps required by the Code have been followed, and that it has not been issue for an improper purpose."
                             },
                             {
                                 "start": 2056.972,
@@ -3566,7 +3636,7 @@
                                 "stop": 2091.126,
                                 "byte_start": 8382096,
                                 "byte_stop": 8491393,
-                                "text": "And the combination of the agent\u0027s affidavits and the legal argument by the United States attorney showed that the agent felt that he had to be able to trace transactions from source documents to books of account, and he would need knowledge of the names of the licensees or the customers for this purpose, and also--"
+                                "text": "And the combination of the agent's affidavits and the legal argument by the United States attorney showed that the agent felt that he had to be able to trace transactions from source documents to books of account, and he would need knowledge of the names of the licensees or the customers for this purpose, and also--"
                             }
                         ]
                     },
@@ -3577,9 +3647,10 @@
                         "byte_stop": 8525038,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -3596,7 +3667,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -3627,6 +3698,7 @@
                             "ID": 35240,
                             "name": "Lawrence G. Wallace",
                             "href": "https:\/\/api.oyez.org\/people\/lawrence_g_wallace",
+                            "view_count": 0,
                             "last_name": "Wallace",
                             "roles": null,
                             "thumbnail": null,
@@ -3639,7 +3711,7 @@
                                 "stop": 2102.684,
                                 "byte_start": 8525038,
                                 "byte_stop": 8537682,
-                                "text": "--Well, I haven\u0027t quite finished the reasons, if I may."
+                                "text": "--Well, I haven't quite finished the reasons, if I may."
                             },
                             {
                                 "start": 2102.684,
@@ -3653,14 +3725,14 @@
                                 "stop": 2157.087,
                                 "byte_start": 8594315,
                                 "byte_stop": 8755229,
-                                "text": "And this was soundly based on based on principles that this Court established in Holland v. the United States back in 348 U.S., one of the leading tax cases, the net worth tax case in which the court pointed out that certainly Congress never intended in the provision there at issue, which was one that limited the government\u0027s authority to deviate from the taxpayer\u0027s method of accounting, certainly the government... Congress never intended to make that provision a set of blinders which prevents the government from looking beyond the self-serving declarations in a taxpayer\u0027s books."
+                                "text": "And this was soundly based on based on principles that this Court established in Holland v. the United States back in 348 U.S., one of the leading tax cases, the net worth tax case in which the court pointed out that certainly Congress never intended in the provision there at issue, which was one that limited the government's authority to deviate from the taxpayer's method of accounting, certainly the government... Congress never intended to make that provision a set of blinders which prevents the government from looking beyond the self-serving declarations in a taxpayer's books."
                             },
                             {
                                 "start": 2157.087,
                                 "stop": 2174.632,
                                 "byte_start": 8755229,
                                 "byte_stop": 8825447,
-                                "text": "To protect the revenue from those who do not render true accounts, the government must be free to use all legal evidence available to it in determining whether the story told by the taxpayer\u0027s books accurately reflects his financial history."
+                                "text": "To protect the revenue from those who do not render true accounts, the government must be free to use all legal evidence available to it in determining whether the story told by the taxpayer's books accurately reflects his financial history."
                             },
                             {
                                 "start": 2174.632,
@@ -3716,7 +3788,7 @@
                                 "stop": 2289.039,
                                 "byte_start": 9264095,
                                 "byte_stop": 9283112,
-                                "text": "\u0022Special Procedure for Third Party Summonses. \u0022"
+                                "text": "\"Special Procedure for Third Party Summonses. \""
                             },
                             {
                                 "start": 2289.039,
@@ -3737,7 +3809,7 @@
                                 "stop": 2308.053,
                                 "byte_start": 9308921,
                                 "byte_stop": 9359180,
-                                "text": "There is no reason to think that special procedures that Congress adopted for third party summonses should change the result that would have been reached with respect to a taxpayer\u0027s summons."
+                                "text": "There is no reason to think that special procedures that Congress adopted for third party summonses should change the result that would have been reached with respect to a taxpayer's summons."
                             }
                         ]
                     },
@@ -3750,6 +3822,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -3767,7 +3840,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3778,14 +3851,14 @@
                                 "stop": 2320.61,
                                 "byte_start": 9359180,
                                 "byte_stop": 9409336,
-                                "text": "--Mr. Wallace, let\u0027s just assume that the names of the customers were completely irrelevant to Tiffany\u0027s audit or Tiffany\u0027s liability, and that Tiffany said, well, why do you want these names?"
+                                "text": "--Mr. Wallace, let's just assume that the names of the customers were completely irrelevant to Tiffany's audit or Tiffany's liability, and that Tiffany said, well, why do you want these names?"
                             },
                             {
                                 "start": 2320.61,
                                 "stop": 2328.216,
                                 "byte_start": 9409336,
                                 "byte_stop": 9439847,
-                                "text": "And the IRS said, well, we don\u0027t want them because we\u0027re investigating you; we just want them because you\u0027ve got them."
+                                "text": "And the IRS said, well, we don't want them because we're investigating you; we just want them because you've got them."
                             },
                             {
                                 "start": 2328.216,
@@ -3799,7 +3872,7 @@
                                 "stop": 2332.918,
                                 "byte_start": 9447370,
                                 "byte_stop": 9458655,
-                                "text": "Now, why isn\u0027t that a third party summons?"
+                                "text": "Now, why isn't that a third party summons?"
                             }
                         ]
                     },
@@ -3812,6 +3885,7 @@
                             "ID": 35240,
                             "name": "Lawrence G. Wallace",
                             "href": "https:\/\/api.oyez.org\/people\/lawrence_g_wallace",
+                            "view_count": 0,
                             "last_name": "Wallace",
                             "roles": null,
                             "thumbnail": null,
@@ -3837,6 +3911,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -3854,7 +3929,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3878,6 +3953,7 @@
                             "ID": 35240,
                             "name": "Lawrence G. Wallace",
                             "href": "https:\/\/api.oyez.org\/people\/lawrence_g_wallace",
+                            "view_count": 0,
                             "last_name": "Wallace",
                             "roles": null,
                             "thumbnail": null,
@@ -3890,14 +3966,14 @@
                                 "stop": 2368.224,
                                 "byte_start": 9597940,
                                 "byte_stop": 9599820,
-                                "text": "That\u0027s right."
+                                "text": "That's right."
                             },
                             {
                                 "start": 2368.224,
                                 "stop": 2369.293,
                                 "byte_start": 9599820,
                                 "byte_stop": 9604104,
-                                "text": "That\u0027s what we had to show."
+                                "text": "That's what we had to show."
                             },
                             {
                                 "start": 2369.293,
@@ -3917,6 +3993,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -3934,7 +4011,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3958,6 +4035,7 @@
                             "ID": 35240,
                             "name": "Lawrence G. Wallace",
                             "href": "https:\/\/api.oyez.org\/people\/lawrence_g_wallace",
+                            "view_count": 0,
                             "last_name": "Wallace",
                             "roles": null,
                             "thumbnail": null,
@@ -3970,7 +4048,7 @@
                                 "stop": 2377.047,
                                 "byte_start": 9632735,
                                 "byte_stop": 9635138,
-                                "text": "That\u0027s another--"
+                                "text": "That's another--"
                             }
                         ]
                     },
@@ -3983,6 +4061,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -4000,7 +4079,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -4024,6 +4103,7 @@
                             "ID": 35240,
                             "name": "Lawrence G. Wallace",
                             "href": "https:\/\/api.oyez.org\/people\/lawrence_g_wallace",
+                            "view_count": 0,
                             "last_name": "Wallace",
                             "roles": null,
                             "thumbnail": null,
@@ -4036,7 +4116,7 @@
                                 "stop": 2385.903,
                                 "byte_start": 9649976,
                                 "byte_stop": 9670560,
-                                "text": "--That\u0027s another means by which we might try to get the same information for a different purpose."
+                                "text": "--That's another means by which we might try to get the same information for a different purpose."
                             }
                         ]
                     },
@@ -4049,6 +4129,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -4066,7 +4147,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -4097,6 +4178,7 @@
                             "ID": 35240,
                             "name": "Lawrence G. Wallace",
                             "href": "https:\/\/api.oyez.org\/people\/lawrence_g_wallace",
+                            "view_count": 0,
                             "last_name": "Wallace",
                             "roles": null,
                             "thumbnail": null,
@@ -4109,7 +4191,7 @@
                                 "stop": 2397.026,
                                 "byte_start": 9674113,
                                 "byte_stop": 9715073,
-                                "text": "But we proceeded under Section 7602 and we had to make the Powell showing that it was... that it may be relevant to Tiffany\u0027s liability, and that\u0027s what we made."
+                                "text": "But we proceeded under Section 7602 and we had to make the Powell showing that it was... that it may be relevant to Tiffany's liability, and that's what we made."
                             }
                         ]
                     },
@@ -4122,6 +4204,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -4139,7 +4222,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -4150,7 +4233,7 @@
                                 "stop": 2407.066,
                                 "byte_start": 9715073,
                                 "byte_stop": 9755197,
-                                "text": "But it\u0027s also... but we also judge the case on the assumption that the IRS may have been interested in the tax liabilities of the customers also."
+                                "text": "But it's also... but we also judge the case on the assumption that the IRS may have been interested in the tax liabilities of the customers also."
                             }
                         ]
                     },
@@ -4163,6 +4246,7 @@
                             "ID": 35240,
                             "name": "Lawrence G. Wallace",
                             "href": "https:\/\/api.oyez.org\/people\/lawrence_g_wallace",
+                            "view_count": 0,
                             "last_name": "Wallace",
                             "roles": null,
                             "thumbnail": null,
@@ -4175,7 +4259,7 @@
                                 "stop": 2410.018,
                                 "byte_start": 9755197,
                                 "byte_stop": 9767004,
-                                "text": "Well, the IRS should be interested in everybody\u0027s tax liabilities."
+                                "text": "Well, the IRS should be interested in everybody's tax liabilities."
                             },
                             {
                                 "start": 2410.018,
@@ -4189,7 +4273,7 @@
                                 "stop": 2425.028,
                                 "byte_start": 9768885,
                                 "byte_stop": 9827086,
-                                "text": "But their right to compel production of this information was pursuant to an audit that was assigned to this agent, and his assignment was to audit Tiffany and its subsidiaries, and that\u0027s the purpose for which he asked for."
+                                "text": "But their right to compel production of this information was pursuant to an audit that was assigned to this agent, and his assignment was to audit Tiffany and its subsidiaries, and that's the purpose for which he asked for."
                             },
                             {
                                 "start": 2425.028,
@@ -4210,7 +4294,7 @@
                                 "stop": 2442.489,
                                 "byte_start": 9867210,
                                 "byte_stop": 9896885,
-                                "text": "He is assigned audit, their liability, and he copies that as the taxpayer that it\u0027s material to."
+                                "text": "He is assigned audit, their liability, and he copies that as the taxpayer that it's material to."
                             },
                             {
                                 "start": 2442.489,
@@ -4244,6 +4328,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -4261,7 +4346,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -4279,21 +4364,21 @@
                                 "stop": 2520.591,
                                 "byte_start": 10169812,
                                 "byte_stop": 10209309,
-                                "text": "I must confess I\u0027ve been a little troubled by the affidavit that both briefs quote, in which the agent says one purpose of the audit was to check out Tiffany."
+                                "text": "I must confess I've been a little troubled by the affidavit that both briefs quote, in which the agent says one purpose of the audit was to check out Tiffany."
                             },
                             {
                                 "start": 2520.591,
                                 "stop": 2533.832,
                                 "byte_start": 10209309,
                                 "byte_stop": 10262286,
-                                "text": "It seems to me it\u0027s almost the equivalent of saying that the investigation has at least two purposes, one of which was to investigate Tiffany, and the other of which was to investigate the tax liability of certain unidentified persons."
+                                "text": "It seems to me it's almost the equivalent of saying that the investigation has at least two purposes, one of which was to investigate Tiffany, and the other of which was to investigate the tax liability of certain unidentified persons."
                             },
                             {
                                 "start": 2533.832,
                                 "stop": 2556.264,
                                 "byte_start": 10262286,
                                 "byte_stop": 10351938,
-                                "text": "And if the subpoena, on its own face, had said the purpose of this subpoena is twofold... to investigate and Tiffany and also to investigate another group of unidentified people whose names we don\u0027t know... and they said that in so many words, so that you would know that you could read the statute as to them the way your opponent does, would the statute then have applied?"
+                                "text": "And if the subpoena, on its own face, had said the purpose of this subpoena is twofold... to investigate and Tiffany and also to investigate another group of unidentified people whose names we don't know... and they said that in so many words, so that you would know that you could read the statute as to them the way your opponent does, would the statute then have applied?"
                             },
                             {
                                 "start": 2556.264,
@@ -4313,6 +4398,7 @@
                             "ID": 35240,
                             "name": "Lawrence G. Wallace",
                             "href": "https:\/\/api.oyez.org\/people\/lawrence_g_wallace",
+                            "view_count": 0,
                             "last_name": "Wallace",
                             "roles": null,
                             "thumbnail": null,
@@ -4325,21 +4411,21 @@
                                 "stop": 2560.216,
                                 "byte_start": 10357894,
                                 "byte_stop": 10367820,
-                                "text": "I don\u0027t think it would change the case."
+                                "text": "I don't think it would change the case."
                             },
                             {
                                 "start": 2560.216,
                                 "stop": 2592.571,
                                 "byte_start": 10367820,
                                 "byte_stop": 10497179,
-                                "text": "The whole case is being litigated on a premise that somehow Congress implied by enacting this provision that there\u0027s something improper about the Service\u0027s using information that legitimately comes into its possession with respect to one taxpayer, if it shows something about another taxpayer; there\u0027s something improper about using it for purposes of pursuing or initiating an investigation about that other taxpayer."
+                                "text": "The whole case is being litigated on a premise that somehow Congress implied by enacting this provision that there's something improper about the Service's using information that legitimately comes into its possession with respect to one taxpayer, if it shows something about another taxpayer; there's something improper about using it for purposes of pursuing or initiating an investigation about that other taxpayer."
                             },
                             {
                                 "start": 2592.571,
                                 "stop": 2606.713,
                                 "byte_start": 10497179,
                                 "byte_stop": 10553812,
-                                "text": "The whole Code is built on the contrary premise; that it\u0027s up to the Service to pursue whatever information comes into its possession that shows that the tax laws are not being complied with."
+                                "text": "The whole Code is built on the contrary premise; that it's up to the Service to pursue whatever information comes into its possession that shows that the tax laws are not being complied with."
                             },
                             {
                                 "start": 2606.713,
@@ -4353,7 +4439,7 @@
                                 "stop": 2644.572,
                                 "byte_start": 10622880,
                                 "byte_stop": 10705218,
-                                "text": "I think it\u0027s a mistake to interpret the statute as if somehow the Service has its hands in the cookie jar if it\u0027s legitimately pursuing an audit and discovers that someone else also may not have paid the taxes that they were supposed to pay."
+                                "text": "I think it's a mistake to interpret the statute as if somehow the Service has its hands in the cookie jar if it's legitimately pursuing an audit and discovers that someone else also may not have paid the taxes that they were supposed to pay."
                             },
                             {
                                 "start": 2644.572,
@@ -4373,6 +4459,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -4390,7 +4477,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -4401,7 +4488,7 @@
                                 "stop": 2656.296,
                                 "byte_start": 10716398,
                                 "byte_stop": 10752134,
-                                "text": "Well... but I\u0027m not sure that\u0027s a complete answer, because Congress has said that when you\u0027re going after identified taxpayers, you want to follow a little different procedure, maybe not--"
+                                "text": "Well... but I'm not sure that's a complete answer, because Congress has said that when you're going after identified taxpayers, you want to follow a little different procedure, maybe not--"
                             }
                         ]
                     },
@@ -4414,6 +4501,7 @@
                             "ID": 35240,
                             "name": "Lawrence G. Wallace",
                             "href": "https:\/\/api.oyez.org\/people\/lawrence_g_wallace",
+                            "view_count": 0,
                             "last_name": "Wallace",
                             "roles": null,
                             "thumbnail": null,
@@ -4426,7 +4514,7 @@
                                 "stop": 2679.245,
                                 "byte_start": 10752134,
                                 "byte_stop": 10843876,
-                                "text": "--Yes, they said... but all of that was said in the context of a third party summons and against legislative history saying that this third party record keeper, who isn\u0027t himself under investigation, won\u0027t have the incentive to make the claims against enforceability of the summons that are available under the law, and therefore, there should be a safeguard."
+                                "text": "--Yes, they said... but all of that was said in the context of a third party summons and against legislative history saying that this third party record keeper, who isn't himself under investigation, won't have the incentive to make the claims against enforceability of the summons that are available under the law, and therefore, there should be a safeguard."
                             },
                             {
                                 "start": 2679.245,
@@ -4440,14 +4528,14 @@
                                 "stop": 2704.444,
                                 "byte_start": 10863833,
                                 "byte_stop": 10944709,
-                                "text": "First, a provision, when you identify the person really under investigation, the person or persons, you\u0027re supposed to notify them in certain circumstances and give them a chance to intervene and raise not some additional defense, but just the defenses that the summoned person could have raised if he had an interest in raising them."
+                                "text": "First, a provision, when you identify the person really under investigation, the person or persons, you're supposed to notify them in certain circumstances and give them a chance to intervene and raise not some additional defense, but just the defenses that the summoned person could have raised if he had an interest in raising them."
                             },
                             {
                                 "start": 2704.444,
                                 "stop": 2724.29,
                                 "byte_start": 10944709,
                                 "byte_stop": 11024121,
-                                "text": "And then in 7609(f), they said and if there\u0027s nobody that you can identify, that you can bring into court, then we\u0027ll substitute an ex parte hearing before the judge, and you have to be able to show that the criterion of (f) have been met in order to issue the summons."
+                                "text": "And then in 7609(f), they said and if there's nobody that you can identify, that you can bring into court, then we'll substitute an ex parte hearing before the judge, and you have to be able to show that the criterion of (f) have been met in order to issue the summons."
                             },
                             {
                                 "start": 2724.29,
@@ -4482,7 +4570,7 @@
                                 "stop": 2775.29,
                                 "byte_start": 11100921,
                                 "byte_stop": 11228085,
-                                "text": "The provisions in parts A and B were responsive to this Court\u0027s decision in Donaldson v. the United States, in which it held that a taxpayer under audit, under investigation, had no standing to intervene in, no right to intervene in a summons enforcement proceeding against his former employer, where the Service was seeking information about him from the employer."
+                                "text": "The provisions in parts A and B were responsive to this Court's decision in Donaldson v. the United States, in which it held that a taxpayer under audit, under investigation, had no standing to intervene in, no right to intervene in a summons enforcement proceeding against his former employer, where the Service was seeking information about him from the employer."
                             },
                             {
                                 "start": 2775.29,
@@ -4496,7 +4584,7 @@
                                 "stop": 2793.685,
                                 "byte_start": 11265492,
                                 "byte_stop": 11301646,
-                                "text": "Congress was not concerned with the Service\u0027s uncontested access to employer records."
+                                "text": "Congress was not concerned with the Service's uncontested access to employer records."
                             },
                             {
                                 "start": 2793.685,
@@ -4517,7 +4605,7 @@
                                 "stop": 2820.586,
                                 "byte_start": 11362354,
                                 "byte_stop": 11409270,
-                                "text": "And so Congress limited the record keepers, the category of record keepers, as Justice O\u0027Connor pointed out, to whom these provisions apply."
+                                "text": "And so Congress limited the record keepers, the category of record keepers, as Justice O'Connor pointed out, to whom these provisions apply."
                             },
                             {
                                 "start": 2820.586,
@@ -4531,7 +4619,7 @@
                                 "stop": 2856.444,
                                 "byte_start": 11494638,
                                 "byte_stop": 11552735,
-                                "text": "And it\u0027s only if the third party summons is issued to one of these kinds of record keepers that the notice provision goes out and that there\u0027s a right to intervene in the enforcement proceeding."
+                                "text": "And it's only if the third party summons is issued to one of these kinds of record keepers that the notice provision goes out and that there's a right to intervene in the enforcement proceeding."
                             },
                             {
                                 "start": 2856.444,
@@ -4594,7 +4682,7 @@
                                 "stop": 3019.883,
                                 "byte_start": 12176330,
                                 "byte_stop": 12206423,
-                                "text": "So it isn\u0027t only the title that says that these provisions have been put in solely for third party summonses."
+                                "text": "So it isn't only the title that says that these provisions have been put in solely for third party summonses."
                             },
                             {
                                 "start": 3019.883,
@@ -4615,28 +4703,28 @@
                                 "stop": 3058.342,
                                 "byte_start": 12327840,
                                 "byte_stop": 12360336,
-                                "text": "And if it\u0027s read in conjunction with the heading and with the language used in that exceptions provision in (a), it means the same thing."
+                                "text": "And if it's read in conjunction with the heading and with the language used in that exceptions provision in (a), it means the same thing."
                             },
                             {
                                 "start": 3058.342,
                                 "stop": 3076.32,
                                 "byte_start": 12360336,
                                 "byte_stop": 12432225,
-                                "text": "I turn now to the bottom of 3A of our briefs Appendix, but it\u0027s also in some other materials, the introductory part of 7609(f)."
+                                "text": "I turn now to the bottom of 3A of our briefs Appendix, but it's also in some other materials, the introductory part of 7609(f)."
                             },
                             {
                                 "start": 3076.32,
                                 "stop": 3086.242,
                                 "byte_start": 12432225,
                                 "byte_stop": 12471931,
-                                "text": "\u0022Any summons described in subsection (c) which does not identify the person with respect to whose liability the summons is issued. \u0022"
+                                "text": "\"Any summons described in subsection (c) which does not identify the person with respect to whose liability the summons is issued. \""
                             },
                             {
                                 "start": 3086.242,
                                 "stop": 3093.181,
                                 "byte_start": 12471931,
                                 "byte_stop": 12499621,
-                                "text": "That doesn\u0027t mean persons that the Service might also have an interest in."
+                                "text": "That doesn't mean persons that the Service might also have an interest in."
                             },
                             {
                                 "start": 3093.181,
@@ -4656,6 +4744,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -4673,7 +4762,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -4684,7 +4773,7 @@
                                 "stop": 3123.3,
                                 "byte_start": 12554896,
                                 "byte_stop": 12620098,
-                                "text": "--May I interrupt you again, Mr. Wallace, with... supposing one paragraph of the subpoena plainly did not relate to Tiffany\u0027s liability, but somehow said also the name of the customer who bought a million dollar island in Jamaica or something, if you had some descriptor plainly seeking that person."
+                                "text": "--May I interrupt you again, Mr. Wallace, with... supposing one paragraph of the subpoena plainly did not relate to Tiffany's liability, but somehow said also the name of the customer who bought a million dollar island in Jamaica or something, if you had some descriptor plainly seeking that person."
                             },
                             {
                                 "start": 3123.3,
@@ -4704,6 +4793,7 @@
                             "ID": 35240,
                             "name": "Lawrence G. Wallace",
                             "href": "https:\/\/api.oyez.org\/people\/lawrence_g_wallace",
+                            "view_count": 0,
                             "last_name": "Wallace",
                             "roles": null,
                             "thumbnail": null,
@@ -4723,7 +4813,7 @@
                                 "stop": 3206.188,
                                 "byte_start": 12732111,
                                 "byte_stop": 12951644,
-                                "text": "Now, in interrelating these two different parts of 7609, it\u0027s significant in corroborating that this is the right reading of the statute to think as a practical matter that if we had, in fact, known of the names of some of these licensees and requested not their names, but requested all records of transactions with licensee A and licensee B, those persons would not have had a right under 7609(a) to notice, nor would they have a right under 7609(b) to intervene, because this is not a third party summons."
+                                "text": "Now, in interrelating these two different parts of 7609, it's significant in corroborating that this is the right reading of the statute to think as a practical matter that if we had, in fact, known of the names of some of these licensees and requested not their names, but requested all records of transactions with licensee A and licensee B, those persons would not have had a right under 7609(a) to notice, nor would they have a right under 7609(b) to intervene, because this is not a third party summons."
                             },
                             {
                                 "start": 3206.188,
@@ -4737,21 +4827,21 @@
                                 "stop": 3252.585,
                                 "byte_start": 12991455,
                                 "byte_stop": 13137322,
-                                "text": "But the more significant point for our purposes is that this is not a third party summons, so those persons would be in no different position than manufacturer M who might be a supplier to Tiffany, and if we ask, as you often would in a summons, for all records of transactions with this particular supplier, that the supplier doesn\u0027t have any right to interfere with our securing those records from the taxpayer who is under audit, even though it\u0027s quite true that those records might tell us something about possible tax liabilities of that supplier."
+                                "text": "But the more significant point for our purposes is that this is not a third party summons, so those persons would be in no different position than manufacturer M who might be a supplier to Tiffany, and if we ask, as you often would in a summons, for all records of transactions with this particular supplier, that the supplier doesn't have any right to interfere with our securing those records from the taxpayer who is under audit, even though it's quite true that those records might tell us something about possible tax liabilities of that supplier."
                             },
                             {
                                 "start": 3252.585,
                                 "stop": 3268.345,
                                 "byte_start": 13137322,
                                 "byte_stop": 13200330,
-                                "text": "It\u0027s quite common in conducting these audits for the Internal Revenue agent to verify the information received from one taxpayer against another taxpayer\u0027s files and to pull those files."
+                                "text": "It's quite common in conducting these audits for the Internal Revenue agent to verify the information received from one taxpayer against another taxpayer's files and to pull those files."
                             },
                             {
                                 "start": 3268.345,
                                 "stop": 3270.547,
                                 "byte_start": 13200330,
                                 "byte_stop": 13209107,
-                                "text": "It\u0027s part of what he needs to do."
+                                "text": "It's part of what he needs to do."
                             },
                             {
                                 "start": 3270.547,
@@ -4772,7 +4862,7 @@
                                 "stop": 3306.837,
                                 "byte_start": 13342331,
                                 "byte_stop": 13354243,
-                                "text": "But that\u0027s what the job of the Service is."
+                                "text": "But that's what the job of the Service is."
                             },
                             {
                                 "start": 3306.837,
@@ -4827,6 +4917,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -4844,7 +4935,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"

@@ -2,9 +2,10 @@
     "ID": 56031,
     "name": "Burrage v. United States",
     "href": "https:\/\/api.oyez.org\/cases\/2013\/12-7515",
+    "view_count": 81,
     "docket_number": "12-7515",
     "additional_docket_numbers": null,
-    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
     "first_party": "Marcus Burrage",
     "second_party": "United States",
     "timeline": [
@@ -31,15 +32,16 @@
         }
     ],
     "lower_court": null,
-    "facts_of_the_case": "\u003Cp\u003EMarcus Burrage was arrested for distribution of heroin and distribution of heroin resulting in the death of Joshua Banka. A jury found him guilty, and Burrage was sentenced to nearly 40 years in prison. He appealed and argued that the judge allowed inadmissible hearsay into evidence, denied his motion for acquittal, and denied his motion for a new trial based on prosecutorial misconduct and erroneous jury instructions.\u003C\/p\u003E\n\u003Cp\u003EThe U.S. Court of Appeals for the Eighth Circuit affirmed the lower court\u0027s decision on all counts. The court held that the evidence was sufficient to convict Burrage of the crime. The court also noted that experts presented adequate testimony that Banka would not have died but for the heroin in his system. Additionally, the court held that in-court testimony of the police officer was not hearsay.\u003C\/p\u003E\n",
-    "question": "\u003Cp\u003E1. Does the crime of distribution of drugs causing death require a foreseeability or proximate cause requirement?\u003C\/p\u003E\n\u003Cp\u003E2. Can a defendant be found guilty of distribution of drugs causing death when the jury instructions for that crime allow conviction if the heroin \u0022contributed to\u0022 death by \u0022mixed drug intoxication\u0022 instead of being the sole cause of death?\u003C\/p\u003E\n",
-    "conclusion": "\u003Cp\u003ENot decided, no. Justice Antonin Scalia delivered the majority opinion for the unanimous Court. The Court held that the law considers causation as a hybrid between two constituent parts: actual cause, or cause-in-fact, and legal cause, which is also known as proximate cause. Because the cause-in-fact requirement was not met in this case, the Court did not rule on whether the crime of distribution of drugs causing death required a foreseeability or proximate cause requirement. Instead, the Court focused on the specific text found in 21 U.S.C. \u00a7 841(b), the federal law requiring heightened sentences for drug sales causing death or serious bodily injury. The language in that statute requires that the death \u0022results from\u0022 the sale of illegal drugs. Because the deceased in this case was found with multiple drugs in his system, the heroin sold by the defendant could not be considered an independently sufficient cause of death.\u003C\/p\u003E\n\u003Cp\u003EJustice Ruth Bader Ginsberg wrote an opinion concurring in the judgment in which she objected to an analogy made in the majority opinion that compared the \u0022results from\u0022 language in drug statutes to similar language found in Title VII\u0027s anti-retaliation provision. Instead she cited to her dissent in \u003Cem\u003E University of Texas Southwestern Medical Center v. Nassar \u003C\/em\u003E. There, Ginsburg also dissented, arguing that the Court\u0027s interpretation of similar language (in that case, \u0022because of\u0022) lacked sensitivity to real-life concerns. Despite her reservations about the Court\u0027s statutory interpretation, she agreed with the ruling in this case. Justice Sonia Sotomayor joined Ginsburg\u0027s special concurrence.\u003C\/p\u003E\n",
+    "facts_of_the_case": "<p>Marcus Burrage was arrested for distribution of heroin and distribution of heroin resulting in the death of Joshua Banka. A jury found him guilty, and Burrage was sentenced to nearly 40 years in prison. He appealed and argued that the judge allowed inadmissible hearsay into evidence, denied his motion for acquittal, and denied his motion for a new trial based on prosecutorial misconduct and erroneous jury instructions.<\/p>\n<p>The U.S. Court of Appeals for the Eighth Circuit affirmed the lower court's decision on all counts. The court held that the evidence was sufficient to convict Burrage of the crime. The court also noted that experts presented adequate testimony that Banka would not have died but for the heroin in his system. Additionally, the court held that in-court testimony of the police officer was not hearsay.<\/p>\n",
+    "question": "<p>1. Does the crime of distribution of drugs causing death require a foreseeability or proximate cause requirement?<\/p>\n<p>2. Can a defendant be found guilty of distribution of drugs causing death when the jury instructions for that crime allow conviction if the heroin \"contributed to\" death by \"mixed drug intoxication\" instead of being the sole cause of death?<\/p>\n",
+    "conclusion": "<p>Not decided, no. Justice Antonin Scalia delivered the majority opinion for the unanimous Court. The Court held that the law considers causation as a hybrid between two constituent parts: actual cause, or cause-in-fact, and legal cause, which is also known as proximate cause. Because the cause-in-fact requirement was not met in this case, the Court did not rule on whether the crime of distribution of drugs causing death required a foreseeability or proximate cause requirement. Instead, the Court focused on the specific text found in 21 U.S.C. \u00a7 841(b), the federal law requiring heightened sentences for drug sales causing death or serious bodily injury. The language in that statute requires that the death \"results from\" the sale of illegal drugs. Because the deceased in this case was found with multiple drugs in his system, the heroin sold by the defendant could not be considered an independently sufficient cause of death.<\/p>\n<p>Justice Ruth Bader Ginsberg wrote an opinion concurring in the judgment in which she objected to an analogy made in the majority opinion that compared the \"results from\" language in drug statutes to similar language found in Title VII's anti-retaliation provision. Instead she cited to her dissent in <em> University of Texas Southwestern Medical Center v. Nassar <\/em>. There, Ginsburg also dissented, arguing that the Court's interpretation of similar language (in that case, \"because of\") lacked sensitivity to real-life concerns. Despite her reservations about the Court's statutory interpretation, she agreed with the ruling in this case. Justice Sonia Sotomayor joined Ginsburg's special concurrence.<\/p>\n",
     "advocates": [
         {
             "advocate": {
                 "ID": 15767,
                 "name": "Angela L. Campbell",
                 "href": "https:\/\/api.oyez.org\/people\/angela_l_campbell",
+                "view_count": 0,
                 "last_name": "Campbell",
                 "roles": null,
                 "thumbnail": null,
@@ -54,6 +56,7 @@
                 "ID": 17700,
                 "name": "Benjamin J. Horwich",
                 "href": "https:\/\/api.oyez.org\/people\/benjamin_j_horwich",
+                "view_count": 0,
                 "last_name": "Horwich",
                 "roles": null,
                 "thumbnail": null,
@@ -85,13 +88,15 @@
     "heard_by": [
         {
             "ID": 15151,
-            "name": "Roberts Court (2010-     )",
+            "name": "Roberts Court (2010-2016)",
             "href": "https:\/\/api.oyez.org\/courts\/roberts6",
+            "view_count": 0,
             "members": [
                 {
                     "ID": 15086,
                     "name": "John G. Roberts, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                    "view_count": 40,
                     "last_name": "Roberts",
                     "roles": [
                         {
@@ -109,22 +114,23 @@
                         "id": 32683,
                         "mime": "image\/png",
                         "size": 52305,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_g_roberts_jr\/john_g_roberts_jr.thumb.png"
                     },
-                    "length_of_service": 3702,
+                    "length_of_service": 3842,
                     "identifier": "john_g_roberts_jr"
                 },
                 {
                     "ID": 15049,
                     "name": "Antonin Scalia",
                     "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                    "view_count": 54,
                     "last_name": "Scalia",
                     "roles": [
                         {
                             "id": 2693,
                             "type": "scotus_justice",
                             "date_start": 528094800,
-                            "date_end": 0,
+                            "date_end": 1455343200,
                             "appointing_president": "Ronald Reagan",
                             "role_title": "Associate Justice of the Supreme Court of the United States",
                             "institution_name": "Supreme Court of the United States",
@@ -135,15 +141,16 @@
                         "id": 32678,
                         "mime": "image\/png",
                         "size": 58944,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                     },
-                    "length_of_service": 10699,
+                    "length_of_service": 10732,
                     "identifier": "antonin_scalia"
                 },
                 {
                     "ID": 15113,
                     "name": "Anthony M. Kennedy",
                     "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                    "view_count": 73,
                     "last_name": "Kennedy",
                     "roles": [
                         {
@@ -161,15 +168,16 @@
                         "id": 32679,
                         "mime": "image\/png",
                         "size": 47100,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                     },
-                    "length_of_service": 10147,
+                    "length_of_service": 10275,
                     "identifier": "anthony_m_kennedy"
                 },
                 {
                     "ID": 15100,
                     "name": "Clarence Thomas",
                     "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                    "view_count": 91,
                     "last_name": "Thomas",
                     "roles": [
                         {
@@ -187,15 +195,16 @@
                         "id": 32680,
                         "mime": "image\/png",
                         "size": 49064,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                     },
-                    "length_of_service": 8870,
+                    "length_of_service": 8932,
                     "identifier": "clarence_thomas"
                 },
                 {
                     "ID": 15084,
                     "name": "Ruth Bader Ginsburg",
                     "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                    "view_count": 55,
                     "last_name": "Ginsburg",
                     "roles": [
                         {
@@ -213,15 +222,16 @@
                         "id": 32681,
                         "mime": "image\/png",
                         "size": 45030,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
                     },
-                    "length_of_service": 8135,
+                    "length_of_service": 8275,
                     "identifier": "ruth_bader_ginsburg"
                 },
                 {
                     "ID": 15139,
                     "name": "Stephen G. Breyer",
                     "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                    "view_count": 58,
                     "last_name": "Breyer",
                     "roles": [
                         {
@@ -239,15 +249,16 @@
                         "id": 32682,
                         "mime": "image\/png",
                         "size": 49908,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
                     },
-                    "length_of_service": 7777,
+                    "length_of_service": 7917,
                     "identifier": "stephen_g_breyer"
                 },
                 {
                     "ID": 15068,
                     "name": "Samuel A. Alito, Jr.",
-                    "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                    "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                    "view_count": 74,
                     "last_name": "Alito",
                     "roles": [
                         {
@@ -265,15 +276,16 @@
                         "id": 32684,
                         "mime": "image\/png",
                         "size": 44799,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
                     },
-                    "length_of_service": 3531,
-                    "identifier": "samuel_alito_jr"
+                    "length_of_service": 3718,
+                    "identifier": "samuel_a_alito_jr"
                 },
                 {
                     "ID": 15131,
                     "name": "Sonia Sotomayor",
                     "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
+                    "view_count": 63,
                     "last_name": "Sotomayor",
                     "roles": [
                         {
@@ -291,15 +303,16 @@
                         "id": 32685,
                         "mime": "image\/png",
                         "size": 50379,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sonia_sotomayor_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sonia_sotomayor\/sonia_sotomayor.thumb.png"
                     },
-                    "length_of_service": 2293,
+                    "length_of_service": 2433,
                     "identifier": "sonia_sotomayor"
                 },
                 {
                     "ID": 15094,
                     "name": "Elena Kagan",
                     "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
+                    "view_count": 80,
                     "last_name": "Kagan",
                     "roles": [
                         {
@@ -317,9 +330,9 @@
                         "id": 32690,
                         "mime": "image\/png",
                         "size": 44456,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/elena-kagan-photo_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                     },
-                    "length_of_service": 1931,
+                    "length_of_service": 2069,
                     "identifier": "elena_kagan"
                 }
             ],
@@ -329,7 +342,7 @@
                     "id": 12235,
                     "mime": "image\/jpeg",
                     "size": 359998,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/roberts_court_2010-.jpg"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/roberts6.jpg"
                 }
             ],
             "identifier": "roberts6"
@@ -337,13 +350,15 @@
     ],
     "decided_by": {
         "ID": 15151,
-        "name": "Roberts Court (2010-     )",
+        "name": "Roberts Court (2010-2016)",
         "href": "https:\/\/api.oyez.org\/courts\/roberts6",
+        "view_count": 0,
         "members": [
             {
                 "ID": 15086,
                 "name": "John G. Roberts, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                "view_count": 40,
                 "last_name": "Roberts",
                 "roles": [
                     {
@@ -361,22 +376,23 @@
                     "id": 32683,
                     "mime": "image\/png",
                     "size": 52305,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_g_roberts_jr\/john_g_roberts_jr.thumb.png"
                 },
-                "length_of_service": 3702,
+                "length_of_service": 3842,
                 "identifier": "john_g_roberts_jr"
             },
             {
                 "ID": 15049,
                 "name": "Antonin Scalia",
                 "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                "view_count": 54,
                 "last_name": "Scalia",
                 "roles": [
                     {
                         "id": 2693,
                         "type": "scotus_justice",
                         "date_start": 528094800,
-                        "date_end": 0,
+                        "date_end": 1455343200,
                         "appointing_president": "Ronald Reagan",
                         "role_title": "Associate Justice of the Supreme Court of the United States",
                         "institution_name": "Supreme Court of the United States",
@@ -387,15 +403,16 @@
                     "id": 32678,
                     "mime": "image\/png",
                     "size": 58944,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                 },
-                "length_of_service": 10699,
+                "length_of_service": 10732,
                 "identifier": "antonin_scalia"
             },
             {
                 "ID": 15113,
                 "name": "Anthony M. Kennedy",
                 "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                "view_count": 73,
                 "last_name": "Kennedy",
                 "roles": [
                     {
@@ -413,15 +430,16 @@
                     "id": 32679,
                     "mime": "image\/png",
                     "size": 47100,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                 },
-                "length_of_service": 10147,
+                "length_of_service": 10275,
                 "identifier": "anthony_m_kennedy"
             },
             {
                 "ID": 15100,
                 "name": "Clarence Thomas",
                 "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                "view_count": 91,
                 "last_name": "Thomas",
                 "roles": [
                     {
@@ -439,15 +457,16 @@
                     "id": 32680,
                     "mime": "image\/png",
                     "size": 49064,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                 },
-                "length_of_service": 8870,
+                "length_of_service": 8932,
                 "identifier": "clarence_thomas"
             },
             {
                 "ID": 15084,
                 "name": "Ruth Bader Ginsburg",
                 "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                "view_count": 55,
                 "last_name": "Ginsburg",
                 "roles": [
                     {
@@ -465,15 +484,16 @@
                     "id": 32681,
                     "mime": "image\/png",
                     "size": 45030,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
                 },
-                "length_of_service": 8135,
+                "length_of_service": 8275,
                 "identifier": "ruth_bader_ginsburg"
             },
             {
                 "ID": 15139,
                 "name": "Stephen G. Breyer",
                 "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                "view_count": 58,
                 "last_name": "Breyer",
                 "roles": [
                     {
@@ -491,15 +511,16 @@
                     "id": 32682,
                     "mime": "image\/png",
                     "size": 49908,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
                 },
-                "length_of_service": 7777,
+                "length_of_service": 7917,
                 "identifier": "stephen_g_breyer"
             },
             {
                 "ID": 15068,
                 "name": "Samuel A. Alito, Jr.",
-                "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                "view_count": 74,
                 "last_name": "Alito",
                 "roles": [
                     {
@@ -517,15 +538,16 @@
                     "id": 32684,
                     "mime": "image\/png",
                     "size": 44799,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
                 },
-                "length_of_service": 3531,
-                "identifier": "samuel_alito_jr"
+                "length_of_service": 3718,
+                "identifier": "samuel_a_alito_jr"
             },
             {
                 "ID": 15131,
                 "name": "Sonia Sotomayor",
                 "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
+                "view_count": 63,
                 "last_name": "Sotomayor",
                 "roles": [
                     {
@@ -543,15 +565,16 @@
                     "id": 32685,
                     "mime": "image\/png",
                     "size": 50379,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sonia_sotomayor_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sonia_sotomayor\/sonia_sotomayor.thumb.png"
                 },
-                "length_of_service": 2293,
+                "length_of_service": 2433,
                 "identifier": "sonia_sotomayor"
             },
             {
                 "ID": 15094,
                 "name": "Elena Kagan",
                 "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
+                "view_count": 80,
                 "last_name": "Kagan",
                 "roles": [
                     {
@@ -569,9 +592,9 @@
                     "id": 32690,
                     "mime": "image\/png",
                     "size": 44456,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/elena-kagan-photo_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                 },
-                "length_of_service": 1931,
+                "length_of_service": 2069,
                 "identifier": "elena_kagan"
             }
         ],
@@ -581,7 +604,7 @@
                 "id": 12235,
                 "mime": "image\/jpeg",
                 "size": 359998,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/roberts_court_2010-.jpg"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/roberts6.jpg"
             }
         ],
         "identifier": "roberts6"
@@ -605,7 +628,7 @@
             "href": "https:\/\/api.oyez.org\/case_media\/opinion_announcement_audio\/23211"
         }
     ],
-    "description": "A case in which the Court held that, under 21 U.S.C. \u00a7 841(b) of the statute regarding drug-related deaths, an individual convicted of the death of another through the sale of drugs cannot be convicted of drug-induced homicide if multiple drugs are present in the deceased\u0027s system.",
+    "description": "A case in which the Court held that, under 21 U.S.C. \u00a7 841(b) of the statute regarding drug-related deaths, an individual convicted of the death of another through the sale of drugs cannot be convicted of drug-induced homicide if multiple drugs are present in the deceased's system.",
     "written_opinion": [
         {
             "id": 478,

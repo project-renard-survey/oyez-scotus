@@ -1,0 +1,58 @@
+{
+    "ID": 62714,
+    "name": "State Farm Fire and Casualty Co. v. U.S. ex rel. Rigsby",
+    "href": "https:\/\/api.oyez.org\/cases\/2016\/15-513",
+    "view_count": 0,
+    "docket_number": "15-513",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
+    "first_party": "State Farm Fire and Casualty Co.",
+    "second_party": "United States ex rel. Cori Rigsby, et al.",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1464670800
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53722"
+        }
+    ],
+    "lower_court": {
+        "ID": 10,
+        "name": "United States Court of Appeals for the Fifth Circuit",
+        "href": "https:\/\/api.oyez.org\/taxonomy\/term\/10"
+    },
+    "facts_of_the_case": "<p>Many homeowners in the Gulf Coast area had two separate insurance policies: One that covered flood but not wind damage, and another that covered wind but not flood damage. These policies were frequently administered by the same private insurance company, but the company would be responsible for paying wind damage claims, while government funds would pay for flood damage claims; therefore, there was an incentive for the companies to classify damage as caused by flood rather than wind. State Farm Fire and Casualty Co. (State Farm) was one of these companies that administered such policies in the Gulf Coast area. Cori Rigsby was a State Farm claims adjuster who believed that State Farm was wrongfully seeking to maximize its policyholders\u2019 flood damage claims and minimize wind damage claims after Hurricane Katrina. Rigsby sued State Farm under the False Claims Act (FCA). The district court determined that State Farm had submitted false claims in violation of the FCA. On appeal, State Farm argued Rigsby had violated the FCA\u2019s seal requirement, which stated that the complaint cannot be disclosed until the court orders the complaint served on the defendant, and that violation of the FCA seal requirement warrants immediate dismissal. The U.S. Court of Appeals for the Fifth Circuit held that, although Rigsby violated the seal requirement by disclosing the existence of the suit, the violation of the seal requirement does warrant immediate dismissal.<\/p>\n",
+    "question": "<p>What standard governs the decision of whether a claim under the False Claims Act should be dismissed because the complaining party violated the seal requirement?<\/p>\n",
+    "conclusion": null,
+    "advocates": null,
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27430"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        null
+    ],
+    "decided_by": null,
+    "term": "2016",
+    "location": {
+        "latitude": 29.947654,
+        "longitude": -90.069188,
+        "name": "U.S. Court of Appeals for the Fifth Circuit",
+        "street": "600 Camp Street",
+        "city": "New Orleans",
+        "province": "LA",
+        "postal_code": null,
+        "province_name": "Louisiana"
+    },
+    "opinion_announcement": null,
+    "description": "A case in which the Court will determine what standard governs the decision of whether a claim under the False Claims Act should be dismissed because the complaining party violated the seal requirement.",
+    "written_opinion": null,
+    "related_cases": null
+}

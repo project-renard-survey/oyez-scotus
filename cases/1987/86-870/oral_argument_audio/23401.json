@@ -40,6 +40,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -67,7 +68,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -98,6 +99,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,
@@ -138,7 +140,7 @@
                                 "stop": 81.284,
                                 "byte_start": 317741,
                                 "byte_stop": 446472,
-                                "text": "The \u0022equal footing\u0022 doctrine in this context means that each new state that enters the Union, like Mississippi, acquires sovereign title from the United States to certain underwater lands to be held in trust for the benefit of all the public."
+                                "text": "The \"equal footing\" doctrine in this context means that each new state that enters the Union, like Mississippi, acquires sovereign title from the United States to certain underwater lands to be held in trust for the benefit of all the public."
                             },
                             {
                                 "start": 81.284,
@@ -159,7 +161,7 @@
                                 "stop": 174.086,
                                 "byte_start": 787527,
                                 "byte_stop": 817724,
-                                "text": "And by \u0022navigable\u0022, this Court has always meant \u0022navigable in fact\u0022."
+                                "text": "And by \"navigable\", this Court has always meant \"navigable in fact\"."
                             },
                             {
                                 "start": 174.086,
@@ -180,7 +182,7 @@
                                 "stop": 226.218,
                                 "byte_start": 953979,
                                 "byte_stop": 1026182,
-                                "text": "\u0022It is our view that as a matter of federal law, the United States granted to this State in 1817 all lands subject to the ebb and flow of the tide and up to the then-mean high water liable without regard to navigability. \u0022"
+                                "text": "\"It is our view that as a matter of federal law, the United States granted to this State in 1817 all lands subject to the ebb and flow of the tide and up to the then-mean high water liable without regard to navigability. \""
                             },
                             {
                                 "start": 226.218,
@@ -208,7 +210,7 @@
                                 "stop": 284.729,
                                 "byte_start": 1155958,
                                 "byte_stop": 1260239,
-                                "text": "\u0022ownership by the crown... and therefore, by any sovereign State, of title to lands under waters, is founded not upon the existence of tide over the lands, but upon the fact that the waters are navigable. \u0022"
+                                "text": "\"ownership by the crown... and therefore, by any sovereign State, of title to lands under waters, is founded not upon the existence of tide over the lands, but upon the fact that the waters are navigable. \""
                             }
                         ]
                     },
@@ -221,13 +223,14 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
                                     "id": 2693,
                                     "type": "scotus_justice",
                                     "date_start": 528094800,
-                                    "date_end": 0,
+                                    "date_end": 1455343200,
                                     "appointing_president": "Ronald Reagan",
                                     "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
@@ -238,9 +241,9 @@
                                 "id": 32678,
                                 "mime": "image\/png",
                                 "size": 58944,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                             },
-                            "length_of_service": 10699,
+                            "length_of_service": 10732,
                             "identifier": "antonin_scalia"
                         },
                         "text_blocks": [
@@ -263,7 +266,7 @@
                                 "stop": 306.175,
                                 "byte_start": 1328157,
                                 "byte_stop": 1346025,
-                                "text": "\u0022if waters are navigable, the. \u0022"
+                                "text": "\"if waters are navigable, the. \""
                             },
                             {
                                 "start": 306.175,
@@ -277,14 +280,14 @@
                                 "stop": 313.487,
                                 "byte_start": 1347801,
                                 "byte_stop": 1375282,
-                                "text": "\u0022doctrine applies, whether or not the oceans\u0027 ebb and flow extends to those waters. \u0022"
+                                "text": "\"doctrine applies, whether or not the oceans' ebb and flow extends to those waters. \""
                             },
                             {
                                 "start": 313.487,
                                 "stop": 322.623,
                                 "byte_start": 1375282,
                                 "byte_stop": 1411853,
-                                "text": "Is that interpretation not... although if the ebb and flow does extend to the waters, the \u0022trust\u0022 doctrine does extend to the waters, the \u0022trust\u0022 doctrine applies despite their non-navigability."
+                                "text": "Is that interpretation not... although if the ebb and flow does extend to the waters, the \"trust\" doctrine does extend to the waters, the \"trust\" doctrine applies despite their non-navigability."
                             },
                             {
                                 "start": 322.623,
@@ -298,7 +301,7 @@
                                 "stop": 334.191,
                                 "byte_start": 1436931,
                                 "byte_stop": 1458142,
-                                "text": "That is, navigability is the extension of the \u0022ebb and flow\u0022 jurisdiction?"
+                                "text": "That is, navigability is the extension of the \"ebb and flow\" jurisdiction?"
                             }
                         ]
                     },
@@ -311,6 +314,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,
@@ -350,13 +354,14 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
                                     "id": 2693,
                                     "type": "scotus_justice",
                                     "date_start": 528094800,
-                                    "date_end": 0,
+                                    "date_end": 1455343200,
                                     "appointing_president": "Ronald Reagan",
                                     "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
@@ -367,9 +372,9 @@
                                 "id": 32678,
                                 "mime": "image\/png",
                                 "size": 58944,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                             },
-                            "length_of_service": 10699,
+                            "length_of_service": 10732,
                             "identifier": "antonin_scalia"
                         },
                         "text_blocks": [
@@ -378,7 +383,7 @@
                                 "stop": 361.419,
                                 "byte_start": 1552497,
                                 "byte_stop": 1567021,
-                                "text": "We have not addressed it either way: we have not said \u0022yes\u0022, and we have not said \u0022no\u0022."
+                                "text": "We have not addressed it either way: we have not said \"yes\", and we have not said \"no\"."
                             }
                         ]
                     },
@@ -391,6 +396,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,
@@ -403,7 +409,7 @@
                                 "stop": 433.174,
                                 "byte_start": 1567021,
                                 "byte_stop": 1854054,
-                                "text": "--That is true, but I think that if you look at the purposes of the \u0022public trust\u0022 doctrine, this Court has consistently said that the purpose of the doctrine, the purpose of the \u0022equal footing\u0022 doctrine, is premised on the public need to use the waters as navigable highways of commerce, and that is the critical fact that justifies reading the Decisions of this Court as meaning that, if you have a non-navigable body of water that happens to be subject to tidal influence, that kind of underwater land can never become part of the public trust domain for the very reason that there is no purpose served; there is no commercial navigability that is possible."
+                                "text": "--That is true, but I think that if you look at the purposes of the \"public trust\" doctrine, this Court has consistently said that the purpose of the doctrine, the purpose of the \"equal footing\" doctrine, is premised on the public need to use the waters as navigable highways of commerce, and that is the critical fact that justifies reading the Decisions of this Court as meaning that, if you have a non-navigable body of water that happens to be subject to tidal influence, that kind of underwater land can never become part of the public trust domain for the very reason that there is no purpose served; there is no commercial navigability that is possible."
                             },
                             {
                                 "start": 433.174,
@@ -423,13 +429,14 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
                                     "id": 2693,
                                     "type": "scotus_justice",
                                     "date_start": 528094800,
-                                    "date_end": 0,
+                                    "date_end": 1455343200,
                                     "appointing_president": "Ronald Reagan",
                                     "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
@@ -440,9 +447,9 @@
                                 "id": 32678,
                                 "mime": "image\/png",
                                 "size": 58944,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                             },
-                            "length_of_service": 10699,
+                            "length_of_service": 10732,
                             "identifier": "antonin_scalia"
                         },
                         "text_blocks": [
@@ -471,6 +478,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,
@@ -496,13 +504,14 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
                                     "id": 2693,
                                     "type": "scotus_justice",
                                     "date_start": 528094800,
-                                    "date_end": 0,
+                                    "date_end": 1455343200,
                                     "appointing_president": "Ronald Reagan",
                                     "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
@@ -513,9 +522,9 @@
                                 "id": 32678,
                                 "mime": "image\/png",
                                 "size": 58944,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                             },
-                            "length_of_service": 10699,
+                            "length_of_service": 10732,
                             "identifier": "antonin_scalia"
                         },
                         "text_blocks": [
@@ -537,6 +546,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,
@@ -562,13 +572,14 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
                                     "id": 2693,
                                     "type": "scotus_justice",
                                     "date_start": 528094800,
-                                    "date_end": 0,
+                                    "date_end": 1455343200,
                                     "appointing_president": "Ronald Reagan",
                                     "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
@@ -579,9 +590,9 @@
                                 "id": 32678,
                                 "mime": "image\/png",
                                 "size": 58944,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                             },
-                            "length_of_service": 10699,
+                            "length_of_service": 10732,
                             "identifier": "antonin_scalia"
                         },
                         "text_blocks": [
@@ -610,6 +621,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,
@@ -635,13 +647,14 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
                                     "id": 2693,
                                     "type": "scotus_justice",
                                     "date_start": 528094800,
-                                    "date_end": 0,
+                                    "date_end": 1455343200,
                                     "appointing_president": "Ronald Reagan",
                                     "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
@@ -652,9 +665,9 @@
                                 "id": 32678,
                                 "mime": "image\/png",
                                 "size": 58944,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                             },
-                            "length_of_service": 10699,
+                            "length_of_service": 10732,
                             "identifier": "antonin_scalia"
                         },
                         "text_blocks": [
@@ -663,7 +676,7 @@
                                 "stop": 483.419,
                                 "byte_start": 2019671,
                                 "byte_stop": 2054988,
-                                "text": "Once you have accepted the principle that \u0022navigability\u0022 is not the test... as you just have... you have to decide where the ocean ends: why does it not end where the ebb and flow start?"
+                                "text": "Once you have accepted the principle that \"navigability\" is not the test... as you just have... you have to decide where the ocean ends: why does it not end where the ebb and flow start?"
                             }
                         ]
                     },
@@ -676,6 +689,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,
@@ -750,6 +764,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -777,7 +792,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -788,7 +803,7 @@
                                 "stop": 640.43,
                                 "byte_start": 2617248,
                                 "byte_stop": 2683076,
-                                "text": "Mr. Gressman, certainly Chief Justice Taney\u0027s Opinion in Genesee Chief, as Justice Scalia says, extends Admiralty jurisdiction to navigable waters that were non-tidal, there is nothing indicating that all tidal waters were not also included."
+                                "text": "Mr. Gressman, certainly Chief Justice Taney's Opinion in Genesee Chief, as Justice Scalia says, extends Admiralty jurisdiction to navigable waters that were non-tidal, there is nothing indicating that all tidal waters were not also included."
                             }
                         ]
                     },
@@ -801,6 +816,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,
@@ -826,6 +842,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -853,7 +870,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -864,14 +881,14 @@
                                 "stop": 653.94,
                                 "byte_start": 2689346,
                                 "byte_stop": 2737098,
-                                "text": "Well, but I do not... when you say that Admiralty jurisdiction extends to \u0022tidal waters\u0022, and then you go on and say"
+                                "text": "Well, but I do not... when you say that Admiralty jurisdiction extends to \"tidal waters\", and then you go on and say"
                             },
                             {
                                 "start": 653.94,
                                 "stop": 657.791,
                                 "byte_start": 2737098,
                                 "byte_stop": 2752562,
-                                "text": "\u0022even if they are not tidal, it extends to them if they are navigable. \u0022"
+                                "text": "\"even if they are not tidal, it extends to them if they are navigable. \""
                             },
                             {
                                 "start": 657.791,
@@ -891,6 +908,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,
@@ -951,6 +969,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -978,7 +997,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -1002,6 +1021,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,
@@ -1035,14 +1055,14 @@
                                 "stop": 818.469,
                                 "byte_start": 3230289,
                                 "byte_stop": 3395279,
-                                "text": "Now, it cannot be said that the \u0022public trust\u0022 doctrine was ever designed to extend public ownership up into interior streams completely surrounded by private riparian owners, streams that do not constitute part of the shoreline of a navigable body of water."
+                                "text": "Now, it cannot be said that the \"public trust\" doctrine was ever designed to extend public ownership up into interior streams completely surrounded by private riparian owners, streams that do not constitute part of the shoreline of a navigable body of water."
                             },
                             {
                                 "start": 818.469,
                                 "stop": 882.952,
                                 "byte_start": 3395279,
                                 "byte_stop": 3653160,
-                                "text": "I give an example of that from Justice Fields\u0027 concurring Opinion in the Knight v. U.S. Land Association case, where he pointed out that it would be absurd to suggest that the Chesapeake Bay, which obviously is a navigable body of water tidally-influenced, that you would consider as part of Chesapeake Bay, the Potomac River as far up as the tide affects the Potomac River, and it does affect the tide all the way up to Washington, D.C.--"
+                                "text": "I give an example of that from Justice Fields' concurring Opinion in the Knight v. U.S. Land Association case, where he pointed out that it would be absurd to suggest that the Chesapeake Bay, which obviously is a navigable body of water tidally-influenced, that you would consider as part of Chesapeake Bay, the Potomac River as far up as the tide affects the Potomac River, and it does affect the tide all the way up to Washington, D.C.--"
                             },
                             {
                                 "start": 882.952,
@@ -1056,7 +1076,7 @@
                                 "stop": 933.784,
                                 "byte_start": 3666012,
                                 "byte_stop": 3856497,
-                                "text": "\u0022it is absolutely absurd to say that the Potomac River is a part of the shoreland, or the boundary, of the Chesapeake Bay; that the tidal influence that is effected on this independent river, or stream, must stand or fall on its own navigability, not derivative from the body of water into which it flows and is not... certainly, does not constitute part of the shorelands or the tidelands of the navigable Chesapeake Bay. \u0022"
+                                "text": "\"it is absolutely absurd to say that the Potomac River is a part of the shoreland, or the boundary, of the Chesapeake Bay; that the tidal influence that is effected on this independent river, or stream, must stand or fall on its own navigability, not derivative from the body of water into which it flows and is not... certainly, does not constitute part of the shorelands or the tidelands of the navigable Chesapeake Bay. \""
                             },
                             {
                                 "start": 933.784,
@@ -1070,7 +1090,7 @@
                                 "stop": 938.246,
                                 "byte_start": 3862766,
                                 "byte_stop": 3874364,
-                                "text": "\u0022It was incredible that anybody should suggest that. \u0022"
+                                "text": "\"It was incredible that anybody should suggest that. \""
                             },
                             {
                                 "start": 938.246,
@@ -1125,6 +1145,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -1142,7 +1163,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -1166,6 +1187,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,
@@ -1203,9 +1225,10 @@
                         "byte_stop": 4658247,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -1222,7 +1245,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -1253,6 +1276,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,
@@ -1272,14 +1296,14 @@
                                 "stop": 1173.161,
                                 "byte_start": 4666293,
                                 "byte_stop": 4814041,
-                                "text": "The submerged land act... and this was fully explored, by the way in Justice Rhenquist\u0027s Opinion in the State Land Board v. Corvallis Company in footnote no. 4 of that Opinion, at 429 at page 371 that the effect of the Submerged Lands Act merely was to confirm the states\u0027 title to beds of navigable waters within their boundaries as against the United States claims."
+                                "text": "The submerged land act... and this was fully explored, by the way in Justice Rhenquist's Opinion in the State Land Board v. Corvallis Company in footnote no. 4 of that Opinion, at 429 at page 371 that the effect of the Submerged Lands Act merely was to confirm the states' title to beds of navigable waters within their boundaries as against the United States claims."
                             },
                             {
                                 "start": 1173.161,
                                 "stop": 1180.344,
                                 "byte_start": 4814041,
                                 "byte_stop": 4842776,
-                                "text": "And it does not alter the scope or effect of the \u0022equal footing\u0022 doctrine."
+                                "text": "And it does not alter the scope or effect of the \"equal footing\" doctrine."
                             },
                             {
                                 "start": 1180.344,
@@ -1293,7 +1317,7 @@
                                 "stop": 1219.04,
                                 "byte_start": 4941728,
                                 "byte_stop": 4997525,
-                                "text": "\u0022A state cannot base its claims to lands... that means underwater lands... that are unnecessary to a navigational purpose. \u0022"
+                                "text": "\"A state cannot base its claims to lands... that means underwater lands... that are unnecessary to a navigational purpose. \""
                             },
                             {
                                 "start": 1219.04,
@@ -1307,7 +1331,7 @@
                                 "stop": 1258.807,
                                 "byte_start": 5110688,
                                 "byte_stop": 5156559,
-                                "text": "And that is the whole history; that is the whole meaning; that is the whole rationale... for the \u0022public trust\u0022 doctrine, which has been incorporated into the \u0022equal footing\u0022 doctrine."
+                                "text": "And that is the whole history; that is the whole meaning; that is the whole rationale... for the \"public trust\" doctrine, which has been incorporated into the \"equal footing\" doctrine."
                             },
                             {
                                 "start": 1258.807,
@@ -1321,7 +1345,7 @@
                                 "stop": 1291.419,
                                 "byte_start": 5261362,
                                 "byte_stop": 5287067,
-                                "text": "That is just totally inconsistent with this Court\u0027s long line of decisions."
+                                "text": "That is just totally inconsistent with this Court's long line of decisions."
                             },
                             {
                                 "start": 1291.419,
@@ -1341,6 +1365,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -1358,7 +1383,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -1389,6 +1414,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,
@@ -1408,21 +1434,21 @@
                                 "stop": 1360.164,
                                 "byte_start": 5491135,
                                 "byte_stop": 5561979,
-                                "text": "And that is what this Court must have met in Illinois Central, and in other repeated declarations when it said that, \u0022tidal\u0022 depends not on"
+                                "text": "And that is what this Court must have met in Illinois Central, and in other repeated declarations when it said that, \"tidal\" depends not on"
                             },
                             {
                                 "start": 1360.164,
                                 "stop": 1361.744,
                                 "byte_start": 5561979,
                                 "byte_stop": 5568353,
-                                "text": "\u0022ebb and flow of the tide. \u0022"
+                                "text": "\"ebb and flow of the tide. \""
                             },
                             {
                                 "start": 1361.744,
                                 "stop": 1367.999,
                                 "byte_start": 5568353,
                                 "byte_stop": 5593326,
-                                "text": "but on the \u0022susceptibility to commercial navigation\u0022."
+                                "text": "but on the \"susceptibility to commercial navigation\"."
                             },
                             {
                                 "start": 1367.999,
@@ -1442,13 +1468,14 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
                                     "id": 2693,
                                     "type": "scotus_justice",
                                     "date_start": 528094800,
-                                    "date_end": 0,
+                                    "date_end": 1455343200,
                                     "appointing_president": "Ronald Reagan",
                                     "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
@@ -1459,9 +1486,9 @@
                                 "id": 32678,
                                 "mime": "image\/png",
                                 "size": 58944,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                             },
-                            "length_of_service": 10699,
+                            "length_of_service": 10732,
                             "identifier": "antonin_scalia"
                         },
                         "text_blocks": [
@@ -1497,6 +1524,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,
@@ -1529,6 +1557,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -1546,7 +1575,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -1570,6 +1599,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,
@@ -1589,7 +1619,7 @@
                                 "stop": 1448.95,
                                 "byte_start": 5896138,
                                 "byte_stop": 5917140,
-                                "text": "\u0022yes, if it is not navigable by virtue of the tide reaching them. \u0022"
+                                "text": "\"yes, if it is not navigable by virtue of the tide reaching them. \""
                             }
                         ]
                     },
@@ -1602,6 +1632,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -1629,7 +1660,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -1640,7 +1671,7 @@
                                 "stop": 1460.679,
                                 "byte_start": 5917140,
                                 "byte_stop": 5964056,
-                                "text": "But if you read Chief Justice Taney\u0027s Opinion in Genesee Chief, you get the impression that at least that Court thought that navigability and tidal characters were coterminous in England."
+                                "text": "But if you read Chief Justice Taney's Opinion in Genesee Chief, you get the impression that at least that Court thought that navigability and tidal characters were coterminous in England."
                             }
                         ]
                     },
@@ -1653,6 +1684,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,
@@ -1678,6 +1710,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -1705,7 +1738,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -1729,6 +1762,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,
@@ -1775,6 +1809,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -1802,7 +1837,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -1820,7 +1855,7 @@
                                 "stop": 1530.988,
                                 "byte_start": 6220892,
                                 "byte_stop": 6245342,
-                                "text": "Which simply is applying the \u0022public trust\u0022 doctrine in England where the two were really coterminous?"
+                                "text": "Which simply is applying the \"public trust\" doctrine in England where the two were really coterminous?"
                             }
                         ]
                     },
@@ -1833,6 +1868,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,
@@ -1873,7 +1909,7 @@
                                 "stop": 1596.288,
                                 "byte_start": 6456621,
                                 "byte_stop": 6506462,
-                                "text": "The little streams that run through farmlands, or somebody\u0027s back yard; a little creek... that is not subject to state control."
+                                "text": "The little streams that run through farmlands, or somebody's back yard; a little creek... that is not subject to state control."
                             },
                             {
                                 "start": 1596.288,
@@ -1887,7 +1923,7 @@
                                 "stop": 1616.842,
                                 "byte_start": 6542616,
                                 "byte_stop": 6588696,
-                                "text": "Navigability is the one criterion that is consistently referred to as the test of the \u0022public trust\u0022 doctrine."
+                                "text": "Navigability is the one criterion that is consistently referred to as the test of the \"public trust\" doctrine."
                             },
                             {
                                 "start": 1616.842,
@@ -1907,6 +1943,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -1934,7 +1971,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -1973,6 +2010,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -1992,7 +2030,7 @@
                                 "stop": 1641.763,
                                 "byte_start": 6641150,
                                 "byte_stop": 6688379,
-                                "text": "The case, as Mr. Gressman stated, is one of the \u0022equal footing\u0022 doctrine and the limits of each state\u0027s public trust, the question can be answered when we review these two doctrines together."
+                                "text": "The case, as Mr. Gressman stated, is one of the \"equal footing\" doctrine and the limits of each state's public trust, the question can be answered when we review these two doctrines together."
                             },
                             {
                                 "start": 1641.763,
@@ -2020,7 +2058,7 @@
                                 "stop": 1695.566,
                                 "byte_start": 6847831,
                                 "byte_stop": 6903628,
-                                "text": "The State of Mississippi\u0027s main concern is to preserve the ownership of the lands in question for the use and benefit of the public and this, by necessity, included the development of mineral resources."
+                                "text": "The State of Mississippi's main concern is to preserve the ownership of the lands in question for the use and benefit of the public and this, by necessity, included the development of mineral resources."
                             },
                             {
                                 "start": 1695.566,
@@ -2034,7 +2072,7 @@
                                 "stop": 1715.831,
                                 "byte_start": 6946156,
                                 "byte_stop": 6984712,
-                                "text": "At that time, the individuals who owned the lands adjacent to these tidelands sought to take these tidelands from Mississippi\u0027s public trust lands."
+                                "text": "At that time, the individuals who owned the lands adjacent to these tidelands sought to take these tidelands from Mississippi's public trust lands."
                             },
                             {
                                 "start": 1715.831,
@@ -2059,9 +2097,10 @@
                         "byte_stop": 7142805,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -2078,7 +2117,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -2102,6 +2141,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -2125,9 +2165,10 @@
                         "byte_stop": 7246250,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -2144,7 +2185,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -2175,6 +2216,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -2187,7 +2229,7 @@
                                 "stop": 1792.66,
                                 "byte_start": 7246250,
                                 "byte_stop": 7292017,
-                                "text": "--Justice O\u0027Connor, it is true that the Petitioners allege that they had paid taxes on the lands in question, but the State\u0027s--"
+                                "text": "--Justice O'Connor, it is true that the Petitioners allege that they had paid taxes on the lands in question, but the State's--"
                             }
                         ]
                     },
@@ -2198,9 +2240,10 @@
                         "byte_stop": 7312810,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -2217,7 +2260,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -2241,6 +2284,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -2264,9 +2308,10 @@
                         "byte_stop": 7374459,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -2283,7 +2328,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -2314,6 +2359,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -2337,9 +2383,10 @@
                         "byte_stop": 7404343,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -2356,7 +2403,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -2387,6 +2434,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -2410,9 +2458,10 @@
                         "byte_stop": 7416255,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -2429,7 +2478,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -2453,6 +2502,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -2478,6 +2528,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -2495,7 +2546,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -2519,6 +2570,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -2544,6 +2596,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -2561,7 +2614,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -2585,6 +2638,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -2610,6 +2664,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -2627,7 +2682,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -2665,6 +2720,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -2688,9 +2744,10 @@
                         "byte_stop": 7795553,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -2707,7 +2764,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -2745,6 +2802,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -2775,9 +2833,10 @@
                         "byte_stop": 7838812,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -2794,7 +2853,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -2818,6 +2877,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -2841,9 +2901,10 @@
                         "byte_stop": 7861800,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -2860,7 +2921,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -2891,6 +2952,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -2944,6 +3006,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -2971,7 +3034,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -2995,6 +3058,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -3034,6 +3098,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -3061,7 +3126,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -3085,6 +3150,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -3110,13 +3176,14 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
                                     "id": 2693,
                                     "type": "scotus_justice",
                                     "date_start": 528094800,
-                                    "date_end": 0,
+                                    "date_end": 1455343200,
                                     "appointing_president": "Ronald Reagan",
                                     "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
@@ -3127,9 +3194,9 @@
                                 "id": 32678,
                                 "mime": "image\/png",
                                 "size": 58944,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                             },
-                            "length_of_service": 10699,
+                            "length_of_service": 10732,
                             "identifier": "antonin_scalia"
                         },
                         "text_blocks": [
@@ -3151,6 +3218,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -3212,7 +3280,7 @@
                                 "stop": 2107.296,
                                 "byte_start": 8508382,
                                 "byte_stop": 8550492,
-                                "text": "\u0022arms and creeks of the sea so far as the ebb and flow of the tide, as well as the foreshore between the high water mark and the low water mark. \u0022"
+                                "text": "\"arms and creeks of the sea so far as the ebb and flow of the tide, as well as the foreshore between the high water mark and the low water mark. \""
                             },
                             {
                                 "start": 2107.296,
@@ -3240,7 +3308,7 @@
                                 "stop": 2147.491,
                                 "byte_start": 8671178,
                                 "byte_stop": 8711302,
-                                "text": "As the Coastal States\u0027 amicus brief indicates, there is no uniformity in the law as to what each state has done with the lands under its public trust."
+                                "text": "As the Coastal States' amicus brief indicates, there is no uniformity in the law as to what each state has done with the lands under its public trust."
                             },
                             {
                                 "start": 2147.491,
@@ -3254,7 +3322,7 @@
                                 "stop": 2173.199,
                                 "byte_start": 8754038,
                                 "byte_stop": 8814120,
-                                "text": "The test asserted by Petitioners is that of a \u0022navigability-in-fact\u0022 standard, something that was added once the propellered Genesee Chief case was handed down."
+                                "text": "The test asserted by Petitioners is that of a \"navigability-in-fact\" standard, something that was added once the propellered Genesee Chief case was handed down."
                             },
                             {
                                 "start": 2173.199,
@@ -3275,21 +3343,21 @@
                                 "stop": 2211.024,
                                 "byte_start": 8918609,
                                 "byte_stop": 8965421,
-                                "text": "\u0022each state has dealt with these lands according to its own views of justice and policy, reserving its own controls over such lands as it considered for the best interest of the public. \u0022"
+                                "text": "\"each state has dealt with these lands according to its own views of justice and policy, reserving its own controls over such lands as it considered for the best interest of the public. \""
                             },
                             {
                                 "start": 2211.024,
                                 "stop": 2217.328,
                                 "byte_start": 8965421,
                                 "byte_stop": 8990707,
-                                "text": "\u0022Great caution is necessary in applying precedents in one state to cases arising in another. \u0022"
+                                "text": "\"Great caution is necessary in applying precedents in one state to cases arising in another. \""
                             },
                             {
                                 "start": 2217.328,
                                 "stop": 2223.831,
                                 "byte_start": 8990707,
                                 "byte_stop": 9016725,
-                                "text": "Mississippi has always used the \u0022ebb and flow\u0022 rule, and employed it to the parcels here in question."
+                                "text": "Mississippi has always used the \"ebb and flow\" rule, and employed it to the parcels here in question."
                             },
                             {
                                 "start": 2223.831,
@@ -3303,7 +3371,7 @@
                                 "stop": 2232.486,
                                 "byte_start": 9043475,
                                 "byte_stop": 9051311,
-                                "text": "\u0022arms and creeks of the sea. \u0022"
+                                "text": "\"arms and creeks of the sea. \""
                             },
                             {
                                 "start": 2232.486,
@@ -3351,13 +3419,14 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
                                     "id": 2693,
                                     "type": "scotus_justice",
                                     "date_start": 528094800,
-                                    "date_end": 0,
+                                    "date_end": 1455343200,
                                     "appointing_president": "Ronald Reagan",
                                     "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
@@ -3368,9 +3437,9 @@
                                 "id": 32678,
                                 "mime": "image\/png",
                                 "size": 58944,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                             },
-                            "length_of_service": 10699,
+                            "length_of_service": 10732,
                             "identifier": "antonin_scalia"
                         },
                         "text_blocks": [
@@ -3379,7 +3448,7 @@
                                 "stop": 2311.279,
                                 "byte_start": 9334897,
                                 "byte_stop": 9366453,
-                                "text": "Let us not exaggerate it too much: there is a certain amount of... a degree of uncertainty, in the \u0022tidelands\u0022 rule as well."
+                                "text": "Let us not exaggerate it too much: there is a certain amount of... a degree of uncertainty, in the \"tidelands\" rule as well."
                             },
                             {
                                 "start": 2311.279,
@@ -3406,6 +3475,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -3452,6 +3522,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -3469,7 +3540,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -3500,6 +3571,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -3525,6 +3597,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -3542,7 +3615,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -3566,6 +3639,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -3591,6 +3665,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -3608,7 +3683,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -3632,6 +3707,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -3671,6 +3747,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -3688,7 +3765,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -3712,6 +3789,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -3737,6 +3815,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -3754,7 +3833,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -3778,6 +3857,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -3803,6 +3883,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -3820,7 +3901,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -3858,6 +3939,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -3890,6 +3972,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -3907,7 +3990,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -3931,6 +4014,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -3970,6 +4054,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -3987,7 +4072,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -3998,7 +4083,7 @@
                                 "stop": 2526.209,
                                 "byte_start": 10140200,
                                 "byte_stop": 10226195,
-                                "text": "What is the purpose... and your opponent argues that the purpose of the \u0022public trust\u0022 doctrine should be kept in mine, and it focuses on discrete bodies of water that can be named either as \u0022bays\u0022, and so-forth... what is the purpose of the \u0022public trust\u0022 doctrine as to what we are talking about in this case?"
+                                "text": "What is the purpose... and your opponent argues that the purpose of the \"public trust\" doctrine should be kept in mine, and it focuses on discrete bodies of water that can be named either as \"bays\", and so-forth... what is the purpose of the \"public trust\" doctrine as to what we are talking about in this case?"
                             }
                         ]
                     },
@@ -4011,6 +4096,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -4023,7 +4109,7 @@
                                 "stop": 2535.855,
                                 "byte_start": 10226195,
                                 "byte_stop": 10264751,
-                                "text": "The \u0022public trust\u0022 doctrine is used in Mississippi and the Record indicated what interest the public actually has in this land."
+                                "text": "The \"public trust\" doctrine is used in Mississippi and the Record indicated what interest the public actually has in this land."
                             },
                             {
                                 "start": 2535.855,
@@ -4079,7 +4165,7 @@
                                 "stop": 2611.263,
                                 "byte_start": 10539560,
                                 "byte_stop": 10566413,
-                                "text": "\u0022small bayou, a bayou, an inlet, a bayou with several tributaries, and as a channel. \u0022"
+                                "text": "\"small bayou, a bayou, an inlet, a bayou with several tributaries, and as a channel. \""
                             },
                             {
                                 "start": 2611.263,
@@ -4093,7 +4179,7 @@
                                 "stop": 2624.494,
                                 "byte_start": 10604866,
                                 "byte_stop": 10619285,
-                                "text": "So they are all actually \u0022creeks of the sea\u0022."
+                                "text": "So they are all actually \"creeks of the sea\"."
                             },
                             {
                                 "start": 2624.494,
@@ -4107,7 +4193,7 @@
                                 "stop": 2626.624,
                                 "byte_start": 10623674,
                                 "byte_stop": 10627853,
-                                "text": "\u0022arms or creeks of the sea. \u0022"
+                                "text": "\"arms or creeks of the sea. \""
                             },
                             {
                                 "start": 2626.624,
@@ -4125,9 +4211,10 @@
                         "byte_stop": 10964729,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -4144,7 +4231,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -4182,6 +4269,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -4201,14 +4289,14 @@
                                 "stop": 2739.258,
                                 "byte_start": 11027945,
                                 "byte_stop": 11078413,
-                                "text": "For the states that have been using \u0022ebb and flow\u0022 as the test of ownership, there would be no change in the title... the title, to tidally-influenced waters."
+                                "text": "For the states that have been using \"ebb and flow\" as the test of ownership, there would be no change in the title... the title, to tidally-influenced waters."
                             },
                             {
                                 "start": 2739.258,
                                 "stop": 2749.216,
                                 "byte_start": 11078413,
                                 "byte_stop": 11118224,
-                                "text": "Their assertion is that it would impact on titles, but in Mississippi, this has always been the law that we use the \u0022ebb and flow\u0022 test."
+                                "text": "Their assertion is that it would impact on titles, but in Mississippi, this has always been the law that we use the \"ebb and flow\" test."
                             },
                             {
                                 "start": 2749.216,
@@ -4228,6 +4316,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -4245,7 +4334,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -4276,6 +4365,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -4308,6 +4398,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -4325,7 +4416,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -4349,6 +4440,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -4374,6 +4466,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -4391,7 +4484,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -4415,6 +4508,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -4434,14 +4528,14 @@
                                 "stop": 2793.462,
                                 "byte_start": 11280079,
                                 "byte_stop": 11295230,
-                                "text": "They are bayous just like Louisiana\u0027s bayous."
+                                "text": "They are bayous just like Louisiana's bayous."
                             },
                             {
                                 "start": 2793.462,
                                 "stop": 2810.044,
                                 "byte_start": 11295230,
                                 "byte_stop": 11361581,
-                                "text": "The Submerged Lands act of 1953, which was discussed earlier, we feel confirms the State\u0027s title in tidally-influenced waters to the main high tide line."
+                                "text": "The Submerged Lands act of 1953, which was discussed earlier, we feel confirms the State's title in tidally-influenced waters to the main high tide line."
                             },
                             {
                                 "start": 2810.044,
@@ -4497,14 +4591,14 @@
                                 "stop": 2911.799,
                                 "byte_start": 11697620,
                                 "byte_stop": 11768569,
-                                "text": "The test asserted by Petitioners, the \u0022navigable-in-fact\u0022 test, was a test that was applied to interior waterways."
+                                "text": "The test asserted by Petitioners, the \"navigable-in-fact\" test, was a test that was applied to interior waterways."
                             },
                             {
                                 "start": 2911.799,
                                 "stop": 2925.601,
                                 "byte_start": 11768569,
                                 "byte_stop": 11823739,
-                                "text": "Now, because these two waterways which we have in question here, the Jordan River is a \u0022navigable-in-fact\u0022 waterway; the Bayou LaCroix on the south boundary, is also navigable."
+                                "text": "Now, because these two waterways which we have in question here, the Jordan River is a \"navigable-in-fact\" waterway; the Bayou LaCroix on the south boundary, is also navigable."
                             },
                             {
                                 "start": 2925.601,
@@ -4531,13 +4625,14 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
                                     "id": 2693,
                                     "type": "scotus_justice",
                                     "date_start": 528094800,
-                                    "date_end": 0,
+                                    "date_end": 1455343200,
                                     "appointing_president": "Ronald Reagan",
                                     "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
@@ -4548,9 +4643,9 @@
                                 "id": 32678,
                                 "mime": "image\/png",
                                 "size": 58944,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                             },
-                            "length_of_service": 10699,
+                            "length_of_service": 10732,
                             "identifier": "antonin_scalia"
                         },
                         "text_blocks": [
@@ -4572,6 +4667,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -4597,13 +4693,14 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
                                     "id": 2693,
                                     "type": "scotus_justice",
                                     "date_start": 528094800,
-                                    "date_end": 0,
+                                    "date_end": 1455343200,
                                     "appointing_president": "Ronald Reagan",
                                     "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
@@ -4614,9 +4711,9 @@
                                 "id": 32678,
                                 "mime": "image\/png",
                                 "size": 58944,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                             },
-                            "length_of_service": 10699,
+                            "length_of_service": 10732,
                             "identifier": "antonin_scalia"
                         },
                         "text_blocks": [
@@ -4645,6 +4742,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -4657,7 +4755,7 @@
                                 "stop": 3001.168,
                                 "byte_start": 12093741,
                                 "byte_stop": 12126028,
-                                "text": "It is our contention that where you have a \u0022navigable-in-fact\u0022 waterway, you will always have some areas that you cannot navigate over."
+                                "text": "It is our contention that where you have a \"navigable-in-fact\" waterway, you will always have some areas that you cannot navigate over."
                             },
                             {
                                 "start": 3001.168,
@@ -4677,13 +4775,14 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
                                     "id": 2693,
                                     "type": "scotus_justice",
                                     "date_start": 528094800,
-                                    "date_end": 0,
+                                    "date_end": 1455343200,
                                     "appointing_president": "Ronald Reagan",
                                     "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
@@ -4694,9 +4793,9 @@
                                 "id": 32678,
                                 "mime": "image\/png",
                                 "size": 58944,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                             },
-                            "length_of_service": 10699,
+                            "length_of_service": 10732,
                             "identifier": "antonin_scalia"
                         },
                         "text_blocks": [
@@ -4718,6 +4817,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -4743,13 +4843,14 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
                                     "id": 2693,
                                     "type": "scotus_justice",
                                     "date_start": 528094800,
-                                    "date_end": 0,
+                                    "date_end": 1455343200,
                                     "appointing_president": "Ronald Reagan",
                                     "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
@@ -4760,9 +4861,9 @@
                                 "id": 32678,
                                 "mime": "image\/png",
                                 "size": 58944,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                             },
-                            "length_of_service": 10699,
+                            "length_of_service": 10732,
                             "identifier": "antonin_scalia"
                         },
                         "text_blocks": [
@@ -4798,6 +4899,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -4817,14 +4919,14 @@
                                 "stop": 3057.636,
                                 "byte_start": 12315155,
                                 "byte_stop": 12351935,
-                                "text": "We would assert that the \u0022ebb and flow\u0022 rule would be dispositive of this case because we are using it to mean \u0022high tide line\u0022 as our definition of State boundaries."
+                                "text": "We would assert that the \"ebb and flow\" rule would be dispositive of this case because we are using it to mean \"high tide line\" as our definition of State boundaries."
                             },
                             {
                                 "start": 3057.636,
                                 "stop": 3081.522,
                                 "byte_start": 12351935,
                                 "byte_stop": 12447439,
-                                "text": "We respectfully request that Mississippi be allowed to continue our stewardship of the public trust domain over all lands that are tidally-influenced up to the line of the main high tide, and to protect our investment in the future of our State\u0027s public lands."
+                                "text": "We respectfully request that Mississippi be allowed to continue our stewardship of the public trust domain over all lands that are tidally-influenced up to the line of the main high tide, and to protect our investment in the future of our State's public lands."
                             }
                         ]
                     },
@@ -4837,6 +4939,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -4854,7 +4957,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -4879,7 +4982,7 @@
                                 "stop": 3101.483,
                                 "byte_start": 12487876,
                                 "byte_stop": 12527269,
-                                "text": "I think your opponent\u0027s brief said that some of them had also been used for things like cattle grazing and normal pursuits that would not be associated normally with the \u0022public trust\u0022 doctrine."
+                                "text": "I think your opponent's brief said that some of them had also been used for things like cattle grazing and normal pursuits that would not be associated normally with the \"public trust\" doctrine."
                             },
                             {
                                 "start": 3101.483,
@@ -4899,6 +5002,7 @@
                             "ID": 33871,
                             "name": "Kathy D. Jones",
                             "href": "https:\/\/api.oyez.org\/people\/kathy_d_jones",
+                            "view_count": 0,
                             "last_name": "Jones",
                             "roles": null,
                             "thumbnail": null,
@@ -4938,6 +5042,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -4955,7 +5060,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -4979,6 +5084,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -5006,7 +5112,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -5045,6 +5151,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,
@@ -5078,7 +5185,7 @@
                                 "stop": 3230.277,
                                 "byte_start": 12890893,
                                 "byte_stop": 13042508,
-                                "text": "But in any event, I would certainly state in further confirmation of Justice O\u0027Connor\u0027s query about the impact of an affirmance of this decision upon the many landowners who have for generations thought that they had title to the little streams and rivers that run through their property."
+                                "text": "But in any event, I would certainly state in further confirmation of Justice O'Connor's query about the impact of an affirmance of this decision upon the many landowners who have for generations thought that they had title to the little streams and rivers that run through their property."
                             },
                             {
                                 "start": 3230.277,
@@ -5092,14 +5199,14 @@
                                 "stop": 3246.499,
                                 "byte_start": 13081483,
                                 "byte_stop": 13107396,
-                                "text": "\u0022there are little rivers which are private forming no part of the King\u0027s Highways. \u0022"
+                                "text": "\"there are little rivers which are private forming no part of the King's Highways. \""
                             },
                             {
                                 "start": 3246.499,
                                 "stop": 3266.832,
                                 "byte_start": 13107396,
                                 "byte_stop": 13188689,
-                                "text": "Again, I reiterate, that the king\u0027s highways... the public highways today, are devoted... are there for the purpose of carrying on the commercial activities of the public, be it navigation, or fishing or whatever."
+                                "text": "Again, I reiterate, that the king's highways... the public highways today, are devoted... are there for the purpose of carrying on the commercial activities of the public, be it navigation, or fishing or whatever."
                             },
                             {
                                 "start": 3266.832,
@@ -5161,6 +5268,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -5188,7 +5296,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -5212,6 +5320,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,
@@ -5237,6 +5346,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -5264,7 +5374,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -5288,6 +5398,7 @@
                             "ID": 22360,
                             "name": "Eugene Gressman",
                             "href": "https:\/\/api.oyez.org\/people\/eugene_gressman",
+                            "view_count": 0,
                             "last_name": "Gressman",
                             "roles": null,
                             "thumbnail": null,

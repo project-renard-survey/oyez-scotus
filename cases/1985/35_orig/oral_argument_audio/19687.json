@@ -28,6 +28,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -45,7 +46,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -76,6 +77,7 @@
                             "ID": 27178,
                             "name": "Henry Herrmann",
                             "href": "https:\/\/api.oyez.org\/people\/henry_herrmann",
+                            "view_count": 0,
                             "last_name": "Herrmann",
                             "roles": null,
                             "thumbnail": null,
@@ -158,7 +160,7 @@
                                 "stop": 131.513,
                                 "byte_start": 599086,
                                 "byte_stop": 666900,
-                                "text": "First, this is not the type of submerged land or marine boundary case as the Court has heard many in the past, where the state and the federal government are fighting for a small area of land because of the king\u0027s ransom in oil royalties that they portend."
+                                "text": "First, this is not the type of submerged land or marine boundary case as the Court has heard many in the past, where the state and the federal government are fighting for a small area of land because of the king's ransom in oil royalties that they portend."
                             },
                             {
                                 "start": 131.513,
@@ -178,6 +180,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -195,7 +198,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -226,6 +229,7 @@
                             "ID": 27178,
                             "name": "Henry Herrmann",
                             "href": "https:\/\/api.oyez.org\/people\/henry_herrmann",
+                            "view_count": 0,
                             "last_name": "Herrmann",
                             "roles": null,
                             "thumbnail": null,
@@ -284,9 +288,10 @@
                         "byte_stop": 941708,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -303,7 +308,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -327,6 +332,7 @@
                             "ID": 27178,
                             "name": "Henry Herrmann",
                             "href": "https:\/\/api.oyez.org\/people\/henry_herrmann",
+                            "view_count": 0,
                             "last_name": "Herrmann",
                             "roles": null,
                             "thumbnail": null,
@@ -339,7 +345,7 @@
                                 "stop": 201.375,
                                 "byte_start": 941708,
                                 "byte_stop": 946306,
-                                "text": "--Yes, Justice O\u0027Connor."
+                                "text": "--Yes, Justice O'Connor."
                             }
                         ]
                     },
@@ -350,9 +356,10 @@
                         "byte_stop": 1104085,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -369,7 +376,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -380,14 +387,14 @@
                                 "stop": 211.027,
                                 "byte_start": 946306,
                                 "byte_stop": 984967,
-                                "text": "And I don\u0027t know that this Court has ever recognized ancient title as a theory of recovery as such."
+                                "text": "And I don't know that this Court has ever recognized ancient title as a theory of recovery as such."
                             },
                             {
                                 "start": 211.027,
                                 "stop": 240.811,
                                 "byte_start": 984967,
                                 "byte_stop": 1104085,
-                                "text": "It has had cases dealing with historic title, and I\u0027m not sure that I understand what you think the elements are for establishment of ancient title, and whether you think there are any cases from this Court that would support the application of that theory as opposed to normal principles of historic title."
+                                "text": "It has had cases dealing with historic title, and I'm not sure that I understand what you think the elements are for establishment of ancient title, and whether you think there are any cases from this Court that would support the application of that theory as opposed to normal principles of historic title."
                             }
                         ]
                     },
@@ -400,6 +407,7 @@
                             "ID": 27178,
                             "name": "Henry Herrmann",
                             "href": "https:\/\/api.oyez.org\/people\/henry_herrmann",
+                            "view_count": 0,
                             "last_name": "Herrmann",
                             "roles": null,
                             "thumbnail": null,
@@ -447,14 +455,14 @@
                                 "stop": 296.461,
                                 "byte_start": 1260507,
                                 "byte_stop": 1326649,
-                                "text": "Well, as to the famous... and it is a famous case, it\u0027s been discussed by almost all the international publicists at length, as to the Buzzards Bay case in 1981... interestingly enough, this Court said very succinctly, without equivocation, \u0022It is clear\u0022, said the Court,"
+                                "text": "Well, as to the famous... and it is a famous case, it's been discussed by almost all the international publicists at length, as to the Buzzards Bay case in 1981... interestingly enough, this Court said very succinctly, without equivocation, \"It is clear\", said the Court,"
                             },
                             {
                                 "start": 296.461,
                                 "stop": 304.083,
                                 "byte_start": 1326649,
                                 "byte_stop": 1357160,
-                                "text": "\u0022that Massachusetts is the owner, that it has Buzzards Bay by virtue of its province charter. \u0022"
+                                "text": "\"that Massachusetts is the owner, that it has Buzzards Bay by virtue of its province charter. \""
                             },
                             {
                                 "start": 304.083,
@@ -510,7 +518,7 @@
                                 "stop": 370.774,
                                 "byte_start": 1585470,
                                 "byte_stop": 1623922,
-                                "text": "The Crown then passed the title, as it had the right to do under British law, and that\u0027s unquestioned today as it was then."
+                                "text": "The Crown then passed the title, as it had the right to do under British law, and that's unquestioned today as it was then."
                             },
                             {
                                 "start": 370.774,
@@ -531,7 +539,7 @@
                                 "stop": 394.984,
                                 "byte_start": 1674391,
                                 "byte_stop": 1720784,
-                                "text": "That\u0027s the one referred to 100 years ago by this Court, and that\u0027s precisely the charter that the Special Master in this case said was operative in granting us Nantucket Sound."
+                                "text": "That's the one referred to 100 years ago by this Court, and that's precisely the charter that the Special Master in this case said was operative in granting us Nantucket Sound."
                             }
                         ]
                     },
@@ -542,9 +550,10 @@
                         "byte_stop": 1754639,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -561,7 +570,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -585,6 +594,7 @@
                             "ID": 27178,
                             "name": "Henry Herrmann",
                             "href": "https:\/\/api.oyez.org\/people\/henry_herrmann",
+                            "view_count": 0,
                             "last_name": "Herrmann",
                             "roles": null,
                             "thumbnail": null,
@@ -618,7 +628,7 @@
                                 "stop": 468.329,
                                 "byte_start": 1993503,
                                 "byte_stop": 2014192,
-                                "text": "It\u0027s in disfavor because it leads to instability of international titles and possible international tensions."
+                                "text": "It's in disfavor because it leads to instability of international titles and possible international tensions."
                             }
                         ]
                     },
@@ -629,9 +639,10 @@
                         "byte_stop": 2120144,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -648,7 +659,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -659,14 +670,14 @@
                                 "stop": 475.03,
                                 "byte_start": 2014192,
                                 "byte_stop": 2040941,
-                                "text": "Well, there\u0027s no problem here, because if the state doesn\u0027t have it the United States does."
+                                "text": "Well, there's no problem here, because if the state doesn't have it the United States does."
                             },
                             {
                                 "start": 475.03,
                                 "stop": 494.835,
                                 "byte_start": 2040941,
                                 "byte_stop": 2120144,
-                                "text": "There\u0027s no lapse in title, and if abandonment is possible I must say it\u0027s hard for me to understand why the legislative acts of disclaimer by Massachusetts and the publication of its official charts don\u0027t reflect abandonment by the State of Massachusetts."
+                                "text": "There's no lapse in title, and if abandonment is possible I must say it's hard for me to understand why the legislative acts of disclaimer by Massachusetts and the publication of its official charts don't reflect abandonment by the State of Massachusetts."
                             }
                         ]
                     },
@@ -679,6 +690,7 @@
                             "ID": 27178,
                             "name": "Henry Herrmann",
                             "href": "https:\/\/api.oyez.org\/people\/henry_herrmann",
+                            "view_count": 0,
                             "last_name": "Herrmann",
                             "roles": null,
                             "thumbnail": null,
@@ -691,14 +703,14 @@
                                 "stop": 501.425,
                                 "byte_start": 2120144,
                                 "byte_stop": 2146580,
-                                "text": "Your Honor, I don\u0027t think... I submit that they do not reflect abandonment by Massachusetts for the following reasons."
+                                "text": "Your Honor, I don't think... I submit that they do not reflect abandonment by Massachusetts for the following reasons."
                             },
                             {
                                 "start": 501.425,
                                 "stop": 515.763,
                                 "byte_start": 2146580,
                                 "byte_stop": 2203945,
-                                "text": "If Your Honor\u0027s referring to the late 19th Century charts that were published by the harbor and land commissioners, those were published upon the mandate of the Massachusetts Legislature, leading back to an 1859 statute by the legislature."
+                                "text": "If Your Honor's referring to the late 19th Century charts that were published by the harbor and land commissioners, those were published upon the mandate of the Massachusetts Legislature, leading back to an 1859 statute by the legislature."
                             },
                             {
                                 "start": 515.763,
@@ -740,14 +752,14 @@
                                 "stop": 563.962,
                                 "byte_start": 2393490,
                                 "byte_stop": 2396729,
-                                "text": "That\u0027s point one."
+                                "text": "That's point one."
                             },
                             {
                                 "start": 563.962,
                                 "stop": 577.394,
                                 "byte_start": 2396729,
                                 "byte_stop": 2450436,
-                                "text": "Point two is that if you look, as I think one must, at the state statute and the large-scale charts of 1891... I\u0027m sorry, 1883, you look at them together because they are a unitary manifestation."
+                                "text": "Point two is that if you look, as I think one must, at the state statute and the large-scale charts of 1891... I'm sorry, 1883, you look at them together because they are a unitary manifestation."
                             },
                             {
                                 "start": 577.394,
@@ -810,7 +822,7 @@
                                 "stop": 657.628,
                                 "byte_start": 2732245,
                                 "byte_stop": 2771325,
-                                "text": "So, for those three reasons, A, it wasn\u0027t the legislative intent to abandon anything; B, they did not do so effectively, look at the charts that went with the statute; and C, I don\u0027t think they have the constitutional power to."
+                                "text": "So, for those three reasons, A, it wasn't the legislative intent to abandon anything; B, they did not do so effectively, look at the charts that went with the statute; and C, I don't think they have the constitutional power to."
                             },
                             {
                                 "start": 657.628,
@@ -824,14 +836,14 @@
                                 "stop": 695.299,
                                 "byte_start": 2797134,
                                 "byte_stop": 2921999,
-                                "text": "In the first place it would have been, I suggest to you, an international problem because at the time the United States says that there was a lapse, that is in the last century, and this is an interesting historical point, your only time the United States acquired title to that seabed, the first time, incidentally, was in 1949 during the Truman proclamation which extended the United States\u0027 assertion of imperium and dominion from the three-mile limit out to the edge of the continental shelf."
+                                "text": "In the first place it would have been, I suggest to you, an international problem because at the time the United States says that there was a lapse, that is in the last century, and this is an interesting historical point, your only time the United States acquired title to that seabed, the first time, incidentally, was in 1949 during the Truman proclamation which extended the United States' assertion of imperium and dominion from the three-mile limit out to the edge of the continental shelf."
                             },
                             {
                                 "start": 695.299,
                                 "stop": 707.045,
                                 "byte_start": 2921999,
                                 "byte_stop": 2969019,
-                                "text": "At the time in question, in the late 1890\u0027s, it would have been... the option was clearly, either inland waters and ergo, state seabed, or, not belonging to the United States at all."
+                                "text": "At the time in question, in the late 1890's, it would have been... the option was clearly, either inland waters and ergo, state seabed, or, not belonging to the United States at all."
                             },
                             {
                                 "start": 707.045,
@@ -873,7 +885,7 @@
                                 "stop": 796.977,
                                 "byte_start": 3204330,
                                 "byte_stop": 3328778,
-                                "text": "But even assuming for the moment for the sake of the argument that from colonial times, let\u0027s say from the time of the Revolution, there had been a total cessation of assertion over Nantucket Sound, the World Court in the two cases we cited, the case of the Minkes and Ekrahoes Islands in the Channel, the British Channel, and in the case, the so-called Eastern Greenland case, in both those cases a time period of over 200 years was deemed as not significant for one reason only, the absence of an adverse claimant which is also absent here."
+                                "text": "But even assuming for the moment for the sake of the argument that from colonial times, let's say from the time of the Revolution, there had been a total cessation of assertion over Nantucket Sound, the World Court in the two cases we cited, the case of the Minkes and Ekrahoes Islands in the Channel, the British Channel, and in the case, the so-called Eastern Greenland case, in both those cases a time period of over 200 years was deemed as not significant for one reason only, the absence of an adverse claimant which is also absent here."
                             },
                             {
                                 "start": 796.977,
@@ -894,14 +906,14 @@
                                 "stop": 828.683,
                                 "byte_start": 3387710,
                                 "byte_stop": 3455628,
-                                "text": "It seems well settled that if the so-called abandoned territory is in direct geographic proximity, if it\u0027s integrated into the territory or very much adjacent to it, of the so-called abandoning state, that counts heavily against such a presumption."
+                                "text": "It seems well settled that if the so-called abandoned territory is in direct geographic proximity, if it's integrated into the territory or very much adjacent to it, of the so-called abandoning state, that counts heavily against such a presumption."
                             },
                             {
                                 "start": 828.683,
                                 "stop": 858.266,
                                 "byte_start": 3455628,
                                 "byte_stop": 3573911,
-                                "text": "And most important, if the so-called abandoning nation at all times during the time period involved retains the power to assert its control and jurisdiction over that area, if it wishes... I\u0027m not talking about actual assertion but if it has the de facto power to reach out, as it were, at any point in time and assert its jurisdiction over that area, then it seems settled in international law that you can have no presumption of abandonment from mere inactivity."
+                                "text": "And most important, if the so-called abandoning nation at all times during the time period involved retains the power to assert its control and jurisdiction over that area, if it wishes... I'm not talking about actual assertion but if it has the de facto power to reach out, as it were, at any point in time and assert its jurisdiction over that area, then it seems settled in international law that you can have no presumption of abandonment from mere inactivity."
                             },
                             {
                                 "start": 858.266,
@@ -915,7 +927,7 @@
                                 "stop": 878.459,
                                 "byte_start": 3609228,
                                 "byte_stop": 3654681,
-                                "text": "The only argument the United States has is that late 19th century legislation by Massachusetts, and I\u0027ve already pointed out that was neither the legislative intent nor did the Legislature even presume such an attempt to accomplish the purpose."
+                                "text": "The only argument the United States has is that late 19th century legislation by Massachusetts, and I've already pointed out that was neither the legislative intent nor did the Legislature even presume such an attempt to accomplish the purpose."
                             },
                             {
                                 "start": 878.459,
@@ -935,6 +947,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -952,7 +965,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -970,7 +983,7 @@
                                 "stop": 900.421,
                                 "byte_start": 3700448,
                                 "byte_stop": 3742557,
-                                "text": "I didn\u0027t understand... I think Justice O\u0027Connor asked you about ancient title and asked you if there are cases, and you gave us the citation of one of them, but then you were going to tell us the elements of ancient title, or have you done that?"
+                                "text": "I didn't understand... I think Justice O'Connor asked you about ancient title and asked you if there are cases, and you gave us the citation of one of them, but then you were going to tell us the elements of ancient title, or have you done that?"
                             }
                         ]
                     },
@@ -983,6 +996,7 @@
                             "ID": 27178,
                             "name": "Henry Herrmann",
                             "href": "https:\/\/api.oyez.org\/people\/henry_herrmann",
+                            "view_count": 0,
                             "last_name": "Herrmann",
                             "roles": null,
                             "thumbnail": null,
@@ -995,14 +1009,14 @@
                                 "stop": 901.953,
                                 "byte_start": 3742557,
                                 "byte_stop": 3748618,
-                                "text": "No, Your Honor, I haven\u0027t."
+                                "text": "No, Your Honor, I haven't."
                             },
                             {
                                 "start": 901.953,
                                 "stop": 903.062,
                                 "byte_start": 3748618,
                                 "byte_stop": 3753111,
-                                "text": "I\u0027m glad you reminded me."
+                                "text": "I'm glad you reminded me."
                             },
                             {
                                 "start": 903.062,
@@ -1023,7 +1037,7 @@
                                 "stop": 932.394,
                                 "byte_start": 3856451,
                                 "byte_stop": 3870453,
-                                "text": "So, the antecedent of \u0022historic waters\u0022 may be either ancient or historic."
+                                "text": "So, the antecedent of \"historic waters\" may be either ancient or historic."
                             },
                             {
                                 "start": 932.394,
@@ -1058,7 +1072,7 @@
                                 "stop": 973.05,
                                 "byte_start": 3991556,
                                 "byte_stop": 4033039,
-                                "text": "Secondly, there has to be continuity for that claim, and again I stress that\u0027s what the Master is talking about, continuity of a claim, not continuity of an already ripened title."
+                                "text": "Secondly, there has to be continuity for that claim, and again I stress that's what the Master is talking about, continuity of a claim, not continuity of an already ripened title."
                             },
                             {
                                 "start": 973.05,
@@ -1114,7 +1128,7 @@
                                 "stop": 1065.074,
                                 "byte_start": 4284232,
                                 "byte_stop": 4401156,
-                                "text": "However, prior to the coming into force of the freedom of the seas doctrine, which I think we have demonstrated is the case here and which the Master found in our favor, prior to that doctrine coming to force you could acquire... and this is why it\u0027s important not to get overly involved in the term 18th century."
+                                "text": "However, prior to the coming into force of the freedom of the seas doctrine, which I think we have demonstrated is the case here and which the Master found in our favor, prior to that doctrine coming to force you could acquire... and this is why it's important not to get overly involved in the term 18th century."
                             },
                             {
                                 "start": 1065.074,
@@ -1142,7 +1156,7 @@
                                 "stop": 1110.197,
                                 "byte_start": 4500944,
                                 "byte_stop": 4581610,
-                                "text": "That, Justice Stevens and Justice O\u0027Connor, if as we see the elements, the central elements of distinction between these two types of title, both of which can individually without the other being present lead to a finding of historic waters which would vest inland status in a particular body of water."
+                                "text": "That, Justice Stevens and Justice O'Connor, if as we see the elements, the central elements of distinction between these two types of title, both of which can individually without the other being present lead to a finding of historic waters which would vest inland status in a particular body of water."
                             }
                         ]
                     },
@@ -1155,6 +1169,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -1172,7 +1187,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -1190,7 +1205,7 @@
                                 "stop": 1120.381,
                                 "byte_start": 4596030,
                                 "byte_stop": 4622361,
-                                "text": "What do you mean by \u0022occupation\u0022, that element of the claim, when you\u0027re talking about this area of water that we\u0027re talking about here?"
+                                "text": "What do you mean by \"occupation\", that element of the claim, when you're talking about this area of water that we're talking about here?"
                             }
                         ]
                     },
@@ -1203,6 +1218,7 @@
                             "ID": 27178,
                             "name": "Henry Herrmann",
                             "href": "https:\/\/api.oyez.org\/people\/henry_herrmann",
+                            "view_count": 0,
                             "last_name": "Herrmann",
                             "roles": null,
                             "thumbnail": null,
@@ -1222,7 +1238,7 @@
                                 "stop": 1141.154,
                                 "byte_start": 4666352,
                                 "byte_stop": 4705431,
-                                "text": "Intertemporal law, and that\u0027s a well settled doctrine by now, means you must apply of necessity the international law rules prevailing at the point in time when you\u0027re looking at the evidence."
+                                "text": "Intertemporal law, and that's a well settled doctrine by now, means you must apply of necessity the international law rules prevailing at the point in time when you're looking at the evidence."
                             },
                             {
                                 "start": 1141.154,
@@ -1243,7 +1259,7 @@
                                 "stop": 1165.16,
                                 "byte_start": 4748376,
                                 "byte_stop": 4801457,
-                                "text": "Under standards then prevailing, Your Honor, occupation could have been satisfied for a marine area of this sort by effective settlement of the surrounding land masses, that\u0027s point one."
+                                "text": "Under standards then prevailing, Your Honor, occupation could have been satisfied for a marine area of this sort by effective settlement of the surrounding land masses, that's point one."
                             },
                             {
                                 "start": 1165.16,
@@ -1264,7 +1280,7 @@
                                 "stop": 1185.651,
                                 "byte_start": 4839073,
                                 "byte_stop": 4883481,
-                                "text": "The second element, and it\u0027s a very important one, is exclusive and extensive exploitation of the resources of such a body of water."
+                                "text": "The second element, and it's a very important one, is exclusive and extensive exploitation of the resources of such a body of water."
                             },
                             {
                                 "start": 1185.651,
@@ -1327,7 +1343,7 @@
                                 "stop": 1266.43,
                                 "byte_start": 5097581,
                                 "byte_stop": 5206564,
-                                "text": "This is one thing that\u0027s beyond question by now, that you can obtain ancient title by that means and certainly if the Master found anything at all, he found that the exploitation over the sedentary fisheries in the Sound were continuous, that they were exclusive, and that they were vital, just like in the Norwegian Fisheries case which was cited, that they were a vital element for the survival of that continuous community as our expert witness called it, a marine resource region."
+                                "text": "This is one thing that's beyond question by now, that you can obtain ancient title by that means and certainly if the Master found anything at all, he found that the exploitation over the sedentary fisheries in the Sound were continuous, that they were exclusive, and that they were vital, just like in the Norwegian Fisheries case which was cited, that they were a vital element for the survival of that continuous community as our expert witness called it, a marine resource region."
                             },
                             {
                                 "start": 1266.43,
@@ -1369,7 +1385,7 @@
                                 "stop": 1306.757,
                                 "byte_start": 5361418,
                                 "byte_stop": 5367896,
-                                "text": "If you couldn\u0027t, it was open sea."
+                                "text": "If you couldn't, it was open sea."
                             }
                         ]
                     },
@@ -1382,6 +1398,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -1409,7 +1426,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -1433,6 +1450,7 @@
                             "ID": 27178,
                             "name": "Henry Herrmann",
                             "href": "https:\/\/api.oyez.org\/people\/henry_herrmann",
+                            "view_count": 0,
                             "last_name": "Herrmann",
                             "roles": null,
                             "thumbnail": null,
@@ -1466,7 +1484,7 @@
                                 "stop": 1356.129,
                                 "byte_start": 5511570,
                                 "byte_stop": 5565382,
-                                "text": "Of course in a later case you could theoretically, although we\u0027re not claiming that here now, to answer your question, you could claim historic title after freedom of the seas came into force, and say, we base it on the same theory, it is encloseable, but we are not doing that here."
+                                "text": "Of course in a later case you could theoretically, although we're not claiming that here now, to answer your question, you could claim historic title after freedom of the seas came into force, and say, we base it on the same theory, it is encloseable, but we are not doing that here."
                             },
                             {
                                 "start": 1356.129,
@@ -1508,7 +1526,7 @@
                                 "stop": 1398.923,
                                 "byte_start": 5672693,
                                 "byte_stop": 5736536,
-                                "text": "The only reason he could not recommend a decree in our favor was that at one point only he felt himself constrained by what he thought the implications of prior decisions of this Court were as to, quote, \u0022clear beyond doubt evidence\u0022."
+                                "text": "The only reason he could not recommend a decree in our favor was that at one point only he felt himself constrained by what he thought the implications of prior decisions of this Court were as to, quote, \"clear beyond doubt evidence\"."
                             },
                             {
                                 "start": 1398.923,
@@ -1529,7 +1547,7 @@
                                 "stop": 1442.109,
                                 "byte_start": 5835174,
                                 "byte_stop": 5909258,
-                                "text": "He felt that by what he considered the implications of two prior cases, the second California case and the second Louisiana case, he felt that he could not on that ground, because that one element was not, quote, \u0022totally clear beyond doubt\u0022, although he was satisfied, he could not recommend a finding in our favor."
+                                "text": "He felt that by what he considered the implications of two prior cases, the second California case and the second Louisiana case, he felt that he could not on that ground, because that one element was not, quote, \"totally clear beyond doubt\", although he was satisfied, he could not recommend a finding in our favor."
                             },
                             {
                                 "start": 1442.109,
@@ -1543,7 +1561,7 @@
                                 "stop": 1458.008,
                                 "byte_start": 5936843,
                                 "byte_stop": 5972892,
-                                "text": "Well, the Master never found lapse as to any perfected ancient title, nor... it\u0027s not easy to see why he should have because the matter wasn\u0027t raised before him nor was it briefed to him."
+                                "text": "Well, the Master never found lapse as to any perfected ancient title, nor... it's not easy to see why he should have because the matter wasn't raised before him nor was it briefed to him."
                             },
                             {
                                 "start": 1458.008,
@@ -1571,21 +1589,21 @@
                                 "stop": 1491.713,
                                 "byte_start": 6065888,
                                 "byte_stop": 6107684,
-                                "text": "They say you don\u0027t have to reach the evidentiary issue, and I submit that that is what should be reached because that\u0027s the only remaining element in the case."
+                                "text": "They say you don't have to reach the evidentiary issue, and I submit that that is what should be reached because that's the only remaining element in the case."
                             },
                             {
                                 "start": 1491.713,
                                 "stop": 1498.305,
                                 "byte_start": 6107684,
                                 "byte_stop": 6134015,
-                                "text": "The United States... let me just finish up on the evidentiary issue by saying that we\u0027ve come a long way since the briefing began."
+                                "text": "The United States... let me just finish up on the evidentiary issue by saying that we've come a long way since the briefing began."
                             },
                             {
                                 "start": 1498.305,
                                 "stop": 1513.19,
                                 "byte_start": 6134015,
                                 "byte_stop": 6193574,
-                                "text": "If the Court will look at page 25 of the Government\u0027s reply brief, there they have expressly conceded that such a high... so-called higher standard of evidence need only be imposed where the Government has disclaimed."
+                                "text": "If the Court will look at page 25 of the Government's reply brief, there they have expressly conceded that such a high... so-called higher standard of evidence need only be imposed where the Government has disclaimed."
                             },
                             {
                                 "start": 1513.19,
@@ -1599,7 +1617,7 @@
                                 "stop": 1544.145,
                                 "byte_start": 6215935,
                                 "byte_stop": 6317395,
-                                "text": "So, what the Government is really saying, and I ask the Court to ponder the implications, they can come into a case even with a disclaimer which the Court would otherwise hold to be non-dispositive because it is filed on the eve of or during litigation, and they\u0027re really saying in effect, they can come into court, push a button, and by pushing a button impose a higher standard of proof on the claiming state, even though it is a disclaimer made during litigation."
+                                "text": "So, what the Government is really saying, and I ask the Court to ponder the implications, they can come into a case even with a disclaimer which the Court would otherwise hold to be non-dispositive because it is filed on the eve of or during litigation, and they're really saying in effect, they can come into court, push a button, and by pushing a button impose a higher standard of proof on the claiming state, even though it is a disclaimer made during litigation."
                             },
                             {
                                 "start": 1544.145,
@@ -1619,6 +1637,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -1636,7 +1655,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -1668,6 +1687,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -1694,7 +1714,7 @@
                                 "stop": 1586.378,
                                 "byte_start": 6424810,
                                 "byte_stop": 6486355,
-                                "text": "I invite the Court first to look at the chart which is appended to the Massachusetts exception, simply to have a visual picture of the area we\u0027re talking about in a more precise way."
+                                "text": "I invite the Court first to look at the chart which is appended to the Massachusetts exception, simply to have a visual picture of the area we're talking about in a more precise way."
                             },
                             {
                                 "start": 1586.378,
@@ -1708,7 +1728,7 @@
                                 "stop": 1639.451,
                                 "byte_start": 6591994,
                                 "byte_stop": 6698678,
-                                "text": "There\u0027s a strait from the eastern entrance to Nantucket Sound between Vineyard and Nantucket Sound, and there\u0027s another strait which is indeed well marked navigation channel going from the eastern entrance to Nantucket Sound through the Sound and out Vineyard Sound, a deep, marked navigation channel from one open sea to another open sea."
+                                "text": "There's a strait from the eastern entrance to Nantucket Sound between Vineyard and Nantucket Sound, and there's another strait which is indeed well marked navigation channel going from the eastern entrance to Nantucket Sound through the Sound and out Vineyard Sound, a deep, marked navigation channel from one open sea to another open sea."
                             },
                             {
                                 "start": 1639.451,
@@ -1778,7 +1798,7 @@
                                 "stop": 1854.895,
                                 "byte_start": 7524147,
                                 "byte_stop": 7560405,
-                                "text": "It seems to us, quite logically to me, we\u0027re claiming jurisdiction over so much of the Sound as is within three miles of any shore."
+                                "text": "It seems to us, quite logically to me, we're claiming jurisdiction over so much of the Sound as is within three miles of any shore."
                             },
                             {
                                 "start": 1854.895,
@@ -1792,7 +1812,7 @@
                                 "stop": 1894.661,
                                 "byte_start": 7656745,
                                 "byte_stop": 7719439,
-                                "text": "Now, in the hundreds of documents introduced in this case, spanning more than three centuries, we don\u0027t have a single one that reflects an expressed accession of of jurisdiction as inland water over the center of the Sound."
+                                "text": "Now, in the hundreds of documents introduced in this case, spanning more than three centuries, we don't have a single one that reflects an expressed accession of of jurisdiction as inland water over the center of the Sound."
                             }
                         ]
                     },
@@ -1803,9 +1823,10 @@
                         "byte_stop": 7849111,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -1822,7 +1843,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -1853,6 +1874,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -1865,7 +1887,7 @@
                                 "stop": 1930.209,
                                 "byte_start": 7849111,
                                 "byte_stop": 7861650,
-                                "text": "Justice O\u0027Connor, I have to say yes and no."
+                                "text": "Justice O'Connor, I have to say yes and no."
                             }
                         ]
                     },
@@ -1876,9 +1898,10 @@
                         "byte_stop": 7872725,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -1895,7 +1918,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -1906,7 +1929,7 @@
                                 "stop": 1932.974,
                                 "byte_start": 7861650,
                                 "byte_stop": 7872725,
-                                "text": "That\u0027s not very helpful."
+                                "text": "That's not very helpful."
                             }
                         ]
                     },
@@ -1919,6 +1942,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -1984,9 +2008,10 @@
                         "byte_stop": 8416072,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -2003,7 +2028,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -2027,6 +2052,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -2039,28 +2065,28 @@
                                 "stop": 2124.881,
                                 "byte_start": 8416072,
                                 "byte_stop": 8640412,
-                                "text": "Justice O\u0027Connor, if one assumes, contrary to our argument that there ever was a perfected claim or perfected ancient title, and that that title survived until... or through the period when the United States became a sovereign nation, then what Your Honor suggests could indeed be the result, but it was open to the United States to reclaim that area as it did with respect to the resources of the seabed in the Truman Proclamation of 1945, and as it has with respect to fisheries in other legislation, and as it could with respect to all jurisdiction by adopting a different limit than the three-mile limit as it is free to do, or by using a straight base line method which as a matter of international law it is free to do."
+                                "text": "Justice O'Connor, if one assumes, contrary to our argument that there ever was a perfected claim or perfected ancient title, and that that title survived until... or through the period when the United States became a sovereign nation, then what Your Honor suggests could indeed be the result, but it was open to the United States to reclaim that area as it did with respect to the resources of the seabed in the Truman Proclamation of 1945, and as it has with respect to fisheries in other legislation, and as it could with respect to all jurisdiction by adopting a different limit than the three-mile limit as it is free to do, or by using a straight base line method which as a matter of international law it is free to do."
                             },
                             {
                                 "start": 2124.881,
                                 "stop": 2143.778,
                                 "byte_start": 8640412,
                                 "byte_stop": 8715958,
-                                "text": "So, there is no difficulty in the fact that the disclaimer by Massachusetts might have, for a period, subject to the United States\u0027 ability to repair it, momentarily the boundaries of the United States."
+                                "text": "So, there is no difficulty in the fact that the disclaimer by Massachusetts might have, for a period, subject to the United States' ability to repair it, momentarily the boundaries of the United States."
                             },
                             {
                                 "start": 2143.778,
                                 "stop": 2175.891,
                                 "byte_start": 8715958,
                                 "byte_stop": 8844376,
-                                "text": "But I must confess that we do not concede that such ancient title ever was perfected and it\u0027s all very well to say that this area was discovered in 1603 but beyond that, Massachusetts has shown nothing by way of a paper... in colonial times or since, nor has it shown any governmental acts which would amount to effective occupation of the area."
+                                "text": "But I must confess that we do not concede that such ancient title ever was perfected and it's all very well to say that this area was discovered in 1603 but beyond that, Massachusetts has shown nothing by way of a paper... in colonial times or since, nor has it shown any governmental acts which would amount to effective occupation of the area."
                             },
                             {
                                 "start": 2175.891,
                                 "stop": 2187.168,
                                 "byte_start": 8844376,
                                 "byte_stop": 8889516,
-                                "text": "The only evidence in the case with respect to any activity here, there\u0027s no arrest, there\u0027s no warning of vessels, there\u0027s no marking of the area, absolutely nothing by any government."
+                                "text": "The only evidence in the case with respect to any activity here, there's no arrest, there's no warning of vessels, there's no marking of the area, absolutely nothing by any government."
                             },
                             {
                                 "start": 2187.168,
@@ -2101,6 +2127,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -2118,7 +2145,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -2149,6 +2176,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -2188,6 +2216,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2205,7 +2234,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2216,7 +2245,7 @@
                                 "stop": 2301.98,
                                 "byte_start": 9331612,
                                 "byte_stop": 9348748,
-                                "text": "Mr. Clairborne, did you file exceptions to the Special Master\u0027s report?"
+                                "text": "Mr. Clairborne, did you file exceptions to the Special Master's report?"
                             }
                         ]
                     },
@@ -2229,6 +2258,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -2254,6 +2284,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2271,7 +2302,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2295,6 +2326,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -2327,6 +2359,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2344,7 +2377,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2368,6 +2401,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -2380,7 +2414,7 @@
                                 "stop": 2332.249,
                                 "byte_start": 9461388,
                                 "byte_stop": 9469852,
-                                "text": "--We don\u0027t read it that way, Your Honor."
+                                "text": "--We don't read it that way, Your Honor."
                             },
                             {
                                 "start": 2332.249,
@@ -2415,7 +2449,7 @@
                                 "stop": 2403.471,
                                 "byte_start": 9698894,
                                 "byte_stop": 9754691,
-                                "text": "\u0022It is therefore the Special Master\u0027s opinion that the Commonwealth has failed to establish that either the United States or Massachusetts ever asserted jurisdiction over the sound until Massachusetts did so relatively recently. \u0022"
+                                "text": "\"It is therefore the Special Master's opinion that the Commonwealth has failed to establish that either the United States or Massachusetts ever asserted jurisdiction over the sound until Massachusetts did so relatively recently. \""
                             },
                             {
                                 "start": 2403.471,
@@ -2429,14 +2463,14 @@
                                 "stop": 2416.2,
                                 "byte_start": 9783426,
                                 "byte_stop": 9805682,
-                                "text": "\u0022It is unlikely that post-Colonial Massachusetts ever claimed the interior of Nantucket Sound. \u0022"
+                                "text": "\"It is unlikely that post-Colonial Massachusetts ever claimed the interior of Nantucket Sound. \""
                             },
                             {
                                 "start": 2416.2,
                                 "stop": 2424.431,
                                 "byte_start": 9805682,
                                 "byte_stop": 9838596,
-                                "text": "\u0022Further, nor has Massachusetts presented an other evidence that it had laid claim to the Sound during the first half of the 19th Century. \u0022"
+                                "text": "\"Further, nor has Massachusetts presented an other evidence that it had laid claim to the Sound during the first half of the 19th Century. \""
                             },
                             {
                                 "start": 2424.431,
@@ -2450,21 +2484,21 @@
                                 "stop": 2434.646,
                                 "byte_start": 9844970,
                                 "byte_stop": 9879452,
-                                "text": "\u0022During the second half of the century Massachusetts abandoned the inter fauces terrae doctrine to delimit its seaward boundaries, substituting a strict distance test. \u0022"
+                                "text": "\"During the second half of the century Massachusetts abandoned the inter fauces terrae doctrine to delimit its seaward boundaries, substituting a strict distance test. \""
                             },
                             {
                                 "start": 2434.646,
                                 "stop": 2441.784,
                                 "byte_start": 9879452,
                                 "byte_stop": 9907978,
-                                "text": "\u0022Under this test, Massachusetts claimed only those arms of the sea whose mouths were six nautical miles or less in width. \u0022"
+                                "text": "\"Under this test, Massachusetts claimed only those arms of the sea whose mouths were six nautical miles or less in width. \""
                             },
                             {
                                 "start": 2441.784,
                                 "stop": 2445.032,
                                 "byte_start": 9907978,
                                 "byte_stop": 9920934,
-                                "text": "\u0022Nantucket Sound clearly does not meet this criterion. \u0022"
+                                "text": "\"Nantucket Sound clearly does not meet this criterion. \""
                             }
                         ]
                     },
@@ -2477,6 +2511,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2494,7 +2529,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2505,7 +2540,7 @@
                                 "stop": 2448.015,
                                 "byte_start": 9920934,
                                 "byte_stop": 9932951,
-                                "text": "Isn\u0027t this all about historic title?"
+                                "text": "Isn't this all about historic title?"
                             }
                         ]
                     },
@@ -2518,6 +2553,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -2551,7 +2587,7 @@
                                 "stop": 2473.881,
                                 "byte_start": 9999929,
                                 "byte_stop": 10036396,
-                                "text": "This follows, after we\u0027ve had in the previous section a detail of the evidence."
+                                "text": "This follows, after we've had in the previous section a detail of the evidence."
                             }
                         ]
                     },
@@ -2564,6 +2600,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2581,7 +2618,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2605,6 +2642,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -2617,7 +2655,7 @@
                                 "stop": 2490.311,
                                 "byte_start": 10066593,
                                 "byte_stop": 10102120,
-                                "text": "\u0022The Special Master therefore concludes that Massachusetts has failed to meet its burden of establishing historic title to Nantucket Sound. \u0022"
+                                "text": "\"The Special Master therefore concludes that Massachusetts has failed to meet its burden of establishing historic title to Nantucket Sound. \""
                             }
                         ]
                     },
@@ -2630,6 +2668,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2647,7 +2686,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2671,6 +2710,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -2683,7 +2723,7 @@
                                 "stop": 2528.093,
                                 "byte_start": 10116539,
                                 "byte_stop": 10253212,
-                                "text": "It doesn\u0027t, Your Honor, but it mentions the evidence which would be common to both, and it seems to us, he had used the expression 7 of the Convention but there is no getting round the express and unequivocal finding that Massachusetts has presented no evidence of an assertion of sovereignty, and on the contrary that its own evidence proves that it disclaimed--"
+                                "text": "It doesn't, Your Honor, but it mentions the evidence which would be common to both, and it seems to us, he had used the expression 7 of the Convention but there is no getting round the express and unequivocal finding that Massachusetts has presented no evidence of an assertion of sovereignty, and on the contrary that its own evidence proves that it disclaimed--"
                             }
                         ]
                     },
@@ -2696,6 +2736,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2713,7 +2754,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2737,6 +2778,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -2762,6 +2804,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2779,7 +2822,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2803,6 +2846,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -2856,6 +2900,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -2873,7 +2918,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -2891,14 +2936,14 @@
                                 "stop": 2694.166,
                                 "byte_start": 10896765,
                                 "byte_stop": 10917558,
-                                "text": "You are referring to the two different parts of the Master\u0027s report, which I must confess I am a little confused by."
+                                "text": "You are referring to the two different parts of the Master's report, which I must confess I am a little confused by."
                             },
                             {
                                 "start": 2694.166,
                                 "stop": 2723.827,
                                 "byte_start": 10917558,
                                 "byte_stop": 11036154,
-                                "text": "Are you in effect arguing that the burden of proof issue that your opponent relies on is really an alternative ground for decision, that in the early part of the opinion you are saying that the burden of proof can resolve the question of whether the doctrine of inter fauces terrae applies, and he falls short because it\u0027s not clear beyond a reasonable doubt, but then later on 64 and 65 he\u0027s saying that even if the doctrine were to apply it still fails because they didn\u0027t assert jurisdiction--"
+                                "text": "Are you in effect arguing that the burden of proof issue that your opponent relies on is really an alternative ground for decision, that in the early part of the opinion you are saying that the burden of proof can resolve the question of whether the doctrine of inter fauces terrae applies, and he falls short because it's not clear beyond a reasonable doubt, but then later on 64 and 65 he's saying that even if the doctrine were to apply it still fails because they didn't assert jurisdiction--"
                             }
                         ]
                     },
@@ -2911,6 +2956,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -2930,14 +2976,14 @@
                                 "stop": 2729.762,
                                 "byte_start": 11049738,
                                 "byte_stop": 11059873,
-                                "text": "And we didn\u0027t invent the word \u0022lacks\u0022."
+                                "text": "And we didn't invent the word \"lacks\"."
                             },
                             {
                                 "start": 2729.762,
                                 "stop": 2742.069,
                                 "byte_start": 11059873,
                                 "byte_stop": 11109088,
-                                "text": "It is the Master who says, and this is... perhaps I should have answered Justice White in this way, the bottom of page \u003Csixty-five\u003E [= 65], it seems to me, does refer to the colonial title."
+                                "text": "It is the Master who says, and this is... perhaps I should have answered Justice White in this way, the bottom of page <sixty-five> [= 65], it seems to me, does refer to the colonial title."
                             },
                             {
                                 "start": 2742.069,
@@ -2951,21 +2997,21 @@
                                 "stop": 2752.674,
                                 "byte_start": 11126642,
                                 "byte_stop": 11151511,
-                                "text": "\u0022Therefore, whatever rights it may have had over Nantucket Sound during the Colonial period. \u0022"
+                                "text": "\"Therefore, whatever rights it may have had over Nantucket Sound during the Colonial period. \""
                             },
                             {
                                 "start": 2752.674,
                                 "stop": 2756.156,
                                 "byte_start": 11151511,
                                 "byte_stop": 11165512,
-                                "text": "Now, that\u0027s got to be a reference to the so-called ancient title,"
+                                "text": "Now, that's got to be a reference to the so-called ancient title,"
                             },
                             {
                                 "start": 2756.156,
                                 "stop": 2760.155,
                                 "byte_start": 11165512,
                                 "byte_stop": 11181499,
-                                "text": "\u0022lapsed until the Commonwealth\u0027s attempt to resuscitate-- \u0022"
+                                "text": "\"lapsed until the Commonwealth's attempt to resuscitate-- \""
                             }
                         ]
                     },
@@ -2978,6 +3024,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2995,7 +3042,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3019,6 +3066,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -3038,7 +3086,7 @@
                                 "stop": 2779.195,
                                 "byte_start": 11204278,
                                 "byte_stop": 11257672,
-                                "text": "The expression \u0022historic title\u0022, after all, is very close to the \u0022historic waters\u0022 which is the term this Court and the International Convention have both used."
+                                "text": "The expression \"historic title\", after all, is very close to the \"historic waters\" which is the term this Court and the International Convention have both used."
                             },
                             {
                                 "start": 2779.195,
@@ -3052,7 +3100,7 @@
                                 "stop": 2784.755,
                                 "byte_start": 11274182,
                                 "byte_stop": 11279824,
-                                "text": "It\u0027s one based on history."
+                                "text": "It's one based on history."
                             }
                         ]
                     },
@@ -3063,9 +3111,10 @@
                         "byte_stop": 11571142,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -3082,7 +3131,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -3093,21 +3142,21 @@
                                 "stop": 2797.812,
                                 "byte_start": 11279824,
                                 "byte_stop": 11332069,
-                                "text": "Mr. Claiborne, if you look at page 51 of the Master\u0027s report, at the end of the paragraph, the one over paragraph at the top, the Master says,"
+                                "text": "Mr. Claiborne, if you look at page 51 of the Master's report, at the end of the paragraph, the one over paragraph at the top, the Master says,"
                             },
                             {
                                 "start": 2797.812,
                                 "stop": 2809.104,
                                 "byte_start": 11332069,
                                 "byte_stop": 11377313,
-                                "text": "\u0022Massashusetts can establish an ancient title to Nantucket Sound only if the Supreme Court holds that the clear beyond doubt standard is inappropriate in this proceeding. \u0022"
+                                "text": "\"Massashusetts can establish an ancient title to Nantucket Sound only if the Supreme Court holds that the clear beyond doubt standard is inappropriate in this proceeding. \""
                             },
                             {
                                 "start": 2809.104,
                                 "stop": 2835.235,
                                 "byte_start": 11377313,
                                 "byte_stop": 11481803,
-                                "text": "Then he starts his Section 2, The History of Historical Geography, which begins with the explanation that as an independent basis for its claim Massachusetts argues that even if that title didn\u0027t pass under the Royal Charters or as a result of the doctrine of inter fauces terra, Massachusetts nevertheless has title by virtue of history and usage."
+                                "text": "Then he starts his Section 2, The History of Historical Geography, which begins with the explanation that as an independent basis for its claim Massachusetts argues that even if that title didn't pass under the Royal Charters or as a result of the doctrine of inter fauces terra, Massachusetts nevertheless has title by virtue of history and usage."
                             },
                             {
                                 "start": 2835.235,
@@ -3127,6 +3176,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -3139,7 +3189,7 @@
                                 "stop": 2868.315,
                                 "byte_start": 11571142,
                                 "byte_stop": 11614087,
-                                "text": "Justice O\u0027Connor, I must confess that the report seems to us, as to others, less than absolutely clear."
+                                "text": "Justice O'Connor, I must confess that the report seems to us, as to others, less than absolutely clear."
                             },
                             {
                                 "start": 2868.315,
@@ -3160,14 +3210,14 @@
                                 "stop": 2912.203,
                                 "byte_start": 11772807,
                                 "byte_stop": 11789630,
-                                "text": "It\u0027s a genuine discussion of the entire Massachusetts claim."
+                                "text": "It's a genuine discussion of the entire Massachusetts claim."
                             },
                             {
                                 "start": 2912.203,
                                 "stop": 2916.279,
                                 "byte_start": 11789630,
                                 "byte_stop": 11805930,
-                                "text": "It doesn\u0027t say Evaluation of the Massachusetts Historic Claim, but the whole of it."
+                                "text": "It doesn't say Evaluation of the Massachusetts Historic Claim, but the whole of it."
                             }
                         ]
                     },
@@ -3180,6 +3230,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -3197,7 +3248,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3228,6 +3279,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -3240,7 +3292,7 @@
                                 "stop": 2969.102,
                                 "byte_start": 11887223,
                                 "byte_stop": 12017209,
-                                "text": "However one reads the Master\u0027s report, it does seem to us that the Master has made a finding, on page 65, that whatever rights over Nantucket Sound accrued during the Colonial period, which he suggests were none but whatever they might have been, have long since lapsed by renunciation."
+                                "text": "However one reads the Master's report, it does seem to us that the Master has made a finding, on page 65, that whatever rights over Nantucket Sound accrued during the Colonial period, which he suggests were none but whatever they might have been, have long since lapsed by renunciation."
                             }
                         ]
                     },
@@ -3253,6 +3305,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -3270,7 +3323,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3294,6 +3347,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -3306,7 +3360,7 @@
                                 "stop": 2973.695,
                                 "byte_start": 12022642,
                                 "byte_stop": 12035599,
-                                "text": "That finding may in the Master\u0027s mind not be relevant to ancient title."
+                                "text": "That finding may in the Master's mind not be relevant to ancient title."
                             },
                             {
                                 "start": 2973.695,
@@ -3326,6 +3380,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -3343,7 +3398,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3367,6 +3422,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -3379,7 +3435,7 @@
                                 "stop": 3008.57,
                                 "byte_start": 12101427,
                                 "byte_stop": 12175093,
-                                "text": "It\u0027s professed by... it\u0027s conceded by Massachusetts that ancient title can be lost, and since ancient title requires to be fortified by long usage, it must follow that it is lost by non-usage and all the more so by express disclaimer."
+                                "text": "It's professed by... it's conceded by Massachusetts that ancient title can be lost, and since ancient title requires to be fortified by long usage, it must follow that it is lost by non-usage and all the more so by express disclaimer."
                             }
                         ]
                     },
@@ -3392,6 +3448,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -3409,7 +3466,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3420,14 +3477,14 @@
                                 "stop": 3022.814,
                                 "byte_start": 12175093,
                                 "byte_stop": 12232144,
-                                "text": "If you read page 51 as the end of the discussion of ancient title, it\u0027s a strange posture to leave the case in if the Master thought that ancient title had lapsed."
+                                "text": "If you read page 51 as the end of the discussion of ancient title, it's a strange posture to leave the case in if the Master thought that ancient title had lapsed."
                             },
                             {
                                 "start": 3022.814,
                                 "stop": 3025.954,
                                 "byte_start": 12232144,
                                 "byte_stop": 12244683,
-                                "text": "It wouldn\u0027t make any difference what standard of proof there was."
+                                "text": "It wouldn't make any difference what standard of proof there was."
                             }
                         ]
                     },
@@ -3440,6 +3497,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -3465,6 +3523,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -3482,7 +3541,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3506,6 +3565,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -3518,7 +3578,7 @@
                                 "stop": 3098.283,
                                 "byte_start": 12299958,
                                 "byte_stop": 12534015,
-                                "text": "Well, with respect to the standard of proof, we submit that this Court has very clearly, and that its Masters have followed what seemed to them the clear lead of the Court, and that the Court has approved the Masters\u0027 report, to the effect that when the United States in its sovereign decision disclaims an area never mind when it disclaims it, it is going to be ineffective if it comes too late in the sense that it\u0027s not dispositive, but it at least has this effect, so the Court has said, which is to require the State to prove that its historic claim, and that should apply whether it\u0027s an ancient title or a so-called historic title, is quite clear and that it is therefore quite wrong and unfair for the United States to come in so late and attempt to defeat it."
+                                "text": "Well, with respect to the standard of proof, we submit that this Court has very clearly, and that its Masters have followed what seemed to them the clear lead of the Court, and that the Court has approved the Masters' report, to the effect that when the United States in its sovereign decision disclaims an area never mind when it disclaims it, it is going to be ineffective if it comes too late in the sense that it's not dispositive, but it at least has this effect, so the Court has said, which is to require the State to prove that its historic claim, and that should apply whether it's an ancient title or a so-called historic title, is quite clear and that it is therefore quite wrong and unfair for the United States to come in so late and attempt to defeat it."
                             },
                             {
                                 "start": 3098.283,
@@ -3546,14 +3606,14 @@
                                 "stop": 3153.09,
                                 "byte_start": 12726903,
                                 "byte_stop": 12753235,
-                                "text": "Indeed, what is extraordinary is that the United States isn\u0027t free to fix its boundaries like every other nation."
+                                "text": "Indeed, what is extraordinary is that the United States isn't free to fix its boundaries like every other nation."
                             },
                             {
                                 "start": 3153.09,
                                 "stop": 3165.865,
                                 "byte_start": 12753235,
                                 "byte_stop": 12804330,
-                                "text": "It\u0027s only the oddity of our federal system, nothing to do with international law, and one can\u0027t look to international law for this, that permits a state to claim adversely to the--"
+                                "text": "It's only the oddity of our federal system, nothing to do with international law, and one can't look to international law for this, that permits a state to claim adversely to the--"
                             }
                         ]
                     },
@@ -3566,6 +3626,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -3583,7 +3644,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3607,6 +3668,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -3619,7 +3681,7 @@
                                 "stop": 3192.948,
                                 "byte_start": 12855217,
                                 "byte_stop": 12912686,
-                                "text": "--And indeed, that we don\u0027t dispute and we must concede that the Court has... but a standard seems to us as we explain in the last section of our brief, to be that clear."
+                                "text": "--And indeed, that we don't dispute and we must concede that the Court has... but a standard seems to us as we explain in the last section of our brief, to be that clear."
                             }
                         ]
                     },
@@ -3632,6 +3694,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -3649,7 +3712,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3673,6 +3736,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -3685,7 +3749,7 @@
                                 "stop": 3218.689,
                                 "byte_start": 12948526,
                                 "byte_stop": 13015609,
-                                "text": "Your Honor, we probably didn\u0027t use the word \u0022lapse\u0022, but we very clearly pointed out and argued at great length that Massachusetts had itself disclaimed through the adoption judicially of a test that wouldn\u0027t close Nantucket Sound, and mainly through the legislative--"
+                                "text": "Your Honor, we probably didn't use the word \"lapse\", but we very clearly pointed out and argued at great length that Massachusetts had itself disclaimed through the adoption judicially of a test that wouldn't close Nantucket Sound, and mainly through the legislative--"
                             }
                         ]
                     },
@@ -3698,6 +3762,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -3715,7 +3780,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3746,6 +3811,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -3771,6 +3837,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -3788,7 +3855,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3812,6 +3879,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -3831,7 +3899,7 @@
                                 "stop": 3263.045,
                                 "byte_start": 13135772,
                                 "byte_stop": 13193032,
-                                "text": "It\u0027s a statement with respect to the vesting of title back in the Colonial days, and then the ultimate conclusion is, it doesn\u0027t matter whether it did or didn\u0027t because in any event it has been disclaimed."
+                                "text": "It's a statement with respect to the vesting of title back in the Colonial days, and then the ultimate conclusion is, it doesn't matter whether it did or didn't because in any event it has been disclaimed."
                             },
                             {
                                 "start": 3263.045,
@@ -3845,7 +3913,7 @@
                                 "stop": 3282.724,
                                 "byte_start": 13252801,
                                 "byte_stop": 13271713,
-                                "text": "\u0022Neither the United States nor the State of Massachusetts. \u0022"
+                                "text": "\"Neither the United States nor the State of Massachusetts. \""
                             },
                             {
                                 "start": 3282.724,
@@ -3859,21 +3927,21 @@
                                 "stop": 3289.925,
                                 "byte_start": 13284043,
                                 "byte_stop": 13300552,
-                                "text": "\u0022at any time appears to have claimed the center of Nantucket Sound. \u0022"
+                                "text": "\"at any time appears to have claimed the center of Nantucket Sound. \""
                             },
                             {
                                 "start": 3289.925,
                                 "stop": 3303.357,
                                 "byte_start": 13300552,
                                 "byte_stop": 13354260,
-                                "text": "He says that as a matter of fact, and whether he\u0027s thinking in terms of ancient title or not, that finding, it seems to us, is beyond doubt and indeed it\u0027s stated unequivocally."
+                                "text": "He says that as a matter of fact, and whether he's thinking in terms of ancient title or not, that finding, it seems to us, is beyond doubt and indeed it's stated unequivocally."
                             },
                             {
                                 "start": 3303.357,
                                 "stop": 3304.622,
                                 "byte_start": 13354260,
                                 "byte_stop": 13359380,
-                                "text": "It\u0027s not stated as an issue."
+                                "text": "It's not stated as an issue."
                             }
                         ]
                     },
@@ -3886,6 +3954,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -3903,7 +3972,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -3914,14 +3983,14 @@
                                 "stop": 3310.135,
                                 "byte_start": 13359380,
                                 "byte_stop": 13381427,
-                                "text": "Mr. Claiborne, I\u0027m curious about this clear beyond doubt standard."
+                                "text": "Mr. Claiborne, I'm curious about this clear beyond doubt standard."
                             },
                             {
                                 "start": 3310.135,
                                 "stop": 3317.852,
                                 "byte_start": 13381427,
                                 "byte_stop": 13412252,
-                                "text": "Do you feel that\u0027s more stringent than the beyond a reasonable doubt standard employed in a criminal case?"
+                                "text": "Do you feel that's more stringent than the beyond a reasonable doubt standard employed in a criminal case?"
                             }
                         ]
                     },
@@ -3934,6 +4003,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -3946,7 +4016,7 @@
                                 "stop": 3321.914,
                                 "byte_start": 13412252,
                                 "byte_stop": 13428552,
-                                "text": "I wouldn\u0027t have thought so, Justice Blackmun."
+                                "text": "I wouldn't have thought so, Justice Blackmun."
                             }
                         ]
                     },
@@ -3959,6 +4029,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -3976,7 +4047,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -4000,6 +4071,7 @@
                             "ID": 34216,
                             "name": "Louis F. Claiborne",
                             "href": "https:\/\/api.oyez.org\/people\/louis_f_claiborne",
+                            "view_count": 0,
                             "last_name": "Claiborne",
                             "roles": null,
                             "thumbnail": null,
@@ -4025,6 +4097,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -4042,7 +4115,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -4074,6 +4147,7 @@
                             "ID": 27178,
                             "name": "Henry Herrmann",
                             "href": "https:\/\/api.oyez.org\/people\/henry_herrmann",
+                            "view_count": 0,
                             "last_name": "Herrmann",
                             "roles": null,
                             "thumbnail": null,
@@ -4099,6 +4173,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -4116,7 +4191,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -4140,6 +4215,7 @@
                             "ID": 27178,
                             "name": "Henry Herrmann",
                             "href": "https:\/\/api.oyez.org\/people\/henry_herrmann",
+                            "view_count": 0,
                             "last_name": "Herrmann",
                             "roles": null,
                             "thumbnail": null,
@@ -4179,6 +4255,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -4196,7 +4273,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -4207,7 +4284,7 @@
                                 "stop": 3377.172,
                                 "byte_start": 13625307,
                                 "byte_stop": 13649548,
-                                "text": "You\u0027re just saying it must be... that\u0027s unfair, that\u0027s about your submission, that would just be unfair?"
+                                "text": "You're just saying it must be... that's unfair, that's about your submission, that would just be unfair?"
                             }
                         ]
                     },
@@ -4220,6 +4297,7 @@
                             "ID": 27178,
                             "name": "Henry Herrmann",
                             "href": "https:\/\/api.oyez.org\/people\/henry_herrmann",
+                            "view_count": 0,
                             "last_name": "Herrmann",
                             "roles": null,
                             "thumbnail": null,
@@ -4239,7 +4317,7 @@
                                 "stop": 3380.576,
                                 "byte_start": 13661251,
                                 "byte_stop": 13663132,
-                                "text": "I don\u0027t think--"
+                                "text": "I don't think--"
                             }
                         ]
                     },
@@ -4252,6 +4330,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -4269,7 +4348,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -4280,7 +4359,7 @@
                                 "stop": 3385.777,
                                 "byte_start": 13663132,
                                 "byte_stop": 13683925,
-                                "text": "Don\u0027t you think the United States has the power to disclaim it at that point, in fact it has the power at any other time?"
+                                "text": "Don't you think the United States has the power to disclaim it at that point, in fact it has the power at any other time?"
                             }
                         ]
                     },
@@ -4293,6 +4372,7 @@
                             "ID": 27178,
                             "name": "Henry Herrmann",
                             "href": "https:\/\/api.oyez.org\/people\/henry_herrmann",
+                            "view_count": 0,
                             "last_name": "Herrmann",
                             "roles": null,
                             "thumbnail": null,
@@ -4305,7 +4385,7 @@
                                 "stop": 3407.66,
                                 "byte_start": 13683925,
                                 "byte_stop": 13771488,
-                                "text": "--It has the power to disclaim, but it seems to me, Your Honor, that the issue is what effects this Court will give to an exercise of such power, and it seems to me that the prior decisions of this Court and particularly in the second Louisiana case, page \u003Cseventy-seven\u003E [= 77], this Court has made it clear that it and only it will decide in the individual instance what effect to give to this claim."
+                                "text": "--It has the power to disclaim, but it seems to me, Your Honor, that the issue is what effects this Court will give to an exercise of such power, and it seems to me that the prior decisions of this Court and particularly in the second Louisiana case, page <seventy-seven> [= 77], this Court has made it clear that it and only it will decide in the individual instance what effect to give to this claim."
                             }
                         ]
                     },
@@ -4318,6 +4398,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -4335,7 +4416,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -4366,6 +4447,7 @@
                             "ID": 27178,
                             "name": "Henry Herrmann",
                             "href": "https:\/\/api.oyez.org\/people\/henry_herrmann",
+                            "view_count": 0,
                             "last_name": "Herrmann",
                             "roles": null,
                             "thumbnail": null,
@@ -4391,6 +4473,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -4408,7 +4491,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -4432,6 +4515,7 @@
                             "ID": 27178,
                             "name": "Henry Herrmann",
                             "href": "https:\/\/api.oyez.org\/people\/henry_herrmann",
+                            "view_count": 0,
                             "last_name": "Herrmann",
                             "roles": null,
                             "thumbnail": null,
@@ -4457,6 +4541,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -4474,7 +4559,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -4498,6 +4583,7 @@
                             "ID": 27178,
                             "name": "Henry Herrmann",
                             "href": "https:\/\/api.oyez.org\/people\/henry_herrmann",
+                            "view_count": 0,
                             "last_name": "Herrmann",
                             "roles": null,
                             "thumbnail": null,
@@ -4510,14 +4596,14 @@
                                 "stop": 3437.976,
                                 "byte_start": 13859468,
                                 "byte_stop": 13892801,
-                                "text": "--No, because I don\u0027t think the Court meant, if you look at the Louisiana decision, I don\u0027t think the Court meant to use the beyond doubt standard in such a fashion."
+                                "text": "--No, because I don't think the Court meant, if you look at the Louisiana decision, I don't think the Court meant to use the beyond doubt standard in such a fashion."
                             },
                             {
                                 "start": 3437.976,
                                 "stop": 3448.128,
                                 "byte_start": 13892801,
                                 "byte_stop": 13933343,
-                                "text": "I think as I respectfully read the Court\u0027s decision, it meant that it would use the \u0022clear beyond doubt\u0022 standard to determine... it was really analogous to a summary judgment situation."
+                                "text": "I think as I respectfully read the Court's decision, it meant that it would use the \"clear beyond doubt\" standard to determine... it was really analogous to a summary judgment situation."
                             },
                             {
                                 "start": 3448.128,
@@ -4544,6 +4630,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -4561,7 +4648,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -4585,6 +4672,7 @@
                             "ID": 27178,
                             "name": "Henry Herrmann",
                             "href": "https:\/\/api.oyez.org\/people\/henry_herrmann",
+                            "view_count": 0,
                             "last_name": "Herrmann",
                             "roles": null,
                             "thumbnail": null,
@@ -4610,6 +4698,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -4627,7 +4716,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -4645,7 +4734,7 @@
                                 "stop": 3484.628,
                                 "byte_start": 14063746,
                                 "byte_stop": 14079315,
-                                "text": "He said that, you haven\u0027t proved it beyond a reasonable doubt."
+                                "text": "He said that, you haven't proved it beyond a reasonable doubt."
                             }
                         ]
                     },
@@ -4658,6 +4747,7 @@
                             "ID": 27178,
                             "name": "Henry Herrmann",
                             "href": "https:\/\/api.oyez.org\/people\/henry_herrmann",
+                            "view_count": 0,
                             "last_name": "Herrmann",
                             "roles": null,
                             "thumbnail": null,
@@ -4732,6 +4822,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -4749,7 +4840,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"

@@ -2,6 +2,7 @@
     "ID": 15108,
     "name": "George Sutherland",
     "href": "https:\/\/api.oyez.org\/people\/george_sutherland",
+    "view_count": 0,
     "first_name": "George",
     "middle_name": null,
     "last_name": "Sutherland",
@@ -17,7 +18,7 @@
     "father": "Alexander Sutherland",
     "mothers_occupation": null,
     "fathers_occupation": "Lawyer, postman, prospector",
-    "biography": "\u003Cp\u003EGeorge Sutherland was born in England but raised in Utah where he later practiced law and acheived a measure of Republican political prominence. He served in the U.S. House of Representatives and in the Senate. Sutherland was a confidant of Warren Harding when he ran for the presidency. Harding later nominated him to the Supreme Court. While in private practice, Sutherland articulated a fundamentally conservative position on the role of government. His vision did not change on the Court.\u003C\/p\u003E\n\u003Cp\u003ESutherland offered his vote and voice in support of substantive due process and other judicial barriers to state governmentregulation and control. Much of this approach was rejected by subsequent Courts.\u003C\/p\u003E\n\u003Cp\u003ESutherland was not a cipher, however. He left his mark on other domains including the law of \u0022standing\u0022 and the constitutional constraints governing foreign relations. Sutherland also forged an important link in the nationalization of the Bill of Rights by articulating the steps states must take to assure the right to counsel in capital cases.\u003C\/p\u003E\n",
+    "biography": "<p>George Sutherland was born in England but raised in Utah where he later practiced law and acheived a measure of Republican political prominence. He served in the U.S. House of Representatives and in the Senate. Sutherland was a confidant of Warren Harding when he ran for the presidency. Harding later nominated him to the Supreme Court. While in private practice, Sutherland articulated a fundamentally conservative position on the role of government. His vision did not change on the Court.<\/p>\n<p>Sutherland offered his vote and voice in support of substantive due process and other judicial barriers to state governmentregulation and control. Much of this approach was rejected by subsequent Courts.<\/p>\n<p>Sutherland was not a cipher, however. He left his mark on other domains including the law of \"standing\" and the constitutional constraints governing foreign relations. Sutherland also forged an important link in the nationalization of the Bill of Rights by articulating the steps states must take to assure the right to counsel in capital cases.<\/p>\n",
     "roles": [
         {
             "id": 2752,
@@ -30,14 +31,19 @@
             "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2752"
         }
     ],
-    "thumbnail": null,
+    "thumbnail": {
+        "id": 79212,
+        "mime": "image\/png",
+        "size": 37318,
+        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/george_sutherland\/george_sutherland.thumb_0.png"
+    },
     "images": [
         {
             "file": {
                 "id": 12194,
                 "mime": "image\/jpeg",
                 "size": 30322,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/justices\/large\/george_sutherland.jpg"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/george_sutherland\/george_sutherland.jpg"
             },
             "image_field_caption": "The Collection of the Supreme Court of the United States (Artist: Nicholas R. Brewer)"
         }

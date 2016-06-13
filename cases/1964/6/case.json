@@ -2,10 +2,11 @@
     "ID": 60941,
     "name": "Henry v. Mississippi",
     "href": "https:\/\/api.oyez.org\/cases\/1964\/6",
+    "view_count": 0,
     "docket_number": "6",
     "additional_docket_numbers": null,
-    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
-    "first_party": "Henry",
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
+    "first_party": "Aaron Henry ",
     "second_party": "Mississippi",
     "timeline": [
         {
@@ -21,13 +22,51 @@
                 -156276000
             ],
             "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/49741"
+        },
+        {
+            "event": "Granted",
+            "dates": [
+                -185306400
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53739"
         }
     ],
     "lower_court": null,
-    "facts_of_the_case": "",
-    "question": "",
-    "conclusion": "",
-    "advocates": null,
+    "facts_of_the_case": "<p>During Aaron Henry\u2019s trial for disturbing the peace, the State of Mississippi introduced testimony of a police officer who conducted an unlawful search of Henry\u2019s car.  Henry allegedly made indecent proposals and offensive contact when he gave a ride to a hitchhiker.  Henry\u2019s counsel failed to object to the testimony when it was entered into evidence as required by local rules.    Henry\u2019s counsel later objected to the testimony in a motion for directed verdict, but the court denied the motion and the jury found him guilty.  On appeal, the Mississippi Supreme Court held that the testimony was improperly admitted, and excused Henry\u2019s lack of objection because he was represented by out-of-state counsel, who were unfamiliar with the local rules of criminal procedure.  After this judgment, Mississippi filed a Suggestion of Error pointing out that Henry was represented by competent in state counsel as well as out of state counsel.  As a result, the Mississippi Supreme Court withdrew its first opinion and affirmed the conviction, holding that even honest mistakes are binding.<\/p>\n",
+    "question": "<p>Does Henry\u2019s conviction violate due process where it is based on evidence obtained in an illegal search, and that evidence was later objected to in a motion for directed verdict instead of at the time the evidence was introduced?<\/p>\n",
+    "conclusion": "<p>Maybe.  In a 5-4 decision, Justice William J. Brennan wrote the majority opinion, vacating the lower judgment and remanding the case.  The Supreme Court held that the Mississippi rule requiring contemporaneous objection to evidence serves a legitimate state interest, but the motion for directed verdict may also serve the same interest.  The Court remanded the case to consider whether Henry had knowingly waived his objection to the officer\u2019s testimony.<\/p>\n<p>Justice Hugo L. Black wrote a dissent, stating that the Supreme Court should decide the issue of waiver instead of remanding.  Justice John M. Harlan wrote a dissent, expressing that the Supreme Court should dismiss the case because the Mississippi Supreme Court ruled on adequate state law grounds to preclude the U.S. Supreme Court from reviewing the case.  Justice Tom C. Clark and Justice Potter Stewart joined the dissent.<\/p>\n",
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 17870,
+                "name": "Barbara A. Morris",
+                "href": "https:\/\/api.oyez.org\/people\/barbara_a_morris",
+                "view_count": 0,
+                "last_name": "Morris",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "barbara_a_morris"
+            },
+            "advocate_description": "for the petitioner",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21953"
+        },
+        {
+            "advocate": {
+                "ID": 25627,
+                "name": "G. Garland Lyell, Jr.",
+                "href": "https:\/\/api.oyez.org\/people\/g_garland_lyell_jr",
+                "view_count": 0,
+                "last_name": "Lyell,",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "g_garland_lyell_jr"
+            },
+            "advocate_description": "for the respondent",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21954"
+        }
+    ],
     "oral_argument_audio": [
         {
             "id": 14150,
@@ -52,6 +91,7 @@
                         "ID": 15097,
                         "name": "John M. Harlan II",
                         "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                        "view_count": 0,
                         "last_name": "Harlan",
                         "roles": [
                             {
@@ -69,7 +109,7 @@
                             "id": 32728,
                             "mime": "image\/png",
                             "size": 53784,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_m_harlan2\/john_m_harlan2.thumb.png"
                         },
                         "length_of_service": 6023,
                         "identifier": "john_m_harlan2"
@@ -86,6 +126,7 @@
                         "ID": 15089,
                         "name": "Hugo L. Black",
                         "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                        "view_count": 33,
                         "last_name": "Black",
                         "roles": [
                             {
@@ -103,7 +144,7 @@
                             "id": 32719,
                             "mime": "image\/png",
                             "size": 51667,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                         },
                         "length_of_service": 12447,
                         "identifier": "hugo_l_black"
@@ -120,6 +161,7 @@
                         "ID": 15107,
                         "name": "William O. Douglas",
                         "href": "https:\/\/api.oyez.org\/people\/william_o_douglas",
+                        "view_count": 0,
                         "last_name": "Douglas",
                         "roles": [
                             {
@@ -137,7 +179,7 @@
                             "id": 32781,
                             "mime": "image\/png",
                             "size": 56651,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_o_douglas.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_o_douglas\/william_o_douglas.thumb.png"
                         },
                         "length_of_service": 13358,
                         "identifier": "william_o_douglas"
@@ -154,6 +196,7 @@
                         "ID": 15043,
                         "name": "Potter Stewart",
                         "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                        "view_count": 31,
                         "last_name": "Stewart",
                         "roles": [
                             {
@@ -171,7 +214,7 @@
                             "id": 32752,
                             "mime": "image\/png",
                             "size": 56350,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                         },
                         "length_of_service": 8298,
                         "identifier": "potter_stewart"
@@ -183,6 +226,7 @@
                             "ID": 15097,
                             "name": "John M. Harlan II",
                             "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                            "view_count": 0,
                             "last_name": "Harlan",
                             "roles": [
                                 {
@@ -200,7 +244,7 @@
                                 "id": 32728,
                                 "mime": "image\/png",
                                 "size": 53784,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_m_harlan2\/john_m_harlan2.thumb.png"
                             },
                             "length_of_service": 6023,
                             "identifier": "john_m_harlan2"
@@ -215,6 +259,7 @@
                         "ID": 15140,
                         "name": "William J. Brennan, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                        "view_count": 28,
                         "last_name": "Brennan",
                         "roles": [
                             {
@@ -232,7 +277,7 @@
                             "id": 32778,
                             "mime": "image\/png",
                             "size": 56873,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                         },
                         "length_of_service": 12330,
                         "identifier": "william_j_brennan_jr"
@@ -249,6 +294,7 @@
                         "ID": 15071,
                         "name": "Byron R. White",
                         "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                        "view_count": 0,
                         "last_name": "White",
                         "roles": [
                             {
@@ -266,7 +312,7 @@
                             "id": 32699,
                             "mime": "image\/png",
                             "size": 55559,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                         },
                         "length_of_service": 11396,
                         "identifier": "byron_r_white"
@@ -283,6 +329,7 @@
                         "ID": 15099,
                         "name": "Earl Warren",
                         "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                        "view_count": 52,
                         "last_name": "Warren",
                         "roles": [
                             {
@@ -300,7 +347,7 @@
                             "id": 32704,
                             "mime": "image\/png",
                             "size": 50444,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                         },
                         "length_of_service": 5740,
                         "identifier": "earl_warren"
@@ -317,6 +364,7 @@
                         "ID": 15083,
                         "name": "Tom C. Clark",
                         "href": "https:\/\/api.oyez.org\/people\/tom_c_clark",
+                        "view_count": 0,
                         "last_name": "Clark",
                         "roles": [
                             {
@@ -334,7 +382,7 @@
                             "id": 32771,
                             "mime": "image\/png",
                             "size": 50879,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/tom_c_clark.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/tom_c_clark\/tom_c_clark.thumb.png"
                         },
                         "length_of_service": 6501,
                         "identifier": "tom_c_clark"
@@ -346,6 +394,7 @@
                             "ID": 15097,
                             "name": "John M. Harlan II",
                             "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                            "view_count": 0,
                             "last_name": "Harlan",
                             "roles": [
                                 {
@@ -363,7 +412,7 @@
                                 "id": 32728,
                                 "mime": "image\/png",
                                 "size": 53784,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_m_harlan2\/john_m_harlan2.thumb.png"
                             },
                             "length_of_service": 6023,
                             "identifier": "john_m_harlan2"
@@ -378,6 +427,7 @@
                         "ID": 15044,
                         "name": "Arthur J. Goldberg",
                         "href": "https:\/\/api.oyez.org\/people\/arthur_j_goldberg",
+                        "view_count": 30,
                         "last_name": "Goldberg",
                         "roles": [
                             {
@@ -395,7 +445,7 @@
                             "id": 32695,
                             "mime": "image\/png",
                             "size": 50285,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/arthur_j_goldberg.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/arthur_j_goldberg\/arthur_j_goldberg.thumb.png"
                         },
                         "length_of_service": 1028,
                         "identifier": "arthur_j_goldberg"
@@ -422,11 +472,13 @@
             "ID": 15292,
             "name": "Warren Court (1962-1965)",
             "href": "https:\/\/api.oyez.org\/courts\/warren11",
+            "view_count": 0,
             "members": [
                 {
                     "ID": 15099,
                     "name": "Earl Warren",
                     "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                    "view_count": 52,
                     "last_name": "Warren",
                     "roles": [
                         {
@@ -444,7 +496,7 @@
                         "id": 32704,
                         "mime": "image\/png",
                         "size": 50444,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                     },
                     "length_of_service": 5740,
                     "identifier": "earl_warren"
@@ -453,6 +505,7 @@
                     "ID": 15089,
                     "name": "Hugo L. Black",
                     "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                    "view_count": 33,
                     "last_name": "Black",
                     "roles": [
                         {
@@ -470,7 +523,7 @@
                         "id": 32719,
                         "mime": "image\/png",
                         "size": 51667,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                     },
                     "length_of_service": 12447,
                     "identifier": "hugo_l_black"
@@ -479,6 +532,7 @@
                     "ID": 15107,
                     "name": "William O. Douglas",
                     "href": "https:\/\/api.oyez.org\/people\/william_o_douglas",
+                    "view_count": 0,
                     "last_name": "Douglas",
                     "roles": [
                         {
@@ -496,7 +550,7 @@
                         "id": 32781,
                         "mime": "image\/png",
                         "size": 56651,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_o_douglas.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_o_douglas\/william_o_douglas.thumb.png"
                     },
                     "length_of_service": 13358,
                     "identifier": "william_o_douglas"
@@ -505,6 +559,7 @@
                     "ID": 15083,
                     "name": "Tom C. Clark",
                     "href": "https:\/\/api.oyez.org\/people\/tom_c_clark",
+                    "view_count": 0,
                     "last_name": "Clark",
                     "roles": [
                         {
@@ -522,7 +577,7 @@
                         "id": 32771,
                         "mime": "image\/png",
                         "size": 50879,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/tom_c_clark.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/tom_c_clark\/tom_c_clark.thumb.png"
                     },
                     "length_of_service": 6501,
                     "identifier": "tom_c_clark"
@@ -531,6 +586,7 @@
                     "ID": 15097,
                     "name": "John M. Harlan II",
                     "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                    "view_count": 0,
                     "last_name": "Harlan",
                     "roles": [
                         {
@@ -548,7 +604,7 @@
                         "id": 32728,
                         "mime": "image\/png",
                         "size": 53784,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_m_harlan2\/john_m_harlan2.thumb.png"
                     },
                     "length_of_service": 6023,
                     "identifier": "john_m_harlan2"
@@ -557,6 +613,7 @@
                     "ID": 15140,
                     "name": "William J. Brennan, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                    "view_count": 28,
                     "last_name": "Brennan",
                     "roles": [
                         {
@@ -574,7 +631,7 @@
                         "id": 32778,
                         "mime": "image\/png",
                         "size": 56873,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                     },
                     "length_of_service": 12330,
                     "identifier": "william_j_brennan_jr"
@@ -583,6 +640,7 @@
                     "ID": 15043,
                     "name": "Potter Stewart",
                     "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                    "view_count": 31,
                     "last_name": "Stewart",
                     "roles": [
                         {
@@ -600,7 +658,7 @@
                         "id": 32752,
                         "mime": "image\/png",
                         "size": 56350,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                     },
                     "length_of_service": 8298,
                     "identifier": "potter_stewart"
@@ -609,6 +667,7 @@
                     "ID": 15071,
                     "name": "Byron R. White",
                     "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                    "view_count": 0,
                     "last_name": "White",
                     "roles": [
                         {
@@ -626,7 +685,7 @@
                         "id": 32699,
                         "mime": "image\/png",
                         "size": 55559,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                     },
                     "length_of_service": 11396,
                     "identifier": "byron_r_white"
@@ -635,6 +694,7 @@
                     "ID": 15044,
                     "name": "Arthur J. Goldberg",
                     "href": "https:\/\/api.oyez.org\/people\/arthur_j_goldberg",
+                    "view_count": 30,
                     "last_name": "Goldberg",
                     "roles": [
                         {
@@ -652,7 +712,7 @@
                         "id": 32695,
                         "mime": "image\/png",
                         "size": 50285,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/arthur_j_goldberg.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/arthur_j_goldberg\/arthur_j_goldberg.thumb.png"
                     },
                     "length_of_service": 1028,
                     "identifier": "arthur_j_goldberg"
@@ -664,7 +724,7 @@
                     "id": 12261,
                     "mime": "image\/jpeg",
                     "size": 58247,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/warren_court_1962-1965.jpg"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/warren11.jpg"
                 }
             ],
             "identifier": "warren11"
@@ -674,11 +734,13 @@
         "ID": 15292,
         "name": "Warren Court (1962-1965)",
         "href": "https:\/\/api.oyez.org\/courts\/warren11",
+        "view_count": 0,
         "members": [
             {
                 "ID": 15099,
                 "name": "Earl Warren",
                 "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                "view_count": 52,
                 "last_name": "Warren",
                 "roles": [
                     {
@@ -696,7 +758,7 @@
                     "id": 32704,
                     "mime": "image\/png",
                     "size": 50444,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                 },
                 "length_of_service": 5740,
                 "identifier": "earl_warren"
@@ -705,6 +767,7 @@
                 "ID": 15089,
                 "name": "Hugo L. Black",
                 "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                "view_count": 33,
                 "last_name": "Black",
                 "roles": [
                     {
@@ -722,7 +785,7 @@
                     "id": 32719,
                     "mime": "image\/png",
                     "size": 51667,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                 },
                 "length_of_service": 12447,
                 "identifier": "hugo_l_black"
@@ -731,6 +794,7 @@
                 "ID": 15107,
                 "name": "William O. Douglas",
                 "href": "https:\/\/api.oyez.org\/people\/william_o_douglas",
+                "view_count": 0,
                 "last_name": "Douglas",
                 "roles": [
                     {
@@ -748,7 +812,7 @@
                     "id": 32781,
                     "mime": "image\/png",
                     "size": 56651,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_o_douglas.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_o_douglas\/william_o_douglas.thumb.png"
                 },
                 "length_of_service": 13358,
                 "identifier": "william_o_douglas"
@@ -757,6 +821,7 @@
                 "ID": 15083,
                 "name": "Tom C. Clark",
                 "href": "https:\/\/api.oyez.org\/people\/tom_c_clark",
+                "view_count": 0,
                 "last_name": "Clark",
                 "roles": [
                     {
@@ -774,7 +839,7 @@
                     "id": 32771,
                     "mime": "image\/png",
                     "size": 50879,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/tom_c_clark.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/tom_c_clark\/tom_c_clark.thumb.png"
                 },
                 "length_of_service": 6501,
                 "identifier": "tom_c_clark"
@@ -783,6 +848,7 @@
                 "ID": 15097,
                 "name": "John M. Harlan II",
                 "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                "view_count": 0,
                 "last_name": "Harlan",
                 "roles": [
                     {
@@ -800,7 +866,7 @@
                     "id": 32728,
                     "mime": "image\/png",
                     "size": 53784,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_m_harlan2\/john_m_harlan2.thumb.png"
                 },
                 "length_of_service": 6023,
                 "identifier": "john_m_harlan2"
@@ -809,6 +875,7 @@
                 "ID": 15140,
                 "name": "William J. Brennan, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                "view_count": 28,
                 "last_name": "Brennan",
                 "roles": [
                     {
@@ -826,7 +893,7 @@
                     "id": 32778,
                     "mime": "image\/png",
                     "size": 56873,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                 },
                 "length_of_service": 12330,
                 "identifier": "william_j_brennan_jr"
@@ -835,6 +902,7 @@
                 "ID": 15043,
                 "name": "Potter Stewart",
                 "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                "view_count": 31,
                 "last_name": "Stewart",
                 "roles": [
                     {
@@ -852,7 +920,7 @@
                     "id": 32752,
                     "mime": "image\/png",
                     "size": 56350,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                 },
                 "length_of_service": 8298,
                 "identifier": "potter_stewart"
@@ -861,6 +929,7 @@
                 "ID": 15071,
                 "name": "Byron R. White",
                 "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                "view_count": 0,
                 "last_name": "White",
                 "roles": [
                     {
@@ -878,7 +947,7 @@
                     "id": 32699,
                     "mime": "image\/png",
                     "size": 55559,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                 },
                 "length_of_service": 11396,
                 "identifier": "byron_r_white"
@@ -887,6 +956,7 @@
                 "ID": 15044,
                 "name": "Arthur J. Goldberg",
                 "href": "https:\/\/api.oyez.org\/people\/arthur_j_goldberg",
+                "view_count": 30,
                 "last_name": "Goldberg",
                 "roles": [
                     {
@@ -904,7 +974,7 @@
                     "id": 32695,
                     "mime": "image\/png",
                     "size": 50285,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/arthur_j_goldberg.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/arthur_j_goldberg\/arthur_j_goldberg.thumb.png"
                 },
                 "length_of_service": 1028,
                 "identifier": "arthur_j_goldberg"
@@ -916,13 +986,22 @@
                 "id": 12261,
                 "mime": "image\/jpeg",
                 "size": 58247,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/warren_court_1962-1965.jpg"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/warren11.jpg"
             }
         ],
         "identifier": "warren11"
     },
     "term": "1964",
-    "location": null,
+    "location": {
+        "latitude": 33.744076,
+        "longitude": -90.724766,
+        "name": "Point of picking up hitchhiker",
+        "street": null,
+        "city": "Cleveland",
+        "province": "MS",
+        "postal_code": null,
+        "province_name": "Mississippi"
+    },
     "opinion_announcement": null,
     "description": null,
     "written_opinion": null,

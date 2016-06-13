@@ -17,30 +17,31 @@
                         "byte_start": 0,
                         "byte_stop": 0,
                         "speaker": {
-                            "ID": 15086,
-                            "name": "John G. Roberts, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                            "last_name": "Roberts",
+                            "ID": 15049,
+                            "name": "Antonin Scalia",
+                            "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                            "view_count": 54,
+                            "last_name": "Scalia",
                             "roles": [
                                 {
-                                    "id": 2730,
+                                    "id": 2693,
                                     "type": "scotus_justice",
-                                    "date_start": 1127970000,
-                                    "date_end": 0,
-                                    "appointing_president": "George W. Bush",
-                                    "role_title": "Chief Justice of the United States",
+                                    "date_start": 528094800,
+                                    "date_end": 1455343200,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
-                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2693"
                                 }
                             ],
                             "thumbnail": {
-                                "id": 32683,
+                                "id": 32678,
                                 "mime": "image\/png",
-                                "size": 52305,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                                "size": 58944,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                             },
-                            "length_of_service": 3702,
-                            "identifier": "john_g_roberts_jr"
+                            "length_of_service": 10732,
+                            "identifier": "antonin_scalia"
                         },
                         "text_blocks": [
                             {
@@ -104,14 +105,14 @@
                                 "stop": 89,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "It\u0027s hard to come up with a clearer way to limit tax credits to state exchanges then to use the words \u0022established by the State.\u0022"
+                                "text": "It's hard to come up with a clearer way to limit tax credits to state exchanges then to use the words \"established by the State.\""
                             },
                             {
                                 "start": 89,
                                 "stop": 96.912,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "And it\u0027s hard to come up with a reason to use those words other than the purpose of limiting credits to state exchanges."
+                                "text": "And it's hard to come up with a reason to use those words other than the purpose of limiting credits to state exchanges."
                             },
                             {
                                 "start": 96.912,
@@ -153,7 +154,7 @@
                                 "stop": 145.213,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "The phrase \u0022established by the State\u0022 appears twice in the tax credit provision we interpret today."
+                                "text": "The phrase \"established by the State\" appears twice in the tax credit provision we interpret today."
                             },
                             {
                                 "start": 145.213,
@@ -174,14 +175,14 @@
                                 "stop": 171.117,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "In addition, some of the law\u0027s provisions use the general term exchange, while others use the more limited term exchange established by the State."
+                                "text": "In addition, some of the law's provisions use the general term exchange, while others use the more limited term exchange established by the State."
                             },
                             {
                                 "start": 171.117,
                                 "stop": 181.033,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "It\u0027s common sense that someone who says exchange some of the time, but exchange established by the State other times means something by the contrast."
+                                "text": "It's common sense that someone who says exchange some of the time, but exchange established by the State other times means something by the contrast."
                             },
                             {
                                 "start": 181.033,
@@ -216,7 +217,7 @@
                                 "stop": 237.143,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "The Court asks us to believe that the effect of the word \u0022such\u0022 is to make a federal exchange a state exchange."
+                                "text": "The Court asks us to believe that the effect of the word \"such\" is to make a federal exchange a state exchange."
                             },
                             {
                                 "start": 237.143,
@@ -237,7 +238,7 @@
                                 "stop": 277.3,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "Would anybody say that the word \u0022such\u0022 means that when Congress makes election regulations they are regulations prescribed by the state legislature?"
+                                "text": "Would anybody say that the word \"such\" means that when Congress makes election regulations they are regulations prescribed by the state legislature?"
                             },
                             {
                                 "start": 277.3,
@@ -265,7 +266,7 @@
                                 "stop": 341.556,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "Least convincing of all, however, is the Court\u0027s observation that the phrase \u0022established by the State\u0022 appears in the formula for calculating the amount of the credit and not in the provision delineating which taxpayers are eligible for the credit."
+                                "text": "Least convincing of all, however, is the Court's observation that the phrase \"established by the State\" appears in the formula for calculating the amount of the credit and not in the provision delineating which taxpayers are eligible for the credit."
                             },
                             {
                                 "start": 341.556,
@@ -286,7 +287,7 @@
                                 "stop": 363.585,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "The Court claims that its interpretation advances the Affordable Care Act\u0027s purpose of improving health insurance markets."
+                                "text": "The Court claims that its interpretation advances the Affordable Care Act's purpose of improving health insurance markets."
                             },
                             {
                                 "start": 363.585,
@@ -300,7 +301,7 @@
                                 "stop": 388.782,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "The law\u0027s purposes matter, however, only to the extent that they shed light upon an otherwise unclear provision."
+                                "text": "The law's purposes matter, however, only to the extent that they shed light upon an otherwise unclear provision."
                             },
                             {
                                 "start": 388.782,
@@ -314,7 +315,7 @@
                                 "stop": 402.702,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "If the Court\u0027s grim economic forecast is accurate, it would show only that the Affordable Care Act contains a flaw."
+                                "text": "If the Court's grim economic forecast is accurate, it would show only that the Affordable Care Act contains a flaw."
                             },
                             {
                                 "start": 402.702,
@@ -342,7 +343,7 @@
                                 "stop": 445.687,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "The Court\u0027s interpretation disserves that purpose, because a state would have little reason to undertake the enormous financial and administrative burden of setting up an exchange if its citizens could receive tax credits no matter who establishes the exchange."
+                                "text": "The Court's interpretation disserves that purpose, because a state would have little reason to undertake the enormous financial and administrative burden of setting up an exchange if its citizens could receive tax credits no matter who establishes the exchange."
                             },
                             {
                                 "start": 445.687,
@@ -363,14 +364,14 @@
                                 "stop": 476.629,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "Finally, the Court tries to palm off the words \u0022by the State\u0022 as a drafting error, but this Court has no free-floating power to rescue Congress from its drafting mistakes."
+                                "text": "Finally, the Court tries to palm off the words \"by the State\" as a drafting error, but this Court has no free-floating power to rescue Congress from its drafting mistakes."
                             },
                             {
                                 "start": 476.629,
                                 "stop": 486.117,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "Let us not forget, moreover, that \u0022exchange established by the State\u0022 appears in seven provisions of the Act that mention tax credits."
+                                "text": "Let us not forget, moreover, that \"exchange established by the State\" appears in seven provisions of the Act that mention tax credits."
                             },
                             {
                                 "start": 486.117,
@@ -391,21 +392,21 @@
                                 "stop": 520.674,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "Today\u0027s decision reflects the philosophy that judges should endure whatever interpretive distortions it takes in order to correct a supposed flaw in the statutory machinery."
+                                "text": "Today's decision reflects the philosophy that judges should endure whatever interpretive distortions it takes in order to correct a supposed flaw in the statutory machinery."
                             },
                             {
                                 "start": 520.674,
                                 "stop": 528.175,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "But it is Congress\u0027 responsibility to make laws, and this Court\u0027s responsibility only to interpret them."
+                                "text": "But it is Congress' responsibility to make laws, and this Court's responsibility only to interpret them."
                             },
                             {
                                 "start": 528.175,
                                 "stop": 540.59,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "It is up to our country\u0027s elected lawmakers, not its unelected judges, to repair statutes that have unintended consequences, or that do not work out in practice."
+                                "text": "It is up to our country's elected lawmakers, not its unelected judges, to repair statutes that have unintended consequences, or that do not work out in practice."
                             },
                             {
                                 "start": 540.59,
@@ -426,7 +427,7 @@
                                 "stop": 576.805,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "Today\u0027s decision changes the usual rules of statutory interpretation for the sake of the Affordable Care Act."
+                                "text": "Today's decision changes the usual rules of statutory interpretation for the sake of the Affordable Care Act."
                             },
                             {
                                 "start": 576.805,
@@ -454,7 +455,7 @@
                                 "stop": 612.382,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "The Court saw that this part of the Act exceeded Congress\u0027 powers under the Commerce Clause, so it rewrote the penalty as a tax."
+                                "text": "The Court saw that this part of the Act exceeded Congress' powers under the Commerce Clause, so it rewrote the penalty as a tax."
                             },
                             {
                                 "start": 612.382,
@@ -510,7 +511,7 @@
                                 "stop": 686.412,
                                 "byte_start": 0,
                                 "byte_stop": 0,
-                                "text": "But this Court\u0027s two decisions concerning the Act will surely be remembered through the years."
+                                "text": "But this Court's two decisions concerning the Act will surely be remembered through the years."
                             },
                             {
                                 "start": 686.412,

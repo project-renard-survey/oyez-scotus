@@ -36,16 +36,7 @@
                         "stop": 7.493,
                         "byte_start": 103424,
                         "byte_stop": 133413,
-                        "speaker": {
-                            "ID": 20391,
-                            "name": "Chief Justic Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/chief_justic_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "chief_justic_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 0,
@@ -80,6 +71,7 @@
                             "ID": 34359,
                             "name": "Leon B. Douglas",
                             "href": "https:\/\/api.oyez.org\/people\/leon_b_douglas",
+                            "view_count": 0,
                             "last_name": "Douglas",
                             "roles": null,
                             "thumbnail": null,
@@ -116,16 +108,7 @@
                         "stop": 21.575,
                         "byte_start": 162356,
                         "byte_stop": 189733,
-                        "speaker": {
-                            "ID": 20391,
-                            "name": "Chief Justic Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/chief_justic_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "chief_justic_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 14.717,
@@ -153,6 +136,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -178,6 +162,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -195,7 +180,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -248,6 +233,7 @@
                             "ID": 34359,
                             "name": "Leon B. Douglas",
                             "href": "https:\/\/api.oyez.org\/people\/leon_b_douglas",
+                            "view_count": 0,
                             "last_name": "Douglas",
                             "roles": null,
                             "thumbnail": null,
@@ -280,6 +266,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -297,7 +284,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -321,6 +308,7 @@
                             "ID": 34359,
                             "name": "Leon B. Douglas",
                             "href": "https:\/\/api.oyez.org\/people\/leon_b_douglas",
+                            "view_count": 0,
                             "last_name": "Douglas",
                             "roles": null,
                             "thumbnail": null,
@@ -346,6 +334,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -363,7 +352,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -387,6 +376,7 @@
                             "ID": 34359,
                             "name": "Leon B. Douglas",
                             "href": "https:\/\/api.oyez.org\/people\/leon_b_douglas",
+                            "view_count": 0,
                             "last_name": "Douglas",
                             "roles": null,
                             "thumbnail": null,
@@ -412,6 +402,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -429,7 +420,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -453,6 +444,7 @@
                             "ID": 34359,
                             "name": "Leon B. Douglas",
                             "href": "https:\/\/api.oyez.org\/people\/leon_b_douglas",
+                            "view_count": 0,
                             "last_name": "Douglas",
                             "roles": null,
                             "thumbnail": null,
@@ -478,6 +470,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -495,7 +488,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -536,7 +529,7 @@
                                 "stop": 145.963,
                                 "byte_start": 570284,
                                 "byte_stop": 687313,
-                                "text": "It doesn\u0027t apply directly to our case but before January 1, 1966, in non-capital case such as we have in Bell, can a defendant, by admitting his prior conviction, prevent the jury from getting the hearing indictment and getting information that he is a former convict?"
+                                "text": "It doesn't apply directly to our case but before January 1, 1966, in non-capital case such as we have in Bell, can a defendant, by admitting his prior conviction, prevent the jury from getting the hearing indictment and getting information that he is a former convict?"
                             }
                         ]
                     },
@@ -549,6 +542,7 @@
                             "ID": 34359,
                             "name": "Leon B. Douglas",
                             "href": "https:\/\/api.oyez.org\/people\/leon_b_douglas",
+                            "view_count": 0,
                             "last_name": "Douglas",
                             "roles": null,
                             "thumbnail": null,
@@ -589,14 +583,14 @@
                                 "stop": 178.272,
                                 "byte_start": 762755,
                                 "byte_stop": 816567,
-                                "text": "And there is cases saying that you can\u0027t stipulate and prevent it being going to the jury but the Ross case and the Sams case cited by Mr. Scott in the first case yesterday indicates perhaps you cannot."
+                                "text": "And there is cases saying that you can't stipulate and prevent it being going to the jury but the Ross case and the Sams case cited by Mr. Scott in the first case yesterday indicates perhaps you cannot."
                             },
                             {
                                 "start": 178.272,
                                 "stop": 181.046,
                                 "byte_start": 816567,
                                 "byte_stop": 827643,
-                                "text": "There is a conflict in the Court\u0027s decisions, Your Honor."
+                                "text": "There is a conflict in the Court's decisions, Your Honor."
                             }
                         ]
                     },
@@ -625,6 +619,7 @@
                             "ID": 34359,
                             "name": "Leon B. Douglas",
                             "href": "https:\/\/api.oyez.org\/people\/leon_b_douglas",
+                            "view_count": 0,
                             "last_name": "Douglas",
                             "roles": null,
                             "thumbnail": null,
@@ -637,7 +632,7 @@
                                 "stop": 213.925,
                                 "byte_start": 924505,
                                 "byte_stop": 959195,
-                                "text": "Your Honor, I would have to \u2013 depending upon the Court of Criminal of Appeal\u0027s holding, I\u2018d have to say that I don\u0027t know what they would hold on there."
+                                "text": "Your Honor, I would have to \u2013 depending upon the Court of Criminal of Appeal's holding, I\u2018d have to say that I don't know what they would hold on there."
                             },
                             {
                                 "start": 213.925,
@@ -651,7 +646,7 @@
                                 "stop": 229.508,
                                 "byte_start": 973197,
                                 "byte_stop": 1021471,
-                                "text": "I\u0027d think that if it was pushed, the Court would permit the stipulation of the prior convictions and require no proof or reading of the indictment."
+                                "text": "I'd think that if it was pushed, the Court would permit the stipulation of the prior convictions and require no proof or reading of the indictment."
                             }
                         ]
                     },
@@ -667,7 +662,7 @@
                                 "stop": 234.608,
                                 "byte_start": 1021471,
                                 "byte_stop": 1041951,
-                                "text": "Within the question of requiring, that\u0027s a question of permitting it seems to me."
+                                "text": "Within the question of requiring, that's a question of permitting it seems to me."
                             }
                         ]
                     },
@@ -680,6 +675,7 @@
                             "ID": 34359,
                             "name": "Leon B. Douglas",
                             "href": "https:\/\/api.oyez.org\/people\/leon_b_douglas",
+                            "view_count": 0,
                             "last_name": "Douglas",
                             "roles": null,
                             "thumbnail": null,
@@ -708,7 +704,7 @@
                                 "stop": 252.725,
                                 "byte_start": 1053341,
                                 "byte_stop": 1114363,
-                                "text": "Well, how are we to consider the Texas Law as our \u2013 in State matters where we\u0027re suppose to accept the law of the State as interpreted, what are we going to accept?"
+                                "text": "Well, how are we to consider the Texas Law as our \u2013 in State matters where we're suppose to accept the law of the State as interpreted, what are we going to accept?"
                             }
                         ]
                     },
@@ -721,6 +717,7 @@
                             "ID": 34359,
                             "name": "Leon B. Douglas",
                             "href": "https:\/\/api.oyez.org\/people\/leon_b_douglas",
+                            "view_count": 0,
                             "last_name": "Douglas",
                             "roles": null,
                             "thumbnail": null,
@@ -756,7 +753,7 @@
                                 "stop": 262.957,
                                 "byte_start": 1142888,
                                 "byte_stop": 1155323,
-                                "text": "The Ross is pretty unequivocal, isn\u0027t it?"
+                                "text": "The Ross is pretty unequivocal, isn't it?"
                             }
                         ]
                     },
@@ -769,6 +766,7 @@
                             "ID": 34359,
                             "name": "Leon B. Douglas",
                             "href": "https:\/\/api.oyez.org\/people\/leon_b_douglas",
+                            "view_count": 0,
                             "last_name": "Douglas",
                             "roles": null,
                             "thumbnail": null,
@@ -810,6 +808,7 @@
                             "ID": 34359,
                             "name": "Leon B. Douglas",
                             "href": "https:\/\/api.oyez.org\/people\/leon_b_douglas",
+                            "view_count": 0,
                             "last_name": "Douglas",
                             "roles": null,
                             "thumbnail": null,
@@ -839,16 +838,7 @@
                         "stop": 285.949,
                         "byte_start": 1177161,
                         "byte_stop": 1247274,
-                        "speaker": {
-                            "ID": 20391,
-                            "name": "Chief Justic Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/chief_justic_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "chief_justic_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 268.433,
@@ -862,7 +852,7 @@
                                 "stop": 285.949,
                                 "byte_start": 1189700,
                                 "byte_stop": 1247274,
-                                "text": "Have they been doing this in Texas prior to January 1, 1966 printing the prior convictions before the bar despite the admission of them, by defendant prior to trial?\u0027"
+                                "text": "Have they been doing this in Texas prior to January 1, 1966 printing the prior convictions before the bar despite the admission of them, by defendant prior to trial?'"
                             }
                         ]
                     }
@@ -883,6 +873,7 @@
                             "ID": 34359,
                             "name": "Leon B. Douglas",
                             "href": "https:\/\/api.oyez.org\/people\/leon_b_douglas",
+                            "view_count": 0,
                             "last_name": "Douglas",
                             "roles": null,
                             "thumbnail": null,
@@ -919,16 +910,7 @@
                         "stop": 303.187,
                         "byte_start": 1300773,
                         "byte_stop": 1316237,
-                        "speaker": {
-                            "ID": 20391,
-                            "name": "Chief Justic Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/chief_justic_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "chief_justic_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 299.324,
@@ -956,6 +938,7 @@
                             "ID": 34359,
                             "name": "Leon B. Douglas",
                             "href": "https:\/\/api.oyez.org\/people\/leon_b_douglas",
+                            "view_count": 0,
                             "last_name": "Douglas",
                             "roles": null,
                             "thumbnail": null,
@@ -985,16 +968,7 @@
                         "stop": 311.227,
                         "byte_start": 1336195,
                         "byte_stop": 1348420,
-                        "speaker": {
-                            "ID": 20391,
-                            "name": "Chief Justic Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/chief_justic_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "chief_justic_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 308.173,
@@ -1021,6 +995,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -1038,7 +1013,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -1077,6 +1052,7 @@
                             "ID": 34359,
                             "name": "Leon B. Douglas",
                             "href": "https:\/\/api.oyez.org\/people\/leon_b_douglas",
+                            "view_count": 0,
                             "last_name": "Douglas",
                             "roles": null,
                             "thumbnail": null,
@@ -1102,6 +1078,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -1119,7 +1096,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -1130,7 +1107,7 @@
                                 "stop": 344.194,
                                 "byte_start": 1443819,
                                 "byte_stop": 1480286,
-                                "text": "Where there was a stipulation, was it customary for you to require the prior convictions to be mentioned on the judges\u0027 charge to the jury?"
+                                "text": "Where there was a stipulation, was it customary for you to require the prior convictions to be mentioned on the judges' charge to the jury?"
                             }
                         ]
                     },
@@ -1143,6 +1120,7 @@
                             "ID": 34359,
                             "name": "Leon B. Douglas",
                             "href": "https:\/\/api.oyez.org\/people\/leon_b_douglas",
+                            "view_count": 0,
                             "last_name": "Douglas",
                             "roles": null,
                             "thumbnail": null,
@@ -1168,6 +1146,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -1185,7 +1164,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -1209,6 +1188,7 @@
                             "ID": 34359,
                             "name": "Leon B. Douglas",
                             "href": "https:\/\/api.oyez.org\/people\/leon_b_douglas",
+                            "view_count": 0,
                             "last_name": "Douglas",
                             "roles": null,
                             "thumbnail": null,
@@ -1255,6 +1235,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -1272,7 +1253,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -1300,16 +1281,7 @@
                         "stop": 391.394,
                         "byte_start": 1656456,
                         "byte_stop": 1669099,
-                        "speaker": {
-                            "ID": 20391,
-                            "name": "Chief Justic Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/chief_justic_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "chief_justic_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 388.233,
@@ -1337,6 +1309,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -1363,7 +1336,7 @@
                                 "stop": 410.001,
                                 "byte_start": 1718627,
                                 "byte_stop": 1743496,
-                                "text": "What we\u0027re dealing with is, does this man have the right to a fair and impartial trial before a fair and impartial jury?"
+                                "text": "What we're dealing with is, does this man have the right to a fair and impartial trial before a fair and impartial jury?"
                             },
                             {
                                 "start": 410.001,
@@ -1384,7 +1357,7 @@
                                 "stop": 448.326,
                                 "byte_start": 1876616,
                                 "byte_stop": 1896782,
-                                "text": "And it\u0027s not a -- particularly a question of whether this being an evidence should be admitted or not."
+                                "text": "And it's not a -- particularly a question of whether this being an evidence should be admitted or not."
                             },
                             {
                                 "start": 448.326,
@@ -1446,6 +1419,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1463,7 +1437,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -1494,6 +1468,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -1513,7 +1488,7 @@
                                 "stop": 545.701,
                                 "byte_start": 2237001,
                                 "byte_stop": 2286320,
-                                "text": "I believe that, Mr. Fortas, this Court and the Constitution is concerned, perhaps, it would be a lawful State matter to take up man\u0027s pass record to apply to what punishment society should inflict on him."
+                                "text": "I believe that, Mr. Fortas, this Court and the Constitution is concerned, perhaps, it would be a lawful State matter to take up man's pass record to apply to what punishment society should inflict on him."
                             }
                         ]
                     }
@@ -1530,16 +1505,7 @@
                         "stop": 547.382,
                         "byte_start": 2286320,
                         "byte_stop": 2293008,
-                        "speaker": {
-                            "ID": 20391,
-                            "name": "Chief Justic Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/chief_justic_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "chief_justic_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 545.701,
@@ -1567,6 +1533,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -1592,6 +1559,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1609,7 +1577,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -1620,14 +1588,14 @@
                                 "stop": 565.21,
                                 "byte_start": 2312234,
                                 "byte_stop": 2364270,
-                                "text": "Well, if that\u0027s true, then what would be the words of Chief Judge Vegas that you just read to us if -- wouldn\u0027t they have equal meaning in that kind of situation?"
+                                "text": "Well, if that's true, then what would be the words of Chief Judge Vegas that you just read to us if -- wouldn't they have equal meaning in that kind of situation?"
                             },
                             {
                                 "start": 565.21,
                                 "stop": 589.873,
                                 "byte_start": 2364270,
                                 "byte_stop": 2463013,
-                                "text": "Because it\u0027s there that we\u0027d be talking about the count, the death penalty as he talks about and that the jury in deciding whether or not will impose a life sentence or a death sentence, which is I understand it under the Texas law is the only alternative in the cases of prior -- second prosecution for malicious murder or whatever you call it."
+                                "text": "Because it's there that we'd be talking about the count, the death penalty as he talks about and that the jury in deciding whether or not will impose a life sentence or a death sentence, which is I understand it under the Texas law is the only alternative in the cases of prior -- second prosecution for malicious murder or whatever you call it."
                             },
                             {
                                 "start": 589.873,
@@ -1647,6 +1615,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -1666,28 +1635,28 @@
                                 "stop": 607.723,
                                 "byte_start": 2521527,
                                 "byte_stop": 2534379,
-                                "text": "Once you are dead and the State has executed this man, it\u0027s over."
+                                "text": "Once you are dead and the State has executed this man, it's over."
                             },
                             {
                                 "start": 607.723,
                                 "stop": 616.992,
                                 "byte_start": 2534379,
                                 "byte_stop": 2571473,
-                                "text": "And as far as the infliction of the death penalty itself, had taken another man\u0027s life away uplifted, it should be done on the basis of the severity of the charged crime."
+                                "text": "And as far as the infliction of the death penalty itself, had taken another man's life away uplifted, it should be done on the basis of the severity of the charged crime."
                             },
                             {
                                 "start": 616.992,
                                 "stop": 633.877,
                                 "byte_start": 2571473,
                                 "byte_stop": 2638973,
-                                "text": "But as the general proposition as to State\u0027s right to inflict a heavier punishment less than death for the repetition of crime not connected in -- prejudicing the jury on the question of guilt of innocence, that\u0027s a different matter."
+                                "text": "But as the general proposition as to State's right to inflict a heavier punishment less than death for the repetition of crime not connected in -- prejudicing the jury on the question of guilt of innocence, that's a different matter."
                             },
                             {
                                 "start": 633.877,
                                 "stop": 638.749,
                                 "byte_start": 2638973,
                                 "byte_stop": 2658513,
-                                "text": "And that\u0027s where our draw that distinctions perhaps of law without having to be truthful with the Court."
+                                "text": "And that's where our draw that distinctions perhaps of law without having to be truthful with the Court."
                             }
                         ]
                     },
@@ -1700,6 +1669,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1717,7 +1687,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -1728,7 +1698,7 @@
                                 "stop": 643.835,
                                 "byte_start": 2658513,
                                 "byte_stop": 2678784,
-                                "text": "I must appreciate that but I don\u0027t -- no, I don\u0027t\u0027 really understand."
+                                "text": "I must appreciate that but I don't -- no, I don't' really understand."
                             },
                             {
                                 "start": 643.835,
@@ -1748,6 +1718,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -1767,7 +1738,7 @@
                                 "stop": 654.231,
                                 "byte_start": 2690382,
                                 "byte_stop": 2720371,
-                                "text": "What I\u0027m attempting to say is that I believe personally that when the death penalty can be inflicted that you should even asked to the punishment."
+                                "text": "What I'm attempting to say is that I believe personally that when the death penalty can be inflicted that you should even asked to the punishment."
                             },
                             {
                                 "start": 654.231,
@@ -1781,7 +1752,7 @@
                                 "stop": 665.664,
                                 "byte_start": 2735940,
                                 "byte_stop": 2766137,
-                                "text": "But if you are going to take another man\u0027s life away, it should be done on the basis of the charged crime - as to his guilt or innocence and as to his punishment."
+                                "text": "But if you are going to take another man's life away, it should be done on the basis of the charged crime - as to his guilt or innocence and as to his punishment."
                             }
                         ]
                     },
@@ -1794,6 +1765,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1811,7 +1783,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -1835,6 +1807,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -1864,23 +1837,14 @@
                         "stop": 699.381,
                         "byte_start": 2839280,
                         "byte_stop": 2901034,
-                        "speaker": {
-                            "ID": 20391,
-                            "name": "Chief Justic Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/chief_justic_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "chief_justic_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 683.942,
                                 "stop": 699.381,
                                 "byte_start": 2839280,
                                 "byte_stop": 2901034,
-                                "text": "Do we take that from you that a case where the judge and not the jury has the power assigned to jury to exclude the judges\u0027 consideration (Inaudible)."
+                                "text": "Do we take that from you that a case where the judge and not the jury has the power assigned to jury to exclude the judges' consideration (Inaudible)."
                             }
                         ]
                     }
@@ -1901,6 +1865,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -1930,16 +1895,7 @@
                         "stop": 704.546,
                         "byte_start": 2906154,
                         "byte_stop": 2921618,
-                        "speaker": {
-                            "ID": 20391,
-                            "name": "Chief Justic Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/chief_justic_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "chief_justic_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 700.659,
@@ -1967,6 +1923,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -1979,7 +1936,7 @@
                                 "stop": 706.905,
                                 "byte_start": 2921618,
                                 "byte_stop": 2931127,
-                                "text": "Well, in the State of Texas, it\u0027s only a jury can inflict a death penalty."
+                                "text": "Well, in the State of Texas, it's only a jury can inflict a death penalty."
                             }
                         ]
                     }
@@ -1996,16 +1953,7 @@
                         "stop": 716.695,
                         "byte_start": 2931127,
                         "byte_stop": 2970206,
-                        "speaker": {
-                            "ID": 20391,
-                            "name": "Chief Justic Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/chief_justic_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "chief_justic_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 706.905,
@@ -2040,6 +1988,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -2052,7 +2001,7 @@
                                 "stop": 729.902,
                                 "byte_start": 2970206,
                                 "byte_stop": 3023078,
-                                "text": "Perhaps, it\u0027s good because even a judge, I believe, it would be impossible for him to set aside this for the purpose of determining what the punishment should be in the instant case."
+                                "text": "Perhaps, it's good because even a judge, I believe, it would be impossible for him to set aside this for the purpose of determining what the punishment should be in the instant case."
                             }
                         ]
                     },
@@ -2081,6 +2030,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -2116,7 +2066,7 @@
                                 "stop": 747.302,
                                 "byte_start": 3082010,
                                 "byte_stop": 3092668,
-                                "text": "As to whatever is that, it\u0027s inadmissible."
+                                "text": "As to whatever is that, it's inadmissible."
                             },
                             {
                                 "start": 747.302,
@@ -2143,6 +2093,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -2162,7 +2113,7 @@
                                 "stop": 775.511,
                                 "byte_start": 3177305,
                                 "byte_stop": 3205517,
-                                "text": "My argument today, we\u0027re talking about the policy question that you just asked me or we\u0027re talking about the case of Leon Spencer in --"
+                                "text": "My argument today, we're talking about the policy question that you just asked me or we're talking about the case of Leon Spencer in --"
                             }
                         ]
                     },
@@ -2191,6 +2142,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -2210,7 +2162,7 @@
                                 "stop": 793.538,
                                 "byte_start": 3244701,
                                 "byte_stop": 3277615,
-                                "text": "As to the question of the man\u0027s guilt or innocence on the main trial, I think there should be no distinction whatsoever."
+                                "text": "As to the question of the man's guilt or innocence on the main trial, I think there should be no distinction whatsoever."
                             }
                         ]
                     },
@@ -2239,6 +2191,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -2275,23 +2228,14 @@
                         "stop": 802.568,
                         "byte_start": 3307081,
                         "byte_stop": 3313768,
-                        "speaker": {
-                            "ID": 20391,
-                            "name": "Chief Justic Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/chief_justic_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "chief_justic_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 800.896,
                                 "stop": 802.568,
                                 "byte_start": 3307081,
                                 "byte_stop": 3313768,
-                                "text": "It\u0027s alright, you just complete your answer, please."
+                                "text": "It's alright, you just complete your answer, please."
                             }
                         ]
                     }
@@ -2312,6 +2256,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -2331,7 +2276,7 @@
                                 "stop": 829.038,
                                 "byte_start": 3369044,
                                 "byte_stop": 3419617,
-                                "text": "And, I believe this is encouraged here because of the accumulation of all the admissibility of this evidence that Courts thereafter argues previously said, why it\u0027s too heavily on deciding a man\u0027s guilt or innocence based on the primary jeopardy."
+                                "text": "And, I believe this is encouraged here because of the accumulation of all the admissibility of this evidence that Courts thereafter argues previously said, why it's too heavily on deciding a man's guilt or innocence based on the primary jeopardy."
                             }
                         ]
                     },
@@ -2347,7 +2292,7 @@
                                 "stop": 831.885,
                                 "byte_start": 3419617,
                                 "byte_stop": 3431006,
-                                "text": "Well, there wasn\u0027t an accumulation in this Spencer case, was it?"
+                                "text": "Well, there wasn't an accumulation in this Spencer case, was it?"
                             }
                         ]
                     },
@@ -2360,6 +2305,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -2408,6 +2354,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -2420,7 +2367,7 @@
                                 "stop": 855.416,
                                 "byte_start": 3449396,
                                 "byte_stop": 3525151,
-                                "text": "He\u0027d been convicted of one crime before but this \u2013 the evidence of this one kind came in from the very beginning in the voir dire to the judges charged in, certified copies of the record plus two live witnesses to testify on this the same man who sit on the same chair and who was convicted by another jury in the same jury about 15 years before."
+                                "text": "He'd been convicted of one crime before but this \u2013 the evidence of this one kind came in from the very beginning in the voir dire to the judges charged in, certified copies of the record plus two live witnesses to testify on this the same man who sit on the same chair and who was convicted by another jury in the same jury about 15 years before."
                             }
                         ]
                     },
@@ -2449,6 +2396,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -2461,7 +2409,7 @@
                                 "stop": 857.531,
                                 "byte_start": 3528913,
                                 "byte_stop": 3533615,
-                                "text": "Yes, sir, it\u0027s right."
+                                "text": "Yes, sir, it's right."
                             },
                             {
                                 "start": 857.531,
@@ -2485,16 +2433,7 @@
                         "stop": 872.679,
                         "byte_start": 3546676,
                         "byte_stop": 3594219,
-                        "speaker": {
-                            "ID": 20391,
-                            "name": "Chief Justic Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/chief_justic_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "chief_justic_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 860.791,
@@ -2522,6 +2461,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -2534,7 +2474,7 @@
                                 "stop": 874.097,
                                 "byte_start": 3594219,
                                 "byte_stop": 3599862,
-                                "text": "That\u0027s right, sir--"
+                                "text": "That's right, sir--"
                             }
                         ]
                     }
@@ -2551,16 +2491,7 @@
                         "stop": 878.455,
                         "byte_start": 3599862,
                         "byte_stop": 3617311,
-                        "speaker": {
-                            "ID": 20391,
-                            "name": "Chief Justic Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/chief_justic_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "chief_justic_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 874.097,
@@ -2588,6 +2519,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -2600,14 +2532,14 @@
                                 "stop": 880.271,
                                 "byte_start": 3617311,
                                 "byte_stop": 3624521,
-                                "text": "Well, I\u0027m sorry."
+                                "text": "Well, I'm sorry."
                             },
                             {
                                 "start": 880.271,
                                 "stop": 888.979,
                                 "byte_start": 3624521,
                                 "byte_stop": 3659421,
-                                "text": "Voir dire, the State\u0027s position was explained to the jury \u2013 they did not say it is a fact but they said it\u0027s our opinion that the evidence would show this and therefore he has punishment."
+                                "text": "Voir dire, the State's position was explained to the jury \u2013 they did not say it is a fact but they said it's our opinion that the evidence would show this and therefore he has punishment."
                             },
                             {
                                 "start": 888.979,
@@ -2621,7 +2553,7 @@
                                 "stop": 903.03,
                                 "byte_start": 3685961,
                                 "byte_stop": 3715636,
-                                "text": "A certified copy of the previous indictment along with the jury\u0027s verdict, along with the judgment of the court sentencing the man, was introduced."
+                                "text": "A certified copy of the previous indictment along with the jury's verdict, along with the judgment of the court sentencing the man, was introduced."
                             }
                         ]
                     },
@@ -2634,6 +2566,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -2651,7 +2584,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -2675,6 +2608,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -2700,6 +2634,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -2717,7 +2652,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -2741,6 +2676,7 @@
                             "ID": 36381,
                             "name": "Michael D. Matheny",
                             "href": "https:\/\/api.oyez.org\/people\/michael_d_matheny",
+                            "view_count": 0,
                             "last_name": "Matheny",
                             "roles": null,
                             "thumbnail": null,
@@ -2784,30 +2720,21 @@
                         "stop": 1007.289,
                         "byte_start": 3892537,
                         "byte_stop": 4132655,
-                        "speaker": {
-                            "ID": 20391,
-                            "name": "Chief Justic Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/chief_justic_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "chief_justic_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 947.27,
                                 "stop": 969.192,
                                 "byte_start": 3892537,
                                 "byte_stop": 3980204,
-                                "text": "Mr. Martini, Mr. Fortas concepts of the fact that you\u0027re representing this man by assignment of this Court because he is indigent and is without a lawyer and we consider that a real public servant and we appreciate it very much."
+                                "text": "Mr. Martini, Mr. Fortas concepts of the fact that you're representing this man by assignment of this Court because he is indigent and is without a lawyer and we consider that a real public servant and we appreciate it very much."
                             },
                             {
                                 "start": 969.192,
                                 "stop": 984.386,
                                 "byte_start": 3980204,
                                 "byte_stop": 4041017,
-                                "text": "And Mr. Douglas, we appreciate the furbish manner in which you have protected the rights of the people of the State of Texas and we\u0027re pleased to call on your appearances."
+                                "text": "And Mr. Douglas, we appreciate the furbish manner in which you have protected the rights of the people of the State of Texas and we're pleased to call on your appearances."
                             },
                             {
                                 "start": 984.386,
@@ -2842,6 +2769,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -2924,7 +2852,7 @@
                                 "stop": 1116.917,
                                 "byte_start": 4533060,
                                 "byte_stop": 4571094,
-                                "text": "And, I\u0027m too quite concerned, and as I cited in my Brief of whether or not this goes in the charge regardless to the jury."
+                                "text": "And, I'm too quite concerned, and as I cited in my Brief of whether or not this goes in the charge regardless to the jury."
                             },
                             {
                                 "start": 1116.917,
@@ -2945,7 +2873,7 @@
                                 "stop": 1153.731,
                                 "byte_start": 4641416,
                                 "byte_stop": 4718425,
-                                "text": "What concerns me, there\u0027s something seemingly improper when I say that I must purchase using my 6th Amendment right with my 5th Amendment right by stipulating that I am going to help the prosecution complete an elements of its case."
+                                "text": "What concerns me, there's something seemingly improper when I say that I must purchase using my 6th Amendment right with my 5th Amendment right by stipulating that I am going to help the prosecution complete an elements of its case."
                             },
                             {
                                 "start": 1153.731,
@@ -2980,7 +2908,7 @@
                                 "stop": 1179.865,
                                 "byte_start": 4809958,
                                 "byte_stop": 4822915,
-                                "text": "It\u0027s the word \u201cnecessity\u201d that bothers me."
+                                "text": "It's the word \u201cnecessity\u201d that bothers me."
                             },
                             {
                                 "start": 1179.865,
@@ -3036,7 +2964,7 @@
                                 "stop": 1245.462,
                                 "byte_start": 4992606,
                                 "byte_stop": 5085288,
-                                "text": "It is the type of statute, the type of proceedings by which you cannot only win a case on an easy current or on a difficult case rather as to the current offense but you can also achieve, I believe, a high degree of pleas of guilty to weak cases or cases that you can\u0027t possibly try."
+                                "text": "It is the type of statute, the type of proceedings by which you cannot only win a case on an easy current or on a difficult case rather as to the current offense but you can also achieve, I believe, a high degree of pleas of guilty to weak cases or cases that you can't possibly try."
                             },
                             {
                                 "start": 1245.462,
@@ -3056,6 +2984,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -3073,7 +3002,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -3104,6 +3033,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -3143,6 +3073,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -3160,7 +3091,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -3171,7 +3102,7 @@
                                 "stop": 1299.046,
                                 "byte_start": 5274206,
                                 "byte_stop": 5299702,
-                                "text": "In return to the prosecutor\u0027s agreement not to invoke this Texas Statute, is that it?"
+                                "text": "In return to the prosecutor's agreement not to invoke this Texas Statute, is that it?"
                             }
                         ]
                     },
@@ -3184,6 +3115,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -3209,6 +3141,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -3226,7 +3159,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -3250,6 +3183,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -3282,6 +3216,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -3299,7 +3234,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -3323,6 +3258,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -3378,6 +3314,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -3390,7 +3327,7 @@
                                 "stop": 1346.518,
                                 "byte_start": 5444420,
                                 "byte_stop": 5489560,
-                                "text": "I am concerned here with Mr. Justice Black\u0027s concern and I think that was reflected, Mr. Justice Black, in your dissent in the Jackson vs. Dino."
+                                "text": "I am concerned here with Mr. Justice Black's concern and I think that was reflected, Mr. Justice Black, in your dissent in the Jackson vs. Dino."
                             },
                             {
                                 "start": 1346.518,
@@ -3404,7 +3341,7 @@
                                 "stop": 1364.258,
                                 "byte_start": 5528012,
                                 "byte_stop": 5560508,
-                                "text": "And, of course, I\u0027m aware of your dissent and it appears that at least on our minds, we might be in conflict."
+                                "text": "And, of course, I'm aware of your dissent and it appears that at least on our minds, we might be in conflict."
                             },
                             {
                                 "start": 1364.258,
@@ -3418,14 +3355,14 @@
                                 "stop": 1374.723,
                                 "byte_start": 5579525,
                                 "byte_stop": 5602408,
-                                "text": "I\u0027ve used the word \u201cprocedure\u201d not as a matter of a magical word."
+                                "text": "I've used the word \u201cprocedure\u201d not as a matter of a magical word."
                             },
                             {
                                 "start": 1374.723,
                                 "stop": 1381.215,
                                 "byte_start": 5602408,
                                 "byte_stop": 5628322,
-                                "text": "It\u0027s difficult, I think, to avoid this matter of semantics."
+                                "text": "It's difficult, I think, to avoid this matter of semantics."
                             },
                             {
                                 "start": 1381.215,
@@ -3439,7 +3376,7 @@
                                 "stop": 1407.536,
                                 "byte_start": 5647130,
                                 "byte_stop": 5733648,
-                                "text": "And, as I see in the Reed case, if I turn back the labors, whether it would be procedure or substance, I see a pitiful accused, who may be wearing a white shirt of presumptive innocence but he\u0027s rather hotly battled in a crooked prejudice denominating from the end of the courtroom."
+                                "text": "And, as I see in the Reed case, if I turn back the labors, whether it would be procedure or substance, I see a pitiful accused, who may be wearing a white shirt of presumptive innocence but he's rather hotly battled in a crooked prejudice denominating from the end of the courtroom."
                             },
                             {
                                 "start": 1407.536,
@@ -3453,14 +3390,14 @@
                                 "stop": 1436.335,
                                 "byte_start": 5784952,
                                 "byte_stop": 5848795,
-                                "text": "I think in the past, this Court has managed to cut through the point, whether it be substance or whether it be procedure to reach the thing that bears down upon a citizen\u0027s rights."
+                                "text": "I think in the past, this Court has managed to cut through the point, whether it be substance or whether it be procedure to reach the thing that bears down upon a citizen's rights."
                             },
                             {
                                 "start": 1436.335,
                                 "stop": 1444.131,
                                 "byte_start": 5848795,
                                 "byte_stop": 5880038,
-                                "text": "But of course, I say here the substance is prejudiced and there\u0027s some question and there\u0027s a reason here."
+                                "text": "But of course, I say here the substance is prejudiced and there's some question and there's a reason here."
                             },
                             {
                                 "start": 1444.131,
@@ -3495,14 +3432,14 @@
                                 "stop": 1469.621,
                                 "byte_start": 5966137,
                                 "byte_stop": 5981915,
-                                "text": "This is the prejudice that I\u0027m and concerned about."
+                                "text": "This is the prejudice that I'm and concerned about."
                             },
                             {
                                 "start": 1469.621,
                                 "stop": 1474.406,
                                 "byte_start": 5981915,
                                 "byte_stop": 6001142,
-                                "text": "This is a right that\u0027s guaranteed to him, of course, by the Sixth and Fourteenth."
+                                "text": "This is a right that's guaranteed to him, of course, by the Sixth and Fourteenth."
                             },
                             {
                                 "start": 1474.406,
@@ -3516,7 +3453,7 @@
                                 "stop": 1491.208,
                                 "byte_start": 6026428,
                                 "byte_stop": 6068328,
-                                "text": "And this is not a technical concept; it\u0027s something that\u0027s deeply imbedded in our fundamental ideas, a fairness in the constitutional sense."
+                                "text": "And this is not a technical concept; it's something that's deeply imbedded in our fundamental ideas, a fairness in the constitutional sense."
                             },
                             {
                                 "start": 1491.208,
@@ -3571,6 +3508,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -3588,7 +3526,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -3619,6 +3557,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -3644,6 +3583,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -3661,7 +3601,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -3685,6 +3625,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -3710,6 +3651,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -3727,7 +3669,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -3738,7 +3680,7 @@
                                 "stop": 1578.595,
                                 "byte_start": 6392038,
                                 "byte_stop": 6417847,
-                                "text": "Well, if there\u0027s an impartial jury on a case of this kind is because there has been a mistake made in the introduction of evidence, isn\u0027t it?"
+                                "text": "Well, if there's an impartial jury on a case of this kind is because there has been a mistake made in the introduction of evidence, isn't it?"
                             }
                         ]
                     },
@@ -3751,6 +3693,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -3783,6 +3726,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -3800,7 +3744,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -3811,7 +3755,7 @@
                                 "stop": 1589.184,
                                 "byte_start": 6431013,
                                 "byte_stop": 6460165,
-                                "text": "You think that\u0027s the kind of impartial jury that is spoken of in the Amendment?"
+                                "text": "You think that's the kind of impartial jury that is spoken of in the Amendment?"
                             }
                         ]
                     },
@@ -3824,6 +3768,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -3877,6 +3822,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -3894,7 +3840,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -3905,7 +3851,7 @@
                                 "stop": 1643.384,
                                 "byte_start": 6637171,
                                 "byte_stop": 6676982,
-                                "text": "What you are complaining about is that a jury is permitted to learn that the man who is on the trial for a crime, has committed crimes before, isn\u0027t it?"
+                                "text": "What you are complaining about is that a jury is permitted to learn that the man who is on the trial for a crime, has committed crimes before, isn't it?"
                             }
                         ]
                     },
@@ -3918,6 +3864,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -3943,6 +3890,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -3960,7 +3908,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -3984,6 +3932,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -4025,6 +3974,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -4050,6 +4000,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -4067,7 +4018,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -4091,6 +4042,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -4116,6 +4068,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -4133,7 +4086,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -4144,7 +4097,7 @@
                                 "stop": 1674.934,
                                 "byte_start": 6749497,
                                 "byte_stop": 6803205,
-                                "text": "Do you think it\u0027s possible to have a, in all those small Counties all over the United States, about juries \u201cnot to know\u201d something about the past life of a man who is charged with a crime?"
+                                "text": "Do you think it's possible to have a, in all those small Counties all over the United States, about juries \u201cnot to know\u201d something about the past life of a man who is charged with a crime?"
                             }
                         ]
                     },
@@ -4157,6 +4110,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -4189,6 +4143,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -4206,7 +4161,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -4230,6 +4185,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -4255,6 +4211,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -4272,7 +4229,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -4296,6 +4253,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -4308,7 +4266,7 @@
                                 "stop": 1691.118,
                                 "byte_start": 6846777,
                                 "byte_stop": 6867989,
-                                "text": "if they would show prejudice and that\u0027 exactly what I think your leading up to you that I haven\u0027t shown actual prejudice."
+                                "text": "if they would show prejudice and that' exactly what I think your leading up to you that I haven't shown actual prejudice."
                             }
                         ]
                     },
@@ -4321,6 +4279,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -4338,7 +4297,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -4349,21 +4308,21 @@
                                 "stop": 1692.881,
                                 "byte_start": 6867989,
                                 "byte_stop": 6874990,
-                                "text": "No, I\u0027m not kidding (Laughter)."
+                                "text": "No, I'm not kidding (Laughter)."
                             },
                             {
                                 "start": 1692.881,
                                 "stop": 1704.842,
                                 "byte_start": 6874990,
                                 "byte_stop": 6922846,
-                                "text": "I\u0027ve (Inaudible) to the fact that you have a situation here which you know as the law accepts and jurors are supposed to know that that life of the man is on trial."
+                                "text": "I've (Inaudible) to the fact that you have a situation here which you know as the law accepts and jurors are supposed to know that that life of the man is on trial."
                             },
                             {
                                 "start": 1704.842,
                                 "stop": 1709.971,
                                 "byte_start": 6922846,
                                 "byte_stop": 6943326,
-                                "text": "Here, you are talking about a policy that\u0027s wrong."
+                                "text": "Here, you are talking about a policy that's wrong."
                             },
                             {
                                 "start": 1709.971,
@@ -4383,6 +4342,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -4395,7 +4355,7 @@
                                 "stop": 1720.901,
                                 "byte_start": 6966523,
                                 "byte_stop": 6987107,
-                                "text": "I think I must come to this tribunal, Your Honor, that\u0027s why I\u0027m here."
+                                "text": "I think I must come to this tribunal, Your Honor, that's why I'm here."
                             },
                             {
                                 "start": 1720.901,
@@ -4415,6 +4375,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -4432,7 +4393,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -4491,6 +4452,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -4523,6 +4485,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -4540,7 +4503,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -4551,7 +4514,7 @@
                                 "stop": 1777.196,
                                 "byte_start": 7173413,
                                 "byte_stop": 7212283,
-                                "text": "How about not getting away from the word \u201cfact\u201d because that\u0027s an abstract word which is not in the Constitution?"
+                                "text": "How about not getting away from the word \u201cfact\u201d because that's an abstract word which is not in the Constitution?"
                             },
                             {
                                 "start": 1777.196,
@@ -4571,6 +4534,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -4603,6 +4567,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -4620,7 +4585,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -4651,6 +4616,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -4683,6 +4649,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -4700,7 +4667,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -4718,7 +4685,7 @@
                                 "stop": 1803.762,
                                 "byte_start": 7307995,
                                 "byte_stop": 7318549,
-                                "text": "I\u0027ve known many of them."
+                                "text": "I've known many of them."
                             }
                         ]
                     },
@@ -4731,6 +4698,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -4743,14 +4711,14 @@
                                 "stop": 1810.871,
                                 "byte_start": 7318549,
                                 "byte_stop": 7346970,
-                                "text": "I\u0027m, of course, thinking about or on a motion, Your Honor, to file a change of venue if there is actual prejudice there."
+                                "text": "I'm, of course, thinking about or on a motion, Your Honor, to file a change of venue if there is actual prejudice there."
                             },
                             {
                                 "start": 1810.871,
                                 "stop": 1814.679,
                                 "byte_start": 7346970,
                                 "byte_stop": 7362226,
-                                "text": "There\u0027s so much knowledge about the prior record of this man."
+                                "text": "There's so much knowledge about the prior record of this man."
                             },
                             {
                                 "start": 1814.679,
@@ -4770,6 +4738,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -4787,7 +4756,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -4798,7 +4767,7 @@
                                 "stop": 1821.063,
                                 "byte_start": 7365256,
                                 "byte_stop": 7387721,
-                                "text": "Oh, you don\u0027t have to do that in the majority of Counties in the United States of America when you try people for crime."
+                                "text": "Oh, you don't have to do that in the majority of Counties in the United States of America when you try people for crime."
                             }
                         ]
                     },
@@ -4811,6 +4780,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -4828,7 +4798,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -4839,14 +4809,14 @@
                                 "stop": 1838.81,
                                 "byte_start": 7387721,
                                 "byte_stop": 7458670,
-                                "text": "Mr. Colvin, isn\u0027t there a difference in your mind and experience between what a juror may know on the one hand and in the other hand, what is placed on the record and brought before the jury and instructed to consider it as part of the trial?"
+                                "text": "Mr. Colvin, isn't there a difference in your mind and experience between what a juror may know on the one hand and in the other hand, what is placed on the record and brought before the jury and instructed to consider it as part of the trial?"
                             },
                             {
                                 "start": 1838.81,
                                 "stop": 1840.148,
                                 "byte_start": 7458670,
                                 "byte_stop": 7464103,
-                                "text": "Isn\u0027t there a difference?"
+                                "text": "Isn't there a difference?"
                             }
                         ]
                     },
@@ -4859,6 +4829,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -4891,6 +4862,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -4908,7 +4880,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -4939,6 +4911,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -4951,7 +4924,7 @@
                                 "stop": 1860.041,
                                 "byte_start": 7535156,
                                 "byte_stop": 7543620,
-                                "text": "Yes, that\u0027s true in all these cases."
+                                "text": "Yes, that's true in all these cases."
                             }
                         ]
                     },
@@ -4964,6 +4937,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -4981,7 +4955,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -5005,6 +4979,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -5030,6 +5005,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -5047,7 +5023,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -5058,7 +5034,7 @@
                                 "stop": 1886.806,
                                 "byte_start": 7563473,
                                 "byte_stop": 7650722,
-                                "text": "And even so, Mr. Colvin, in your experience as lawyer, isn\u0027t there a difference between whether juror may know in what is presented in evidence in pre -- I don\u0027t know what was done in your case in the preceding case, were told that the indictment was the only indictment which was offer in evidence."
+                                "text": "And even so, Mr. Colvin, in your experience as lawyer, isn't there a difference between whether juror may know in what is presented in evidence in pre -- I don't know what was done in your case in the preceding case, were told that the indictment was the only indictment which was offer in evidence."
                             },
                             {
                                 "start": 1886.806,
@@ -5078,6 +5054,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -5103,6 +5080,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -5120,7 +5098,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -5144,6 +5122,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -5169,6 +5148,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -5186,7 +5166,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -5210,6 +5190,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -5242,6 +5223,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -5259,7 +5241,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -5283,6 +5265,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -5302,7 +5285,7 @@
                                 "stop": 1968.158,
                                 "byte_start": 7937964,
                                 "byte_stop": 7976103,
-                                "text": "But the point I\u0027m making is, there are presented here in these cases a historical fact judicially approves a judgment, a record of conviction."
+                                "text": "But the point I'm making is, there are presented here in these cases a historical fact judicially approves a judgment, a record of conviction."
                             },
                             {
                                 "start": 1968.158,
@@ -5316,7 +5299,7 @@
                                 "stop": 1980.422,
                                 "byte_start": 7990418,
                                 "byte_stop": 8025213,
-                                "text": "I think I would be in better shape if the judge didn\u0027t even read the instruction to ignore what you have just heard."
+                                "text": "I think I would be in better shape if the judge didn't even read the instruction to ignore what you have just heard."
                             },
                             {
                                 "start": 1980.422,
@@ -5351,7 +5334,7 @@
                                 "stop": 2041.305,
                                 "byte_start": 8231163,
                                 "byte_stop": 8268675,
-                                "text": "I think that\u0027s what this Court was concerned about in Jackson vs. Denno, Erwin vs. Dowd, Gideon vs. Wainwright and we\u0027re brought to this critical question of course in my case."
+                                "text": "I think that's what this Court was concerned about in Jackson vs. Denno, Erwin vs. Dowd, Gideon vs. Wainwright and we're brought to this critical question of course in my case."
                             }
                         ]
                     },
@@ -5364,6 +5347,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -5381,7 +5365,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -5405,6 +5389,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -5437,6 +5422,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -5454,7 +5440,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -5465,7 +5451,7 @@
                                 "stop": 2058.505,
                                 "byte_start": 8326457,
                                 "byte_stop": 8337533,
-                                "text": "Why did you then use the word \u201ceffective\u201d if he can\u0027t request counsel."
+                                "text": "Why did you then use the word \u201ceffective\u201d if he can't request counsel."
                             }
                         ]
                     },
@@ -5478,6 +5464,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -5490,7 +5477,7 @@
                                 "stop": 2060.922,
                                 "byte_start": 8337533,
                                 "byte_stop": 8347146,
-                                "text": "I believe that\u0027s the way it\u0027s been interpreted by the Court."
+                                "text": "I believe that's the way it's been interpreted by the Court."
                             }
                         ]
                     },
@@ -5503,6 +5490,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -5520,7 +5508,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -5544,6 +5532,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -5577,14 +5566,14 @@
                                 "stop": 2079.934,
                                 "byte_start": 8401795,
                                 "byte_stop": 8423215,
-                                "text": "That\u0027s all they require to alleged proof you see under Article 63."
+                                "text": "That's all they require to alleged proof you see under Article 63."
                             },
                             {
                                 "start": 2079.934,
                                 "stop": 2081.764,
                                 "byte_start": 8423215,
                                 "byte_stop": 8430529,
-                                "text": "That\u0027s all; just two."
+                                "text": "That's all; just two."
                             },
                             {
                                 "start": 2081.764,
@@ -5611,6 +5600,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -5628,7 +5618,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -5639,7 +5629,7 @@
                                 "stop": 2091.911,
                                 "byte_start": 8450173,
                                 "byte_stop": 8471071,
-                                "text": "You think it\u0027s wrong for the jury to know that the man has been convicted eight times?"
+                                "text": "You think it's wrong for the jury to know that the man has been convicted eight times?"
                             }
                         ]
                     },
@@ -5652,6 +5642,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -5677,6 +5668,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -5694,7 +5686,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -5705,7 +5697,7 @@
                                 "stop": 2096.168,
                                 "byte_start": 8479535,
                                 "byte_stop": 8488103,
-                                "text": "You think that\u0027s constitutionally wrong?"
+                                "text": "You think that's constitutionally wrong?"
                             }
                         ]
                     },
@@ -5718,6 +5710,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -5743,6 +5736,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -5760,7 +5754,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -5784,6 +5778,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -5809,6 +5804,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -5826,7 +5822,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -5844,7 +5840,7 @@
                                 "stop": 2148.507,
                                 "byte_start": 8648913,
                                 "byte_stop": 8697501,
-                                "text": "Why wouldn\u0027t it be true that what you\u2018re saying now about this procedure wouldn\u0027t be equally applicable to the introduction of the evidence of prior convictions in that kind of a case?"
+                                "text": "Why wouldn't it be true that what you\u2018re saying now about this procedure wouldn't be equally applicable to the introduction of the evidence of prior convictions in that kind of a case?"
                             }
                         ]
                     },
@@ -5857,6 +5853,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -5882,6 +5879,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -5899,7 +5897,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -5923,6 +5921,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -5948,6 +5947,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -5965,7 +5965,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -5976,14 +5976,14 @@
                                 "stop": 2166.456,
                                 "byte_start": 8763538,
                                 "byte_stop": 8769285,
-                                "text": "I don\u0027t know how normal the rule is."
+                                "text": "I don't know how normal the rule is."
                             },
                             {
                                 "start": 2166.456,
                                 "stop": 2168.848,
                                 "byte_start": 8769285,
                                 "byte_stop": 8778898,
-                                "text": "I\u0027m sure there are variations in each one of the 50 States."
+                                "text": "I'm sure there are variations in each one of the 50 States."
                             },
                             {
                                 "start": 2168.848,
@@ -6003,6 +6003,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -6036,7 +6037,7 @@
                                 "stop": 2201.388,
                                 "byte_start": 8864475,
                                 "byte_stop": 8908988,
-                                "text": "Other than that, its\u0027 not even \u2013 it\u0027s not even admissible to attack character unless he applies in Texas for a probated sentence where in effect, the legis good care to many open to that in some way."
+                                "text": "Other than that, its' not even \u2013 it's not even admissible to attack character unless he applies in Texas for a probated sentence where in effect, the legis good care to many open to that in some way."
                             },
                             {
                                 "start": 2201.388,
@@ -6071,7 +6072,7 @@
                                 "stop": 2235.809,
                                 "byte_start": 9021001,
                                 "byte_stop": 9046706,
-                                "text": "Now 10 years later, I am on trial for a narcotics offense; I\u0027m an addict."
+                                "text": "Now 10 years later, I am on trial for a narcotics offense; I'm an addict."
                             },
                             {
                                 "start": 2235.809,
@@ -6092,21 +6093,21 @@
                                 "stop": 2251.199,
                                 "byte_start": 9100727,
                                 "byte_stop": 9108250,
-                                "text": "And I\u0027m not here to argue these other cases."
+                                "text": "And I'm not here to argue these other cases."
                             },
                             {
                                 "start": 2251.199,
                                 "stop": 2253.239,
                                 "byte_start": 9108250,
                                 "byte_stop": 9116400,
-                                "text": "I\u0027m just here to argue Reed."
+                                "text": "I'm just here to argue Reed."
                             },
                             {
                                 "start": 2253.239,
                                 "stop": 2260.029,
                                 "byte_start": 9116400,
                                 "byte_stop": 9143568,
-                                "text": "I\u0027m dealing with Article 63; defenses may not be similar."
+                                "text": "I'm dealing with Article 63; defenses may not be similar."
                             },
                             {
                                 "start": 2260.029,
@@ -6126,6 +6127,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -6143,7 +6145,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -6154,14 +6156,14 @@
                                 "stop": 2264.559,
                                 "byte_start": 9156629,
                                 "byte_stop": 9161749,
-                                "text": "What you\u0027re telling us then?"
+                                "text": "What you're telling us then?"
                             },
                             {
                                 "start": 2264.559,
                                 "stop": 2271.573,
                                 "byte_start": 9161749,
                                 "byte_stop": 9189752,
-                                "text": "If it\u0027s necessary, the due process clause can be violated but in this case it\u0027s not necessary."
+                                "text": "If it's necessary, the due process clause can be violated but in this case it's not necessary."
                             }
                         ]
                     },
@@ -6174,6 +6176,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -6199,6 +6202,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -6216,7 +6220,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -6240,6 +6244,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -6252,7 +6257,7 @@
                                 "stop": 2299.148,
                                 "byte_start": 9215875,
                                 "byte_stop": 9300093,
-                                "text": "I think here, Mr. Justice Stewart, it\u0027s emerged in our whole claim because the reason why this otherwise inadmissible evidence comes in is only because of that word, a \u201cnecessity\u201d and overriding of what we know would normally be highly prejudicial to the man on trial."
+                                "text": "I think here, Mr. Justice Stewart, it's emerged in our whole claim because the reason why this otherwise inadmissible evidence comes in is only because of that word, a \u201cnecessity\u201d and overriding of what we know would normally be highly prejudicial to the man on trial."
                             }
                         ]
                     },
@@ -6265,6 +6270,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -6282,7 +6288,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -6293,21 +6299,21 @@
                                 "stop": 2304.235,
                                 "byte_start": 9300093,
                                 "byte_stop": 9320469,
-                                "text": "Well, if it isn\u0027t highly and unconstitutionally prejudicial then it is."
+                                "text": "Well, if it isn't highly and unconstitutionally prejudicial then it is."
                             },
                             {
                                 "start": 2304.235,
                                 "stop": 2305.583,
                                 "byte_start": 9320469,
                                 "byte_stop": 9325798,
-                                "text": "And if it isn\u0027t, that isn\u0027t."
+                                "text": "And if it isn't, that isn't."
                             },
                             {
                                 "start": 2305.583,
                                 "stop": 2313.958,
                                 "byte_start": 9325798,
                                 "byte_stop": 9359339,
-                                "text": "And if it is, it violates the due process clause no matter what the claim of necessity might be, isn\u0027t that right?"
+                                "text": "And if it is, it violates the due process clause no matter what the claim of necessity might be, isn't that right?"
                             }
                         ]
                     },
@@ -6320,6 +6326,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -6353,7 +6360,7 @@
                                 "stop": 2341.511,
                                 "byte_start": 9455992,
                                 "byte_stop": 9469471,
-                                "text": "But nevertheless, that\u0027s the theory under (Inaudible)."
+                                "text": "But nevertheless, that's the theory under (Inaudible)."
                             },
                             {
                                 "start": 2341.511,
@@ -6394,6 +6401,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -6411,7 +6419,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -6435,6 +6443,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -6460,6 +6469,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -6477,7 +6487,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -6501,6 +6511,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -6520,7 +6531,7 @@
                                 "stop": 2379.023,
                                 "byte_start": 9605935,
                                 "byte_stop": 9619519,
-                                "text": "And I think that\u0027s true with most of it."
+                                "text": "And I think that's true with most of it."
                             },
                             {
                                 "start": 2379.023,
@@ -6548,7 +6559,7 @@
                                 "stop": 2433.021,
                                 "byte_start": 9815124,
                                 "byte_stop": 9835604,
-                                "text": "I think we\u0027re always faced with this favorite dragon."
+                                "text": "I think we're always faced with this favorite dragon."
                             },
                             {
                                 "start": 2433.021,
@@ -6562,7 +6573,7 @@
                                 "stop": 2446.62,
                                 "byte_start": 9856502,
                                 "byte_stop": 9889938,
-                                "text": "Let\u0027s compare the gates that were opened to the Gideon defendants and the gates that may be opened to what I might call the Reed defendant."
+                                "text": "Let's compare the gates that were opened to the Gideon defendants and the gates that may be opened to what I might call the Reed defendant."
                             },
                             {
                                 "start": 2446.62,
@@ -6603,6 +6614,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -6620,7 +6632,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -6631,14 +6643,14 @@
                                 "stop": 2476.392,
                                 "byte_start": 9986069,
                                 "byte_stop": 10009057,
-                                "text": "I don\u0027t, perhaps this isn\u0027t too far but you are now relying on the statistics."
+                                "text": "I don't, perhaps this isn't too far but you are now relying on the statistics."
                             },
                             {
                                 "start": 2476.392,
                                 "stop": 2478.571,
                                 "byte_start": 10009057,
                                 "byte_stop": 10017729,
-                                "text": "I don\u0027t quite understand that -- those statistics."
+                                "text": "I don't quite understand that -- those statistics."
                             },
                             {
                                 "start": 2478.571,
@@ -6658,6 +6670,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -6670,7 +6683,7 @@
                                 "stop": 2489.156,
                                 "byte_start": 10034657,
                                 "byte_stop": 10060152,
-                                "text": "Mr. Justice Stewart, I don\u0027t allow that -- I just showed that I attempted to get some figures and I\u0027m very proud of it."
+                                "text": "Mr. Justice Stewart, I don't allow that -- I just showed that I attempted to get some figures and I'm very proud of it."
                             }
                         ]
                     },
@@ -6683,6 +6696,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -6700,7 +6714,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -6711,14 +6725,14 @@
                                 "stop": 2491.988,
                                 "byte_start": 10060152,
                                 "byte_stop": 10071437,
-                                "text": "Alright, and I don\u0027t understand what these figures are."
+                                "text": "Alright, and I don't understand what these figures are."
                             },
                             {
                                 "start": 2491.988,
                                 "stop": 2493.858,
                                 "byte_start": 10071437,
                                 "byte_stop": 10078960,
-                                "text": "I don\u0027t\u0027 even understand the figures."
+                                "text": "I don't' even understand the figures."
                             },
                             {
                                 "start": 2493.858,
@@ -6738,6 +6752,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -6770,6 +6785,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -6787,7 +6803,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -6811,6 +6827,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -6836,6 +6853,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -6853,7 +6871,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -6877,6 +6895,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -6889,7 +6908,7 @@
                                 "stop": 2533.419,
                                 "byte_start": 10232769,
                                 "byte_stop": 10237158,
-                                "text": "That\u0027s right, Your Honor."
+                                "text": "That's right, Your Honor."
                             }
                         ]
                     },
@@ -6902,6 +6921,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -6919,7 +6939,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -6943,6 +6963,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -6962,7 +6983,7 @@
                                 "stop": 2543.72,
                                 "byte_start": 10261295,
                                 "byte_stop": 10278327,
-                                "text": "At the time I contact the penitentiary, they didn\u0027t even have these statistics."
+                                "text": "At the time I contact the penitentiary, they didn't even have these statistics."
                             },
                             {
                                 "start": 2543.72,
@@ -6983,21 +7004,21 @@
                                 "stop": 2565.424,
                                 "byte_start": 10340498,
                                 "byte_stop": 10365158,
-                                "text": "I think I\u0027ve cited in my Brief this Canadian on our review which is possibly one of the best."
+                                "text": "I think I've cited in my Brief this Canadian on our review which is possibly one of the best."
                             },
                             {
                                 "start": 2565.424,
                                 "stop": 2573.473,
                                 "byte_start": 10365158,
                                 "byte_stop": 10397341,
-                                "text": "But there\u0027s another fact wherein to comparing this with the Gideon defendant."
+                                "text": "But there's another fact wherein to comparing this with the Gideon defendant."
                             },
                             {
                                 "start": 2573.473,
                                 "stop": 2584.728,
                                 "byte_start": 10397341,
                                 "byte_stop": 10442376,
-                                "text": "There\u0027s a rather strong deterrent you know in Texas and I think possibly another States in a man filing his petition."
+                                "text": "There's a rather strong deterrent you know in Texas and I think possibly another States in a man filing his petition."
                             },
                             {
                                 "start": 2584.728,
@@ -7059,6 +7080,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -7076,7 +7098,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -7100,6 +7122,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,
@@ -7112,7 +7135,7 @@
                                 "stop": 2639.803,
                                 "byte_start": 10649370,
                                 "byte_stop": 10662640,
-                                "text": "That\u0027s right, Mr. Justice Fortas."
+                                "text": "That's right, Mr. Justice Fortas."
                             },
                             {
                                 "start": 2639.803,
@@ -7182,7 +7205,7 @@
                                 "stop": 2714.21,
                                 "byte_start": 10924910,
                                 "byte_stop": 10960332,
-                                "text": "A representative, if I\u0027m in with this point, Mr. Chief Justice, a Negro in Arkansas wanted to escape one time and he articulated the matter rather succinctly."
+                                "text": "A representative, if I'm in with this point, Mr. Chief Justice, a Negro in Arkansas wanted to escape one time and he articulated the matter rather succinctly."
                             },
                             {
                                 "start": 2714.21,
@@ -7206,16 +7229,7 @@
                         "stop": 2733.027,
                         "byte_start": 11010382,
                         "byte_stop": 11035564,
-                        "speaker": {
-                            "ID": 20391,
-                            "name": "Chief Justic Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/chief_justic_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "chief_justic_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 2726.714,
@@ -7243,6 +7257,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -7370,16 +7385,7 @@
                         "stop": 2946.307,
                         "byte_start": 11783293,
                         "byte_stop": 11888724,
-                        "speaker": {
-                            "ID": 20391,
-                            "name": "Chief Justic Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/chief_justic_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "chief_justic_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 2919.965,
@@ -7414,6 +7420,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -7544,6 +7551,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -7561,7 +7569,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -7585,6 +7593,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -7624,6 +7633,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -7641,7 +7651,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -7665,6 +7675,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -7727,6 +7738,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -7768,6 +7780,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -7823,6 +7836,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -7864,6 +7878,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -7913,7 +7928,7 @@
                                 "stop": 3244.222,
                                 "byte_start": 13069040,
                                 "byte_stop": 13080325,
-                                "text": "Well, that\u0027s a practical decision."
+                                "text": "Well, that's a practical decision."
                             }
                         ]
                     },
@@ -7926,6 +7941,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -7967,6 +7983,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -8022,6 +8039,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -8063,6 +8081,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -8431,6 +8450,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -8448,7 +8468,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -8493,6 +8513,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -8546,6 +8567,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -8563,7 +8585,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -8587,6 +8609,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -8626,6 +8649,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -8643,7 +8667,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -8674,6 +8698,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -8720,6 +8745,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -8737,7 +8763,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -8761,6 +8787,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -8786,6 +8813,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -8803,7 +8831,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -8827,6 +8855,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -8959,6 +8988,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -9035,6 +9065,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -9076,6 +9107,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -9109,7 +9141,7 @@
                                 "stop": 4331.696,
                                 "byte_start": 17368064,
                                 "byte_stop": 17430235,
-                                "text": "But most of you get to prisoner work that and the Court remark that it has been set for trial and you go in there and you may have a docket of eight cases for the morning and six of them may plea guilty and two of them get continuances and you\u2019re through about 11 o\u0027clock in the morning."
+                                "text": "But most of you get to prisoner work that and the Court remark that it has been set for trial and you go in there and you may have a docket of eight cases for the morning and six of them may plea guilty and two of them get continuances and you\u2019re through about 11 o'clock in the morning."
                             },
                             {
                                 "start": 4331.696,
@@ -9152,6 +9184,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -9207,6 +9240,7 @@
                             "ID": 26966,
                             "name": "Howard M. Fender",
                             "href": "https:\/\/api.oyez.org\/people\/howard_m_fender",
+                            "view_count": 0,
                             "last_name": "Fender",
                             "roles": null,
                             "thumbnail": null,
@@ -9355,16 +9389,7 @@
                         "stop": 4577.366,
                         "byte_start": 18391124,
                         "byte_stop": 18412962,
-                        "speaker": {
-                            "ID": 20391,
-                            "name": "Chief Justic Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/chief_justic_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "chief_justic_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 4571.914,
@@ -9392,6 +9417,7 @@
                             "ID": 22138,
                             "name": "Emmett Colvin, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/emmett_colvin",
+                            "view_count": 0,
                             "last_name": "Colvin,",
                             "roles": null,
                             "thumbnail": null,

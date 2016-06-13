@@ -40,6 +40,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -57,7 +58,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -88,6 +89,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -100,7 +102,7 @@
                                 "stop": 95.79,
                                 "byte_start": 462987,
                                 "byte_stop": 522546,
-                                "text": "Thank you, Mr. Chief Justice, and may it please the Court, the issue in this case is whether Riverside\u0027s property is wetland subject to the Corps of Engineers permit jurisdiction under Section 404 of the Clean Water Act."
+                                "text": "Thank you, Mr. Chief Justice, and may it please the Court, the issue in this case is whether Riverside's property is wetland subject to the Corps of Engineers permit jurisdiction under Section 404 of the Clean Water Act."
                             },
                             {
                                 "start": 95.79,
@@ -135,21 +137,21 @@
                                 "stop": 180.099,
                                 "byte_start": 700806,
                                 "byte_stop": 859839,
-                                "text": "Riverside appealed, but in the meantime the regulations defining wetlands had been changed, and so the United States asked that the case be remanded to the District Court to consider the effect of the new regulations on the facts of this case, and on remand, Judge Gilmore, who by this time the case had been reassigned to, applied the facts as found by Judge Kennedy in her lengthy trial to the new regulations, and found again that Riverside\u0027s property was a wetland within the Corps\u0027 jurisdiction, and again entered a permanent injunction prohibiting Riverside from filling without a permit."
+                                "text": "Riverside appealed, but in the meantime the regulations defining wetlands had been changed, and so the United States asked that the case be remanded to the District Court to consider the effect of the new regulations on the facts of this case, and on remand, Judge Gilmore, who by this time the case had been reassigned to, applied the facts as found by Judge Kennedy in her lengthy trial to the new regulations, and found again that Riverside's property was a wetland within the Corps' jurisdiction, and again entered a permanent injunction prohibiting Riverside from filling without a permit."
                             },
                             {
                                 "start": 180.099,
                                 "stop": 184.739,
                                 "byte_start": 859839,
                                 "byte_stop": 878438,
-                                "text": "On Riverside\u0027s second appeal, the Sixth Circuit reversed."
+                                "text": "On Riverside's second appeal, the Sixth Circuit reversed."
                             },
                             {
                                 "start": 184.739,
                                 "stop": 191.798,
                                 "byte_start": 878438,
                                 "byte_stop": 906651,
-                                "text": "In its initial opinion, the Court based its decision on its interpretation of the Corps\u0027 revised regulations."
+                                "text": "In its initial opinion, the Court based its decision on its interpretation of the Corps' revised regulations."
                             },
                             {
                                 "start": 191.798,
@@ -177,7 +179,7 @@
                                 "stop": 250.446,
                                 "byte_start": 1068296,
                                 "byte_stop": 1141230,
-                                "text": "Essentially what the court was doing in our opinion was reinstating a requirement in the 1975 regulations for periodic inundation that had been eliminated and was the basis for the United States\u0027 motion that the case be remanded to the District Court for reconsideration under the revised regulations."
+                                "text": "Essentially what the court was doing in our opinion was reinstating a requirement in the 1975 regulations for periodic inundation that had been eliminated and was the basis for the United States' motion that the case be remanded to the District Court for reconsideration under the revised regulations."
                             },
                             {
                                 "start": 250.446,
@@ -195,9 +197,10 @@
                         "byte_stop": 1339552,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -214,7 +217,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -245,6 +248,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -275,9 +279,10 @@
                         "byte_stop": 1405380,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -294,7 +299,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -305,7 +310,7 @@
                                 "stop": 313.138,
                                 "byte_start": 1358778,
                                 "byte_stop": 1392006,
-                                "text": "Well, why, then, didn\u0027t the Corps just show that surface connection before the District Court and not bother with subsurface connections?"
+                                "text": "Well, why, then, didn't the Corps just show that surface connection before the District Court and not bother with subsurface connections?"
                             },
                             {
                                 "start": 313.138,
@@ -325,6 +330,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -344,7 +350,7 @@
                                 "stop": 330.352,
                                 "byte_start": 1432443,
                                 "byte_stop": 1460864,
-                                "text": "I don\u0027t think, again, in all fairness to everybody concerned, but at the time of the trial, anybody knew exactly what they were doing."
+                                "text": "I don't think, again, in all fairness to everybody concerned, but at the time of the trial, anybody knew exactly what they were doing."
                             }
                         ]
                     },
@@ -355,9 +361,10 @@
                         "byte_stop": 1498899,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -374,7 +381,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -398,6 +405,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -424,7 +432,7 @@
                                 "stop": 381.455,
                                 "byte_start": 1593253,
                                 "byte_stop": 1665246,
-                                "text": "We would start over with a clean slate, try the case properly, and we were always certain as in fact turned out to be the case, that the United States would and should win this case under the new regulations as well as under the old ones, but our hope was to sweep away what had really diverted everybody\u0027s--"
+                                "text": "We would start over with a clean slate, try the case properly, and we were always certain as in fact turned out to be the case, that the United States would and should win this case under the new regulations as well as under the old ones, but our hope was to sweep away what had really diverted everybody's--"
                             }
                         ]
                     },
@@ -437,6 +445,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -454,7 +463,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -478,6 +487,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -503,6 +513,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -520,7 +531,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -531,7 +542,7 @@
                                 "stop": 391.577,
                                 "byte_start": 1672247,
                                 "byte_stop": 1705789,
-                                "text": "--What did the District Court... wasn\u0027t there some expert testimony on the connection between this wetland and the navigable waters?"
+                                "text": "--What did the District Court... wasn't there some expert testimony on the connection between this wetland and the navigable waters?"
                             }
                         ]
                     },
@@ -544,6 +555,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -569,6 +581,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -586,7 +599,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -610,6 +623,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -622,7 +636,7 @@
                                 "stop": 403.602,
                                 "byte_start": 1749361,
                                 "byte_stop": 1753854,
-                                "text": "--That\u0027s correct."
+                                "text": "--That's correct."
                             },
                             {
                                 "start": 403.602,
@@ -642,6 +656,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -659,7 +674,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -683,6 +698,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -708,6 +724,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -725,7 +742,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -749,6 +766,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -781,6 +799,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -798,7 +817,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -829,6 +848,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -861,6 +881,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -888,7 +909,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -899,7 +920,7 @@
                                 "stop": 488.114,
                                 "byte_start": 2063875,
                                 "byte_stop": 2091878,
-                                "text": "I don\u0027t regard a USGS map as kind of an open sesame to the correct resolution of a case."
+                                "text": "I don't regard a USGS map as kind of an open sesame to the correct resolution of a case."
                             },
                             {
                                 "start": 488.114,
@@ -913,7 +934,7 @@
                                 "stop": 491.567,
                                 "byte_start": 2099297,
                                 "byte_stop": 2105671,
-                                "text": "They can be as wrong as anybody else\u0027s."
+                                "text": "They can be as wrong as anybody else's."
                             }
                         ]
                     },
@@ -926,6 +947,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -958,6 +980,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -985,7 +1008,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -1009,6 +1032,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -1041,6 +1065,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -1068,7 +1093,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -1092,6 +1117,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -1124,6 +1150,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -1151,7 +1178,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -1175,6 +1202,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -1200,6 +1228,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -1227,7 +1256,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -1251,6 +1280,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -1270,7 +1300,7 @@
                                 "stop": 567.489,
                                 "byte_start": 2364806,
                                 "byte_stop": 2409423,
-                                "text": "I am asking you to recognize that first of all they were handicapped by not having any pictures, second of all the fact that they did... they didn\u0027t find new facts, but what they did was apply--"
+                                "text": "I am asking you to recognize that first of all they were handicapped by not having any pictures, second of all the fact that they did... they didn't find new facts, but what they did was apply--"
                             }
                         ]
                     },
@@ -1283,6 +1313,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -1310,7 +1341,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -1334,6 +1365,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -1359,6 +1391,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -1386,7 +1419,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -1417,6 +1450,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -1450,7 +1484,7 @@
                                 "stop": 624.138,
                                 "byte_start": 2555395,
                                 "byte_stop": 2635957,
-                                "text": "If you affirm the rationale and the statements in the Sixth Circuit\u0027s opinion and is judgment, we think that all wetlands, whether adjacent to navigable waters or not, would no longer be within the scope of regulatory authority under the Clean Water Act, and our concern goes far beyond the facts of this case and the relationship of this wetland to--"
+                                "text": "If you affirm the rationale and the statements in the Sixth Circuit's opinion and is judgment, we think that all wetlands, whether adjacent to navigable waters or not, would no longer be within the scope of regulatory authority under the Clean Water Act, and our concern goes far beyond the facts of this case and the relationship of this wetland to--"
                             }
                         ]
                     },
@@ -1461,9 +1495,10 @@
                         "byte_stop": 2707219,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -1480,7 +1515,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -1511,6 +1546,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -1523,7 +1559,7 @@
                                 "stop": 649.862,
                                 "byte_start": 2707219,
                                 "byte_stop": 2738879,
-                                "text": "--I don\u0027t think you have to, Your Honor, because what we are relying on are trial exhibits for you to see--"
+                                "text": "--I don't think you have to, Your Honor, because what we are relying on are trial exhibits for you to see--"
                             }
                         ]
                     },
@@ -1536,6 +1572,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -1553,7 +1590,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -1564,7 +1601,7 @@
                                 "stop": 658.234,
                                 "byte_start": 2738879,
                                 "byte_stop": 2772420,
-                                "text": "Well, you didn\u0027t... it sounds to me like there was somewhat of some omissions at the trial stage."
+                                "text": "Well, you didn't... it sounds to me like there was somewhat of some omissions at the trial stage."
                             }
                         ]
                     },
@@ -1577,6 +1614,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -1602,6 +1640,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -1619,7 +1658,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -1650,6 +1689,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -1675,6 +1715,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -1692,7 +1733,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -1716,6 +1757,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -1748,6 +1790,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -1765,7 +1808,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -1783,7 +1826,7 @@
                                 "stop": 697.408,
                                 "byte_start": 2927170,
                                 "byte_stop": 2929051,
-                                "text": "Why don\u0027t you just--"
+                                "text": "Why don't you just--"
                             }
                         ]
                     },
@@ -1796,6 +1839,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -1821,6 +1865,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -1838,7 +1883,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -1862,6 +1907,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -1881,7 +1927,7 @@
                                 "stop": 708.639,
                                 "byte_start": 2947963,
                                 "byte_stop": 2973981,
-                                "text": "--I know, but if you win it on this ground, if you win it on this ground, you don\u0027t disturb the Court of Appeals\u0027 view about a wetland."
+                                "text": "--I know, but if you win it on this ground, if you win it on this ground, you don't disturb the Court of Appeals' view about a wetland."
                             },
                             {
                                 "start": 708.639,
@@ -1908,6 +1954,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -1925,7 +1972,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -1949,6 +1996,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -1961,7 +2009,7 @@
                                 "stop": 725.694,
                                 "byte_start": 3039183,
                                 "byte_stop": 3042213,
-                                "text": "That\u0027s correct."
+                                "text": "That's correct."
                             },
                             {
                                 "start": 725.694,
@@ -1981,6 +2029,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -1998,7 +2047,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2022,6 +2071,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -2034,7 +2084,7 @@
                                 "stop": 772.91,
                                 "byte_start": 3053811,
                                 "byte_stop": 3231026,
-                                "text": "--We claimed that even before the map had been found, and we are happy to win it that way or... but it seemed to me important once the exhibits had been located for this Court to see what we were actually talking about in this case, and to the Court of Appeals\u0027 credit, they asked to see the exhibits at the oral argument in the Sixth Circuit, and they were told they had been lost, and it wasn\u0027t until the Government had either petitioned for cert or cert had been granted that someone in the District Court clerk\u0027s office found the exhibits, and that is all quite unfortunate, but it doesn\u0027t change the fact that in our view, either using these maps or using the theory that is basically set forth in our petition and in our opening brief, this is a wetland, and that the Court of Appeals legal analysis was wrong."
+                                "text": "--We claimed that even before the map had been found, and we are happy to win it that way or... but it seemed to me important once the exhibits had been located for this Court to see what we were actually talking about in this case, and to the Court of Appeals' credit, they asked to see the exhibits at the oral argument in the Sixth Circuit, and they were told they had been lost, and it wasn't until the Government had either petitioned for cert or cert had been granted that someone in the District Court clerk's office found the exhibits, and that is all quite unfortunate, but it doesn't change the fact that in our view, either using these maps or using the theory that is basically set forth in our petition and in our opening brief, this is a wetland, and that the Court of Appeals legal analysis was wrong."
                             }
                         ]
                     },
@@ -2045,9 +2095,10 @@
                         "byte_stop": 3335620,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -2064,7 +2115,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -2095,6 +2146,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -2107,7 +2159,7 @@
                                 "stop": 802.976,
                                 "byte_start": 3335620,
                                 "byte_stop": 3351294,
-                                "text": "I don\u0027t think that is really quite a fair characterization, Your Honor."
+                                "text": "I don't think that is really quite a fair characterization, Your Honor."
                             },
                             {
                                 "start": 802.976,
@@ -2125,9 +2177,10 @@
                         "byte_stop": 3438334,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -2144,7 +2197,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -2168,6 +2221,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -2191,9 +2245,10 @@
                         "byte_stop": 3466024,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -2210,7 +2265,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -2241,6 +2296,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -2264,9 +2320,10 @@
                         "byte_stop": 3539898,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -2283,7 +2340,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -2314,6 +2371,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -2358,9 +2416,10 @@
                         "byte_stop": 3642611,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -2377,7 +2436,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -2401,6 +2460,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -2441,7 +2501,7 @@
                                 "stop": 947.7,
                                 "byte_start": 3851800,
                                 "byte_stop": 3930272,
-                                "text": "Now, if you had your wetland over here, then that presumption wouldn\u0027t make any sense, and in those circumstances the Corps\u0027 regulations place upon the Corps the affirmative burden of demonstrating an effect on interstate commerce before the hypothetical wetland up in this corner would be regulated as \u0022isolated wetland\u0022."
+                                "text": "Now, if you had your wetland over here, then that presumption wouldn't make any sense, and in those circumstances the Corps' regulations place upon the Corps the affirmative burden of demonstrating an effect on interstate commerce before the hypothetical wetland up in this corner would be regulated as \"isolated wetland\"."
                             }
                         ]
                     },
@@ -2452,9 +2512,10 @@
                         "byte_stop": 3957648,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -2471,7 +2532,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -2495,6 +2556,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -2507,14 +2569,14 @@
                                 "stop": 972.235,
                                 "byte_start": 3957648,
                                 "byte_stop": 4028388,
-                                "text": "Unless we could show that he has got some interstate commerce activity going on in his back yard, and the Corps would take it upon itself to make that showing itself, and not require the back yard owner to come in and demonstrate it, the absence of the commerce connection to the Corps\u0027s satisfaction."
+                                "text": "Unless we could show that he has got some interstate commerce activity going on in his back yard, and the Corps would take it upon itself to make that showing itself, and not require the back yard owner to come in and demonstrate it, the absence of the commerce connection to the Corps's satisfaction."
                             },
                             {
                                 "start": 972.235,
                                 "stop": 992.664,
                                 "byte_start": 4028388,
                                 "byte_stop": 4110099,
-                                "text": "And again, the Court of Appeals\u0027 opinion is permeated with concern that the government is regulating low lying back yards, that it is quite clear from this picture, from this map, and from the aerial photograph that is in the joint appendix, that this is not a low lying back yard."
+                                "text": "And again, the Court of Appeals' opinion is permeated with concern that the government is regulating low lying back yards, that it is quite clear from this picture, from this map, and from the aerial photograph that is in the joint appendix, that this is not a low lying back yard."
                             },
                             {
                                 "start": 992.664,
@@ -2528,7 +2590,7 @@
                                 "stop": 1036.194,
                                 "byte_start": 4185854,
                                 "byte_stop": 4284179,
-                                "text": "The reason we think that the Court of Appeals opinion is dangerous and needs to be dealt with is not this particular wetland, but because if you accept the Court of Appeals\u0027 reasoning as to a piece of property like this, then the functions that Congress recognized adjacent wetlands perform for open water bodies will never be regulated in the Sixth Circuit."
+                                "text": "The reason we think that the Court of Appeals opinion is dangerous and needs to be dealt with is not this particular wetland, but because if you accept the Court of Appeals' reasoning as to a piece of property like this, then the functions that Congress recognized adjacent wetlands perform for open water bodies will never be regulated in the Sixth Circuit."
                             },
                             {
                                 "start": 1036.194,
@@ -2577,7 +2639,7 @@
                                 "stop": 1062.98,
                                 "byte_start": 4360770,
                                 "byte_stop": 4391385,
-                                "text": "Again, using the map at the back of the reply brief, we have developed areas to the northwest of Riverside\u0027s property."
+                                "text": "Again, using the map at the back of the reply brief, we have developed areas to the northwest of Riverside's property."
                             },
                             {
                                 "start": 1062.98,
@@ -2639,6 +2701,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -2666,7 +2729,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -2690,6 +2753,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -2730,14 +2794,14 @@
                                 "stop": 1156.241,
                                 "byte_start": 4696600,
                                 "byte_stop": 4764414,
-                                "text": "When the waters of Lake St. Clair and the Great Lakes flood, which happens more and more often... I think it is a matter of common knowledge that lake levels on the treat Lakes have been rising over the last decade or so... they go this direction, to the northwest, across Riverside\u0027s property."
+                                "text": "When the waters of Lake St. Clair and the Great Lakes flood, which happens more and more often... I think it is a matter of common knowledge that lake levels on the treat Lakes have been rising over the last decade or so... they go this direction, to the northwest, across Riverside's property."
                             },
                             {
                                 "start": 1156.241,
                                 "stop": 1168.142,
                                 "byte_start": 4764414,
                                 "byte_stop": 4811957,
-                                "text": "If the wetland... what the wetland\u0027s presence does is, the vegetation acts like a sponge, and it traps flood waters, and then it releases them more slowly, like a sponge."
+                                "text": "If the wetland... what the wetland's presence does is, the vegetation acts like a sponge, and it traps flood waters, and then it releases them more slowly, like a sponge."
                             }
                         ]
                     },
@@ -2750,6 +2814,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -2777,7 +2842,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -2788,7 +2853,7 @@
                                 "stop": 1171.687,
                                 "byte_start": 4811957,
                                 "byte_stop": 4826167,
-                                "text": "Didn\u0027t the District Court have something to say about how often that land was flooded?"
+                                "text": "Didn't the District Court have something to say about how often that land was flooded?"
                             }
                         ]
                     },
@@ -2801,6 +2866,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -2813,14 +2879,14 @@
                                 "stop": 1182.621,
                                 "byte_start": 4826167,
                                 "byte_stop": 4869949,
-                                "text": "Yes, she did, and she found it wasn\u0027t very often, but it had happened in a manner that was basically consistent with the flood cycle on the Great Lakes, which is an eight to twenty year cycle."
+                                "text": "Yes, she did, and she found it wasn't very often, but it had happened in a manner that was basically consistent with the flood cycle on the Great Lakes, which is an eight to twenty year cycle."
                             },
                             {
                                 "start": 1182.621,
                                 "stop": 1186.93,
                                 "byte_start": 4869949,
                                 "byte_stop": 4887189,
-                                "text": "The testimony in the record was that you don\u0027t have annual flooding on the Great Lakes."
+                                "text": "The testimony in the record was that you don't have annual flooding on the Great Lakes."
                             },
                             {
                                 "start": 1186.93,
@@ -2848,7 +2914,7 @@
                                 "stop": 1216.154,
                                 "byte_start": 4967020,
                                 "byte_stop": 5004009,
-                                "text": "\u0022infrequency, but since in our view frequent flooding isn\u0027t an element of the jurisdictional test in any event, the frequency, doesn\u0027t matter. \u0022"
+                                "text": "\"infrequency, but since in our view frequent flooding isn't an element of the jurisdictional test in any event, the frequency, doesn't matter. \""
                             },
                             {
                                 "start": 1216.154,
@@ -2868,6 +2934,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2885,7 +2952,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2909,6 +2976,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -2934,6 +3002,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2951,7 +3020,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2975,6 +3044,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -3000,6 +3070,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -3017,7 +3088,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3048,6 +3119,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -3073,6 +3145,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -3090,7 +3163,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3114,6 +3187,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -3139,6 +3213,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -3156,7 +3231,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3180,6 +3255,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -3205,6 +3281,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -3222,7 +3299,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3246,6 +3323,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -3271,6 +3349,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -3288,7 +3367,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3312,6 +3391,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -3324,14 +3404,14 @@
                                 "stop": 1279.815,
                                 "byte_start": 5257292,
                                 "byte_stop": 5258651,
-                                "text": "That\u0027s correct."
+                                "text": "That's correct."
                             },
                             {
                                 "start": 1279.815,
                                 "stop": 1281.642,
                                 "byte_start": 5258651,
                                 "byte_stop": 5265965,
-                                "text": "It doesn\u0027t matter which way."
+                                "text": "It doesn't matter which way."
                             }
                         ]
                     },
@@ -3342,9 +3422,10 @@
                         "byte_stop": 5288535,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -3361,7 +3442,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -3385,6 +3466,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -3422,9 +3504,10 @@
                         "byte_stop": 5372858,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -3441,7 +3524,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -3465,6 +3548,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -3490,6 +3574,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -3507,7 +3592,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -3531,6 +3616,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -3563,6 +3649,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -3590,7 +3677,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -3614,6 +3701,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -3639,6 +3727,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -3666,7 +3755,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -3690,6 +3779,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -3715,6 +3805,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -3742,7 +3833,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -3766,6 +3857,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -3791,6 +3883,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -3818,7 +3911,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -3842,6 +3935,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -3895,6 +3989,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -3922,7 +4017,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -3953,6 +4048,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -3985,6 +4081,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -4012,7 +4109,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -4036,6 +4133,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -4061,6 +4159,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -4088,7 +4187,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -4112,6 +4211,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -4137,6 +4237,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -4154,7 +4255,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -4178,6 +4279,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -4203,6 +4305,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -4220,7 +4323,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -4251,6 +4354,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -4276,6 +4380,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -4293,7 +4398,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -4304,7 +4409,7 @@
                                 "stop": 1409.22,
                                 "byte_start": 5762918,
                                 "byte_stop": 5776293,
-                                "text": "Haven\u0027t we treated that in some case?"
+                                "text": "Haven't we treated that in some case?"
                             }
                         ]
                     },
@@ -4317,6 +4422,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -4342,6 +4448,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -4359,7 +4466,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -4370,7 +4477,7 @@
                                 "stop": 1424.962,
                                 "byte_start": 5799176,
                                 "byte_stop": 5839300,
-                                "text": "Of course, there is an argument on this case that even if... whatever power Congress might have to legislate with respect to isolated potholes or wetlands, they didn\u0027t in this case."
+                                "text": "Of course, there is an argument on this case that even if... whatever power Congress might have to legislate with respect to isolated potholes or wetlands, they didn't in this case."
                             },
                             {
                                 "start": 1424.962,
@@ -4390,6 +4497,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -4415,6 +4523,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -4432,7 +4541,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -4456,6 +4565,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -4481,6 +4591,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -4498,7 +4609,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -4522,6 +4633,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -4534,7 +4646,7 @@
                                 "stop": 1439.333,
                                 "byte_start": 5882350,
                                 "byte_stop": 5896770,
-                                "text": "--This case isn\u0027t an isolated wetland."
+                                "text": "--This case isn't an isolated wetland."
                             },
                             {
                                 "start": 1439.333,
@@ -4561,6 +4673,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -4578,7 +4691,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -4602,6 +4715,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -4614,7 +4728,7 @@
                                 "stop": 1473.476,
                                 "byte_start": 5960091,
                                 "byte_stop": 6033338,
-                                "text": "--I don\u0027t think you have that case before you, but if you wish to put it before you, I think it is quite clear that in the legislative history of the 1977 amendments to the Clean Water Act, that Congress fully understood, and there is one portion in particular... it is a fairly lengthy section, but one portion of the Congressional--"
+                                "text": "--I don't think you have that case before you, but if you wish to put it before you, I think it is quite clear that in the legislative history of the 1977 amendments to the Clean Water Act, that Congress fully understood, and there is one portion in particular... it is a fairly lengthy section, but one portion of the Congressional--"
                             }
                         ]
                     },
@@ -4627,6 +4741,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -4644,7 +4759,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -4675,6 +4790,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -4715,14 +4831,14 @@
                                 "stop": 1558.365,
                                 "byte_start": 6331970,
                                 "byte_stop": 6372930,
-                                "text": "If you don\u0027t stop it, cur normal activities like maintaining drainage ditches will be subject to 404 permits, and you can\u0027t ever have meant that, and Congress came up with two alternatives."
+                                "text": "If you don't stop it, cur normal activities like maintaining drainage ditches will be subject to 404 permits, and you can't ever have meant that, and Congress came up with two alternatives."
                             },
                             {
                                 "start": 1558.365,
                                 "stop": 1562.302,
                                 "byte_start": 6372930,
                                 "byte_stop": 6388603,
-                                "text": "One was to exempt the farmers\u0027 activities from regulation."
+                                "text": "One was to exempt the farmers' activities from regulation."
                             },
                             {
                                 "start": 1562.302,
@@ -4764,7 +4880,7 @@
                                 "stop": 1695.217,
                                 "byte_start": 6864659,
                                 "byte_stop": 6920352,
-                                "text": "And if this wetland is held to be by this Court, or if the Sixth Circuit is affirmed, outside of the Corps\u0027 jurisdiction, than there are no wetlands, isolated or whatever adjective you might use, that are covered at all."
+                                "text": "And if this wetland is held to be by this Court, or if the Sixth Circuit is affirmed, outside of the Corps' jurisdiction, than there are no wetlands, isolated or whatever adjective you might use, that are covered at all."
                             },
                             {
                                 "start": 1695.217,
@@ -4784,6 +4900,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -4801,7 +4918,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -4832,6 +4949,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -4857,6 +4975,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -4874,7 +4993,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -4898,6 +5017,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -4930,6 +5050,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -4947,7 +5068,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -4978,6 +5099,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -5010,6 +5132,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -5027,7 +5150,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -5051,6 +5174,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -5076,6 +5200,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -5093,7 +5218,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -5104,14 +5229,14 @@
                                 "stop": 1758.692,
                                 "byte_start": 7160992,
                                 "byte_stop": 7174158,
-                                "text": "I don\u0027t know what... I am a little bit like Justice Rehnquist."
+                                "text": "I don't know what... I am a little bit like Justice Rehnquist."
                             },
                             {
                                 "start": 1758.692,
                                 "stop": 1761.44,
                                 "byte_start": 7174158,
                                 "byte_stop": 7185233,
-                                "text": "I don\u0027t really know what the map proves, just looking at the map."
+                                "text": "I don't really know what the map proves, just looking at the map."
                             },
                             {
                                 "start": 1761.44,
@@ -5138,6 +5263,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -5157,7 +5283,7 @@
                                 "stop": 1776.403,
                                 "byte_start": 7221282,
                                 "byte_stop": 7245002,
-                                "text": "Therefore water from the wetland... this doesn\u0027t require you to find facts."
+                                "text": "Therefore water from the wetland... this doesn't require you to find facts."
                             },
                             {
                                 "start": 1776.403,
@@ -5198,6 +5324,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -5215,7 +5342,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -5233,7 +5360,7 @@
                                 "stop": 1796.567,
                                 "byte_start": 7314592,
                                 "byte_stop": 7325668,
-                                "text": "It doesn\u0027t sees to me you necessary have surface--"
+                                "text": "It doesn't sees to me you necessary have surface--"
                             }
                         ]
                     },
@@ -5246,6 +5373,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -5258,7 +5386,7 @@
                                 "stop": 1808.187,
                                 "byte_start": 7325668,
                                 "byte_stop": 7372166,
-                                "text": "--It\u0027s... I mean, it\u0027s true that the soil here is quite wet, but at some point the ground is going to have all that it can hold, and the testimony in the record is, this has been a wetland for decades, possibly for over 100 years."
+                                "text": "--It's... I mean, it's true that the soil here is quite wet, but at some point the ground is going to have all that it can hold, and the testimony in the record is, this has been a wetland for decades, possibly for over 100 years."
                             }
                         ]
                     },
@@ -5271,6 +5399,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -5298,7 +5427,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -5322,6 +5451,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -5347,6 +5477,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -5374,7 +5505,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -5398,6 +5529,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -5423,6 +5555,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -5450,7 +5583,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -5474,6 +5607,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -5493,7 +5627,7 @@
                                 "stop": 1818.043,
                                 "byte_start": 7408006,
                                 "byte_stop": 7411558,
-                                "text": "But it\u0027s--"
+                                "text": "But it's--"
                             }
                         ]
                     },
@@ -5506,6 +5640,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -5523,7 +5658,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -5548,7 +5683,7 @@
                                 "stop": 1822.667,
                                 "byte_start": 7425455,
                                 "byte_stop": 7430053,
-                                "text": "It doesn\u0027t include surface."
+                                "text": "It doesn't include surface."
                             }
                         ]
                     },
@@ -5561,6 +5696,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -5602,6 +5738,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -5614,7 +5751,7 @@
                                 "stop": 1841.41,
                                 "byte_start": 7471953,
                                 "byte_stop": 7505077,
-                                "text": "That\u0027s correct, but she made no surface findings except as to flooding, and that was this direction."
+                                "text": "That's correct, but she made no surface findings except as to flooding, and that was this direction."
                             },
                             {
                                 "start": 1841.41,
@@ -5634,6 +5771,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -5651,7 +5789,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -5675,6 +5813,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -5687,7 +5826,7 @@
                                 "stop": 1851.829,
                                 "byte_start": 7542589,
                                 "byte_stop": 7546768,
-                                "text": "I don\u0027t think you have to make a finding."
+                                "text": "I don't think you have to make a finding."
                             },
                             {
                                 "start": 1851.829,
@@ -5707,6 +5846,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -5724,7 +5864,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -5755,6 +5895,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -5780,6 +5921,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -5797,7 +5939,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -5828,6 +5970,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -5840,7 +5983,7 @@
                                 "stop": 1883.55,
                                 "byte_start": 7671215,
                                 "byte_stop": 7673619,
-                                "text": "--That\u0027s correct."
+                                "text": "--That's correct."
                             }
                         ]
                     },
@@ -5853,6 +5996,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -5870,7 +6014,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -5901,6 +6045,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -5926,6 +6071,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -5943,7 +6089,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -5967,6 +6113,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -5992,6 +6139,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -6009,7 +6157,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -6033,6 +6181,7 @@
                             "ID": 33931,
                             "name": "Kathryn Anne Oberly",
                             "href": "https:\/\/api.oyez.org\/people\/kathryn_anne_oberly",
+                            "view_count": 0,
                             "last_name": "Oberly",
                             "roles": null,
                             "thumbnail": null,
@@ -6072,6 +6221,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -6089,7 +6239,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -6121,6 +6271,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -6133,7 +6284,7 @@
                                 "stop": 1965.798,
                                 "byte_start": 7946546,
                                 "byte_stop": 8002657,
-                                "text": "Mr. Chief Justice, and may it please the Court, I must admit that I am somewhat amazed by the government\u0027s position that has been articulated here today."
+                                "text": "Mr. Chief Justice, and may it please the Court, I must admit that I am somewhat amazed by the government's position that has been articulated here today."
                             },
                             {
                                 "start": 1965.798,
@@ -6147,7 +6298,7 @@
                                 "stop": 1997.879,
                                 "byte_start": 8091787,
                                 "byte_stop": 8130971,
-                                "text": "I don\u0027t mean to dwell on this issue, but I would like to point out that this very contention was made before Judge Kennedy, and was rejected by Judge Kennedy."
+                                "text": "I don't mean to dwell on this issue, but I would like to point out that this very contention was made before Judge Kennedy, and was rejected by Judge Kennedy."
                             },
                             {
                                 "start": 1997.879,
@@ -6174,6 +6325,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -6201,7 +6353,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -6219,7 +6371,7 @@
                                 "stop": 2022.401,
                                 "byte_start": 8210801,
                                 "byte_stop": 8229086,
-                                "text": "I don\u0027t mean to interrupt your argument if you don\u0027t."
+                                "text": "I don't mean to interrupt your argument if you don't."
                             }
                         ]
                     },
@@ -6232,6 +6384,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -6244,7 +6397,7 @@
                                 "stop": 2040.878,
                                 "byte_start": 8229086,
                                 "byte_stop": 8302961,
-                                "text": "It is at the appendix to the government\u0027s petition for certiorari at Pages 24, 25, 34, 35, 36, 37, 28, and 31."
+                                "text": "It is at the appendix to the government's petition for certiorari at Pages 24, 25, 34, 35, 36, 37, 28, and 31."
                             },
                             {
                                 "start": 2040.878,
@@ -6278,6 +6431,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -6295,7 +6449,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -6319,6 +6473,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -6344,6 +6499,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -6361,7 +6517,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -6385,6 +6541,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -6410,6 +6567,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -6427,7 +6585,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -6451,6 +6609,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -6490,6 +6649,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -6507,7 +6667,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -6538,6 +6698,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -6550,7 +6711,7 @@
                                 "stop": 2105.604,
                                 "byte_start": 8550811,
                                 "byte_stop": 8561886,
-                                "text": "I don\u0027t believe that is the situation for the Great Salt Lake, Your Honor."
+                                "text": "I don't believe that is the situation for the Great Salt Lake, Your Honor."
                             },
                             {
                                 "start": 2105.604,
@@ -6578,7 +6739,7 @@
                                 "stop": 2129.718,
                                 "byte_start": 8641821,
                                 "byte_stop": 8658331,
-                                "text": "I think the argument just doesn\u0027t square with the facts."
+                                "text": "I think the argument just doesn't square with the facts."
                             },
                             {
                                 "start": 2129.718,
@@ -6655,7 +6816,7 @@
                                 "stop": 2241.752,
                                 "byte_start": 8976398,
                                 "byte_stop": 9106487,
-                                "text": "The government before the Court of Appeals and its petition here, and I guess up until the time of its reply brief, was maintaining that any land such as Riverside\u0027s which possesses wet soils or any reason, and those soils accommodate the growth of trees and other vegetation that are tolerant of wet conditions is a wetland which in turn means it is a navigable water, and regulated under the Clean Water Act."
+                                "text": "The government before the Court of Appeals and its petition here, and I guess up until the time of its reply brief, was maintaining that any land such as Riverside's which possesses wet soils or any reason, and those soils accommodate the growth of trees and other vegetation that are tolerant of wet conditions is a wetland which in turn means it is a navigable water, and regulated under the Clean Water Act."
                             },
                             {
                                 "start": 2241.752,
@@ -6669,7 +6830,7 @@
                                 "stop": 2272.553,
                                 "byte_start": 9181720,
                                 "byte_stop": 9229681,
-                                "text": "We think that the Court of Appeals was correct in rejecting this construction of the phrase \u0022navigable waters\u0022."
+                                "text": "We think that the Court of Appeals was correct in rejecting this construction of the phrase \"navigable waters\"."
                             },
                             {
                                 "start": 2272.553,
@@ -6690,7 +6851,7 @@
                                 "stop": 2300.338,
                                 "byte_start": 9277328,
                                 "byte_stop": 9340753,
-                                "text": "Nowhere in that definition does the term \u0022wetlands\u0022 appear, and in fact nowhere in the several thousand pages of legislative history surrounding the adoption of that Act does the word \u0022wetlands\u0022 or anything equivalent to it appear."
+                                "text": "Nowhere in that definition does the term \"wetlands\" appear, and in fact nowhere in the several thousand pages of legislative history surrounding the adoption of that Act does the word \"wetlands\" or anything equivalent to it appear."
                             }
                         ]
                     },
@@ -6703,6 +6864,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -6720,7 +6882,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -6744,6 +6906,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -6756,7 +6919,7 @@
                                 "stop": 2303.743,
                                 "byte_start": 9348486,
                                 "byte_stop": 9354442,
-                                "text": "That\u0027s the original Act, Your Honor."
+                                "text": "That's the original Act, Your Honor."
                             }
                         ]
                     },
@@ -6769,6 +6932,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -6786,7 +6950,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -6810,6 +6974,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -6850,7 +7015,7 @@
                                 "stop": 2392.521,
                                 "byte_start": 9582438,
                                 "byte_stop": 9709498,
-                                "text": "It referred to cases of this Court, and then stated that it was intending to bring within the Clean Water Act\u0027s regulatory scheme navigable waters that were used in interstate commerce, their tributaries, as long as they were connected to interstate commerce, and then articulated that there could either be a connection through use of those waters in interstate commerce or if the waters ultimately connected to some other method of interstate commerce."
+                                "text": "It referred to cases of this Court, and then stated that it was intending to bring within the Clean Water Act's regulatory scheme navigable waters that were used in interstate commerce, their tributaries, as long as they were connected to interstate commerce, and then articulated that there could either be a connection through use of those waters in interstate commerce or if the waters ultimately connected to some other method of interstate commerce."
                             }
                         ]
                     },
@@ -6861,9 +7026,10 @@
                         "byte_stop": 9774595,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -6880,7 +7046,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -6904,6 +7070,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -6944,7 +7111,7 @@
                                 "stop": 2453.604,
                                 "byte_start": 9907088,
                                 "byte_stop": 9953900,
-                                "text": "Under the government\u0027s construction of the Act, something in the neighborhood of 100 million acres of wetlands will be covered."
+                                "text": "Under the government's construction of the Act, something in the neighborhood of 100 million acres of wetlands will be covered."
                             },
                             {
                                 "start": 2453.604,
@@ -6965,7 +7132,7 @@
                                 "stop": 2483.124,
                                 "byte_start": 10051911,
                                 "byte_stop": 10071973,
-                                "text": "The government\u0027s statement that no wetlands will be regulated is simply incorrect."
+                                "text": "The government's statement that no wetlands will be regulated is simply incorrect."
                             },
                             {
                                 "start": 2483.124,
@@ -7000,7 +7167,7 @@
                                 "stop": 2525.155,
                                 "byte_start": 10192972,
                                 "byte_stop": 10240097,
-                                "text": "What is not regulated are those types of lands such as Riverside\u0027s which have no water connection, surface water connection to a water body."
+                                "text": "What is not regulated are those types of lands such as Riverside's which have no water connection, surface water connection to a water body."
                             },
                             {
                                 "start": 2525.155,
@@ -7014,21 +7181,21 @@
                                 "stop": 2558.39,
                                 "byte_start": 10264339,
                                 "byte_stop": 10373008,
-                                "text": "The government in its briefs, at least, argues that in 1977, Congress\u0027s refusal to adopt amendments that would have severely restricted the definition of navigable waters should be equated to a legislative endorsement of the Corps\u0027 1977 regulations."
+                                "text": "The government in its briefs, at least, argues that in 1977, Congress's refusal to adopt amendments that would have severely restricted the definition of navigable waters should be equated to a legislative endorsement of the Corps' 1977 regulations."
                             },
                             {
                                 "start": 2558.39,
                                 "stop": 2585.191,
                                 "byte_start": 10373008,
                                 "byte_stop": 10480215,
-                                "text": "First off, the 1977 regulations were first promulgated the same day that the bill that amended the 1977 Act was introduced into Congress, and the language as far as these provisions were concerned did not change, so unless Congress is more clairvoyant than I believe it to be, it didn\u0027t even know what those 77 regulations were at that time."
+                                "text": "First off, the 1977 regulations were first promulgated the same day that the bill that amended the 1977 Act was introduced into Congress, and the language as far as these provisions were concerned did not change, so unless Congress is more clairvoyant than I believe it to be, it didn't even know what those 77 regulations were at that time."
                             },
                             {
                                 "start": 2585.191,
                                 "stop": 2599.468,
                                 "byte_start": 10480215,
                                 "byte_stop": 10537266,
-                                "text": "They certainly didn\u0027t know what the Corps was contemplating to do in the future in furtherance of those regulations, but more importantly, Congress did not change the definition of navigable waters."
+                                "text": "They certainly didn't know what the Corps was contemplating to do in the future in furtherance of those regulations, but more importantly, Congress did not change the definition of navigable waters."
                             },
                             {
                                 "start": 2599.468,
@@ -7042,7 +7209,7 @@
                                 "stop": 2627.863,
                                 "byte_start": 10585436,
                                 "byte_stop": 10650846,
-                                "text": "In doing that, I don\u0027t think that it is appropriate to read into Congress\u0027s inaction a positive finding in affirmance of the Corps\u0027 conduct as manifested by its 1977 regulations."
+                                "text": "In doing that, I don't think that it is appropriate to read into Congress's inaction a positive finding in affirmance of the Corps' conduct as manifested by its 1977 regulations."
                             },
                             {
                                 "start": 2627.863,
@@ -7105,7 +7272,7 @@
                                 "stop": 2751.813,
                                 "byte_start": 11092420,
                                 "byte_stop": 11146651,
-                                "text": "For example, draining wetlands, dredging or digging up wetlands as long as you don\u0027t put the dredge spoils on the wetlands themselves, removing vegetation from wetlands, and burning wetlands are not covered."
+                                "text": "For example, draining wetlands, dredging or digging up wetlands as long as you don't put the dredge spoils on the wetlands themselves, removing vegetation from wetlands, and burning wetlands are not covered."
                             },
                             {
                                 "start": 2751.813,
@@ -7133,7 +7300,7 @@
                                 "stop": 2805.948,
                                 "byte_start": 11298892,
                                 "byte_stop": 11363258,
-                                "text": "It was an act designed to prevent the pollution of the nation\u0027s waters, and by defining navigable waters in the Act, Congress intended to include navigable waters, non-navigable tributaries of those waters, and non-navigable portions of those water bodies."
+                                "text": "It was an act designed to prevent the pollution of the nation's waters, and by defining navigable waters in the Act, Congress intended to include navigable waters, non-navigable tributaries of those waters, and non-navigable portions of those water bodies."
                             },
                             {
                                 "start": 2805.948,
@@ -7181,6 +7348,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -7198,7 +7366,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -7222,6 +7390,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -7247,6 +7416,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -7264,7 +7434,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -7288,6 +7458,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -7327,6 +7498,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -7344,7 +7516,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -7368,6 +7540,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -7400,6 +7573,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -7417,7 +7591,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -7441,6 +7615,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -7466,6 +7641,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -7483,7 +7659,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -7507,6 +7683,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -7532,6 +7709,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -7549,7 +7727,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -7573,6 +7751,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -7612,6 +7791,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -7629,7 +7809,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -7653,6 +7833,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -7678,6 +7859,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -7695,7 +7877,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -7719,6 +7901,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -7744,6 +7927,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -7761,7 +7945,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -7785,6 +7969,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -7810,6 +7995,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -7827,7 +8013,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -7851,6 +8037,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -7863,7 +8050,7 @@
                                 "stop": 2957.182,
                                 "byte_start": 11949759,
                                 "byte_stop": 11968149,
-                                "text": "The Act doesn\u0027t regulate ground water."
+                                "text": "The Act doesn't regulate ground water."
                             }
                         ]
                     },
@@ -7876,6 +8063,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -7893,7 +8081,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -7938,6 +8126,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -7984,6 +8173,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -8001,7 +8191,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -8025,6 +8215,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -8051,7 +8242,7 @@
                                 "stop": 3004.991,
                                 "byte_start": 12141184,
                                 "byte_stop": 12159366,
-                                "text": "Fortunately, here we don\u0027t have that factual situation."
+                                "text": "Fortunately, here we don't have that factual situation."
                             },
                             {
                                 "start": 3004.991,
@@ -8065,7 +8256,7 @@
                                 "stop": 3032.057,
                                 "byte_start": 12171591,
                                 "byte_stop": 12267617,
-                                "text": "The second problem from our perspective of the government\u0027s position is that once you depart from the requirement of the surface connection, there really is no limit to how far away from a navigable water an area can be and still be treated as a navigable water within the Act."
+                                "text": "The second problem from our perspective of the government's position is that once you depart from the requirement of the surface connection, there really is no limit to how far away from a navigable water an area can be and still be treated as a navigable water within the Act."
                             },
                             {
                                 "start": 3032.057,
@@ -8079,7 +8270,7 @@
                                 "stop": 3055.799,
                                 "byte_start": 12312339,
                                 "byte_stop": 12362598,
-                                "text": "But the government has abandoned that requirement in the 1977 regulations, and is now moving away from the water body, and we just don\u0027t know how far away they intend to go."
+                                "text": "But the government has abandoned that requirement in the 1977 regulations, and is now moving away from the water body, and we just don't know how far away they intend to go."
                             },
                             {
                                 "start": 3055.799,
@@ -8093,7 +8284,7 @@
                                 "stop": 3064.92,
                                 "byte_start": 12387049,
                                 "byte_stop": 12399065,
-                                "text": "We don\u0027t know what that is."
+                                "text": "We don't know what that is."
                             },
                             {
                                 "start": 3064.92,
@@ -8120,6 +8311,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -8137,7 +8329,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -8161,6 +8353,7 @@
                             "ID": 23361,
                             "name": "Edgar B. Washburn",
                             "href": "https:\/\/api.oyez.org\/people\/edgar_b_washburn",
+                            "view_count": 0,
                             "last_name": "Washburn",
                             "roles": null,
                             "thumbnail": null,
@@ -8194,14 +8387,14 @@
                                 "stop": 3137.657,
                                 "byte_start": 12664678,
                                 "byte_stop": 12690069,
-                                "text": "In the government\u0027s words, jurisdictional rules are of limited utility."
+                                "text": "In the government's words, jurisdictional rules are of limited utility."
                             },
                             {
                                 "start": 3137.657,
                                 "stop": 3145.732,
                                 "byte_start": 12690069,
                                 "byte_stop": 12722357,
-                                "text": "Well, they may be of limited utility from the perspective of the Corps of Engineers, but it is certainly not from a landowner\u0027s perspective."
+                                "text": "Well, they may be of limited utility from the perspective of the Corps of Engineers, but it is certainly not from a landowner's perspective."
                             },
                             {
                                 "start": 3145.732,
@@ -8243,7 +8436,7 @@
                                 "stop": 3202.927,
                                 "byte_start": 12886928,
                                 "byte_stop": 12951189,
-                                "text": "The point is that from the landowner\u0027s point of view, the jurisdictional determination is the critical determination, for once jurisdiction attaches, all sorts of bad things begin to happen from the landowner\u0027s perspective."
+                                "text": "The point is that from the landowner's point of view, the jurisdictional determination is the critical determination, for once jurisdiction attaches, all sorts of bad things begin to happen from the landowner's perspective."
                             },
                             {
                                 "start": 3202.927,
@@ -8257,7 +8450,7 @@
                                 "stop": 3237.273,
                                 "byte_start": 13065919,
                                 "byte_stop": 13088489,
-                                "text": "In this instance, the Corps\u0027 regulations satisfies neither requirement."
+                                "text": "In this instance, the Corps' regulations satisfies neither requirement."
                             },
                             {
                                 "start": 3237.273,
@@ -8306,7 +8499,7 @@
                                 "stop": 3291.892,
                                 "byte_start": 13247418,
                                 "byte_stop": 13306977,
-                                "text": "We think there is no need for the courts to construe the Clean Water Act in a fashion that will basically amend the Act to be one of wetland protection when that was not Congress\u0027s intent."
+                                "text": "We think there is no need for the courts to construe the Clean Water Act in a fashion that will basically amend the Act to be one of wetland protection when that was not Congress's intent."
                             },
                             {
                                 "start": 3291.892,
@@ -8333,6 +8526,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -8350,7 +8544,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"

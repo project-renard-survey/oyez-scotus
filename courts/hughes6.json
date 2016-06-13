@@ -2,11 +2,13 @@
     "ID": 15348,
     "name": "Hughes Court (1937)",
     "href": "https:\/\/api.oyez.org\/courts\/hughes6",
+    "view_count": 0,
     "members": [
         {
             "ID": 15038,
             "name": "Charles E. Hughes",
             "href": "https:\/\/api.oyez.org\/people\/charles_e_hughes",
+            "view_count": 0,
             "last_name": "Hughes",
             "roles": [
                 {
@@ -34,7 +36,7 @@
                 "id": 32790,
                 "mime": "image\/png",
                 "size": 56986,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_hughes.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/charles_e_hughes\/charles_e_hughes.thumb.png"
             },
             "length_of_service": 6214,
             "identifier": "charles_e_hughes"
@@ -43,6 +45,7 @@
             "ID": 15066,
             "name": "James C. McReynolds",
             "href": "https:\/\/api.oyez.org\/people\/james_c_mcreynolds",
+            "view_count": 0,
             "last_name": "McReynolds",
             "roles": [
                 {
@@ -60,7 +63,7 @@
                 "id": 32720,
                 "mime": "image\/png",
                 "size": 55380,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_c_mcreynolds.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/james_c_mcreynolds\/james_c_mcreynolds.thumb.png"
             },
             "length_of_service": 9608,
             "identifier": "james_c_mcreynolds"
@@ -69,6 +72,7 @@
             "ID": 15075,
             "name": "Louis D. Brandeis",
             "href": "https:\/\/api.oyez.org\/people\/louis_d_brandeis",
+            "view_count": 0,
             "last_name": "Brandeis",
             "roles": [
                 {
@@ -86,7 +90,7 @@
                 "id": 32739,
                 "mime": "image\/png",
                 "size": 33357,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/louis_brandeis.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/louis_d_brandeis\/louis_d_brandeis.thumb.png"
             },
             "length_of_service": 8288,
             "identifier": "louis_d_brandeis"
@@ -95,6 +99,7 @@
             "ID": 15108,
             "name": "George Sutherland",
             "href": "https:\/\/api.oyez.org\/people\/george_sutherland",
+            "view_count": 0,
             "last_name": "Sutherland",
             "roles": [
                 {
@@ -108,7 +113,12 @@
                     "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2752"
                 }
             ],
-            "thumbnail": null,
+            "thumbnail": {
+                "id": 79212,
+                "mime": "image\/png",
+                "size": 37318,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/george_sutherland\/george_sutherland.thumb_0.png"
+            },
             "length_of_service": 5586,
             "identifier": "george_sutherland"
         },
@@ -116,6 +126,7 @@
             "ID": 15138,
             "name": "Pierce Butler",
             "href": "https:\/\/api.oyez.org\/people\/pierce_butler",
+            "view_count": 0,
             "last_name": "Butler",
             "roles": [
                 {
@@ -133,7 +144,7 @@
                 "id": 32751,
                 "mime": "image\/png",
                 "size": 38328,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/pierce_butler.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/pierce_butler\/pierce_butler.thumb.png"
             },
             "length_of_service": 6162,
             "identifier": "pierce_butler"
@@ -142,6 +153,7 @@
             "ID": 15134,
             "name": "Harlan Fiske Stone",
             "href": "https:\/\/api.oyez.org\/people\/harlan_fiske_stone",
+            "view_count": 0,
             "last_name": "Stone",
             "roles": [
                 {
@@ -169,7 +181,7 @@
                 "id": 32788,
                 "mime": "image\/png",
                 "size": 33656,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harlan_f_stone.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harlan_fiske_stone\/harlan_fiske_stone.thumb.png"
             },
             "length_of_service": 7720,
             "identifier": "harlan_fiske_stone"
@@ -178,6 +190,7 @@
             "ID": 15041,
             "name": "Owen J. Roberts",
             "href": "https:\/\/api.oyez.org\/people\/owen_j_roberts",
+            "view_count": 0,
             "last_name": "Roberts",
             "roles": [
                 {
@@ -195,7 +208,7 @@
                 "id": 32748,
                 "mime": "image\/png",
                 "size": 53589,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/owen_roberts.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/owen_j_roberts\/owen_j_roberts.thumb.png"
             },
             "length_of_service": 5538,
             "identifier": "owen_j_roberts"
@@ -204,6 +217,7 @@
             "ID": 15109,
             "name": "Benjamin N. Cardozo",
             "href": "https:\/\/api.oyez.org\/people\/benjamin_n_cardozo",
+            "view_count": 0,
             "last_name": "Cardozo",
             "roles": [
                 {
@@ -221,7 +235,7 @@
                 "id": 32696,
                 "mime": "image\/png",
                 "size": 42895,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/benjamin_cardozo.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/benjamin_n_cardozo\/benjamin_n_cardozo.thumb.png"
             },
             "length_of_service": 2308,
             "identifier": "benjamin_n_cardozo"
@@ -234,7 +248,7 @@
             "id": 56672,
             "mime": "image\/jpeg",
             "size": 1623788,
-            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/2012-19-10-1-cd_1.jpg"
+            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/hughes6.jpg"
         }
     ],
     "identifier": "hughes6"

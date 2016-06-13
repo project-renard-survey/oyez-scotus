@@ -40,6 +40,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -57,7 +58,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"
@@ -88,6 +89,7 @@
                             "ID": 30108,
                             "name": "J. Sewell Elliott",
                             "href": "https:\/\/api.oyez.org\/people\/j_sewell_elliott",
+                            "view_count": 0,
                             "last_name": "Elliott",
                             "roles": null,
                             "thumbnail": null,
@@ -121,21 +123,21 @@
                                 "stop": 48.843,
                                 "byte_start": 274892,
                                 "byte_stop": 298820,
-                                "text": "I think it\u0027s an obvious error with nevertheless I do want to point it out to the Court."
+                                "text": "I think it's an obvious error with nevertheless I do want to point it out to the Court."
                             },
                             {
                                 "start": 48.843,
                                 "stop": 59.413,
                                 "byte_start": 298820,
                                 "byte_stop": 341138,
-                                "text": "In the second paragraph there, third line, \u0022Any waste being committed therein, such could not be used.\u0022"
+                                "text": "In the second paragraph there, third line, \"Any waste being committed therein, such could not be used.\""
                             },
                             {
                                 "start": 59.413,
                                 "stop": 75.414,
                                 "byte_start": 341138,
                                 "byte_stop": 405086,
-                                "text": "In other words, the word, \u0022not\u0022 should be inserted between could be."
+                                "text": "In other words, the word, \"not\" should be inserted between could be."
                             },
                             {
                                 "start": 75.414,
@@ -169,6 +171,7 @@
                             "ID": 15050,
                             "name": "Felix Frankfurter",
                             "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "view_count": 0,
                             "last_name": "Frankfurter",
                             "roles": [
                                 {
@@ -186,7 +189,7 @@
                                 "id": 32706,
                                 "mime": "image\/png",
                                 "size": 45083,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                             },
                             "length_of_service": 8611,
                             "identifier": "felix_frankfurter"
@@ -210,6 +213,7 @@
                             "ID": 30108,
                             "name": "J. Sewell Elliott",
                             "href": "https:\/\/api.oyez.org\/people\/j_sewell_elliott",
+                            "view_count": 0,
                             "last_name": "Elliott",
                             "roles": null,
                             "thumbnail": null,
@@ -375,6 +379,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -392,7 +397,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"
@@ -403,7 +408,7 @@
                                 "stop": 336.179,
                                 "byte_start": 1432952,
                                 "byte_stop": 1448103,
-                                "text": "We\u0027ll recess now Mr. --"
+                                "text": "We'll recess now Mr. --"
                             }
                         ]
                     }

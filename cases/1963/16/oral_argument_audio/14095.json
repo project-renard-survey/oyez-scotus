@@ -40,6 +40,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -57,7 +58,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"
@@ -86,9 +87,10 @@
                         "byte_stop": 228498,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -127,6 +129,7 @@
                             "ID": 15140,
                             "name": "William J. Brennan, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "view_count": 28,
                             "last_name": "Brennan",
                             "roles": [
                                 {
@@ -144,7 +147,7 @@
                                 "id": 32778,
                                 "mime": "image\/png",
                                 "size": 56873,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                             },
                             "length_of_service": 12330,
                             "identifier": "william_j_brennan_jr"
@@ -166,9 +169,10 @@
                         "byte_stop": 2032097,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -187,14 +191,14 @@
                                 "stop": 38.303,
                                 "byte_start": 239470,
                                 "byte_stop": 256711,
-                                "text": "It\u0027s just a reference to the last case."
+                                "text": "It's just a reference to the last case."
                             },
                             {
                                 "start": 38.303,
                                 "stop": 52.403,
                                 "byte_start": 256711,
                                 "byte_stop": 313135,
-                                "text": "This case is here on a writ of certiorari to the Court of Appeals for the Second Circuit to review that court\u0027s affirmance of a judgment of the District Court for the Southern District of New York."
+                                "text": "This case is here on a writ of certiorari to the Court of Appeals for the Second Circuit to review that court's affirmance of a judgment of the District Court for the Southern District of New York."
                             },
                             {
                                 "start": 52.403,
@@ -292,7 +296,7 @@
                                 "stop": 256.212,
                                 "byte_start": 1050102,
                                 "byte_stop": 1128364,
-                                "text": "This was one of a long series of decrees, which are -- some of which are referred to in a footnote at page 39 of petitioner\u0027s brief, which began in May of 1959 and which, in the end, transformed Cuba from a capitalist to a socialist economy."
+                                "text": "This was one of a long series of decrees, which are -- some of which are referred to in a footnote at page 39 of petitioner's brief, which began in May of 1959 and which, in the end, transformed Cuba from a capitalist to a socialist economy."
                             },
                             {
                                 "start": 256.212,
@@ -417,6 +421,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -434,7 +439,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -456,9 +461,10 @@
                         "byte_stop": 2130526,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -470,14 +476,14 @@
                                 "stop": 488.822,
                                 "byte_start": 2052681,
                                 "byte_stop": 2058742,
-                                "text": "No, it\u0027s a French bank."
+                                "text": "No, it's a French bank."
                             },
                             {
                                 "start": 488.822,
                                 "stop": 494.308,
                                 "byte_start": 2058742,
                                 "byte_stop": 2080684,
-                                "text": "It\u0027s a private bank which is owned by French Interest."
+                                "text": "It's a private bank which is owned by French Interest."
                             },
                             {
                                 "start": 494.308,
@@ -497,6 +503,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -514,7 +521,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -536,9 +543,10 @@
                         "byte_stop": 2156648,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -563,6 +571,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -580,7 +589,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -602,9 +611,10 @@
                         "byte_stop": 2265631,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -657,9 +667,10 @@
                         "byte_stop": 2276185,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -684,6 +695,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -701,7 +713,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -723,9 +735,10 @@
                         "byte_stop": 2285798,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -744,7 +757,7 @@
                                 "stop": 545.57,
                                 "byte_start": 2279737,
                                 "byte_stop": 2285798,
-                                "text": "There\u0027s no question about that."
+                                "text": "There's no question about that."
                             }
                         ]
                     },
@@ -757,6 +770,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -774,7 +788,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -796,9 +810,10 @@
                         "byte_stop": 2306173,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -823,6 +838,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -840,7 +856,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -862,9 +878,10 @@
                         "byte_stop": 3932244,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -925,7 +942,7 @@
                                 "stop": 624.156,
                                 "byte_start": 2487986,
                                 "byte_stop": 2600103,
-                                "text": "We would have thought that, under these circumstances, summary judgment would have resulted in favor of the petitioner that the Court then went on to decide the case on a ground that had not been urged before it, that had not been argued before it, that had not been briefed before it, and that I don\u0027t think that any counsel had even thought about it because, to us at least, the law seemed so clear that there was no point in arguing the matter."
+                                "text": "We would have thought that, under these circumstances, summary judgment would have resulted in favor of the petitioner that the Court then went on to decide the case on a ground that had not been urged before it, that had not been argued before it, that had not been briefed before it, and that I don't think that any counsel had even thought about it because, to us at least, the law seemed so clear that there was no point in arguing the matter."
                             },
                             {
                                 "start": 624.156,
@@ -967,7 +984,7 @@
                                 "stop": 694.665,
                                 "byte_start": 2828204,
                                 "byte_stop": 2882121,
-                                "text": "This was the exception which it, the same court, had found, in about 1947 I think, in the second Bernstein case, and that\u0027s reported in 210 F.2d 375."
+                                "text": "This was the exception which it, the same court, had found, in about 1947 I think, in the second Bernstein case, and that's reported in 210 F.2d 375."
                             },
                             {
                                 "start": 694.665,
@@ -995,7 +1012,7 @@
                                 "stop": 777.392,
                                 "byte_start": 3035721,
                                 "byte_stop": 3213040,
-                                "text": "It then went on to decide that the Cuban decree had violated international law and, while it didn\u0027t find the same three violations of international law that the district court had find, it sort of grouped all of them together and, to use its language, it held that there was a violation of international law for a company to fail to pay adequate compensation for the property it seizes from a particular class of aliens when the purpose for the seizure of the property is to retaliate against the homeland of those aliens and when the result of such seizure is to discriminate against them only."
+                                "text": "It then went on to decide that the Cuban decree had violated international law and, while it didn't find the same three violations of international law that the district court had find, it sort of grouped all of them together and, to use its language, it held that there was a violation of international law for a company to fail to pay adequate compensation for the property it seizes from a particular class of aliens when the purpose for the seizure of the property is to retaliate against the homeland of those aliens and when the result of such seizure is to discriminate against them only."
                             },
                             {
                                 "start": 777.392,
@@ -1030,7 +1047,7 @@
                                 "stop": 831.058,
                                 "byte_start": 3364655,
                                 "byte_stop": 3427662,
-                                "text": "But, in modern times, it may be said to date from Underhill against Hernandez, although there\u0027s some language in the Schooner Exchange which does seem to foreshadow this same doctrine."
+                                "text": "But, in modern times, it may be said to date from Underhill against Hernandez, although there's some language in the Schooner Exchange which does seem to foreshadow this same doctrine."
                             },
                             {
                                 "start": 831.058,
@@ -1072,7 +1089,7 @@
                                 "stop": 924.223,
                                 "byte_start": 3693484,
                                 "byte_stop": 3800377,
-                                "text": "The New York courts hold to the same effect, and this is of some significance because there are some suggestion both in the Court of Appeals and in the decisions of the -- in the briefs of -- the many briefs that have been submitted in opposition to the petitioner, that perhaps, under the Erie against Tompkins case, the New York law applies, but it really doesn\u0027t matter because the New York cases are in complete agreement."
+                                "text": "The New York courts hold to the same effect, and this is of some significance because there are some suggestion both in the Court of Appeals and in the decisions of the -- in the briefs of -- the many briefs that have been submitted in opposition to the petitioner, that perhaps, under the Erie against Tompkins case, the New York law applies, but it really doesn't matter because the New York cases are in complete agreement."
                             },
                             {
                                 "start": 924.223,
@@ -1099,6 +1116,7 @@
                             "ID": 15044,
                             "name": "Arthur J. Goldberg",
                             "href": "https:\/\/api.oyez.org\/people\/arthur_j_goldberg",
+                            "view_count": 30,
                             "last_name": "Goldberg",
                             "roles": [
                                 {
@@ -1116,7 +1134,7 @@
                                 "id": 32695,
                                 "mime": "image\/png",
                                 "size": 50285,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/arthur_j_goldberg.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/arthur_j_goldberg\/arthur_j_goldberg.thumb.png"
                             },
                             "length_of_service": 1028,
                             "identifier": "arthur_j_goldberg"
@@ -1127,7 +1145,7 @@
                                 "stop": 961.625,
                                 "byte_start": 3932244,
                                 "byte_stop": 3950007,
-                                "text": "There\u0027s a bit of (Inaudible) it appears the law of (Inaudible)."
+                                "text": "There's a bit of (Inaudible) it appears the law of (Inaudible)."
                             },
                             {
                                 "start": 961.625,
@@ -1141,7 +1159,7 @@
                                 "stop": 983.053,
                                 "byte_start": 4009253,
                                 "byte_stop": 4035688,
-                                "text": "This is on the (Inaudible) giving him advice when you\u0027re treating it as an act of state."
+                                "text": "This is on the (Inaudible) giving him advice when you're treating it as an act of state."
                             }
                         ]
                     },
@@ -1152,9 +1170,10 @@
                         "byte_stop": 4050735,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -1166,14 +1185,14 @@
                                 "stop": 984.65,
                                 "byte_start": 4035688,
                                 "byte_stop": 4042062,
-                                "text": "I\u0027ll be glad to come to that, Your Honor."
+                                "text": "I'll be glad to come to that, Your Honor."
                             },
                             {
                                 "start": 984.65,
                                 "stop": 986.804,
                                 "byte_start": 4042062,
                                 "byte_stop": 4050735,
-                                "text": "I hope I remember it, and if I don\u0027t--"
+                                "text": "I hope I remember it, and if I don't--"
                             }
                         ]
                     },
@@ -1186,6 +1205,7 @@
                             "ID": 15044,
                             "name": "Arthur J. Goldberg",
                             "href": "https:\/\/api.oyez.org\/people\/arthur_j_goldberg",
+                            "view_count": 30,
                             "last_name": "Goldberg",
                             "roles": [
                                 {
@@ -1203,7 +1223,7 @@
                                 "id": 32695,
                                 "mime": "image\/png",
                                 "size": 50285,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/arthur_j_goldberg.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/arthur_j_goldberg\/arthur_j_goldberg.thumb.png"
                             },
                             "length_of_service": 1028,
                             "identifier": "arthur_j_goldberg"
@@ -1225,9 +1245,10 @@
                         "byte_stop": 4319065,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -1260,7 +1281,7 @@
                                 "stop": 1011.281,
                                 "byte_start": 4129102,
                                 "byte_stop": 4148642,
-                                "text": "There\u0027s no doubt that it\u0027s accepted it in England in Luther against Sagor."
+                                "text": "There's no doubt that it's accepted it in England in Luther against Sagor."
                             },
                             {
                                 "start": 1011.281,
@@ -1281,7 +1302,7 @@
                                 "stop": 1053.908,
                                 "byte_start": 4237563,
                                 "byte_stop": 4319065,
-                                "text": "All of them are discussed in the brief and to be honest, I really don\u0027t see why they make very much difference because the law in the United States and England is identical and I have just stated it, and I don\u0027t know why it should make very much difference what the Court of Venice thinks about this question."
+                                "text": "All of them are discussed in the brief and to be honest, I really don't see why they make very much difference because the law in the United States and England is identical and I have just stated it, and I don't know why it should make very much difference what the Court of Venice thinks about this question."
                             }
                         ]
                     },
@@ -1294,6 +1315,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1311,7 +1333,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -1322,7 +1344,7 @@
                                 "stop": 1058.389,
                                 "byte_start": 4319065,
                                 "byte_stop": 4337037,
-                                "text": "Now, in the ultimate effect, it doesn\u0027t really make much difference what the courts of England think about it."
+                                "text": "Now, in the ultimate effect, it doesn't really make much difference what the courts of England think about it."
                             },
                             {
                                 "start": 1058.389,
@@ -1340,9 +1362,10 @@
                         "byte_stop": 4338604,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -1367,6 +1390,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1384,7 +1408,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -1406,9 +1430,10 @@
                         "byte_stop": 4342471,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -1433,6 +1458,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1450,7 +1476,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -1472,9 +1498,10 @@
                         "byte_stop": 4344351,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -1499,6 +1526,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1516,7 +1544,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -1538,9 +1566,10 @@
                         "byte_stop": 4361801,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -1565,6 +1594,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1582,7 +1612,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -1604,9 +1634,10 @@
                         "byte_stop": 4379355,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -1631,6 +1662,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1648,7 +1680,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -1659,7 +1691,7 @@
                                 "stop": 1070.545,
                                 "byte_start": 4379355,
                                 "byte_stop": 4385625,
-                                "text": "It\u0027s the United States court --"
+                                "text": "It's the United States court --"
                             }
                         ]
                     },
@@ -1670,9 +1702,10 @@
                         "byte_stop": 4386147,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -1697,6 +1730,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1714,7 +1748,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -1736,9 +1770,10 @@
                         "byte_stop": 4394611,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -1750,7 +1785,7 @@
                                 "stop": 1072.682,
                                 "byte_start": 4387610,
                                 "byte_stop": 4394193,
-                                "text": "That\u0027s so, Your Honor."
+                                "text": "That's so, Your Honor."
                             },
                             {
                                 "start": 1072.682,
@@ -1770,6 +1805,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1787,7 +1823,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -1798,7 +1834,7 @@
                                 "stop": 1084.91,
                                 "byte_start": 4394611,
                                 "byte_stop": 4443094,
-                                "text": "Now -- well, I\u0027ve -- since I\u0027ve interrupted you, may I ask you whether the -- or not this doctrine applies in case the foreign government has not been recognized diplomatically by our nation?"
+                                "text": "Now -- well, I've -- since I've interrupted you, may I ask you whether the -- or not this doctrine applies in case the foreign government has not been recognized diplomatically by our nation?"
                             }
                         ]
                     },
@@ -1809,9 +1845,10 @@
                         "byte_stop": 4562526,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -1830,7 +1867,7 @@
                                 "stop": 1114.766,
                                 "byte_start": 4483636,
                                 "byte_stop": 4562526,
-                                "text": "There are no diplomatic relations, but the foreign government has been recognized and there is material, I think it\u0027s in this record, but certainly in Ricoeur and many other cases in the United States in which the Secretary of State has written letters to various courts throughout the country saying \u201cthe Cuba -- the Cuban Government has been recognized by the United States.\u201d"
+                                "text": "There are no diplomatic relations, but the foreign government has been recognized and there is material, I think it's in this record, but certainly in Ricoeur and many other cases in the United States in which the Secretary of State has written letters to various courts throughout the country saying \u201cthe Cuba -- the Cuban Government has been recognized by the United States.\u201d"
                             }
                         ]
                     },
@@ -1843,6 +1880,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1860,7 +1898,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -1882,9 +1920,10 @@
                         "byte_stop": 4569840,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -1909,6 +1948,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1926,7 +1966,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -1948,9 +1988,10 @@
                         "byte_stop": 4580080,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -1975,6 +2016,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1992,7 +2034,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -2014,9 +2056,10 @@
                         "byte_stop": 5169821,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -2035,7 +2078,7 @@
                                 "stop": 1135.34,
                                 "byte_start": 4593873,
                                 "byte_stop": 4644864,
-                                "text": "The C.A.V. brief says that the Court of Appeals\u0027 decision is supported by commentators and decisions of courts in other countries and that may be true, but I don\u0027t consider it to be decisive."
+                                "text": "The C.A.V. brief says that the Court of Appeals' decision is supported by commentators and decisions of courts in other countries and that may be true, but I don't consider it to be decisive."
                             },
                             {
                                 "start": 1135.34,
@@ -2049,7 +2092,7 @@
                                 "stop": 1159.414,
                                 "byte_start": 4688123,
                                 "byte_stop": 4741099,
-                                "text": "Now, I\u0027m not going to argue that extensively because I think that the brief of the Solicitor General handles this matter rather fully and is -- I\u0027m sure, plans to consider these policy considerations."
+                                "text": "Now, I'm not going to argue that extensively because I think that the brief of the Solicitor General handles this matter rather fully and is -- I'm sure, plans to consider these policy considerations."
                             },
                             {
                                 "start": 1159.414,
@@ -2063,21 +2106,21 @@
                                 "stop": 1172.894,
                                 "byte_start": 4760848,
                                 "byte_stop": 4795016,
-                                "text": "C.A.V. and many of the amicus briefs make quite a point of an argument which we don\u0027t make."
+                                "text": "C.A.V. and many of the amicus briefs make quite a point of an argument which we don't make."
                             },
                             {
                                 "start": 1172.894,
                                 "stop": 1192.521,
                                 "byte_start": 4795016,
                                 "byte_stop": 4873592,
-                                "text": "They make quite a point in answering an argument that we don\u0027t make and that, I believe, the Solicitor General makes either and they say that this Court has the power to decide cases even though they affect foreign relations and it quotes cases like the Familiar Ground against Canal and other similar cases."
+                                "text": "They make quite a point in answering an argument that we don't make and that, I believe, the Solicitor General makes either and they say that this Court has the power to decide cases even though they affect foreign relations and it quotes cases like the Familiar Ground against Canal and other similar cases."
                             },
                             {
                                 "start": 1192.521,
                                 "stop": 1200.585,
                                 "byte_start": 4873592,
                                 "byte_stop": 4905775,
-                                "text": "Now, I certainly would not argue that this Court doesn\u0027t have any power to decide cases which involve foreign relations."
+                                "text": "Now, I certainly would not argue that this Court doesn't have any power to decide cases which involve foreign relations."
                             },
                             {
                                 "start": 1200.585,
@@ -2091,21 +2134,21 @@
                                 "stop": 1228.047,
                                 "byte_start": 4930748,
                                 "byte_stop": 5015698,
-                                "text": "For example, there is a citation -- there is a reference to Mr. Justice Brennan\u0027s decision in Baker against Carr in which the opinion makes some reference to the language in the Ricoeur case, I believe, and says that this language is too broad that the court frequently does handle problems involving foreign relations."
+                                "text": "For example, there is a citation -- there is a reference to Mr. Justice Brennan's decision in Baker against Carr in which the opinion makes some reference to the language in the Ricoeur case, I believe, and says that this language is too broad that the court frequently does handle problems involving foreign relations."
                             },
                             {
                                 "start": 1228.047,
                                 "stop": 1229.863,
                                 "byte_start": 5015698,
                                 "byte_stop": 5022908,
-                                "text": "Now, I\u0027m not arguing that question."
+                                "text": "Now, I'm not arguing that question."
                             },
                             {
                                 "start": 1229.863,
                                 "stop": 1232.336,
                                 "byte_start": 5022908,
                                 "byte_stop": 5032835,
-                                "text": "I don\u0027t think it has anything to do with this case."
+                                "text": "I don't think it has anything to do with this case."
                             },
                             {
                                 "start": 1232.336,
@@ -2119,7 +2162,7 @@
                                 "stop": 1249.679,
                                 "byte_start": 5080586,
                                 "byte_stop": 5102216,
-                                "text": "That\u0027s all I have to say in this case and that\u0027s all that I am asking the Court to rule on."
+                                "text": "That's all I have to say in this case and that's all that I am asking the Court to rule on."
                             },
                             {
                                 "start": 1249.679,
@@ -2146,6 +2189,7 @@
                             "ID": 15044,
                             "name": "Arthur J. Goldberg",
                             "href": "https:\/\/api.oyez.org\/people\/arthur_j_goldberg",
+                            "view_count": 30,
                             "last_name": "Goldberg",
                             "roles": [
                                 {
@@ -2163,7 +2207,7 @@
                                 "id": 32695,
                                 "mime": "image\/png",
                                 "size": 50285,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/arthur_j_goldberg.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/arthur_j_goldberg\/arthur_j_goldberg.thumb.png"
                             },
                             "length_of_service": 1028,
                             "identifier": "arthur_j_goldberg"
@@ -2185,9 +2229,10 @@
                         "byte_stop": 5518503,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -2199,14 +2244,14 @@
                                 "stop": 1276.212,
                                 "byte_start": 5191346,
                                 "byte_stop": 5208273,
-                                "text": "I think it\u0027s a rule of international law, Mr. Justice Goldberg, but whether it is or not."
+                                "text": "I think it's a rule of international law, Mr. Justice Goldberg, but whether it is or not."
                             },
                             {
                                 "start": 1276.212,
                                 "stop": 1280.625,
                                 "byte_start": 5208273,
                                 "byte_stop": 5225932,
-                                "text": "I think it\u0027s a rule of this Court and I\u0027m willing to rely on this Court."
+                                "text": "I think it's a rule of this Court and I'm willing to rely on this Court."
                             },
                             {
                                 "start": 1280.625,
@@ -2220,14 +2265,14 @@
                                 "stop": 1301.16,
                                 "byte_start": 5237635,
                                 "byte_stop": 5308165,
-                                "text": "You see, the difficulty with the whole feel of international law, and we\u0027ll come to this a little later, is that there is a general tendency on the part of our courts, and it\u0027s natural enough, under the circumstances, to regard international law as being something that the courts of the United States and Western Europe hold."
+                                "text": "You see, the difficulty with the whole feel of international law, and we'll come to this a little later, is that there is a general tendency on the part of our courts, and it's natural enough, under the circumstances, to regard international law as being something that the courts of the United States and Western Europe hold."
                             },
                             {
                                 "start": 1301.16,
                                 "stop": 1305.194,
                                 "byte_start": 5308165,
                                 "byte_stop": 5324257,
-                                "text": "Now, the fact is that most of the people in the world don\u0027t live in United States or Western Europe."
+                                "text": "Now, the fact is that most of the people in the world don't live in United States or Western Europe."
                             },
                             {
                                 "start": 1305.194,
@@ -2248,21 +2293,21 @@
                                 "stop": 1341.771,
                                 "byte_start": 5442121,
                                 "byte_stop": 5470542,
-                                "text": "So, I can\u0027t say \u201cthe court say international law is the practice of most civilized nations."
+                                "text": "So, I can't say \u201cthe court say international law is the practice of most civilized nations."
                             },
                             {
                                 "start": 1341.771,
                                 "stop": 1352.29,
                                 "byte_start": 5470542,
                                 "byte_stop": 5512652,
-                                "text": "\u201dI don\u0027t know and I don\u0027t believe that anybody knows what international law is in this rapidly expanding world of today with so many new nations being created almost everyday."
+                                "text": "\u201dI don't know and I don't believe that anybody knows what international law is in this rapidly expanding world of today with so many new nations being created almost everyday."
                             },
                             {
                                 "start": 1352.29,
                                 "stop": 1353.764,
                                 "byte_start": 5512652,
                                 "byte_stop": 5518503,
-                                "text": "So, it\u0027s a pretty hard thing to tell."
+                                "text": "So, it's a pretty hard thing to tell."
                             }
                         ]
                     },
@@ -2275,6 +2320,7 @@
                             "ID": 15044,
                             "name": "Arthur J. Goldberg",
                             "href": "https:\/\/api.oyez.org\/people\/arthur_j_goldberg",
+                            "view_count": 30,
                             "last_name": "Goldberg",
                             "roles": [
                                 {
@@ -2292,7 +2338,7 @@
                                 "id": 32695,
                                 "mime": "image\/png",
                                 "size": 50285,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/arthur_j_goldberg.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/arthur_j_goldberg\/arthur_j_goldberg.thumb.png"
                             },
                             "length_of_service": 1028,
                             "identifier": "arthur_j_goldberg"
@@ -2303,7 +2349,7 @@
                                 "stop": 1364.282,
                                 "byte_start": 5518503,
                                 "byte_stop": 5560613,
-                                "text": "(Inaudible) I hope it\u0027s in the record that you\u0027re taking (Inaudible) and the Court ask you not to stay and (Inaudible)"
+                                "text": "(Inaudible) I hope it's in the record that you're taking (Inaudible) and the Court ask you not to stay and (Inaudible)"
                             }
                         ]
                     },
@@ -2314,9 +2360,10 @@
                         "byte_stop": 5591751,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -2348,6 +2395,7 @@
                             "ID": 15044,
                             "name": "Arthur J. Goldberg",
                             "href": "https:\/\/api.oyez.org\/people\/arthur_j_goldberg",
+                            "view_count": 30,
                             "last_name": "Goldberg",
                             "roles": [
                                 {
@@ -2365,7 +2413,7 @@
                                 "id": 32695,
                                 "mime": "image\/png",
                                 "size": 50285,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/arthur_j_goldberg.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/arthur_j_goldberg\/arthur_j_goldberg.thumb.png"
                             },
                             "length_of_service": 1028,
                             "identifier": "arthur_j_goldberg"
@@ -2387,9 +2435,10 @@
                         "byte_stop": 5616619,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -2401,7 +2450,7 @@
                                 "stop": 1378.275,
                                 "byte_start": 5615156,
                                 "byte_stop": 5616619,
-                                "text": "It\u0027s our law."
+                                "text": "It's our law."
                             }
                         ]
                     },
@@ -2414,6 +2463,7 @@
                             "ID": 15044,
                             "name": "Arthur J. Goldberg",
                             "href": "https:\/\/api.oyez.org\/people\/arthur_j_goldberg",
+                            "view_count": 30,
                             "last_name": "Goldberg",
                             "roles": [
                                 {
@@ -2431,7 +2481,7 @@
                                 "id": 32695,
                                 "mime": "image\/png",
                                 "size": 50285,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/arthur_j_goldberg.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/arthur_j_goldberg\/arthur_j_goldberg.thumb.png"
                             },
                             "length_of_service": 1028,
                             "identifier": "arthur_j_goldberg"
@@ -2467,9 +2517,10 @@
                         "byte_stop": 5791640,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -2495,7 +2546,7 @@
                                 "stop": 1414.411,
                                 "byte_start": 5729364,
                                 "byte_stop": 5761128,
-                                "text": "Now, there are other cases where property in New York is nationalized, and there are other Cuban cases raising tat issue, but we haven\u0027t reached those yet."
+                                "text": "Now, there are other cases where property in New York is nationalized, and there are other Cuban cases raising tat issue, but we haven't reached those yet."
                             },
                             {
                                 "start": 1414.411,
@@ -2515,6 +2566,7 @@
                             "ID": 15140,
                             "name": "William J. Brennan, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "view_count": 28,
                             "last_name": "Brennan",
                             "roles": [
                                 {
@@ -2532,7 +2584,7 @@
                                 "id": 32778,
                                 "mime": "image\/png",
                                 "size": 56873,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                             },
                             "length_of_service": 12330,
                             "identifier": "william_j_brennan_jr"
@@ -2550,14 +2602,14 @@
                                 "stop": 1437.508,
                                 "byte_start": 5799163,
                                 "byte_stop": 5853497,
-                                "text": "You\u0027re not arguing either, are you that this is the kind of subject matter which the Constitution commits to the Executive and, in that sense, is nonjusticiable?"
+                                "text": "You're not arguing either, are you that this is the kind of subject matter which the Constitution commits to the Executive and, in that sense, is nonjusticiable?"
                             },
                             {
                                 "start": 1437.508,
                                 "stop": 1443.52,
                                 "byte_start": 5853497,
                                 "byte_stop": 5877530,
-                                "text": "In other words, you\u0027re not arguing that this is a matter of lack of power in the judiciary."
+                                "text": "In other words, you're not arguing that this is a matter of lack of power in the judiciary."
                             }
                         ]
                     },
@@ -2568,9 +2620,10 @@
                         "byte_stop": 5925909,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -2589,14 +2642,14 @@
                                 "stop": 1452.094,
                                 "byte_start": 5886412,
                                 "byte_stop": 5911803,
-                                "text": "I don\u0027t know what the Solicitor General says about that, but I don\u0027t think I am arguing that this is not justiciable in that sense."
+                                "text": "I don't know what the Solicitor General says about that, but I don't think I am arguing that this is not justiciable in that sense."
                             },
                             {
                                 "start": 1452.094,
                                 "stop": 1455.596,
                                 "byte_start": 5911803,
                                 "byte_stop": 5925909,
-                                "text": "I think it\u0027s not justiciable for other reasons, but not in that sense."
+                                "text": "I think it's not justiciable for other reasons, but not in that sense."
                             }
                         ]
                     },
@@ -2609,6 +2662,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2626,7 +2680,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2648,9 +2702,10 @@
                         "byte_stop": 5990275,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -2682,6 +2737,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2699,7 +2755,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2721,9 +2777,10 @@
                         "byte_stop": 6016711,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -2735,7 +2792,7 @@
                                 "stop": 1478.302,
                                 "byte_start": 5996962,
                                 "byte_stop": 6016711,
-                                "text": "This is -- well, I don\u0027t know whether it\u0027s a question of breaking international law. The Executive frequently --"
+                                "text": "This is -- well, I don't know whether it's a question of breaking international law. The Executive frequently --"
                             }
                         ]
                     },
@@ -2748,6 +2805,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2765,7 +2823,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2787,9 +2845,10 @@
                         "byte_stop": 6692028,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,
@@ -2822,7 +2881,7 @@
                                 "stop": 1518.734,
                                 "byte_start": 6124753,
                                 "byte_stop": 6178461,
-                                "text": "I think this is for the Executive to determine and I think that the Executive has a freehand, but I don\u0027t believe that it has any role in determining what this Court will decide."
+                                "text": "I think this is for the Executive to determine and I think that the Executive has a freehand, but I don't believe that it has any role in determining what this Court will decide."
                             },
                             {
                                 "start": 1518.734,
@@ -2864,7 +2923,7 @@
                                 "stop": 1621.99,
                                 "byte_start": 6536338,
                                 "byte_stop": 6591404,
-                                "text": "It was a cargo of sugar that had been nationalized by the very same decree that we are here considering, and United Fruit came in and said \u201cwe don\u0027t care about the freighter, but the sugar belongs to us."
+                                "text": "It was a cargo of sugar that had been nationalized by the very same decree that we are here considering, and United Fruit came in and said \u201cwe don't care about the freighter, but the sugar belongs to us."
                             },
                             {
                                 "start": 1621.99,
@@ -2884,6 +2943,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -2901,7 +2961,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"
@@ -2912,7 +2972,7 @@
                                 "stop": 1648.266,
                                 "byte_start": 6692028,
                                 "byte_stop": 6696521,
-                                "text": "We\u0027ll recess now."
+                                "text": "We'll recess now."
                             }
                         ]
                     },
@@ -2923,9 +2983,10 @@
                         "byte_stop": 6700492,
                         "speaker": {
                             "ID": 43662,
-                            "name": "Victor Rabinowitz.",
+                            "name": "Victor Rabinowitz",
                             "href": "https:\/\/api.oyez.org\/people\/victor_rabinowitz",
-                            "last_name": "Rabinowitz.",
+                            "view_count": 0,
+                            "last_name": "Rabinowitz",
                             "roles": null,
                             "thumbnail": null,
                             "length_of_service": 0,

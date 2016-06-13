@@ -2,11 +2,13 @@
     "ID": 15279,
     "name": "Taft Court (1922)",
     "href": "https:\/\/api.oyez.org\/courts\/taft4",
+    "view_count": 0,
     "members": [
         {
             "ID": 15146,
             "name": "William Howard Taft",
             "href": "https:\/\/api.oyez.org\/people\/william_howard_taft",
+            "view_count": 0,
             "last_name": "Taft",
             "roles": [
                 {
@@ -24,7 +26,7 @@
                 "id": 32777,
                 "mime": "image\/png",
                 "size": 35140,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_howard_taft.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_howard_taft\/william_howard_taft.thumb.png"
             },
             "length_of_service": 3129,
             "identifier": "william_howard_taft"
@@ -33,6 +35,7 @@
             "ID": 15098,
             "name": "Joseph McKenna",
             "href": "https:\/\/api.oyez.org\/people\/joseph_mckenna",
+            "view_count": 0,
             "last_name": "McKenna",
             "roles": [
                 {
@@ -50,7 +53,7 @@
                 "id": 32692,
                 "mime": "image\/png",
                 "size": 56275,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/joseph_mckenna.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/joseph_mckenna\/joseph_mckenna.thumb.png"
             },
             "length_of_service": 9840,
             "identifier": "joseph_mckenna"
@@ -59,6 +62,7 @@
             "ID": 15048,
             "name": "Oliver W. Holmes, Jr.",
             "href": "https:\/\/api.oyez.org\/people\/oliver_w_holmes_jr",
+            "view_count": 0,
             "last_name": "Holmes",
             "roles": [
                 {
@@ -76,7 +80,7 @@
                 "id": 32747,
                 "mime": "image\/png",
                 "size": 53023,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/oliver_wendell_holmes.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/oliver_w_holmes_jr\/oliver_w_holmes_jr.thumb.png"
             },
             "length_of_service": 10627,
             "identifier": "oliver_w_holmes_jr"
@@ -85,6 +89,7 @@
             "ID": 15133,
             "name": "Willis Van Devanter",
             "href": "https:\/\/api.oyez.org\/people\/willis_van_devanter",
+            "view_count": 0,
             "last_name": "Van Devanter",
             "roles": [
                 {
@@ -102,7 +107,7 @@
                 "id": 32785,
                 "mime": "image\/png",
                 "size": 52800,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/willis_van_devanter.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/willis_van_devanter\/willis_van_devanter.thumb.png"
             },
             "length_of_service": 9647,
             "identifier": "willis_van_devanter"
@@ -111,6 +116,7 @@
             "ID": 15148,
             "name": "Mahlon Pitney",
             "href": "https:\/\/api.oyez.org\/people\/mahlon_pitney",
+            "view_count": 0,
             "last_name": "Pitney",
             "roles": [
                 {
@@ -128,7 +134,7 @@
                 "id": 32741,
                 "mime": "image\/png",
                 "size": 49375,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/mahlon_pitney.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/mahlon_pitney\/mahlon_pitney.thumb.png"
             },
             "length_of_service": 3940,
             "identifier": "mahlon_pitney"
@@ -137,6 +143,7 @@
             "ID": 15066,
             "name": "James C. McReynolds",
             "href": "https:\/\/api.oyez.org\/people\/james_c_mcreynolds",
+            "view_count": 0,
             "last_name": "McReynolds",
             "roles": [
                 {
@@ -154,7 +161,7 @@
                 "id": 32720,
                 "mime": "image\/png",
                 "size": 55380,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_c_mcreynolds.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/james_c_mcreynolds\/james_c_mcreynolds.thumb.png"
             },
             "length_of_service": 9608,
             "identifier": "james_c_mcreynolds"
@@ -163,6 +170,7 @@
             "ID": 15075,
             "name": "Louis D. Brandeis",
             "href": "https:\/\/api.oyez.org\/people\/louis_d_brandeis",
+            "view_count": 0,
             "last_name": "Brandeis",
             "roles": [
                 {
@@ -180,7 +188,7 @@
                 "id": 32739,
                 "mime": "image\/png",
                 "size": 33357,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/louis_brandeis.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/louis_d_brandeis\/louis_d_brandeis.thumb.png"
             },
             "length_of_service": 8288,
             "identifier": "louis_d_brandeis"
@@ -189,6 +197,7 @@
             "ID": 15108,
             "name": "George Sutherland",
             "href": "https:\/\/api.oyez.org\/people\/george_sutherland",
+            "view_count": 0,
             "last_name": "Sutherland",
             "roles": [
                 {
@@ -202,7 +211,12 @@
                     "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2752"
                 }
             ],
-            "thumbnail": null,
+            "thumbnail": {
+                "id": 79212,
+                "mime": "image\/png",
+                "size": 37318,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/george_sutherland\/george_sutherland.thumb_0.png"
+            },
             "length_of_service": 5586,
             "identifier": "george_sutherland"
         }
@@ -214,7 +228,7 @@
             "id": 56687,
             "mime": "image\/jpeg",
             "size": 234616,
-            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/2002-035-13_10.JPG"
+            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/taft4.JPG"
         }
     ],
     "identifier": "taft4"

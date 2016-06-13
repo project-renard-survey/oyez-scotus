@@ -40,6 +40,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -57,7 +58,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -88,6 +89,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -190,6 +192,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -217,7 +220,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -228,7 +231,7 @@
                                 "stop": 131.416,
                                 "byte_start": 645540,
                                 "byte_stop": 653063,
-                                "text": "He did a little more than that, didn\u0027t he?"
+                                "text": "He did a little more than that, didn't he?"
                             }
                         ]
                     },
@@ -241,6 +244,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -266,6 +270,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -283,7 +288,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -307,6 +312,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -340,14 +346,14 @@
                                 "stop": 188.685,
                                 "byte_start": 806245,
                                 "byte_stop": 882209,
-                                "text": "The court ruled... based its decision primarily on three grounds, first, that under this Court\u0027s decision in California against Ramos, that the states were free to determine what the jury would hear in this area, and felt that this was appropriate argument."
+                                "text": "The court ruled... based its decision primarily on three grounds, first, that under this Court's decision in California against Ramos, that the states were free to determine what the jury would hear in this area, and felt that this was appropriate argument."
                             },
                             {
                                 "start": 188.685,
                                 "stop": 208.507,
                                 "byte_start": 882209,
                                 "byte_stop": 961413,
-                                "text": "Secondly, they maintained that this was invited error by suggesting that imprisonment was for the rest of the petitioner\u0027s natural life, and thirdly, the court held that the issue was foreclosed by virtue of the failure of counsel to comply with Rule 6B."
+                                "text": "Secondly, they maintained that this was invited error by suggesting that imprisonment was for the rest of the petitioner's natural life, and thirdly, the court held that the issue was foreclosed by virtue of the failure of counsel to comply with Rule 6B."
                             },
                             {
                                 "start": 208.507,
@@ -361,7 +367,7 @@
                                 "stop": 237.685,
                                 "byte_start": 1009896,
                                 "byte_stop": 1078128,
-                                "text": "The statute involved here, and it is set forth in the petitioner\u0027s brief at 6A of our appendix to that brief, on its face and as construed by that court, is a final determination."
+                                "text": "The statute involved here, and it is set forth in the petitioner's brief at 6A of our appendix to that brief, on its face and as construed by that court, is a final determination."
                             },
                             {
                                 "start": 237.685,
@@ -393,9 +399,10 @@
                         "byte_stop": 1281883,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -412,7 +419,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -436,6 +443,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -462,14 +470,14 @@
                                 "stop": 322.42,
                                 "byte_start": 1363176,
                                 "byte_stop": 1417093,
-                                "text": "Secondly, we maintain that the argument by the prosecutor unconstitutionally diminished the jury\u0027s responsibility for imposition of the death sentence."
+                                "text": "Secondly, we maintain that the argument by the prosecutor unconstitutionally diminished the jury's responsibility for imposition of the death sentence."
                             },
                             {
                                 "start": 322.42,
                                 "stop": 335.489,
                                 "byte_start": 1417093,
                                 "byte_stop": 1469337,
-                                "text": "The remarks here were intended to overcome the jurors\u0027 natural reluctance to return a death sentence by diluting their responsibility for the consequence of those actions."
+                                "text": "The remarks here were intended to overcome the jurors' natural reluctance to return a death sentence by diluting their responsibility for the consequence of those actions."
                             },
                             {
                                 "start": 335.489,
@@ -490,14 +498,14 @@
                                 "stop": 394.629,
                                 "byte_start": 1643835,
                                 "byte_stop": 1705902,
-                                "text": "We respectfully submit to this Court that the prosecutor\u0027s argument here encouraged the jurors to err on the side of death with the false assurance that if death is not appropriate, the Supreme Court will correct that error."
+                                "text": "We respectfully submit to this Court that the prosecutor's argument here encouraged the jurors to err on the side of death with the false assurance that if death is not appropriate, the Supreme Court will correct that error."
                             },
                             {
                                 "start": 394.629,
                                 "stop": 404.785,
                                 "byte_start": 1705902,
                                 "byte_stop": 1746549,
-                                "text": "The verdict based on such remarks is one in which the jurors\u0027 moral responsibility is diminished to unconstitutional proportions."
+                                "text": "The verdict based on such remarks is one in which the jurors' moral responsibility is diminished to unconstitutional proportions."
                             },
                             {
                                 "start": 404.785,
@@ -538,6 +546,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -565,7 +574,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -576,14 +585,14 @@
                                 "stop": 459.45,
                                 "byte_start": 1949364,
                                 "byte_stop": 1965246,
-                                "text": "But isn\u0027t that a state law distinction in essence?"
+                                "text": "But isn't that a state law distinction in essence?"
                             },
                             {
                                 "start": 459.45,
                                 "stop": 477.343,
                                 "byte_start": 1965246,
                                 "byte_stop": 2036822,
-                                "text": "I mean, would you say the distinction vanishes if the Mississippi legislature had said that juries ought to be told about this, and if your answer to that is yes, why isn\u0027t the Mississippi Supreme Court a perfectly good spokesman for state policy, just as the legislature would be?"
+                                "text": "I mean, would you say the distinction vanishes if the Mississippi legislature had said that juries ought to be told about this, and if your answer to that is yes, why isn't the Mississippi Supreme Court a perfectly good spokesman for state policy, just as the legislature would be?"
                             }
                         ]
                     },
@@ -596,6 +605,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -628,6 +638,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -655,7 +666,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -679,6 +690,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -698,7 +710,7 @@
                                 "stop": 542.956,
                                 "byte_start": 2288851,
                                 "byte_stop": 2299300,
-                                "text": "You don\u0027t have that situation here."
+                                "text": "You don't have that situation here."
                             },
                             {
                                 "start": 542.956,
@@ -718,6 +730,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -745,7 +758,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -769,6 +782,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -781,7 +795,7 @@
                                 "stop": 590.815,
                                 "byte_start": 2475679,
                                 "byte_stop": 2490725,
-                                "text": "I don\u0027t think we are saying that at all."
+                                "text": "I don't think we are saying that at all."
                             },
                             {
                                 "start": 590.815,
@@ -795,14 +809,14 @@
                                 "stop": 623.619,
                                 "byte_start": 2531685,
                                 "byte_stop": 2621860,
-                                "text": "If Your Honor is positing the question whether or not in the event that the Mississippi Supreme Court in their infinite wisdom decided to permit comment on non-review, I would first of all take the position that it shouldn\u0027t be done by the prosecutor, and if it is going to be done, as it was done in the Ramos case, it is an instruction by the Court."
+                                "text": "If Your Honor is positing the question whether or not in the event that the Mississippi Supreme Court in their infinite wisdom decided to permit comment on non-review, I would first of all take the position that it shouldn't be done by the prosecutor, and if it is going to be done, as it was done in the Ramos case, it is an instruction by the Court."
                             },
                             {
                                 "start": 623.619,
                                 "stop": 634.075,
                                 "byte_start": 2621860,
                                 "byte_stop": 2663760,
-                                "text": "But that really is a hypothetical which has been decided by the Mississippi Supreme Court which has said, we don\u0027t want this statute to go to the jury."
+                                "text": "But that really is a hypothetical which has been decided by the Mississippi Supreme Court which has said, we don't want this statute to go to the jury."
                             },
                             {
                                 "start": 634.075,
@@ -857,6 +871,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -884,7 +899,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -908,6 +923,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -940,6 +956,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -967,7 +984,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -991,6 +1008,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -1003,7 +1021,7 @@
                                 "stop": 717.65,
                                 "byte_start": 2978484,
                                 "byte_stop": 2998023,
-                                "text": "I haven\u0027t got it with me, Your Honor, but it dealt with--"
+                                "text": "I haven't got it with me, Your Honor, but it dealt with--"
                             }
                         ]
                     },
@@ -1016,6 +1034,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -1043,7 +1062,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -1054,7 +1073,7 @@
                                 "stop": 718.69,
                                 "byte_start": 2998023,
                                 "byte_stop": 3002203,
-                                "text": "I didn\u0027t think it did."
+                                "text": "I didn't think it did."
                             }
                         ]
                     },
@@ -1067,6 +1086,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -1107,7 +1127,7 @@
                                 "stop": 789.415,
                                 "byte_start": 3219646,
                                 "byte_stop": 3285057,
-                                "text": "Lastly, with regard to this issue, this Court decided Ebbits against Lucy last month, and we call that to the Court\u0027s attention with regard to the respondent\u0027s argument that there is an adequate independent state ground here for the decision."
+                                "text": "Lastly, with regard to this issue, this Court decided Ebbits against Lucy last month, and we call that to the Court's attention with regard to the respondent's argument that there is an adequate independent state ground here for the decision."
                             },
                             {
                                 "start": 789.415,
@@ -1146,9 +1166,10 @@
                         "byte_stop": 3634784,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -1165,7 +1186,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -1176,7 +1197,7 @@
                                 "stop": 876.844,
                                 "byte_start": 3509083,
                                 "byte_stop": 3634784,
-                                "text": "Do you think there was any indication in Ebbits against Lucy, first of all, that it extends to other experts other than the psychiatric help, and secondly, do you think that there is any indication in it that a state can\u0027t have a rule that says the defense has to specify the cost in any event and make the other showing that the state thinks would be necessary?"
+                                "text": "Do you think there was any indication in Ebbits against Lucy, first of all, that it extends to other experts other than the psychiatric help, and secondly, do you think that there is any indication in it that a state can't have a rule that says the defense has to specify the cost in any event and make the other showing that the state thinks would be necessary?"
                             }
                         ]
                     },
@@ -1189,6 +1210,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -1201,21 +1223,21 @@
                                 "stop": 886.051,
                                 "byte_start": 3634784,
                                 "byte_stop": 3671669,
-                                "text": "I don\u0027t see the applicability of Ebbits at all."
+                                "text": "I don't see the applicability of Ebbits at all."
                             },
                             {
                                 "start": 886.051,
                                 "stop": 890.254,
                                 "byte_start": 3671669,
                                 "byte_stop": 3688492,
-                                "text": "Now, Justice O\u0027Connor, we are getting into the second phase of our argument."
+                                "text": "Now, Justice O'Connor, we are getting into the second phase of our argument."
                             },
                             {
                                 "start": 890.254,
                                 "stop": 903.373,
                                 "byte_start": 3688492,
                                 "byte_stop": 3740946,
-                                "text": "I only see Ebbits against Lucy as bearing on the issue dealing with whether or not there is an adequate state ground by virtue of counsel\u0027s failure to comply with Rule 6B."
+                                "text": "I only see Ebbits against Lucy as bearing on the issue dealing with whether or not there is an adequate state ground by virtue of counsel's failure to comply with Rule 6B."
                             },
                             {
                                 "start": 903.373,
@@ -1236,7 +1258,7 @@
                                 "stop": 967.916,
                                 "byte_start": 3879813,
                                 "byte_stop": 3999140,
-                                "text": "The order notes that the claim for all these experts, including psychiatrists, was made in order to establish an adequate defense, and they appointed, the Court appointed its own expert in the area of psychiatry and then denied the application with regard to the other experts, and they did so, and I quote, \u0022based on recent Mississippi cases\u0022, and that is a question as to what they were referring to."
+                                "text": "The order notes that the claim for all these experts, including psychiatrists, was made in order to establish an adequate defense, and they appointed, the Court appointed its own expert in the area of psychiatry and then denied the application with regard to the other experts, and they did so, and I quote, \"based on recent Mississippi cases\", and that is a question as to what they were referring to."
                             },
                             {
                                 "start": 967.916,
@@ -1282,9 +1304,10 @@
                         "byte_stop": 4205298,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -1301,7 +1324,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -1312,7 +1335,7 @@
                                 "stop": 1019.478,
                                 "byte_start": 4194327,
                                 "byte_stop": 4205298,
-                                "text": "Wasn\u0027t this a case where there was an eye witness?"
+                                "text": "Wasn't this a case where there was an eye witness?"
                             }
                         ]
                     },
@@ -1325,6 +1348,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -1344,7 +1368,7 @@
                                 "stop": 1030.344,
                                 "byte_start": 4212299,
                                 "byte_stop": 4248766,
-                                "text": "We don\u0027t suggest, Justice Rehnquist, that there was not other evidence in connection with the prima facie case."
+                                "text": "We don't suggest, Justice Rehnquist, that there was not other evidence in connection with the prima facie case."
                             },
                             {
                                 "start": 1030.344,
@@ -1358,7 +1382,7 @@
                                 "stop": 1043.764,
                                 "byte_start": 4286278,
                                 "byte_stop": 4302474,
-                                "text": "There was also... and the matching glove was found in the defendant\u0027s possession."
+                                "text": "There was also... and the matching glove was found in the defendant's possession."
                             },
                             {
                                 "start": 1043.764,
@@ -1386,14 +1410,14 @@
                                 "stop": 1093.517,
                                 "byte_start": 4450536,
                                 "byte_stop": 4501527,
-                                "text": "We respectfully submit to the Court that the second ground deals with the state\u0027s reimbursement statute, which we maintain is inadequate on its face."
+                                "text": "We respectfully submit to the Court that the second ground deals with the state's reimbursement statute, which we maintain is inadequate on its face."
                             },
                             {
                                 "start": 1093.517,
                                 "stop": 1108.045,
                                 "byte_start": 4501527,
                                 "byte_stop": 4559623,
-                                "text": "The respondent takes the position in this Court that he doesn\u0027t seek to sustain the Court\u0027s decision at all on the constitutional issue."
+                                "text": "The respondent takes the position in this Court that he doesn't seek to sustain the Court's decision at all on the constitutional issue."
                             },
                             {
                                 "start": 1108.045,
@@ -1407,7 +1431,7 @@
                                 "stop": 1133.692,
                                 "byte_start": 4591911,
                                 "byte_stop": 4662232,
-                                "text": "I submit to the Court that that concession is made in an effort to attack the petitioner\u0027s case in an area where they consider it to be weak and vulnerable, namely, the failure to sufficiently specify costs."
+                                "text": "I submit to the Court that that concession is made in an effort to attack the petitioner's case in an area where they consider it to be weak and vulnerable, namely, the failure to sufficiently specify costs."
                             },
                             {
                                 "start": 1133.692,
@@ -1425,9 +1449,10 @@
                         "byte_stop": 4780306,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -1444,7 +1469,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -1468,6 +1493,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -1491,9 +1517,10 @@
                         "byte_stop": 4805279,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -1510,7 +1537,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -1534,6 +1561,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -1553,7 +1581,7 @@
                                 "stop": 1182.416,
                                 "byte_start": 4809145,
                                 "byte_stop": 4857106,
-                                "text": "Justice O\u0027Connor, the law in Mississippi, however, has never recognized a due process constitutional right to these services."
+                                "text": "Justice O'Connor, the law in Mississippi, however, has never recognized a due process constitutional right to these services."
                             }
                         ]
                     },
@@ -1564,9 +1592,10 @@
                         "byte_stop": 4902036,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -1583,7 +1612,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -1601,7 +1630,7 @@
                                 "stop": 1193.651,
                                 "byte_start": 4862435,
                                 "byte_stop": 4902036,
-                                "text": "Maybe it wants to offer them whether or not the Constitution requires it, and if so, why can\u0027t they have a reasonable rule requiring a threshold showing?"
+                                "text": "Maybe it wants to offer them whether or not the Constitution requires it, and if so, why can't they have a reasonable rule requiring a threshold showing?"
                             }
                         ]
                     },
@@ -1614,6 +1643,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -1626,7 +1656,7 @@
                                 "stop": 1201.288,
                                 "byte_start": 4902036,
                                 "byte_stop": 4932547,
-                                "text": "The problem here is that they are construing... let\u0027s say that there\u0027s a statutory right, and that is what the respondent says here."
+                                "text": "The problem here is that they are construing... let's say that there's a statutory right, and that is what the respondent says here."
                             },
                             {
                                 "start": 1201.288,
@@ -1654,7 +1684,7 @@
                                 "stop": 1233.398,
                                 "byte_start": 5020110,
                                 "byte_stop": 5061070,
-                                "text": "First, it doesn\u0027t provide for an ex parte application, and there are certain constitutional problems that arise from that."
+                                "text": "First, it doesn't provide for an ex parte application, and there are certain constitutional problems that arise from that."
                             },
                             {
                                 "start": 1233.398,
@@ -1682,7 +1712,7 @@
                                 "stop": 1281.538,
                                 "byte_start": 5174650,
                                 "byte_stop": 5253540,
-                                "text": "In addition, under Wardius against Oregon, which is the reciprocal alibi statute which the Court considered, the Court said that under due process you can\u0027t have discovery on one hand and not reciprocal on the other, and we submit that the government or the state isn\u0027t obliged to make any--"
+                                "text": "In addition, under Wardius against Oregon, which is the reciprocal alibi statute which the Court considered, the Court said that under due process you can't have discovery on one hand and not reciprocal on the other, and we submit that the government or the state isn't obliged to make any--"
                             }
                         ]
                     },
@@ -1693,9 +1723,10 @@
                         "byte_stop": 5292410,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -1712,7 +1743,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -1723,7 +1754,7 @@
                                 "stop": 1291.235,
                                 "byte_start": 5253540,
                                 "byte_stop": 5292410,
-                                "text": "Aren\u0027t requests by indigent for counsel to represent them matters that are made with notice to the other side?"
+                                "text": "Aren't requests by indigent for counsel to represent them matters that are made with notice to the other side?"
                             }
                         ]
                     },
@@ -1736,6 +1767,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -1748,7 +1780,7 @@
                                 "stop": 1294.288,
                                 "byte_start": 5292410,
                                 "byte_stop": 5304531,
-                                "text": "--I don\u0027t know if I understand your question."
+                                "text": "--I don't know if I understand your question."
                             }
                         ]
                     },
@@ -1759,9 +1791,10 @@
                         "byte_stop": 5353850,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -1778,7 +1811,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -1789,7 +1822,7 @@
                                 "stop": 1306.595,
                                 "byte_start": 5304531,
                                 "byte_stop": 5353850,
-                                "text": "You said that the problem is that there can\u0027t be an ex parte proceeding, and requests by an indigent for counsel aren\u0027t done in an ex parte setting."
+                                "text": "You said that the problem is that there can't be an ex parte proceeding, and requests by an indigent for counsel aren't done in an ex parte setting."
                             }
                         ]
                     },
@@ -1802,6 +1835,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -1814,7 +1848,7 @@
                                 "stop": 1318.093,
                                 "byte_start": 5353850,
                                 "byte_stop": 5399826,
-                                "text": "That doesn\u0027t have to do with secrets of the defense, or strategy of the defense is probably a better terminology."
+                                "text": "That doesn't have to do with secrets of the defense, or strategy of the defense is probably a better terminology."
                             },
                             {
                                 "start": 1318.093,
@@ -1828,7 +1862,7 @@
                                 "stop": 1347.282,
                                 "byte_start": 5459907,
                                 "byte_stop": 5516541,
-                                "text": "However, when you come into court and you make a request for an expert, and you want a foot cast expert, and maybe he wants a criminal investigator, or maybe he wants something that the state isn\u0027t even going to call, and he has got a good reason for it."
+                                "text": "However, when you come into court and you make a request for an expert, and you want a foot cast expert, and maybe he wants a criminal investigator, or maybe he wants something that the state isn't even going to call, and he has got a good reason for it."
                             },
                             {
                                 "start": 1347.282,
@@ -1848,6 +1882,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -1875,7 +1910,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -1886,7 +1921,7 @@
                                 "stop": 1368.556,
                                 "byte_start": 5575368,
                                 "byte_stop": 5601700,
-                                "text": "Even if your contention were to be upheld, wouldn\u0027t you still have an equal protection claim?"
+                                "text": "Even if your contention were to be upheld, wouldn't you still have an equal protection claim?"
                             },
                             {
                                 "start": 1368.556,
@@ -1906,6 +1941,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -1945,6 +1981,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -1972,7 +2009,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -1983,7 +2020,7 @@
                                 "stop": 1422.062,
                                 "byte_start": 5682157,
                                 "byte_stop": 5815695,
-                                "text": "But your solution suggests that perhaps to me your definition of the constitutional right is overly broad, because if the defendant is going to have a claim that I have to petition the court to get experts, and the wealthy defendant doesn\u0027t have to fool around with a court at all, then the only answer is simply for the legislature to appropriate each year about $5 million or $10 million for whatever services criminal defendants may want, and I dare say there aren\u0027t many courts that would sustain that sort of a claim."
+                                "text": "But your solution suggests that perhaps to me your definition of the constitutional right is overly broad, because if the defendant is going to have a claim that I have to petition the court to get experts, and the wealthy defendant doesn't have to fool around with a court at all, then the only answer is simply for the legislature to appropriate each year about $5 million or $10 million for whatever services criminal defendants may want, and I dare say there aren't many courts that would sustain that sort of a claim."
                             }
                         ]
                     },
@@ -1996,6 +2033,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -2008,7 +2046,7 @@
                                 "stop": 1450.86,
                                 "byte_start": 5815695,
                                 "byte_stop": 5930843,
-                                "text": "Well, call to the Court\u0027s attention, Justice Rehnquist, the federal legislation in this area, not that it is constitutionally mandated by virtue of the fact that it comes from Congress, obviously, but this has been interpreted, and I believe that there are serious problems which arise if you are going to make defense counsel in an indigent case tip his hand and put his adversary on notice, this is the very heart of our criminal justice system."
+                                "text": "Well, call to the Court's attention, Justice Rehnquist, the federal legislation in this area, not that it is constitutionally mandated by virtue of the fact that it comes from Congress, obviously, but this has been interpreted, and I believe that there are serious problems which arise if you are going to make defense counsel in an indigent case tip his hand and put his adversary on notice, this is the very heart of our criminal justice system."
                             },
                             {
                                 "start": 1450.86,
@@ -2028,6 +2066,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -2045,7 +2084,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -2069,6 +2108,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -2094,6 +2134,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -2121,7 +2162,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -2145,6 +2186,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -2170,6 +2212,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -2187,7 +2230,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -2198,21 +2241,21 @@
                                 "stop": 1492.457,
                                 "byte_start": 6089145,
                                 "byte_stop": 6097295,
-                                "text": "--I don\u0027t understand this tipping your hand."
+                                "text": "--I don't understand this tipping your hand."
                             },
                             {
                                 "start": 1492.457,
                                 "stop": 1496.631,
                                 "byte_start": 6097295,
                                 "byte_stop": 6113909,
-                                "text": "You have to tip your hand when you ask for a lawyer, don\u0027t you?"
+                                "text": "You have to tip your hand when you ask for a lawyer, don't you?"
                             },
                             {
                                 "start": 1496.631,
                                 "stop": 1508.729,
                                 "byte_start": 6113909,
                                 "byte_stop": 6162392,
-                                "text": "Number Two, you don\u0027t think there is any requirement other than for the defendant to ask for a particular expert."
+                                "text": "Number Two, you don't think there is any requirement other than for the defendant to ask for a particular expert."
                             },
                             {
                                 "start": 1508.729,
@@ -2232,6 +2275,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -2257,6 +2301,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -2274,7 +2319,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -2298,6 +2343,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -2323,6 +2369,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -2340,7 +2387,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -2364,6 +2411,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -2396,6 +2444,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -2413,7 +2462,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -2424,14 +2473,14 @@
                                 "stop": 1557.681,
                                 "byte_start": 6322053,
                                 "byte_stop": 6358102,
-                                "text": "Did I understand you to say that the Court really said, you aren\u0027t entitled to it, but anyhow the state keeps you from getting it?"
+                                "text": "Did I understand you to say that the Court really said, you aren't entitled to it, but anyhow the state keeps you from getting it?"
                             },
                             {
                                 "start": 1557.681,
                                 "stop": 1560.091,
                                 "byte_start": 6358102,
                                 "byte_stop": 6367819,
-                                "text": "That is stretching it a little, isn\u0027t it?"
+                                "text": "That is stretching it a little, isn't it?"
                             }
                         ]
                     },
@@ -2444,6 +2493,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -2469,6 +2519,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -2486,7 +2537,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -2510,6 +2561,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -2535,6 +2587,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -2552,7 +2605,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -2576,6 +2629,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -2588,7 +2642,7 @@
                                 "stop": 1579.706,
                                 "byte_start": 6437618,
                                 "byte_stop": 6446291,
-                                "text": "--I don\u0027t think that it would be automatic."
+                                "text": "--I don't think that it would be automatic."
                             },
                             {
                                 "start": 1579.706,
@@ -2608,6 +2662,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -2625,7 +2680,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -2656,6 +2711,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -2688,6 +2744,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -2705,7 +2762,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -2716,7 +2773,7 @@
                                 "stop": 1603.391,
                                 "byte_start": 6516404,
                                 "byte_stop": 6540959,
-                                "text": "Have you ever seen a case involving fingerprints where the government didn\u0027t put an expert on?"
+                                "text": "Have you ever seen a case involving fingerprints where the government didn't put an expert on?"
                             }
                         ]
                     },
@@ -2729,6 +2786,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -2754,6 +2812,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -2771,7 +2830,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -2795,6 +2854,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -2820,6 +2880,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -2837,7 +2898,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -2848,7 +2909,7 @@
                                 "stop": 1613.937,
                                 "byte_start": 6558513,
                                 "byte_stop": 6583173,
-                                "text": "The first thing the defendant would be up yelping that you can\u0027t put them on without an expert, wouldn\u0027t he?"
+                                "text": "The first thing the defendant would be up yelping that you can't put them on without an expert, wouldn't he?"
                             }
                         ]
                     },
@@ -2861,6 +2922,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -2873,7 +2935,7 @@
                                 "stop": 1625.187,
                                 "byte_start": 6583173,
                                 "byte_stop": 6628208,
-                                "text": "I think certainly in a case where they have relied on an expert, that it is a reasonable request, not only to call an expert on one\u0027s own behalf, but also to effectively cross examine."
+                                "text": "I think certainly in a case where they have relied on an expert, that it is a reasonable request, not only to call an expert on one's own behalf, but also to effectively cross examine."
                             }
                         ]
                     },
@@ -2886,6 +2948,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -2903,7 +2966,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -2948,6 +3011,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -2973,6 +3037,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -2990,7 +3055,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -3014,6 +3079,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -3039,6 +3105,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -3056,7 +3123,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -3080,6 +3147,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -3105,6 +3173,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -3122,7 +3191,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -3146,6 +3215,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -3171,6 +3241,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -3188,7 +3259,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -3212,6 +3283,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -3237,6 +3309,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -3254,7 +3327,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -3265,7 +3338,7 @@
                                 "stop": 1685.103,
                                 "byte_start": 6862474,
                                 "byte_stop": 6867803,
-                                "text": "Why don\u0027t you give it to me?"
+                                "text": "Why don't you give it to me?"
                             }
                         ]
                     },
@@ -3278,6 +3351,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -3304,7 +3378,7 @@
                                 "stop": 1753.299,
                                 "byte_start": 7055257,
                                 "byte_stop": 7140626,
-                                "text": "And that creates all kinds of problems, because maybe defense counsel isn\u0027t willing to risk the fact that the trial judge when the case is all over may disallow that expense, and I simply don\u0027t think that this is a burden that properly should be placed on the individual counsel."
+                                "text": "And that creates all kinds of problems, because maybe defense counsel isn't willing to risk the fact that the trial judge when the case is all over may disallow that expense, and I simply don't think that this is a burden that properly should be placed on the individual counsel."
                             },
                             {
                                 "start": 1753.299,
@@ -3324,6 +3398,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -3341,7 +3416,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -3365,6 +3440,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -3390,6 +3466,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -3407,7 +3484,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -3431,6 +3508,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -3456,6 +3534,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -3473,7 +3552,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -3497,6 +3576,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -3509,7 +3589,7 @@
                                 "stop": 1787.43,
                                 "byte_start": 7198199,
                                 "byte_stop": 7277194,
-                                "text": "--The Mississippi Supreme Court in Ruffin, in denying the authorization on appeal, indicated that if this was so important, then why didn\u0027t counsel go out and fund raise for $500 to bring in the expert, and they accused the defense counsel of sand bagging the court to try to get reversible error."
+                                "text": "--The Mississippi Supreme Court in Ruffin, in denying the authorization on appeal, indicated that if this was so important, then why didn't counsel go out and fund raise for $500 to bring in the expert, and they accused the defense counsel of sand bagging the court to try to get reversible error."
                             },
                             {
                                 "start": 1787.43,
@@ -3529,6 +3609,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -3546,7 +3627,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -3570,6 +3651,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -3595,6 +3677,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -3612,7 +3695,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -3623,14 +3706,14 @@
                                 "stop": 1800.2,
                                 "byte_start": 7321706,
                                 "byte_stop": 7328185,
-                                "text": "You can\u0027t do it."
+                                "text": "You can't do it."
                             },
                             {
                                 "start": 1800.2,
                                 "stop": 1801.481,
                                 "byte_start": 7328185,
                                 "byte_stop": 7333305,
-                                "text": "You don\u0027t appeal opinions."
+                                "text": "You don't appeal opinions."
                             },
                             {
                                 "start": 1801.481,
@@ -3650,6 +3733,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -3682,6 +3766,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -3699,7 +3784,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -3738,6 +3823,7 @@
                             "ID": 43878,
                             "name": "William S. Boyd, III",
                             "href": "https:\/\/api.oyez.org\/people\/william_s_boyd_iii",
+                            "view_count": 0,
                             "last_name": "Boyd,",
                             "roles": null,
                             "thumbnail": null,
@@ -3750,14 +3836,14 @@
                                 "stop": 1848.512,
                                 "byte_start": 7444691,
                                 "byte_stop": 7521491,
-                                "text": "Mr. Chief Justice, and may it please the Court, initially I would like to briefly summarize the state\u0027s position on the three issues that have been raised in this matter."
+                                "text": "Mr. Chief Justice, and may it please the Court, initially I would like to briefly summarize the state's position on the three issues that have been raised in this matter."
                             },
                             {
                                 "start": 1848.512,
                                 "stop": 1857.197,
                                 "byte_start": 7521491,
                                 "byte_stop": 7556182,
-                                "text": "The initial question, of course, concerns the propriety of advising the jury of a condemned prisoner\u0027s right of mandatory appellate review."
+                                "text": "The initial question, of course, concerns the propriety of advising the jury of a condemned prisoner's right of mandatory appellate review."
                             },
                             {
                                 "start": 1857.197,
@@ -3785,14 +3871,14 @@
                                 "stop": 1898.294,
                                 "byte_start": 7643953,
                                 "byte_stop": 7720648,
-                                "text": "Within this regard, while the Mississippi Supreme Court divided four to four over the state\u0027s argument, it unanimously concluded that this Court\u0027s decision in California versus Ramos was the benchmark from which they must work, and that the ultimate resolution of the issue was a question of state law."
+                                "text": "Within this regard, while the Mississippi Supreme Court divided four to four over the state's argument, it unanimously concluded that this Court's decision in California versus Ramos was the benchmark from which they must work, and that the ultimate resolution of the issue was a question of state law."
                             },
                             {
                                 "start": 1898.294,
                                 "stop": 1912.195,
                                 "byte_start": 7720648,
                                 "byte_stop": 7776237,
-                                "text": "The second, the denial of expert and investigative services, it is the state\u0027s position that a defendant does not have a constitutional right to expert or investigative assistance simply upon demand."
+                                "text": "The second, the denial of expert and investigative services, it is the state's position that a defendant does not have a constitutional right to expert or investigative assistance simply upon demand."
                             },
                             {
                                 "start": 1912.195,
@@ -3806,14 +3892,14 @@
                                 "stop": 1933.326,
                                 "byte_start": 7802777,
                                 "byte_stop": 7860769,
-                                "text": "And as for the third question, the confrontation issue, we note that there was no objection to a portion of counsel\u0027s argument identified in the briefs, and that the issue was not raised on direct appeal in the Mississippi Supreme Court."
+                                "text": "And as for the third question, the confrontation issue, we note that there was no objection to a portion of counsel's argument identified in the briefs, and that the issue was not raised on direct appeal in the Mississippi Supreme Court."
                             },
                             {
                                 "start": 1933.326,
                                 "stop": 1944.816,
                                 "byte_start": 7860769,
                                 "byte_stop": 7906640,
-                                "text": "The issue is clearly barred under state law, and we suggest that this Court\u0027s recent case in United States versus Young is more or less dispositive of the issue."
+                                "text": "The issue is clearly barred under state law, and we suggest that this Court's recent case in United States versus Young is more or less dispositive of the issue."
                             },
                             {
                                 "start": 1944.816,
@@ -3827,7 +3913,7 @@
                                 "stop": 1967.159,
                                 "byte_start": 7932449,
                                 "byte_stop": 7996084,
-                                "text": "Now, directing our comments to the closing argument question, we note that in particular there was nothing really per se objectionable to defense counsel\u0027s comments during closing summation."
+                                "text": "Now, directing our comments to the closing argument question, we note that in particular there was nothing really per se objectionable to defense counsel's comments during closing summation."
                             },
                             {
                                 "start": 1967.159,
@@ -3882,6 +3968,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -3899,7 +3986,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -3937,6 +4024,7 @@
                             "ID": 43878,
                             "name": "William S. Boyd, III",
                             "href": "https:\/\/api.oyez.org\/people\/william_s_boyd_iii",
+                            "view_count": 0,
                             "last_name": "Boyd,",
                             "roles": null,
                             "thumbnail": null,
@@ -3962,6 +4050,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -3979,7 +4068,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -3990,7 +4079,7 @@
                                 "stop": 2077.022,
                                 "byte_start": 8380919,
                                 "byte_stop": 8435568,
-                                "text": "Apparently the response was needed, as I understand kind of the preliminary comment you made, because it might have been harmful to the prosecutor\u0027s case if the jury thought they were going to take him right out immediately and implement the sentence."
+                                "text": "Apparently the response was needed, as I understand kind of the preliminary comment you made, because it might have been harmful to the prosecutor's case if the jury thought they were going to take him right out immediately and implement the sentence."
                             },
                             {
                                 "start": 2077.022,
@@ -4010,6 +4099,7 @@
                             "ID": 43878,
                             "name": "William S. Boyd, III",
                             "href": "https:\/\/api.oyez.org\/people\/william_s_boyd_iii",
+                            "view_count": 0,
                             "last_name": "Boyd,",
                             "roles": null,
                             "thumbnail": null,
@@ -4022,7 +4112,7 @@
                                 "stop": 2090.439,
                                 "byte_start": 8473811,
                                 "byte_stop": 8489171,
-                                "text": "Your Honor, I am not so sure that it would have harmed the state\u0027s case."
+                                "text": "Your Honor, I am not so sure that it would have harmed the state's case."
                             },
                             {
                                 "start": 2090.439,
@@ -4036,21 +4126,21 @@
                                 "stop": 2138.12,
                                 "byte_start": 8545700,
                                 "byte_stop": 8679865,
-                                "text": "There was a good bit of discussion by state\u0027s counsel in this matter concerning the state of the law prior to this Court\u0027s decision in Furman v. Georgia, that in essence what we had was an automatic imposition of death with basically a mercy clause, that then the state\u0027s counsel went in and discussed this Court\u0027s decision in Furman, noting that the Court had found those statutes that existed at that time were arbitrary, that death was administered in a capricious fashion and what not, then."
+                                "text": "There was a good bit of discussion by state's counsel in this matter concerning the state of the law prior to this Court's decision in Furman v. Georgia, that in essence what we had was an automatic imposition of death with basically a mercy clause, that then the state's counsel went in and discussed this Court's decision in Furman, noting that the Court had found those statutes that existed at that time were arbitrary, that death was administered in a capricious fashion and what not, then."
                             },
                             {
                                 "start": 2138.12,
                                 "stop": 2158.644,
                                 "byte_start": 8679865,
                                 "byte_stop": 8761994,
-                                "text": "The Court came down... the state\u0027s attorney noted that the legislature had undertaken to enact new statutes dealing with this question in order to funnel or to guide the jury\u0027s discretion to take the arbitrary aspects or the capricious aspects out of imposition of death."
+                                "text": "The Court came down... the state's attorney noted that the legislature had undertaken to enact new statutes dealing with this question in order to funnel or to guide the jury's discretion to take the arbitrary aspects or the capricious aspects out of imposition of death."
                             },
                             {
                                 "start": 2158.644,
                                 "stop": 2193.217,
                                 "byte_start": 8761994,
                                 "byte_stop": 8900338,
-                                "text": "He then went into this Court\u0027s discussion or this Court\u0027s decision in Gregg v. Georgia and Proffitt v. Florida, and one thing that I think is a key point to his argument was that he stressed, and there are a number of instances in his closing argument where he stressed that it was the jury\u0027s determination that this Court had made its decision in Gregg and Proffitt to the effect that it was the jury who was to decide what the particular or what the appropriate punishment would be under the circumstances of the case within a channel of guided discretion, as the Court has discussed."
+                                "text": "He then went into this Court's discussion or this Court's decision in Gregg v. Georgia and Proffitt v. Florida, and one thing that I think is a key point to his argument was that he stressed, and there are a number of instances in his closing argument where he stressed that it was the jury's determination that this Court had made its decision in Gregg and Proffitt to the effect that it was the jury who was to decide what the particular or what the appropriate punishment would be under the circumstances of the case within a channel of guided discretion, as the Court has discussed."
                             }
                         ]
                     },
@@ -4063,6 +4153,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -4080,7 +4171,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -4104,6 +4195,7 @@
                             "ID": 43878,
                             "name": "William S. Boyd, III",
                             "href": "https:\/\/api.oyez.org\/people\/william_s_boyd_iii",
+                            "view_count": 0,
                             "last_name": "Boyd,",
                             "roles": null,
                             "thumbnail": null,
@@ -4116,7 +4208,7 @@
                                 "stop": 2221.887,
                                 "byte_start": 8928342,
                                 "byte_stop": 9014964,
-                                "text": "From my reading of defense counsel\u0027s closing argument, I got the distinct impression, especially when they started talking about the poem that was written by the prisoner in Georgia prior to being executed, that in essence what defense counsel was saying, he was trying to put the blood of this man on the jury\u0027s hands, was in essence what they were doing."
+                                "text": "From my reading of defense counsel's closing argument, I got the distinct impression, especially when they started talking about the poem that was written by the prisoner in Georgia prior to being executed, that in essence what defense counsel was saying, he was trying to put the blood of this man on the jury's hands, was in essence what they were doing."
                             },
                             {
                                 "start": 2221.887,
@@ -4150,6 +4242,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -4167,7 +4260,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -4191,6 +4284,7 @@
                             "ID": 43878,
                             "name": "William S. Boyd, III",
                             "href": "https:\/\/api.oyez.org\/people\/william_s_boyd_iii",
+                            "view_count": 0,
                             "last_name": "Boyd,",
                             "roles": null,
                             "thumbnail": null,
@@ -4216,6 +4310,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -4233,7 +4328,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -4244,7 +4339,7 @@
                                 "stop": 2255.128,
                                 "byte_start": 9141396,
                                 "byte_stop": 9147979,
-                                "text": "But that would be all right, wouldn\u0027t it?"
+                                "text": "But that would be all right, wouldn't it?"
                             }
                         ]
                     },
@@ -4257,6 +4352,7 @@
                             "ID": 43878,
                             "name": "William S. Boyd, III",
                             "href": "https:\/\/api.oyez.org\/people\/william_s_boyd_iii",
+                            "view_count": 0,
                             "last_name": "Boyd,",
                             "roles": null,
                             "thumbnail": null,
@@ -4269,7 +4365,7 @@
                                 "stop": 2304.741,
                                 "byte_start": 9147979,
                                 "byte_stop": 9346405,
-                                "text": "Yes, of course, that is true, that if a life sentence was returned, then of course no one could execute him, but what... our position in this matter is this, that there are a line of cases, particularly emanating from the state of Lousiana, cases such as State v. Berry, State v. Matheson, State v. Monroe, and this Court\u0027s decision is Maggio versus Williams, wherein it was discussed a dichotomy more or less or a dual system that they have developed in Lousiana, and that is where the closing argument is addressed to dispelling in the jury\u0027s minds the question of arbitrary imposition of death, then such an argument is appropriate under the circumstances."
+                                "text": "Yes, of course, that is true, that if a life sentence was returned, then of course no one could execute him, but what... our position in this matter is this, that there are a line of cases, particularly emanating from the state of Lousiana, cases such as State v. Berry, State v. Matheson, State v. Monroe, and this Court's decision is Maggio versus Williams, wherein it was discussed a dichotomy more or less or a dual system that they have developed in Lousiana, and that is where the closing argument is addressed to dispelling in the jury's minds the question of arbitrary imposition of death, then such an argument is appropriate under the circumstances."
                             }
                         ]
                     },
@@ -4280,9 +4376,10 @@
                         "byte_stop": 9378379,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -4299,7 +4396,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -4323,6 +4420,7 @@
                             "ID": 43878,
                             "name": "William S. Boyd, III",
                             "href": "https:\/\/api.oyez.org\/people\/william_s_boyd_iii",
+                            "view_count": 0,
                             "last_name": "Boyd,",
                             "roles": null,
                             "thumbnail": null,
@@ -4335,7 +4433,7 @@
                                 "stop": 2317.808,
                                 "byte_start": 9378379,
                                 "byte_stop": 9398650,
-                                "text": "Oh, I think that\u0027s clearly what the law is, that the state cannot make a misleading argument."
+                                "text": "Oh, I think that's clearly what the law is, that the state cannot make a misleading argument."
                             }
                         ]
                     },
@@ -4346,9 +4444,10 @@
                         "byte_stop": 9421638,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -4365,7 +4464,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -4383,14 +4482,14 @@
                                 "stop": 2321.271,
                                 "byte_start": 9400531,
                                 "byte_stop": 9412547,
-                                "text": "So isn\u0027t the real question whether it was misleading or not?"
+                                "text": "So isn't the real question whether it was misleading or not?"
                             },
                             {
                                 "start": 2321.271,
                                 "stop": 2323.562,
                                 "byte_start": 9412547,
                                 "byte_stop": 9421638,
-                                "text": "Isn\u0027t that what we really have to focus on?"
+                                "text": "Isn't that what we really have to focus on?"
                             }
                         ]
                     },
@@ -4403,6 +4502,7 @@
                             "ID": 43878,
                             "name": "William S. Boyd, III",
                             "href": "https:\/\/api.oyez.org\/people\/william_s_boyd_iii",
+                            "view_count": 0,
                             "last_name": "Boyd,",
                             "roles": null,
                             "thumbnail": null,
@@ -4415,7 +4515,7 @@
                                 "stop": 2325.745,
                                 "byte_start": 9421638,
                                 "byte_stop": 9430415,
-                                "text": "Yes, ma\u0027am, I think so, that--"
+                                "text": "Yes, ma'am, I think so, that--"
                             }
                         ]
                     },
@@ -4426,9 +4526,10 @@
                         "byte_stop": 9497706,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -4445,7 +4546,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -4456,7 +4557,7 @@
                                 "stop": 2342.575,
                                 "byte_start": 9430415,
                                 "byte_stop": 9497706,
-                                "text": "And the question there is whether the prosecutor\u0027s remarks indicate that the jury\u0027s verdict if they impose death will be automatically reviewed in all its aspects?"
+                                "text": "And the question there is whether the prosecutor's remarks indicate that the jury's verdict if they impose death will be automatically reviewed in all its aspects?"
                             }
                         ]
                     },
@@ -4469,6 +4570,7 @@
                             "ID": 43878,
                             "name": "William S. Boyd, III",
                             "href": "https:\/\/api.oyez.org\/people\/william_s_boyd_iii",
+                            "view_count": 0,
                             "last_name": "Boyd,",
                             "roles": null,
                             "thumbnail": null,
@@ -4488,7 +4590,7 @@
                                 "stop": 2368.282,
                                 "byte_start": 9537935,
                                 "byte_stop": 9600524,
-                                "text": "I would invite the Court\u0027s attention to the fact, as Mr. Boyle commented on, that there had been two subsequent decisions to Caldwell dealing with this particular issue by the Mississippi Supreme Court, that of the case of Wiley v. State and the case of Williams v. State."
+                                "text": "I would invite the Court's attention to the fact, as Mr. Boyle commented on, that there had been two subsequent decisions to Caldwell dealing with this particular issue by the Mississippi Supreme Court, that of the case of Wiley v. State and the case of Williams v. State."
                             },
                             {
                                 "start": 2368.282,
@@ -4506,9 +4608,10 @@
                         "byte_stop": 9720583,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -4525,7 +4628,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -4556,6 +4659,7 @@
                             "ID": 43878,
                             "name": "William S. Boyd, III",
                             "href": "https:\/\/api.oyez.org\/people\/william_s_boyd_iii",
+                            "view_count": 0,
                             "last_name": "Boyd,",
                             "roles": null,
                             "thumbnail": null,
@@ -4568,14 +4672,14 @@
                                 "stop": 2400.912,
                                 "byte_start": 9720583,
                                 "byte_stop": 9731032,
-                                "text": "No, ma\u0027am, that is not my position."
+                                "text": "No, ma'am, that is not my position."
                             },
                             {
                                 "start": 2400.912,
                                 "stop": 2420.594,
                                 "byte_start": 9731032,
                                 "byte_stop": 9809817,
-                                "text": "My position is that under Donnelly v. DeChristoforo, that this Court made it rather clear to the effect that unless there is a violation of a specific constitutional right, or that the state\u0027s arguments are spurious or false, that those are the bases upon which reversal will be predicated."
+                                "text": "My position is that under Donnelly v. DeChristoforo, that this Court made it rather clear to the effect that unless there is a violation of a specific constitutional right, or that the state's arguments are spurious or false, that those are the bases upon which reversal will be predicated."
                             },
                             {
                                 "start": 2420.594,
@@ -4621,9 +4725,10 @@
                         "byte_stop": 9979404,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -4640,7 +4745,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -4664,6 +4769,7 @@
                             "ID": 43878,
                             "name": "William S. Boyd, III",
                             "href": "https:\/\/api.oyez.org\/people\/william_s_boyd_iii",
+                            "view_count": 0,
                             "last_name": "Boyd,",
                             "roles": null,
                             "thumbnail": null,
@@ -4752,6 +4858,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -4769,7 +4876,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -4780,14 +4887,14 @@
                                 "stop": 2524.193,
                                 "byte_start": 10163306,
                                 "byte_stop": 10224224,
-                                "text": "Mr. Boyd, may I ask, what do you interpret the significance of the dissenting Justices\u0027 comment that even a novice attorney knows that appellate courts do not impose the death penalty, they merely review the jury sentence and that it reviews with a presumption of correctness?"
+                                "text": "Mr. Boyd, may I ask, what do you interpret the significance of the dissenting Justices' comment that even a novice attorney knows that appellate courts do not impose the death penalty, they merely review the jury sentence and that it reviews with a presumption of correctness?"
                             },
                             {
                                 "start": 2524.193,
                                 "stop": 2532.2,
                                 "byte_start": 10224224,
                                 "byte_stop": 10256198,
-                                "text": "I read that to indicate that his view was that the prosecutor\u0027s argument did not make a full and accurate statement of the function of the reviewing court."
+                                "text": "I read that to indicate that his view was that the prosecutor's argument did not make a full and accurate statement of the function of the reviewing court."
                             }
                         ]
                     },
@@ -4800,6 +4907,7 @@
                             "ID": 43878,
                             "name": "William S. Boyd, III",
                             "href": "https:\/\/api.oyez.org\/people\/william_s_boyd_iii",
+                            "view_count": 0,
                             "last_name": "Boyd,",
                             "roles": null,
                             "thumbnail": null,
@@ -4825,6 +4933,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -4842,7 +4951,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -4853,7 +4962,7 @@
                                 "stop": 2536.33,
                                 "byte_start": 10265079,
                                 "byte_stop": 10272707,
-                                "text": "And I don\u0027t think the majority disagreed with them."
+                                "text": "And I don't think the majority disagreed with them."
                             }
                         ]
                     },
@@ -4866,6 +4975,7 @@
                             "ID": 43878,
                             "name": "William S. Boyd, III",
                             "href": "https:\/\/api.oyez.org\/people\/william_s_boyd_iii",
+                            "view_count": 0,
                             "last_name": "Boyd,",
                             "roles": null,
                             "thumbnail": null,
@@ -4899,42 +5009,42 @@
                                 "stop": 2576.011,
                                 "byte_start": 10409171,
                                 "byte_stop": 10431427,
-                                "text": "Now, there are comments in this particular matter that I don\u0027t particularly understand."
+                                "text": "Now, there are comments in this particular matter that I don't particularly understand."
                             },
                             {
                                 "start": 2576.011,
                                 "stop": 2586.628,
                                 "byte_start": 10431427,
                                 "byte_stop": 10473955,
-                                "text": "Some of the comments made by the dissent I don\u0027t particularly understand, but mine is not to know exactly what they are talking about in the matter, just to argue the cases before them."
+                                "text": "Some of the comments made by the dissent I don't particularly understand, but mine is not to know exactly what they are talking about in the matter, just to argue the cases before them."
                             },
                             {
                                 "start": 2586.628,
                                 "stop": 2610.973,
                                 "byte_start": 10473955,
                                 "byte_stop": 10571339,
-                                "text": "Within this regard, the question as to diminished responsibility we suggest that this Court\u0027s recent decision in Wainwright versus Witt and the decision in Donnelly v. DeChristoforo mandates that deference be given to the trial judge\u0027s determination as to what was said."
+                                "text": "Within this regard, the question as to diminished responsibility we suggest that this Court's recent decision in Wainwright versus Witt and the decision in Donnelly v. DeChristoforo mandates that deference be given to the trial judge's determination as to what was said."
                             },
                             {
                                 "start": 2610.973,
                                 "stop": 2635.477,
                                 "byte_start": 10571339,
                                 "byte_stop": 10669351,
-                                "text": "The trial judge in this particular case felt that defense counsel\u0027s closing arguments were misleading to the jury, and instructed the assistant district attorney basically to straighten the matter out, and this is what he attempted to do, to address the question as to whether or not the defendant would be taken out the front of the courthouse and there summarily executed."
+                                "text": "The trial judge in this particular case felt that defense counsel's closing arguments were misleading to the jury, and instructed the assistant district attorney basically to straighten the matter out, and this is what he attempted to do, to address the question as to whether or not the defendant would be taken out the front of the courthouse and there summarily executed."
                             },
                             {
                                 "start": 2635.477,
                                 "stop": 2659.905,
                                 "byte_start": 10669351,
                                 "byte_stop": 10767048,
-                                "text": "A corollary to this is a case which is currently pending before this Court on certiorari, the case of Booker v. State, wherein defense counsel is the one that got up at the initiation of the proceedings and started talking about let\u0027s go ahead and sentence this man to life, because we have all of these multiple appeals that we are going to go through in this matter."
+                                "text": "A corollary to this is a case which is currently pending before this Court on certiorari, the case of Booker v. State, wherein defense counsel is the one that got up at the initiation of the proceedings and started talking about let's go ahead and sentence this man to life, because we have all of these multiple appeals that we are going to go through in this matter."
                             },
                             {
                                 "start": 2659.905,
                                 "stop": 2672.283,
                                 "byte_start": 10767048,
                                 "byte_stop": 10816577,
-                                "text": "Likewise, in this particular case, defense counsel discussed at great length this Court\u0027s decision in Furman v. Georgia, and noted that the Assistant District Attorney would probably address comments in that direction."
+                                "text": "Likewise, in this particular case, defense counsel discussed at great length this Court's decision in Furman v. Georgia, and noted that the Assistant District Attorney would probably address comments in that direction."
                             },
                             {
                                 "start": 2672.283,
@@ -4997,7 +5107,7 @@
                                 "stop": 2768.464,
                                 "byte_start": 11128165,
                                 "byte_stop": 11201308,
-                                "text": "Here, we would note in particular one thing that I don\u0027t know has been made abundantly clear, and that is that Mr. Caldwell did have the assistance of a psychiatrist in this matter appointed at state expense to the tune of $70 per hour."
+                                "text": "Here, we would note in particular one thing that I don't know has been made abundantly clear, and that is that Mr. Caldwell did have the assistance of a psychiatrist in this matter appointed at state expense to the tune of $70 per hour."
                             },
                             {
                                 "start": 2768.464,
@@ -5081,7 +5191,7 @@
                                 "stop": 2929.111,
                                 "byte_start": 11752492,
                                 "byte_stop": 11843920,
-                                "text": "We suggest that the Criminal Justice Act\u0027s constitutionally grounded standard of assistance necessary to an adequate defense and the workable criteria developed by the federal courts and by many state courts operating under similar statutes to implement that standard may be appropriately applied to implement the constitutional guarantee of due process."
+                                "text": "We suggest that the Criminal Justice Act's constitutionally grounded standard of assistance necessary to an adequate defense and the workable criteria developed by the federal courts and by many state courts operating under similar statutes to implement that standard may be appropriately applied to implement the constitutional guarantee of due process."
                             },
                             {
                                 "start": 2929.111,
@@ -5143,6 +5253,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -5170,7 +5281,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -5181,7 +5292,7 @@
                                 "stop": 3018.309,
                                 "byte_start": 12145164,
                                 "byte_stop": 12200648,
-                                "text": "But can\u0027t the defendant say that if a state has sufficient doubt about the other evidence that it is going to call a ballistics expert that the defendant is entitled to call one, too?"
+                                "text": "But can't the defendant say that if a state has sufficient doubt about the other evidence that it is going to call a ballistics expert that the defendant is entitled to call one, too?"
                             }
                         ]
                     },
@@ -5194,6 +5305,7 @@
                             "ID": 43878,
                             "name": "William S. Boyd, III",
                             "href": "https:\/\/api.oyez.org\/people\/william_s_boyd_iii",
+                            "view_count": 0,
                             "last_name": "Boyd,",
                             "roles": null,
                             "thumbnail": null,
@@ -5213,7 +5325,7 @@
                                 "stop": 3022.102,
                                 "byte_start": 12206186,
                                 "byte_stop": 12215799,
-                                "text": "I don\u0027t think that that is a proper standard."
+                                "text": "I don't think that that is a proper standard."
                             },
                             {
                                 "start": 3022.102,
@@ -5303,6 +5415,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -5320,7 +5433,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -5373,6 +5486,7 @@
                             "ID": 21845,
                             "name": "E. Thomas Boyle",
                             "href": "https:\/\/api.oyez.org\/people\/e_thomas_boyle",
+                            "view_count": 0,
                             "last_name": "Boyle",
                             "roles": null,
                             "thumbnail": null,
@@ -5398,6 +5512,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -5415,7 +5530,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"

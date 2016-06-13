@@ -2,9 +2,10 @@
     "ID": 55449,
     "name": "Bell Atlantic Corp. v. Twombly",
     "href": "https:\/\/api.oyez.org\/cases\/2006\/05-1126",
+    "view_count": 103,
     "docket_number": "05-1126",
     "additional_docket_numbers": null,
-    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
     "first_party": "Bell Atlantic Corp. et al.",
     "second_party": "William Twombly et al.",
     "timeline": [
@@ -35,15 +36,16 @@
         "name": "United States Court of Appeals for the Second Circuit",
         "href": "https:\/\/api.oyez.org\/taxonomy\/term\/7"
     },
-    "facts_of_the_case": "\u003Cp\u003EWilliam Twombly and other consumers brought a class action lawsuit against Bell Atlantic Corp. and other telecommunications companies. Twombly alleged that the companies had violated Section 1 of the Sherman Act by conspiring to end competition among themselves and to stifle new competition. In the suit, Twombly claimed that the companies had agreed not to branch out into and compete in one another\u0027s territories, even though the Telecommunications Act of 1996 might have made it relatively inexpensive to do so.\u003C\/p\u003E\n\u003Cp\u003EThe District Court granted Bell Atlantic\u0027s motion to dismiss the suit, however, because Twombly had failed to \u0022allege sufficient facts from which a conspiracy can be inferred.\u0022 In order to sufficiently claim a Section 1 violation, the court held, the plaintiffs needed to establish a \u0022plus factor\u0022 - a piece of evidence showing that the defendants\u0027 behavior would be against their economic self-interest unless there was a conspiratorial agreement. Twombly had not established a plus factor, the court held, because the companies\u0027 defensive behavior could have been motivated by economic factors rather than conspiracy.\u003C\/p\u003E\n\u003Cp\u003ETwombly appealed to the U.S. Court of Appeals for the Second Circuit, which reversed the lower court. The Second Circuit ruled that Twombly needed only to allege a conspiracy and specific facts that would support a Section 1 violation. Since he had alleged that the companies had engaged in suspicious \u0022parallel conduct\u0022 and conspired to preserve monopoly conditions, his claim was sufficient and the suit could proceed.\u003C\/p\u003E\n",
-    "question": "\u003Cp\u003ECan a plaintiff claim a violation of Section 1 of the Sherman Act by alleging parallel conduct by defendants amounting to a conspiracy?\u003C\/p\u003E\n",
-    "conclusion": "\u003Cp\u003ENo. The Court ruled 7-2 that a plaintiff claiming a Section 1 violation must also allege facts that, if true, would suggest a conspiratorial agreement. The opinion by Justice David Souter held that \u0022Without more, parallel conduct does not suggest conspiracy [...]\u0022 and \u0022A statement of parallel conduct [...] needs some setting suggesting the [conspiratorial] agreement [...]\u0022 The Court laid out a \u0022plausibility standard\u0022 for the pleading stage of Section 1 suits. Claims are valid only if they allege facts that plausibly suggest a conspiracy. To allege facts that are merely consistent with a conspiracy is not sufficient. The suggestive facts need only be alleged; a suit can go forward even if the facts are unlikely to be proven by the plaintiff. The Court held that Twombly\u0027s claim should be dismissed, because he had failed to identify any facts that suggested illegal conspiracy over the alternative: a concurrent appraisal of the economic situation by several telecomm companies. The dissenting Justices accused the majority of acting on the basis of practical concerns over \u0022enormously expensive\u0022 antitrust lawsuits with the potential to confuse juries.\u003C\/p\u003E\n",
+    "facts_of_the_case": "<p>William Twombly and other consumers brought a class action lawsuit against Bell Atlantic Corp. and other telecommunications companies. Twombly alleged that the companies had violated Section 1 of the Sherman Act by conspiring to end competition among themselves and to stifle new competition. In the suit, Twombly claimed that the companies had agreed not to branch out into and compete in one another's territories, even though the Telecommunications Act of 1996 might have made it relatively inexpensive to do so.<\/p>\n<p>The District Court granted Bell Atlantic's motion to dismiss the suit, however, because Twombly had failed to \"allege sufficient facts from which a conspiracy can be inferred.\" In order to sufficiently claim a Section 1 violation, the court held, the plaintiffs needed to establish a \"plus factor\" - a piece of evidence showing that the defendants' behavior would be against their economic self-interest unless there was a conspiratorial agreement. Twombly had not established a plus factor, the court held, because the companies' defensive behavior could have been motivated by economic factors rather than conspiracy.<\/p>\n<p>Twombly appealed to the U.S. Court of Appeals for the Second Circuit, which reversed the lower court. The Second Circuit ruled that Twombly needed only to allege a conspiracy and specific facts that would support a Section 1 violation. Since he had alleged that the companies had engaged in suspicious \"parallel conduct\" and conspired to preserve monopoly conditions, his claim was sufficient and the suit could proceed.<\/p>\n",
+    "question": "<p>Can a plaintiff claim a violation of Section 1 of the Sherman Act by alleging parallel conduct by defendants amounting to a conspiracy?<\/p>\n",
+    "conclusion": "<p>No. The Court ruled 7-2 that a plaintiff claiming a Section 1 violation must also allege facts that, if true, would suggest a conspiratorial agreement. The opinion by Justice David Souter held that \"Without more, parallel conduct does not suggest conspiracy [...]\" and \"A statement of parallel conduct [...] needs some setting suggesting the [conspiratorial] agreement [...]\" The Court laid out a \"plausibility standard\" for the pleading stage of Section 1 suits. Claims are valid only if they allege facts that plausibly suggest a conspiracy. To allege facts that are merely consistent with a conspiracy is not sufficient. The suggestive facts need only be alleged; a suit can go forward even if the facts are unlikely to be proven by the plaintiff. The Court held that Twombly's claim should be dismissed, because he had failed to identify any facts that suggested illegal conspiracy over the alternative: a concurrent appraisal of the economic situation by several telecomm companies. The dissenting Justices accused the majority of acting on the basis of practical concerns over \"enormously expensive\" antitrust lawsuits with the potential to confuse juries.<\/p>\n",
     "advocates": [
         {
             "advocate": {
                 "ID": 42485,
                 "name": "Thomas O. Barnett",
                 "href": "https:\/\/api.oyez.org\/people\/thomas_o_barnett",
+                "view_count": 0,
                 "last_name": "Barnett",
                 "roles": null,
                 "thumbnail": null,
@@ -58,6 +60,7 @@
                 "ID": 36128,
                 "name": "Michael K. Kellogg",
                 "href": "https:\/\/api.oyez.org\/people\/michael_k_kellogg",
+                "view_count": 0,
                 "last_name": "Kellogg",
                 "roles": null,
                 "thumbnail": null,
@@ -72,6 +75,7 @@
                 "ID": 32670,
                 "name": "J. Douglas Richards",
                 "href": "https:\/\/api.oyez.org\/people\/j_douglas_richards",
+                "view_count": 0,
                 "last_name": "Richards",
                 "roles": null,
                 "thumbnail": null,
@@ -99,13 +103,14 @@
     },
     "decisions": [
         {
-            "description": null,
+            "description": "Stating a claim under the Sherman Act's restraint of trade provision requires a complaint with enough factual matter to suggest that an agreement was made.",
             "votes": [
                 {
                     "member": {
                         "ID": 15086,
                         "name": "John G. Roberts, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                        "view_count": 40,
                         "last_name": "Roberts",
                         "roles": [
                             {
@@ -123,9 +128,9 @@
                             "id": 32683,
                             "mime": "image\/png",
                             "size": 52305,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_g_roberts_jr\/john_g_roberts_jr.thumb.png"
                         },
-                        "length_of_service": 3702,
+                        "length_of_service": 3842,
                         "identifier": "john_g_roberts_jr"
                     },
                     "vote": "majority",
@@ -140,6 +145,7 @@
                         "ID": 15060,
                         "name": "John Paul Stevens",
                         "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                        "view_count": 0,
                         "last_name": "Stevens",
                         "roles": [
                             {
@@ -157,7 +163,7 @@
                             "id": 32732,
                             "mime": "image\/png",
                             "size": 62101,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                         },
                         "length_of_service": 12611,
                         "identifier": "john_paul_stevens"
@@ -174,13 +180,14 @@
                         "ID": 15049,
                         "name": "Antonin Scalia",
                         "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                        "view_count": 54,
                         "last_name": "Scalia",
                         "roles": [
                             {
                                 "id": 2693,
                                 "type": "scotus_justice",
                                 "date_start": 528094800,
-                                "date_end": 0,
+                                "date_end": 1455343200,
                                 "appointing_president": "Ronald Reagan",
                                 "role_title": "Associate Justice of the Supreme Court of the United States",
                                 "institution_name": "Supreme Court of the United States",
@@ -191,9 +198,9 @@
                             "id": 32678,
                             "mime": "image\/png",
                             "size": 58944,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                         },
-                        "length_of_service": 10699,
+                        "length_of_service": 10732,
                         "identifier": "antonin_scalia"
                     },
                     "vote": "majority",
@@ -208,6 +215,7 @@
                         "ID": 15113,
                         "name": "Anthony M. Kennedy",
                         "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                        "view_count": 73,
                         "last_name": "Kennedy",
                         "roles": [
                             {
@@ -225,9 +233,9 @@
                             "id": 32679,
                             "mime": "image\/png",
                             "size": 47100,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                         },
-                        "length_of_service": 10147,
+                        "length_of_service": 10275,
                         "identifier": "anthony_m_kennedy"
                     },
                     "vote": "majority",
@@ -242,6 +250,7 @@
                         "ID": 15042,
                         "name": "David H. Souter",
                         "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                        "view_count": 0,
                         "last_name": "Souter",
                         "roles": [
                             {
@@ -259,7 +268,7 @@
                             "id": 32703,
                             "mime": "image\/png",
                             "size": 42141,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_souter.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
                         },
                         "length_of_service": 6839,
                         "identifier": "david_h_souter"
@@ -276,6 +285,7 @@
                         "ID": 15100,
                         "name": "Clarence Thomas",
                         "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                        "view_count": 91,
                         "last_name": "Thomas",
                         "roles": [
                             {
@@ -293,9 +303,9 @@
                             "id": 32680,
                             "mime": "image\/png",
                             "size": 49064,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                         },
-                        "length_of_service": 8870,
+                        "length_of_service": 8932,
                         "identifier": "clarence_thomas"
                     },
                     "vote": "majority",
@@ -310,6 +320,7 @@
                         "ID": 15084,
                         "name": "Ruth Bader Ginsburg",
                         "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                        "view_count": 55,
                         "last_name": "Ginsburg",
                         "roles": [
                             {
@@ -327,9 +338,9 @@
                             "id": 32681,
                             "mime": "image\/png",
                             "size": 45030,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
                         },
-                        "length_of_service": 8135,
+                        "length_of_service": 8275,
                         "identifier": "ruth_bader_ginsburg"
                     },
                     "vote": "minority",
@@ -339,6 +350,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -356,7 +368,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -371,6 +383,7 @@
                         "ID": 15139,
                         "name": "Stephen G. Breyer",
                         "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                        "view_count": 58,
                         "last_name": "Breyer",
                         "roles": [
                             {
@@ -388,9 +401,9 @@
                             "id": 32682,
                             "mime": "image\/png",
                             "size": 49908,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
                         },
-                        "length_of_service": 7777,
+                        "length_of_service": 7917,
                         "identifier": "stephen_g_breyer"
                     },
                     "vote": "majority",
@@ -404,7 +417,8 @@
                     "member": {
                         "ID": 15068,
                         "name": "Samuel A. Alito, Jr.",
-                        "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                        "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                        "view_count": 74,
                         "last_name": "Alito",
                         "roles": [
                             {
@@ -422,10 +436,10 @@
                             "id": 32684,
                             "mime": "image\/png",
                             "size": 44799,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
                         },
-                        "length_of_service": 3531,
-                        "identifier": "samuel_alito_jr"
+                        "length_of_service": 3718,
+                        "identifier": "samuel_a_alito_jr"
                     },
                     "vote": "majority",
                     "opinion_type": "none",
@@ -437,18 +451,19 @@
             ],
             "majority_vote": 7,
             "minority_vote": 2,
-            "winning_party": "William Twombly, et al.",
+            "winning_party": "Bell Atlantic Corp.",
             "decision_type": "majority opinion",
             "href": "https:\/\/api.oyez.org\/case_decision\/case_decision\/13464"
         },
         {
-            "description": null,
+            "description": "An allegation of parallel business conduct and a bare assertion of conspiracy do not make a claim under the Sherman Act.",
             "votes": [
                 {
                     "member": {
                         "ID": 15086,
                         "name": "John G. Roberts, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                        "view_count": 40,
                         "last_name": "Roberts",
                         "roles": [
                             {
@@ -466,9 +481,9 @@
                             "id": 32683,
                             "mime": "image\/png",
                             "size": 52305,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_g_roberts_jr\/john_g_roberts_jr.thumb.png"
                         },
-                        "length_of_service": 3702,
+                        "length_of_service": 3842,
                         "identifier": "john_g_roberts_jr"
                     },
                     "vote": "majority",
@@ -483,6 +498,7 @@
                         "ID": 15060,
                         "name": "John Paul Stevens",
                         "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                        "view_count": 0,
                         "last_name": "Stevens",
                         "roles": [
                             {
@@ -500,7 +516,7 @@
                             "id": 32732,
                             "mime": "image\/png",
                             "size": 62101,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                         },
                         "length_of_service": 12611,
                         "identifier": "john_paul_stevens"
@@ -517,13 +533,14 @@
                         "ID": 15049,
                         "name": "Antonin Scalia",
                         "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                        "view_count": 54,
                         "last_name": "Scalia",
                         "roles": [
                             {
                                 "id": 2693,
                                 "type": "scotus_justice",
                                 "date_start": 528094800,
-                                "date_end": 0,
+                                "date_end": 1455343200,
                                 "appointing_president": "Ronald Reagan",
                                 "role_title": "Associate Justice of the Supreme Court of the United States",
                                 "institution_name": "Supreme Court of the United States",
@@ -534,9 +551,9 @@
                             "id": 32678,
                             "mime": "image\/png",
                             "size": 58944,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                         },
-                        "length_of_service": 10699,
+                        "length_of_service": 10732,
                         "identifier": "antonin_scalia"
                     },
                     "vote": "majority",
@@ -551,6 +568,7 @@
                         "ID": 15113,
                         "name": "Anthony M. Kennedy",
                         "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                        "view_count": 73,
                         "last_name": "Kennedy",
                         "roles": [
                             {
@@ -568,9 +586,9 @@
                             "id": 32679,
                             "mime": "image\/png",
                             "size": 47100,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                         },
-                        "length_of_service": 10147,
+                        "length_of_service": 10275,
                         "identifier": "anthony_m_kennedy"
                     },
                     "vote": "majority",
@@ -585,6 +603,7 @@
                         "ID": 15042,
                         "name": "David H. Souter",
                         "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                        "view_count": 0,
                         "last_name": "Souter",
                         "roles": [
                             {
@@ -602,7 +621,7 @@
                             "id": 32703,
                             "mime": "image\/png",
                             "size": 42141,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_souter.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
                         },
                         "length_of_service": 6839,
                         "identifier": "david_h_souter"
@@ -619,6 +638,7 @@
                         "ID": 15100,
                         "name": "Clarence Thomas",
                         "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                        "view_count": 91,
                         "last_name": "Thomas",
                         "roles": [
                             {
@@ -636,9 +656,9 @@
                             "id": 32680,
                             "mime": "image\/png",
                             "size": 49064,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                         },
-                        "length_of_service": 8870,
+                        "length_of_service": 8932,
                         "identifier": "clarence_thomas"
                     },
                     "vote": "majority",
@@ -653,6 +673,7 @@
                         "ID": 15084,
                         "name": "Ruth Bader Ginsburg",
                         "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                        "view_count": 55,
                         "last_name": "Ginsburg",
                         "roles": [
                             {
@@ -670,9 +691,9 @@
                             "id": 32681,
                             "mime": "image\/png",
                             "size": 45030,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
                         },
-                        "length_of_service": 8135,
+                        "length_of_service": 8275,
                         "identifier": "ruth_bader_ginsburg"
                     },
                     "vote": "minority",
@@ -682,6 +703,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -699,7 +721,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -714,6 +736,7 @@
                         "ID": 15139,
                         "name": "Stephen G. Breyer",
                         "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                        "view_count": 58,
                         "last_name": "Breyer",
                         "roles": [
                             {
@@ -731,9 +754,9 @@
                             "id": 32682,
                             "mime": "image\/png",
                             "size": 49908,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
                         },
-                        "length_of_service": 7777,
+                        "length_of_service": 7917,
                         "identifier": "stephen_g_breyer"
                     },
                     "vote": "majority",
@@ -747,7 +770,8 @@
                     "member": {
                         "ID": 15068,
                         "name": "Samuel A. Alito, Jr.",
-                        "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                        "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                        "view_count": 74,
                         "last_name": "Alito",
                         "roles": [
                             {
@@ -765,10 +789,10 @@
                             "id": 32684,
                             "mime": "image\/png",
                             "size": 44799,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
                         },
-                        "length_of_service": 3531,
-                        "identifier": "samuel_alito_jr"
+                        "length_of_service": 3718,
+                        "identifier": "samuel_a_alito_jr"
                     },
                     "vote": "majority",
                     "opinion_type": "none",
@@ -780,9 +804,1023 @@
             ],
             "majority_vote": 7,
             "minority_vote": 2,
-            "winning_party": "William Twombly, et al.",
+            "winning_party": "Bell Atlantic Corp.",
             "decision_type": "majority opinion",
             "href": "https:\/\/api.oyez.org\/case_decision\/case_decision\/13465"
+        },
+        {
+            "description": "Dismissal for failure to state a claim for relief does not require that the plaintiff can prove no set of facts beyond a doubt that would entitle him to relief.",
+            "votes": [
+                {
+                    "member": {
+                        "ID": 15042,
+                        "name": "David H. Souter",
+                        "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                        "view_count": 0,
+                        "last_name": "Souter",
+                        "roles": [
+                            {
+                                "id": 2686,
+                                "type": "scotus_justice",
+                                "date_start": 655362000,
+                                "date_end": 1246251600,
+                                "appointing_president": "George H. W. Bush",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2686"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32703,
+                            "mime": "image\/png",
+                            "size": 42141,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
+                        },
+                        "length_of_service": 6839,
+                        "identifier": "david_h_souter"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "majority",
+                    "joining": null,
+                    "seniority": 5,
+                    "ideology": -1.482,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/206848"
+                },
+                {
+                    "member": {
+                        "ID": 15086,
+                        "name": "John G. Roberts, Jr.",
+                        "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                        "view_count": 40,
+                        "last_name": "Roberts",
+                        "roles": [
+                            {
+                                "id": 2730,
+                                "type": "scotus_justice",
+                                "date_start": 1127970000,
+                                "date_end": 0,
+                                "appointing_president": "George W. Bush",
+                                "role_title": "Chief Justice of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32683,
+                            "mime": "image\/png",
+                            "size": 52305,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_g_roberts_jr\/john_g_roberts_jr.thumb.png"
+                        },
+                        "length_of_service": 3842,
+                        "identifier": "john_g_roberts_jr"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15042,
+                            "name": "David H. Souter",
+                            "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                            "view_count": 0,
+                            "last_name": "Souter",
+                            "roles": [
+                                {
+                                    "id": 2686,
+                                    "type": "scotus_justice",
+                                    "date_start": 655362000,
+                                    "date_end": 1246251600,
+                                    "appointing_president": "George H. W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2686"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32703,
+                                "mime": "image\/png",
+                                "size": 42141,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
+                            },
+                            "length_of_service": 6839,
+                            "identifier": "david_h_souter"
+                        }
+                    ],
+                    "seniority": 1,
+                    "ideology": 1.528,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/206849"
+                },
+                {
+                    "member": {
+                        "ID": 15049,
+                        "name": "Antonin Scalia",
+                        "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                        "view_count": 54,
+                        "last_name": "Scalia",
+                        "roles": [
+                            {
+                                "id": 2693,
+                                "type": "scotus_justice",
+                                "date_start": 528094800,
+                                "date_end": 1455343200,
+                                "appointing_president": "Ronald Reagan",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2693"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32678,
+                            "mime": "image\/png",
+                            "size": 58944,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
+                        },
+                        "length_of_service": 10732,
+                        "identifier": "antonin_scalia"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15042,
+                            "name": "David H. Souter",
+                            "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                            "view_count": 0,
+                            "last_name": "Souter",
+                            "roles": [
+                                {
+                                    "id": 2686,
+                                    "type": "scotus_justice",
+                                    "date_start": 655362000,
+                                    "date_end": 1246251600,
+                                    "appointing_president": "George H. W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2686"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32703,
+                                "mime": "image\/png",
+                                "size": 42141,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
+                            },
+                            "length_of_service": 6839,
+                            "identifier": "david_h_souter"
+                        }
+                    ],
+                    "seniority": 3,
+                    "ideology": 2.631,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/206850"
+                },
+                {
+                    "member": {
+                        "ID": 15113,
+                        "name": "Anthony M. Kennedy",
+                        "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                        "view_count": 73,
+                        "last_name": "Kennedy",
+                        "roles": [
+                            {
+                                "id": 2757,
+                                "type": "scotus_justice",
+                                "date_start": 572162400,
+                                "date_end": 0,
+                                "appointing_president": "Ronald Reagan",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2757"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32679,
+                            "mime": "image\/png",
+                            "size": 47100,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
+                        },
+                        "length_of_service": 10275,
+                        "identifier": "anthony_m_kennedy"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15042,
+                            "name": "David H. Souter",
+                            "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                            "view_count": 0,
+                            "last_name": "Souter",
+                            "roles": [
+                                {
+                                    "id": 2686,
+                                    "type": "scotus_justice",
+                                    "date_start": 655362000,
+                                    "date_end": 1246251600,
+                                    "appointing_president": "George H. W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2686"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32703,
+                                "mime": "image\/png",
+                                "size": 42141,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
+                            },
+                            "length_of_service": 6839,
+                            "identifier": "david_h_souter"
+                        }
+                    ],
+                    "seniority": 4,
+                    "ideology": 0.413,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/206851"
+                },
+                {
+                    "member": {
+                        "ID": 15100,
+                        "name": "Clarence Thomas",
+                        "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                        "view_count": 91,
+                        "last_name": "Thomas",
+                        "roles": [
+                            {
+                                "id": 2744,
+                                "type": "scotus_justice",
+                                "date_start": 688194000,
+                                "date_end": 0,
+                                "appointing_president": "George H. W. Bush",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2744"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32680,
+                            "mime": "image\/png",
+                            "size": 49064,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
+                        },
+                        "length_of_service": 8932,
+                        "identifier": "clarence_thomas"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15042,
+                            "name": "David H. Souter",
+                            "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                            "view_count": 0,
+                            "last_name": "Souter",
+                            "roles": [
+                                {
+                                    "id": 2686,
+                                    "type": "scotus_justice",
+                                    "date_start": 655362000,
+                                    "date_end": 1246251600,
+                                    "appointing_president": "George H. W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2686"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32703,
+                                "mime": "image\/png",
+                                "size": 42141,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
+                            },
+                            "length_of_service": 6839,
+                            "identifier": "david_h_souter"
+                        }
+                    ],
+                    "seniority": 6,
+                    "ideology": 3.979,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/206852"
+                },
+                {
+                    "member": {
+                        "ID": 15139,
+                        "name": "Stephen G. Breyer",
+                        "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                        "view_count": 58,
+                        "last_name": "Breyer",
+                        "roles": [
+                            {
+                                "id": 2785,
+                                "type": "scotus_justice",
+                                "date_start": 775890000,
+                                "date_end": 0,
+                                "appointing_president": "Bill Clinton",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2785"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32682,
+                            "mime": "image\/png",
+                            "size": 49908,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
+                        },
+                        "length_of_service": 7917,
+                        "identifier": "stephen_g_breyer"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15042,
+                            "name": "David H. Souter",
+                            "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                            "view_count": 0,
+                            "last_name": "Souter",
+                            "roles": [
+                                {
+                                    "id": 2686,
+                                    "type": "scotus_justice",
+                                    "date_start": 655362000,
+                                    "date_end": 1246251600,
+                                    "appointing_president": "George H. W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2686"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32703,
+                                "mime": "image\/png",
+                                "size": 42141,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
+                            },
+                            "length_of_service": 6839,
+                            "identifier": "david_h_souter"
+                        }
+                    ],
+                    "seniority": 8,
+                    "ideology": -1.509,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/206853"
+                },
+                {
+                    "member": {
+                        "ID": 15068,
+                        "name": "Samuel A. Alito, Jr.",
+                        "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                        "view_count": 74,
+                        "last_name": "Alito",
+                        "roles": [
+                            {
+                                "id": 2712,
+                                "type": "scotus_justice",
+                                "date_start": 1138687200,
+                                "date_end": 0,
+                                "appointing_president": "George W. Bush",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2712"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32684,
+                            "mime": "image\/png",
+                            "size": 44799,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
+                        },
+                        "length_of_service": 3718,
+                        "identifier": "samuel_a_alito_jr"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15042,
+                            "name": "David H. Souter",
+                            "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                            "view_count": 0,
+                            "last_name": "Souter",
+                            "roles": [
+                                {
+                                    "id": 2686,
+                                    "type": "scotus_justice",
+                                    "date_start": 655362000,
+                                    "date_end": 1246251600,
+                                    "appointing_president": "George H. W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2686"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32703,
+                                "mime": "image\/png",
+                                "size": 42141,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
+                            },
+                            "length_of_service": 6839,
+                            "identifier": "david_h_souter"
+                        }
+                    ],
+                    "seniority": 9,
+                    "ideology": 1.575,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/206854"
+                },
+                {
+                    "member": {
+                        "ID": 15060,
+                        "name": "John Paul Stevens",
+                        "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                        "view_count": 0,
+                        "last_name": "Stevens",
+                        "roles": [
+                            {
+                                "id": 2704,
+                                "type": "scotus_justice",
+                                "date_start": 188200800,
+                                "date_end": 1277787600,
+                                "appointing_president": "Gerald Ford",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2704"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32732,
+                            "mime": "image\/png",
+                            "size": 62101,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
+                        },
+                        "length_of_service": 12611,
+                        "identifier": "john_paul_stevens"
+                    },
+                    "vote": "minority",
+                    "opinion_type": "dissent",
+                    "joining": null,
+                    "seniority": 2,
+                    "ideology": -2.491,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/206855"
+                },
+                {
+                    "member": {
+                        "ID": 15084,
+                        "name": "Ruth Bader Ginsburg",
+                        "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                        "view_count": 55,
+                        "last_name": "Ginsburg",
+                        "roles": [
+                            {
+                                "id": 2728,
+                                "type": "scotus_justice",
+                                "date_start": 744958800,
+                                "date_end": 0,
+                                "appointing_president": "Bill Clinton",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2728"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32681,
+                            "mime": "image\/png",
+                            "size": 45030,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
+                        },
+                        "length_of_service": 8275,
+                        "identifier": "ruth_bader_ginsburg"
+                    },
+                    "vote": "minority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15060,
+                            "name": "John Paul Stevens",
+                            "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
+                            "last_name": "Stevens",
+                            "roles": [
+                                {
+                                    "id": 2704,
+                                    "type": "scotus_justice",
+                                    "date_start": 188200800,
+                                    "date_end": 1277787600,
+                                    "appointing_president": "Gerald Ford",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2704"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32732,
+                                "mime": "image\/png",
+                                "size": 62101,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
+                            },
+                            "length_of_service": 12611,
+                            "identifier": "john_paul_stevens"
+                        }
+                    ],
+                    "seniority": 7,
+                    "ideology": -1.579,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/206856"
+                }
+            ],
+            "majority_vote": 7,
+            "minority_vote": 2,
+            "winning_party": "Bell Atlantic Corp.",
+            "decision_type": "majority opinion",
+            "href": "https:\/\/api.oyez.org\/case_decision\/case_decision\/16539"
+        },
+        {
+            "description": "Consumers' allegations of parallel conduct were insufficient to state a claim.",
+            "votes": [
+                {
+                    "member": {
+                        "ID": 15042,
+                        "name": "David H. Souter",
+                        "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                        "view_count": 0,
+                        "last_name": "Souter",
+                        "roles": [
+                            {
+                                "id": 2686,
+                                "type": "scotus_justice",
+                                "date_start": 655362000,
+                                "date_end": 1246251600,
+                                "appointing_president": "George H. W. Bush",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2686"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32703,
+                            "mime": "image\/png",
+                            "size": 42141,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
+                        },
+                        "length_of_service": 6839,
+                        "identifier": "david_h_souter"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "majority",
+                    "joining": null,
+                    "seniority": 5,
+                    "ideology": -1.482,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/206857"
+                },
+                {
+                    "member": {
+                        "ID": 15086,
+                        "name": "John G. Roberts, Jr.",
+                        "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                        "view_count": 40,
+                        "last_name": "Roberts",
+                        "roles": [
+                            {
+                                "id": 2730,
+                                "type": "scotus_justice",
+                                "date_start": 1127970000,
+                                "date_end": 0,
+                                "appointing_president": "George W. Bush",
+                                "role_title": "Chief Justice of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32683,
+                            "mime": "image\/png",
+                            "size": 52305,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_g_roberts_jr\/john_g_roberts_jr.thumb.png"
+                        },
+                        "length_of_service": 3842,
+                        "identifier": "john_g_roberts_jr"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15042,
+                            "name": "David H. Souter",
+                            "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                            "view_count": 0,
+                            "last_name": "Souter",
+                            "roles": [
+                                {
+                                    "id": 2686,
+                                    "type": "scotus_justice",
+                                    "date_start": 655362000,
+                                    "date_end": 1246251600,
+                                    "appointing_president": "George H. W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2686"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32703,
+                                "mime": "image\/png",
+                                "size": 42141,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
+                            },
+                            "length_of_service": 6839,
+                            "identifier": "david_h_souter"
+                        }
+                    ],
+                    "seniority": 1,
+                    "ideology": 1.528,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/206858"
+                },
+                {
+                    "member": {
+                        "ID": 15049,
+                        "name": "Antonin Scalia",
+                        "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                        "view_count": 54,
+                        "last_name": "Scalia",
+                        "roles": [
+                            {
+                                "id": 2693,
+                                "type": "scotus_justice",
+                                "date_start": 528094800,
+                                "date_end": 1455343200,
+                                "appointing_president": "Ronald Reagan",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2693"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32678,
+                            "mime": "image\/png",
+                            "size": 58944,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
+                        },
+                        "length_of_service": 10732,
+                        "identifier": "antonin_scalia"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15042,
+                            "name": "David H. Souter",
+                            "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                            "view_count": 0,
+                            "last_name": "Souter",
+                            "roles": [
+                                {
+                                    "id": 2686,
+                                    "type": "scotus_justice",
+                                    "date_start": 655362000,
+                                    "date_end": 1246251600,
+                                    "appointing_president": "George H. W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2686"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32703,
+                                "mime": "image\/png",
+                                "size": 42141,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
+                            },
+                            "length_of_service": 6839,
+                            "identifier": "david_h_souter"
+                        }
+                    ],
+                    "seniority": 3,
+                    "ideology": 2.631,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/206859"
+                },
+                {
+                    "member": {
+                        "ID": 15113,
+                        "name": "Anthony M. Kennedy",
+                        "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                        "view_count": 73,
+                        "last_name": "Kennedy",
+                        "roles": [
+                            {
+                                "id": 2757,
+                                "type": "scotus_justice",
+                                "date_start": 572162400,
+                                "date_end": 0,
+                                "appointing_president": "Ronald Reagan",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2757"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32679,
+                            "mime": "image\/png",
+                            "size": 47100,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
+                        },
+                        "length_of_service": 10275,
+                        "identifier": "anthony_m_kennedy"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15042,
+                            "name": "David H. Souter",
+                            "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                            "view_count": 0,
+                            "last_name": "Souter",
+                            "roles": [
+                                {
+                                    "id": 2686,
+                                    "type": "scotus_justice",
+                                    "date_start": 655362000,
+                                    "date_end": 1246251600,
+                                    "appointing_president": "George H. W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2686"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32703,
+                                "mime": "image\/png",
+                                "size": 42141,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
+                            },
+                            "length_of_service": 6839,
+                            "identifier": "david_h_souter"
+                        }
+                    ],
+                    "seniority": 4,
+                    "ideology": 0.413,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/206860"
+                },
+                {
+                    "member": {
+                        "ID": 15100,
+                        "name": "Clarence Thomas",
+                        "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                        "view_count": 91,
+                        "last_name": "Thomas",
+                        "roles": [
+                            {
+                                "id": 2744,
+                                "type": "scotus_justice",
+                                "date_start": 688194000,
+                                "date_end": 0,
+                                "appointing_president": "George H. W. Bush",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2744"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32680,
+                            "mime": "image\/png",
+                            "size": 49064,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
+                        },
+                        "length_of_service": 8932,
+                        "identifier": "clarence_thomas"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15042,
+                            "name": "David H. Souter",
+                            "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                            "view_count": 0,
+                            "last_name": "Souter",
+                            "roles": [
+                                {
+                                    "id": 2686,
+                                    "type": "scotus_justice",
+                                    "date_start": 655362000,
+                                    "date_end": 1246251600,
+                                    "appointing_president": "George H. W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2686"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32703,
+                                "mime": "image\/png",
+                                "size": 42141,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
+                            },
+                            "length_of_service": 6839,
+                            "identifier": "david_h_souter"
+                        }
+                    ],
+                    "seniority": 6,
+                    "ideology": 3.979,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/206861"
+                },
+                {
+                    "member": {
+                        "ID": 15139,
+                        "name": "Stephen G. Breyer",
+                        "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                        "view_count": 58,
+                        "last_name": "Breyer",
+                        "roles": [
+                            {
+                                "id": 2785,
+                                "type": "scotus_justice",
+                                "date_start": 775890000,
+                                "date_end": 0,
+                                "appointing_president": "Bill Clinton",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2785"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32682,
+                            "mime": "image\/png",
+                            "size": 49908,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
+                        },
+                        "length_of_service": 7917,
+                        "identifier": "stephen_g_breyer"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15042,
+                            "name": "David H. Souter",
+                            "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                            "view_count": 0,
+                            "last_name": "Souter",
+                            "roles": [
+                                {
+                                    "id": 2686,
+                                    "type": "scotus_justice",
+                                    "date_start": 655362000,
+                                    "date_end": 1246251600,
+                                    "appointing_president": "George H. W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2686"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32703,
+                                "mime": "image\/png",
+                                "size": 42141,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
+                            },
+                            "length_of_service": 6839,
+                            "identifier": "david_h_souter"
+                        }
+                    ],
+                    "seniority": 8,
+                    "ideology": -1.509,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/206862"
+                },
+                {
+                    "member": {
+                        "ID": 15068,
+                        "name": "Samuel A. Alito, Jr.",
+                        "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                        "view_count": 74,
+                        "last_name": "Alito",
+                        "roles": [
+                            {
+                                "id": 2712,
+                                "type": "scotus_justice",
+                                "date_start": 1138687200,
+                                "date_end": 0,
+                                "appointing_president": "George W. Bush",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2712"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32684,
+                            "mime": "image\/png",
+                            "size": 44799,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
+                        },
+                        "length_of_service": 3718,
+                        "identifier": "samuel_a_alito_jr"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15042,
+                            "name": "David H. Souter",
+                            "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                            "view_count": 0,
+                            "last_name": "Souter",
+                            "roles": [
+                                {
+                                    "id": 2686,
+                                    "type": "scotus_justice",
+                                    "date_start": 655362000,
+                                    "date_end": 1246251600,
+                                    "appointing_president": "George H. W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2686"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32703,
+                                "mime": "image\/png",
+                                "size": 42141,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
+                            },
+                            "length_of_service": 6839,
+                            "identifier": "david_h_souter"
+                        }
+                    ],
+                    "seniority": 9,
+                    "ideology": 1.575,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/206863"
+                },
+                {
+                    "member": {
+                        "ID": 15060,
+                        "name": "John Paul Stevens",
+                        "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                        "view_count": 0,
+                        "last_name": "Stevens",
+                        "roles": [
+                            {
+                                "id": 2704,
+                                "type": "scotus_justice",
+                                "date_start": 188200800,
+                                "date_end": 1277787600,
+                                "appointing_president": "Gerald Ford",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2704"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32732,
+                            "mime": "image\/png",
+                            "size": 62101,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
+                        },
+                        "length_of_service": 12611,
+                        "identifier": "john_paul_stevens"
+                    },
+                    "vote": "minority",
+                    "opinion_type": "dissent",
+                    "joining": null,
+                    "seniority": 2,
+                    "ideology": -2.491,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/206864"
+                },
+                {
+                    "member": {
+                        "ID": 15084,
+                        "name": "Ruth Bader Ginsburg",
+                        "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                        "view_count": 55,
+                        "last_name": "Ginsburg",
+                        "roles": [
+                            {
+                                "id": 2728,
+                                "type": "scotus_justice",
+                                "date_start": 744958800,
+                                "date_end": 0,
+                                "appointing_president": "Bill Clinton",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2728"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32681,
+                            "mime": "image\/png",
+                            "size": 45030,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
+                        },
+                        "length_of_service": 8275,
+                        "identifier": "ruth_bader_ginsburg"
+                    },
+                    "vote": "minority",
+                    "opinion_type": "none",
+                    "joining": null,
+                    "seniority": 7,
+                    "ideology": -1.579,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/206865"
+                }
+            ],
+            "majority_vote": 7,
+            "minority_vote": 2,
+            "winning_party": "Bell Atlantic Corp.",
+            "decision_type": "majority opinion",
+            "href": "https:\/\/api.oyez.org\/case_decision\/case_decision\/16540"
         }
     ],
     "first_party_label": "Petitioner",
@@ -792,11 +1830,13 @@
             "ID": 15149,
             "name": "Roberts Court (2006-2009)",
             "href": "https:\/\/api.oyez.org\/courts\/roberts2",
+            "view_count": 0,
             "members": [
                 {
                     "ID": 15086,
                     "name": "John G. Roberts, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                    "view_count": 40,
                     "last_name": "Roberts",
                     "roles": [
                         {
@@ -814,15 +1854,16 @@
                         "id": 32683,
                         "mime": "image\/png",
                         "size": 52305,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_g_roberts_jr\/john_g_roberts_jr.thumb.png"
                     },
-                    "length_of_service": 3702,
+                    "length_of_service": 3842,
                     "identifier": "john_g_roberts_jr"
                 },
                 {
                     "ID": 15060,
                     "name": "John Paul Stevens",
                     "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                    "view_count": 0,
                     "last_name": "Stevens",
                     "roles": [
                         {
@@ -840,7 +1881,7 @@
                         "id": 32732,
                         "mime": "image\/png",
                         "size": 62101,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                     },
                     "length_of_service": 12611,
                     "identifier": "john_paul_stevens"
@@ -849,13 +1890,14 @@
                     "ID": 15049,
                     "name": "Antonin Scalia",
                     "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                    "view_count": 54,
                     "last_name": "Scalia",
                     "roles": [
                         {
                             "id": 2693,
                             "type": "scotus_justice",
                             "date_start": 528094800,
-                            "date_end": 0,
+                            "date_end": 1455343200,
                             "appointing_president": "Ronald Reagan",
                             "role_title": "Associate Justice of the Supreme Court of the United States",
                             "institution_name": "Supreme Court of the United States",
@@ -866,15 +1908,16 @@
                         "id": 32678,
                         "mime": "image\/png",
                         "size": 58944,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                     },
-                    "length_of_service": 10699,
+                    "length_of_service": 10732,
                     "identifier": "antonin_scalia"
                 },
                 {
                     "ID": 15113,
                     "name": "Anthony M. Kennedy",
                     "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                    "view_count": 73,
                     "last_name": "Kennedy",
                     "roles": [
                         {
@@ -892,15 +1935,16 @@
                         "id": 32679,
                         "mime": "image\/png",
                         "size": 47100,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                     },
-                    "length_of_service": 10147,
+                    "length_of_service": 10275,
                     "identifier": "anthony_m_kennedy"
                 },
                 {
                     "ID": 15042,
                     "name": "David H. Souter",
                     "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                    "view_count": 0,
                     "last_name": "Souter",
                     "roles": [
                         {
@@ -918,7 +1962,7 @@
                         "id": 32703,
                         "mime": "image\/png",
                         "size": 42141,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_souter.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
                     },
                     "length_of_service": 6839,
                     "identifier": "david_h_souter"
@@ -927,6 +1971,7 @@
                     "ID": 15100,
                     "name": "Clarence Thomas",
                     "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                    "view_count": 91,
                     "last_name": "Thomas",
                     "roles": [
                         {
@@ -944,15 +1989,16 @@
                         "id": 32680,
                         "mime": "image\/png",
                         "size": 49064,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                     },
-                    "length_of_service": 8870,
+                    "length_of_service": 8932,
                     "identifier": "clarence_thomas"
                 },
                 {
                     "ID": 15084,
                     "name": "Ruth Bader Ginsburg",
                     "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                    "view_count": 55,
                     "last_name": "Ginsburg",
                     "roles": [
                         {
@@ -970,15 +2016,16 @@
                         "id": 32681,
                         "mime": "image\/png",
                         "size": 45030,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
                     },
-                    "length_of_service": 8135,
+                    "length_of_service": 8275,
                     "identifier": "ruth_bader_ginsburg"
                 },
                 {
                     "ID": 15139,
                     "name": "Stephen G. Breyer",
                     "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                    "view_count": 58,
                     "last_name": "Breyer",
                     "roles": [
                         {
@@ -996,15 +2043,16 @@
                         "id": 32682,
                         "mime": "image\/png",
                         "size": 49908,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
                     },
-                    "length_of_service": 7777,
+                    "length_of_service": 7917,
                     "identifier": "stephen_g_breyer"
                 },
                 {
                     "ID": 15068,
                     "name": "Samuel A. Alito, Jr.",
-                    "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                    "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                    "view_count": 74,
                     "last_name": "Alito",
                     "roles": [
                         {
@@ -1022,10 +2070,10 @@
                         "id": 32684,
                         "mime": "image\/png",
                         "size": 44799,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
                     },
-                    "length_of_service": 3531,
-                    "identifier": "samuel_alito_jr"
+                    "length_of_service": 3718,
+                    "identifier": "samuel_a_alito_jr"
                 }
             ],
             "court_start": 1138687200,
@@ -1034,7 +2082,7 @@
                     "id": 12234,
                     "mime": "image\/jpeg",
                     "size": 70439,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/roberts_court_2006-2009.jpg"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/roberts2.jpg"
                 }
             ],
             "identifier": "roberts2"
@@ -1044,11 +2092,13 @@
         "ID": 15149,
         "name": "Roberts Court (2006-2009)",
         "href": "https:\/\/api.oyez.org\/courts\/roberts2",
+        "view_count": 0,
         "members": [
             {
                 "ID": 15086,
                 "name": "John G. Roberts, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                "view_count": 40,
                 "last_name": "Roberts",
                 "roles": [
                     {
@@ -1066,15 +2116,16 @@
                     "id": 32683,
                     "mime": "image\/png",
                     "size": 52305,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_g_roberts_jr\/john_g_roberts_jr.thumb.png"
                 },
-                "length_of_service": 3702,
+                "length_of_service": 3842,
                 "identifier": "john_g_roberts_jr"
             },
             {
                 "ID": 15060,
                 "name": "John Paul Stevens",
                 "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                "view_count": 0,
                 "last_name": "Stevens",
                 "roles": [
                     {
@@ -1092,7 +2143,7 @@
                     "id": 32732,
                     "mime": "image\/png",
                     "size": 62101,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                 },
                 "length_of_service": 12611,
                 "identifier": "john_paul_stevens"
@@ -1101,13 +2152,14 @@
                 "ID": 15049,
                 "name": "Antonin Scalia",
                 "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                "view_count": 54,
                 "last_name": "Scalia",
                 "roles": [
                     {
                         "id": 2693,
                         "type": "scotus_justice",
                         "date_start": 528094800,
-                        "date_end": 0,
+                        "date_end": 1455343200,
                         "appointing_president": "Ronald Reagan",
                         "role_title": "Associate Justice of the Supreme Court of the United States",
                         "institution_name": "Supreme Court of the United States",
@@ -1118,15 +2170,16 @@
                     "id": 32678,
                     "mime": "image\/png",
                     "size": 58944,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                 },
-                "length_of_service": 10699,
+                "length_of_service": 10732,
                 "identifier": "antonin_scalia"
             },
             {
                 "ID": 15113,
                 "name": "Anthony M. Kennedy",
                 "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                "view_count": 73,
                 "last_name": "Kennedy",
                 "roles": [
                     {
@@ -1144,15 +2197,16 @@
                     "id": 32679,
                     "mime": "image\/png",
                     "size": 47100,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                 },
-                "length_of_service": 10147,
+                "length_of_service": 10275,
                 "identifier": "anthony_m_kennedy"
             },
             {
                 "ID": 15042,
                 "name": "David H. Souter",
                 "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                "view_count": 0,
                 "last_name": "Souter",
                 "roles": [
                     {
@@ -1170,7 +2224,7 @@
                     "id": 32703,
                     "mime": "image\/png",
                     "size": 42141,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_souter.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
                 },
                 "length_of_service": 6839,
                 "identifier": "david_h_souter"
@@ -1179,6 +2233,7 @@
                 "ID": 15100,
                 "name": "Clarence Thomas",
                 "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                "view_count": 91,
                 "last_name": "Thomas",
                 "roles": [
                     {
@@ -1196,15 +2251,16 @@
                     "id": 32680,
                     "mime": "image\/png",
                     "size": 49064,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                 },
-                "length_of_service": 8870,
+                "length_of_service": 8932,
                 "identifier": "clarence_thomas"
             },
             {
                 "ID": 15084,
                 "name": "Ruth Bader Ginsburg",
                 "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                "view_count": 55,
                 "last_name": "Ginsburg",
                 "roles": [
                     {
@@ -1222,15 +2278,16 @@
                     "id": 32681,
                     "mime": "image\/png",
                     "size": 45030,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
                 },
-                "length_of_service": 8135,
+                "length_of_service": 8275,
                 "identifier": "ruth_bader_ginsburg"
             },
             {
                 "ID": 15139,
                 "name": "Stephen G. Breyer",
                 "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                "view_count": 58,
                 "last_name": "Breyer",
                 "roles": [
                     {
@@ -1248,15 +2305,16 @@
                     "id": 32682,
                     "mime": "image\/png",
                     "size": 49908,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
                 },
-                "length_of_service": 7777,
+                "length_of_service": 7917,
                 "identifier": "stephen_g_breyer"
             },
             {
                 "ID": 15068,
                 "name": "Samuel A. Alito, Jr.",
-                "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                "view_count": 74,
                 "last_name": "Alito",
                 "roles": [
                     {
@@ -1274,10 +2332,10 @@
                     "id": 32684,
                     "mime": "image\/png",
                     "size": 44799,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
                 },
-                "length_of_service": 3531,
-                "identifier": "samuel_alito_jr"
+                "length_of_service": 3718,
+                "identifier": "samuel_a_alito_jr"
             }
         ],
         "court_start": 1138687200,
@@ -1286,7 +2344,7 @@
                 "id": 12234,
                 "mime": "image\/jpeg",
                 "size": 70439,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/roberts_court_2006-2009.jpg"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/roberts2.jpg"
             }
         ],
         "identifier": "roberts2"

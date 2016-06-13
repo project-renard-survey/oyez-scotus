@@ -1,0 +1,58 @@
+{
+    "ID": 62717,
+    "name": "Buck v. Stephens",
+    "href": "https:\/\/api.oyez.org\/cases\/2016\/15-8049",
+    "view_count": 0,
+    "docket_number": "15-8049",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
+    "first_party": "Duane Edward Buck",
+    "second_party": "William Stephens, Director, Texas Department of Criminal Justice, Correctional Institutions Division",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1465189200
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53741"
+        }
+    ],
+    "lower_court": {
+        "ID": 10,
+        "name": "United States Court of Appeals for the Fifth Circuit",
+        "href": "https:\/\/api.oyez.org\/taxonomy\/term\/10"
+    },
+    "facts_of_the_case": "<p>In July 1995, Duane Edward Buck was arrested for the murder of his ex-girlfriend, Debra Gardner, and her friend Kenneth Butler. Buck was convicted of capital murder for both of the deaths. During the penalty phase of trial, the prosecution presented evidence of Buck\u2019s future dangerousness based on his criminal history, his conduct, and his demeanor before and after arrest. The defense presented the testimony of a clinical psychologist to evaluate the risk of future dangerousness. That expert stated that he considered demographic factors, including race, in his analysis and that, statistically, minorities are overrepresented in the criminal justice system. The jury found that there was sufficient evidence of Buck\u2019s future dangerousness without any sufficient mitigating factors to justify a life sentence, so the jury sentenced Buck to death. The Texas Court of Criminal Appeals affirmed the conviction and sentence.<\/p>\n<p>Buck filed a petition for state habeas relief that did not contain any challenge to the psychologist\u2019s testimony. While that claim was pending, the state attorney general admitted in a different case that the state should not have called an expert witness to testify about future dangerousness of a defendant based on race and named Buck\u2019s case as one affected by similar testimony. Buck subsequently filed another claim for habeas relief that focused on that testimony. The Texas Court of Criminal Appeals rejected Buck\u2019s first claim and dismissed the second one as procedurally defaulted. Buck then sought federal habeas relief and claimed ineffective assistance of counsel, but the district court denied the relief because that claim had not been raised in state habeas proceedings. Further federal and state claims were denied, until the U.S. Supreme Court decided <em>Trevino v. Thaler<\/em>, which held that Texas\u2019 procedural scheme made it almost impossible to raise ineffective assistance of counsel claims on direct appeal, and therefore that a procedural default on such a claim could be excused. Buck again sought federal habeas relief based on ineffective assistance of counsel, but the district court dismissed the claim because Buck failed to show that the outcome of his trial was prejudiced. The U.S. Court of Appeals for the Fifth Circuit similarly denied Buck\u2019s request for a Certificate of Appealability by holding that Buck did not show sufficient extraordinary circumstances to justify relief from the lower court\u2019s judgment.<\/p>\n",
+    "question": "<p>Did the U.S. Court of Appeals for the Fifth Circuit impose an unduly burdensome standard on the review of a claim that counsel was ineffective by knowingly calling an expert witness who testified that race was a factor in evaluating future dangerousness?<\/p>\n",
+    "conclusion": null,
+    "advocates": null,
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27433"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        null
+    ],
+    "decided_by": null,
+    "term": "2016",
+    "location": {
+        "latitude": 29.761126,
+        "longitude": -95.367458,
+        "name": "U.S. Court of Appeals for the Fifth Circuit",
+        "street": "515 Rusk Avenue",
+        "city": "Houston",
+        "province": "TX",
+        "postal_code": null,
+        "province_name": "Texas"
+    },
+    "opinion_announcement": null,
+    "description": "A case in which the Court will determine whether the U.S. Court of Appeals for the Fifth Circuit imposed an unduly burdensome standard on the review of a claim that counsel was ineffective by knowingly calling an expert witness who testified that race was a factor in evaluating future dangerousness.",
+    "written_opinion": null,
+    "related_cases": null
+}

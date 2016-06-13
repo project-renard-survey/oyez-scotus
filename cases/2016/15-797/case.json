@@ -1,0 +1,58 @@
+{
+    "ID": 62716,
+    "name": "Moore v. Texas",
+    "href": "https:\/\/api.oyez.org\/cases\/2016\/15-797",
+    "view_count": 0,
+    "docket_number": "15-797",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
+    "first_party": "Bobby James Moore",
+    "second_party": "Texas",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1465189200
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53737"
+        }
+    ],
+    "lower_court": {
+        "ID": 66,
+        "name": "Texas Court of Criminal Appeals",
+        "href": "https:\/\/api.oyez.org\/taxonomy\/term\/66"
+    },
+    "facts_of_the_case": "<p>In 1980, Bobby James Moore was convicted of capital murder for the shooting of James McCarble, a seventy-year-old store clerk, in Houston, Texas. Moore was sentenced to death, and his conviction and sentence were both affirmed on appeal. After a federal court granted habeas corpus relief, a new punishment hearing occurred in 2001, and Moore was again sentenced to the death penalty. His sentence was again affirmed on appeal. Moore sought state habeas relief and argued that the U.S. Supreme Court\u2019s decision in <em>Atkins v. Virginia<\/em> should apply to his case; therefore, because he was intellectually disabled, he was exempt from execution. The habeas court granted relief based on the <em>Atkins<\/em> argument. The Court of Criminal Appeals of Texas, however, reversed and held that Moore had failed to establish by a preponderance of the evidence that he had the requisite intellectual disability for the <em>Atkins<\/em> precedent to apply based on Texas case law that used a 1992 definition of intellectual disability.<\/p>\n",
+    "question": "<ol><li>Does the use of outdated medical standards regarding intellectual disability to determine whether a person is exempt from execution violate the Eighth Amendment\u2019s prohibition against cruel and unusual punishment as well as the <em>Atkins v. Virginia<\/em> precedent?<\/li>\n<\/ol>",
+    "conclusion": null,
+    "advocates": null,
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27432"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        null
+    ],
+    "decided_by": null,
+    "term": "2016",
+    "location": {
+        "latitude": 29.762125,
+        "longitude": -95.357662,
+        "name": "Harris County Criminal Justice Center",
+        "street": "1201 Franklin",
+        "city": "Houston",
+        "province": "TX",
+        "postal_code": null,
+        "province_name": "Texas"
+    },
+    "opinion_announcement": null,
+    "description": "A case in which the Court will decide whether the use of outdated medical standards regarding intellectual disability to determine whether a person is exempt from execution violates the Eighth Amendment\u2019s prohibition against cruel and unusual punishment as well as the Atkins v. Virginia precedent.",
+    "written_opinion": null,
+    "related_cases": null
+}

@@ -2,6 +2,7 @@
     "ID": 59359,
     "name": "Butler v. Michigan",
     "href": "https:\/\/api.oyez.org\/cases\/1956\/16",
+    "view_count": 56,
     "docket_number": "16",
     "additional_docket_numbers": null,
     "manner_of_jurisdiction": "Appeal",
@@ -24,10 +25,41 @@
         }
     ],
     "lower_court": null,
-    "facts_of_the_case": null,
-    "question": null,
-    "conclusion": null,
-    "advocates": null,
+    "facts_of_the_case": "<p>John H. Griffin\u2019s book &lt;i&gt;The Devil Rides Outside&lt;\/i&gt; traces the spiritual development of an unnamed American musician as he vacillates between choosing a life in a Benedictine monastery and the lustfulness of the outside world. When Alfred Butler, the Detroit district sales manager of Pocket Books, sold a copy of the book to a police officer, he was arrested and charged with violating a Michigan obscenity statute. At trial, the judge held that the book contained obscene language that could lead to the corruption of minors and that the passages in question lacked redeeming literary value. Butler was convicted and fined $100. Butler appealed and argued that the statute violated his right to free speech under the First and Fourteenth Amendments. The Supreme Court of Michigan denied Butler\u2019s application for leave to appeal.<\/p>\n",
+    "question": "<p>Does the Michigan obscenity statute violate free speech rights protected by the First and Fourteenth Amendments?\u00a0<\/p>\n",
+    "conclusion": "<p>Yes. Justice Felix Frankfurter delivered the opinion of the 9-0 majority. The Court held that the Michigan statute unduly restricted the freedom of speech because it took only a single trial judge\u2019s determination that the material could potentially corrupt minors to prohibit its dissemination. The Court noted that, although the State may attempt to protect juvenile innocence as part of its power to promote general welfare, the restrictions should be reasonably related to the evils of obscene material.<\/p>\n<p>Justice Hugo L. Black concurred without writing a separate opinion.\u00a0<\/p>\n",
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 36526,
+                "name": "Manuel Lee Robbins",
+                "href": "https:\/\/api.oyez.org\/people\/manuel_lee_robbins",
+                "view_count": 0,
+                "last_name": "Robbins",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "manuel_lee_robbins"
+            },
+            "advocate_description": "for the Petitioner",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21590"
+        },
+        {
+            "advocate": {
+                "ID": 23155,
+                "name": "Edmund E. Shepherd",
+                "href": "https:\/\/api.oyez.org\/people\/edmund_e_shepherd",
+                "view_count": 0,
+                "last_name": "Shepherd",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "edmund_e_shepherd"
+            },
+            "advocate_description": "for the Respondent",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/21591"
+        }
+    ],
     "oral_argument_audio": [
         {
             "id": 13153,
@@ -59,6 +91,7 @@
                         "ID": 15097,
                         "name": "John M. Harlan II",
                         "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                        "view_count": 0,
                         "last_name": "Harlan",
                         "roles": [
                             {
@@ -76,7 +109,7 @@
                             "id": 32728,
                             "mime": "image\/png",
                             "size": 53784,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_m_harlan2\/john_m_harlan2.thumb.png"
                         },
                         "length_of_service": 6023,
                         "identifier": "john_m_harlan2"
@@ -93,6 +126,7 @@
                         "ID": 15089,
                         "name": "Hugo L. Black",
                         "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                        "view_count": 33,
                         "last_name": "Black",
                         "roles": [
                             {
@@ -110,7 +144,7 @@
                             "id": 32719,
                             "mime": "image\/png",
                             "size": 51667,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                         },
                         "length_of_service": 12447,
                         "identifier": "hugo_l_black"
@@ -127,6 +161,7 @@
                         "ID": 15107,
                         "name": "William O. Douglas",
                         "href": "https:\/\/api.oyez.org\/people\/william_o_douglas",
+                        "view_count": 0,
                         "last_name": "Douglas",
                         "roles": [
                             {
@@ -144,7 +179,7 @@
                             "id": 32781,
                             "mime": "image\/png",
                             "size": 56651,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_o_douglas.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_o_douglas\/william_o_douglas.thumb.png"
                         },
                         "length_of_service": 13358,
                         "identifier": "william_o_douglas"
@@ -161,6 +196,7 @@
                         "ID": 15140,
                         "name": "William J. Brennan, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                        "view_count": 28,
                         "last_name": "Brennan",
                         "roles": [
                             {
@@ -178,7 +214,7 @@
                             "id": 32778,
                             "mime": "image\/png",
                             "size": 56873,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                         },
                         "length_of_service": 12330,
                         "identifier": "william_j_brennan_jr"
@@ -195,6 +231,7 @@
                         "ID": 15099,
                         "name": "Earl Warren",
                         "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                        "view_count": 52,
                         "last_name": "Warren",
                         "roles": [
                             {
@@ -212,7 +249,7 @@
                             "id": 32704,
                             "mime": "image\/png",
                             "size": 50444,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                         },
                         "length_of_service": 5740,
                         "identifier": "earl_warren"
@@ -229,6 +266,7 @@
                         "ID": 15083,
                         "name": "Tom C. Clark",
                         "href": "https:\/\/api.oyez.org\/people\/tom_c_clark",
+                        "view_count": 0,
                         "last_name": "Clark",
                         "roles": [
                             {
@@ -246,7 +284,7 @@
                             "id": 32771,
                             "mime": "image\/png",
                             "size": 50879,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/tom_c_clark.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/tom_c_clark\/tom_c_clark.thumb.png"
                         },
                         "length_of_service": 6501,
                         "identifier": "tom_c_clark"
@@ -263,6 +301,7 @@
                         "ID": 15050,
                         "name": "Felix Frankfurter",
                         "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                        "view_count": 0,
                         "last_name": "Frankfurter",
                         "roles": [
                             {
@@ -280,7 +319,7 @@
                             "id": 32706,
                             "mime": "image\/png",
                             "size": 45083,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                         },
                         "length_of_service": 8611,
                         "identifier": "felix_frankfurter"
@@ -297,6 +336,7 @@
                         "ID": 15127,
                         "name": "Harold Burton",
                         "href": "https:\/\/api.oyez.org\/people\/harold_burton",
+                        "view_count": 0,
                         "last_name": "Burton",
                         "roles": [
                             {
@@ -314,7 +354,7 @@
                             "id": 32711,
                             "mime": "image\/png",
                             "size": 34138,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harold_burton.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harold_burton\/harold_burton.thumb.png"
                         },
                         "length_of_service": 4760,
                         "identifier": "harold_burton"
@@ -331,6 +371,7 @@
                         "ID": 15063,
                         "name": "Stanley Reed",
                         "href": "https:\/\/api.oyez.org\/people\/stanley_reed",
+                        "view_count": 0,
                         "last_name": "Reed",
                         "roles": [
                             {
@@ -345,10 +386,10 @@
                             }
                         ],
                         "thumbnail": {
-                            "id": 32766,
+                            "id": 79211,
                             "mime": "image\/png",
-                            "size": 34041,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stanley_reed.png"
+                            "size": 39053,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stanley_reed\/stanley_reed.thumb_3.png"
                         },
                         "length_of_service": 6965,
                         "identifier": "stanley_reed"
@@ -375,11 +416,13 @@
             "ID": 15298,
             "name": "Warren Court (1956-1957)",
             "href": "https:\/\/api.oyez.org\/courts\/warren4",
+            "view_count": 0,
             "members": [
                 {
                     "ID": 15099,
                     "name": "Earl Warren",
                     "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                    "view_count": 52,
                     "last_name": "Warren",
                     "roles": [
                         {
@@ -397,7 +440,7 @@
                         "id": 32704,
                         "mime": "image\/png",
                         "size": 50444,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                     },
                     "length_of_service": 5740,
                     "identifier": "earl_warren"
@@ -406,6 +449,7 @@
                     "ID": 15089,
                     "name": "Hugo L. Black",
                     "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                    "view_count": 33,
                     "last_name": "Black",
                     "roles": [
                         {
@@ -423,7 +467,7 @@
                         "id": 32719,
                         "mime": "image\/png",
                         "size": 51667,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                     },
                     "length_of_service": 12447,
                     "identifier": "hugo_l_black"
@@ -432,6 +476,7 @@
                     "ID": 15063,
                     "name": "Stanley Reed",
                     "href": "https:\/\/api.oyez.org\/people\/stanley_reed",
+                    "view_count": 0,
                     "last_name": "Reed",
                     "roles": [
                         {
@@ -446,10 +491,10 @@
                         }
                     ],
                     "thumbnail": {
-                        "id": 32766,
+                        "id": 79211,
                         "mime": "image\/png",
-                        "size": 34041,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stanley_reed.png"
+                        "size": 39053,
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stanley_reed\/stanley_reed.thumb_3.png"
                     },
                     "length_of_service": 6965,
                     "identifier": "stanley_reed"
@@ -458,6 +503,7 @@
                     "ID": 15050,
                     "name": "Felix Frankfurter",
                     "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                    "view_count": 0,
                     "last_name": "Frankfurter",
                     "roles": [
                         {
@@ -475,7 +521,7 @@
                         "id": 32706,
                         "mime": "image\/png",
                         "size": 45083,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                     },
                     "length_of_service": 8611,
                     "identifier": "felix_frankfurter"
@@ -484,6 +530,7 @@
                     "ID": 15107,
                     "name": "William O. Douglas",
                     "href": "https:\/\/api.oyez.org\/people\/william_o_douglas",
+                    "view_count": 0,
                     "last_name": "Douglas",
                     "roles": [
                         {
@@ -501,7 +548,7 @@
                         "id": 32781,
                         "mime": "image\/png",
                         "size": 56651,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_o_douglas.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_o_douglas\/william_o_douglas.thumb.png"
                     },
                     "length_of_service": 13358,
                     "identifier": "william_o_douglas"
@@ -510,6 +557,7 @@
                     "ID": 15127,
                     "name": "Harold Burton",
                     "href": "https:\/\/api.oyez.org\/people\/harold_burton",
+                    "view_count": 0,
                     "last_name": "Burton",
                     "roles": [
                         {
@@ -527,7 +575,7 @@
                         "id": 32711,
                         "mime": "image\/png",
                         "size": 34138,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harold_burton.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harold_burton\/harold_burton.thumb.png"
                     },
                     "length_of_service": 4760,
                     "identifier": "harold_burton"
@@ -536,6 +584,7 @@
                     "ID": 15083,
                     "name": "Tom C. Clark",
                     "href": "https:\/\/api.oyez.org\/people\/tom_c_clark",
+                    "view_count": 0,
                     "last_name": "Clark",
                     "roles": [
                         {
@@ -553,7 +602,7 @@
                         "id": 32771,
                         "mime": "image\/png",
                         "size": 50879,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/tom_c_clark.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/tom_c_clark\/tom_c_clark.thumb.png"
                     },
                     "length_of_service": 6501,
                     "identifier": "tom_c_clark"
@@ -562,6 +611,7 @@
                     "ID": 15097,
                     "name": "John M. Harlan II",
                     "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                    "view_count": 0,
                     "last_name": "Harlan",
                     "roles": [
                         {
@@ -579,7 +629,7 @@
                         "id": 32728,
                         "mime": "image\/png",
                         "size": 53784,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_m_harlan2\/john_m_harlan2.thumb.png"
                     },
                     "length_of_service": 6023,
                     "identifier": "john_m_harlan2"
@@ -588,6 +638,7 @@
                     "ID": 15140,
                     "name": "William J. Brennan, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                    "view_count": 28,
                     "last_name": "Brennan",
                     "roles": [
                         {
@@ -605,7 +656,7 @@
                         "id": 32778,
                         "mime": "image\/png",
                         "size": 56873,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                     },
                     "length_of_service": 12330,
                     "identifier": "william_j_brennan_jr"
@@ -617,7 +668,7 @@
                     "id": 12264,
                     "mime": "image\/jpeg",
                     "size": 38760,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/warren_court_1956-1957.jpg"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/warren4.jpg"
                 }
             ],
             "identifier": "warren4"
@@ -625,7 +676,16 @@
     ],
     "decided_by": null,
     "term": "1956",
-    "location": null,
+    "location": {
+        "latitude": 42.33518,
+        "longitude": -83.060609,
+        "name": "Quality Photo Shop",
+        "street": "3743 4th Ave. ",
+        "city": "Detroit",
+        "province": "MI",
+        "postal_code": null,
+        "province_name": "Michigan"
+    },
     "opinion_announcement": null,
     "description": null,
     "written_opinion": null,

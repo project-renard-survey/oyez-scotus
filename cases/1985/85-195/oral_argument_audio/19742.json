@@ -40,6 +40,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -57,7 +58,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -75,7 +76,7 @@
                                 "stop": 10.318,
                                 "byte_start": 142687,
                                 "byte_stop": 166406,
-                                "text": "Mr. Barnes, you may proceed whenever you\u0027re ready."
+                                "text": "Mr. Barnes, you may proceed whenever you're ready."
                             }
                         ]
                     },
@@ -88,6 +89,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -107,28 +109,28 @@
                                 "stop": 24.056,
                                 "byte_start": 181975,
                                 "byte_stop": 221368,
-                                "text": "The Fair Labor Standards Act\u0027s overtime pay requirements do not apply to someone who is \u0022employed as a seaman\u0022."
+                                "text": "The Fair Labor Standards Act's overtime pay requirements do not apply to someone who is \"employed as a seaman\"."
                             },
                             {
                                 "start": 24.056,
                                 "stop": 30.049,
                                 "byte_start": 221368,
                                 "byte_stop": 245401,
-                                "text": "The Act does not define the term \u0022employed as a seaman\u0022."
+                                "text": "The Act does not define the term \"employed as a seaman\"."
                             },
                             {
                                 "start": 30.049,
                                 "stop": 42.658,
                                 "byte_start": 245401,
                                 "byte_stop": 295869,
-                                "text": "However, administrative and court interpretations have clarified that the term \u0022seaman\u0022 is not limited to what we would ordinarily think of as sailors... skippers, deck crew."
+                                "text": "However, administrative and court interpretations have clarified that the term \"seaman\" is not limited to what we would ordinarily think of as sailors... skippers, deck crew."
                             },
                             {
                                 "start": 42.658,
                                 "stop": 52.056,
                                 "byte_start": 295869,
                                 "byte_stop": 333381,
-                                "text": "It includes other members of a ship\u0027s crew... its cooks, its pursers, and, pertinent here, its engineers."
+                                "text": "It includes other members of a ship's crew... its cooks, its pursers, and, pertinent here, its engineers."
                             },
                             {
                                 "start": 52.056,
@@ -142,28 +144,28 @@
                                 "stop": 99.207,
                                 "byte_start": 406211,
                                 "byte_stop": 521985,
-                                "text": "The issue this morning is whether the Ninth Circuit under the appropriate standard of review correctly substituted its own determination that these engineers are not seamen because they primarily perform not maritime but industrial duties, on the trial judge\u0027s determination that the engineers or the Arctic Star were employed as seamen because the nature of their work was maritime."
+                                "text": "The issue this morning is whether the Ninth Circuit under the appropriate standard of review correctly substituted its own determination that these engineers are not seamen because they primarily perform not maritime but industrial duties, on the trial judge's determination that the engineers or the Arctic Star were employed as seamen because the nature of their work was maritime."
                             },
                             {
                                 "start": 99.207,
                                 "stop": 137.351,
                                 "byte_start": 521985,
                                 "byte_stop": 674540,
-                                "text": "The Court of Appeals\u0027 degree of freedom to substitute its own determination in this regard depends in our analysis upon whether that Court disagreed with the trial judge\u0027s understanding of how to define the term \u0022employed as a seaman\u0022, in which case it would be free to substitute its own definition, or whether it disagreed with the district court\u0027s interpretation of the facts, in which case it would be required to pay deference to the trial judge\u0027s findings under the clearly erroneous rule."
+                                "text": "The Court of Appeals' degree of freedom to substitute its own determination in this regard depends in our analysis upon whether that Court disagreed with the trial judge's understanding of how to define the term \"employed as a seaman\", in which case it would be free to substitute its own definition, or whether it disagreed with the district court's interpretation of the facts, in which case it would be required to pay deference to the trial judge's findings under the clearly erroneous rule."
                             },
                             {
                                 "start": 137.351,
                                 "stop": 150.988,
                                 "byte_start": 674540,
                                 "byte_stop": 729189,
-                                "text": "Here our contention is and the record shows the Court of Appeals did not fault the district court for misunderstanding the definition of the term \u0022employed as a seaman\u0022."
+                                "text": "Here our contention is and the record shows the Court of Appeals did not fault the district court for misunderstanding the definition of the term \"employed as a seaman\"."
                             },
                             {
                                 "start": 150.988,
                                 "stop": 153.282,
                                 "byte_start": 729189,
                                 "byte_stop": 738279,
-                                "text": "There wasn\u0027t doubt about that term."
+                                "text": "There wasn't doubt about that term."
                             },
                             {
                                 "start": 153.282,
@@ -177,14 +179,14 @@
                                 "stop": 164.69,
                                 "byte_start": 763252,
                                 "byte_stop": 783941,
-                                "text": "\u0022a member of a ship\u0027s crew whose work is primarily maritime. \u0022"
+                                "text": "\"a member of a ship's crew whose work is primarily maritime. \""
                             },
                             {
                                 "start": 164.69,
                                 "stop": 186.381,
                                 "byte_start": 783941,
                                 "byte_stop": 870668,
-                                "text": "What the Ninth Circuit disagreed with was the trial judge\u0027s determination that the work of these engineers was primarily maritime, and substituted its own determination that the maritime work was only incidental to primary duties which were in essence industrial maintenance."
+                                "text": "What the Ninth Circuit disagreed with was the trial judge's determination that the work of these engineers was primarily maritime, and substituted its own determination that the maritime work was only incidental to primary duties which were in essence industrial maintenance."
                             }
                         ]
                     },
@@ -195,9 +197,10 @@
                         "byte_stop": 921345,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -214,7 +217,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -238,6 +241,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -268,9 +272,10 @@
                         "byte_stop": 975784,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -287,7 +292,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -311,6 +316,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -330,7 +336,7 @@
                                 "stop": 226.539,
                                 "byte_start": 981427,
                                 "byte_stop": 1031373,
-                                "text": "If the dispute is over how you define the term \u0022seaman\u0022, from our standpoint, what character of duties make someone a seaman, if that is what is at issue, you have the legal aspect of that question."
+                                "text": "If the dispute is over how you define the term \"seaman\", from our standpoint, what character of duties make someone a seaman, if that is what is at issue, you have the legal aspect of that question."
                             },
                             {
                                 "start": 226.539,
@@ -348,9 +354,10 @@
                         "byte_stop": 1079543,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -367,7 +374,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -391,6 +398,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -414,9 +422,10 @@
                         "byte_stop": 1100963,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -433,7 +442,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -457,6 +466,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -480,9 +490,10 @@
                         "byte_stop": 1119353,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -499,7 +510,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -523,6 +534,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -546,9 +558,10 @@
                         "byte_stop": 1124891,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -565,7 +578,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -589,6 +602,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -612,9 +626,10 @@
                         "byte_stop": 1150387,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -631,7 +646,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -655,6 +670,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -678,9 +694,10 @@
                         "byte_stop": 1185600,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -697,7 +714,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -715,7 +732,7 @@
                                 "stop": 265.095,
                                 "byte_start": 1169822,
                                 "byte_stop": 1185600,
-                                "text": "I didn\u0027t find any reference in the district court\u0027s opinion."
+                                "text": "I didn't find any reference in the district court's opinion."
                             }
                         ]
                     },
@@ -728,6 +745,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -758,9 +776,10 @@
                         "byte_stop": 1345469,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -777,7 +796,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -795,7 +814,7 @@
                                 "stop": 305.08,
                                 "byte_start": 1292389,
                                 "byte_stop": 1345469,
-                                "text": "So did the Ninth Circuit disagree with some of the district court\u0027s legal holdings that went into its opinion?"
+                                "text": "So did the Ninth Circuit disagree with some of the district court's legal holdings that went into its opinion?"
                             }
                         ]
                     },
@@ -808,6 +827,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -834,7 +854,7 @@
                                 "stop": 335.042,
                                 "byte_start": 1442540,
                                 "byte_stop": 1465319,
-                                "text": "And indeed, the Administrator\u0027s regulations specifically deal with that kind of situation."
+                                "text": "And indeed, the Administrator's regulations specifically deal with that kind of situation."
                             },
                             {
                                 "start": 335.042,
@@ -862,21 +882,21 @@
                                 "stop": 373.785,
                                 "byte_start": 1531461,
                                 "byte_stop": 1620277,
-                                "text": "The distinction that developed from the cases is whether the particular workers that are at issue are part of that vessel\u0027s crew, meaning their work is to maintain that vessel, or whether they are really floating miners, whether their work really is to be part of the dredging crew and the vessel carries them to their work."
+                                "text": "The distinction that developed from the cases is whether the particular workers that are at issue are part of that vessel's crew, meaning their work is to maintain that vessel, or whether they are really floating miners, whether their work really is to be part of the dredging crew and the vessel carries them to their work."
                             },
                             {
                                 "start": 373.785,
                                 "stop": 374.757,
                                 "byte_start": 1620277,
                                 "byte_stop": 1624248,
-                                "text": "That\u0027s the difference."
+                                "text": "That's the difference."
                             },
                             {
                                 "start": 374.757,
                                 "stop": 380.089,
                                 "byte_start": 1624248,
                                 "byte_stop": 1645564,
-                                "text": "But there is no... in fact, it\u0027s to the contrary."
+                                "text": "But there is no... in fact, it's to the contrary."
                             },
                             {
                                 "start": 380.089,
@@ -903,6 +923,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -920,7 +941,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -944,6 +965,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -969,6 +991,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -986,7 +1009,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -1010,6 +1033,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -1035,6 +1059,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -1052,7 +1077,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -1076,6 +1101,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -1122,6 +1148,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -1139,7 +1166,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -1150,7 +1177,7 @@
                                 "stop": 474.021,
                                 "byte_start": 2013577,
                                 "byte_stop": 2021309,
-                                "text": "Is there a reason why they weren\u0027t licensed?"
+                                "text": "Is there a reason why they weren't licensed?"
                             }
                         ]
                     },
@@ -1163,6 +1190,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -1175,7 +1203,7 @@
                                 "stop": 475.162,
                                 "byte_start": 2021309,
                                 "byte_stop": 2025802,
-                                "text": "It\u0027s not required."
+                                "text": "It's not required."
                             }
                         ]
                     },
@@ -1188,6 +1216,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -1205,7 +1234,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -1216,7 +1245,7 @@
                                 "stop": 480.845,
                                 "byte_start": 2025802,
                                 "byte_stop": 2048581,
-                                "text": "Yes, but don\u0027t they move from ship to ship?"
+                                "text": "Yes, but don't they move from ship to ship?"
                             },
                             {
                                 "start": 480.845,
@@ -1236,6 +1265,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -1248,7 +1278,7 @@
                                 "stop": 490.843,
                                 "byte_start": 2071046,
                                 "byte_stop": 2088601,
-                                "text": "I am the first to admit I\u0027m not an admiralty lawyer, Your Honor."
+                                "text": "I am the first to admit I'm not an admiralty lawyer, Your Honor."
                             },
                             {
                                 "start": 490.843,
@@ -1276,7 +1306,7 @@
                                 "stop": 537.663,
                                 "byte_start": 2262158,
                                 "byte_stop": 2275846,
-                                "text": "The sea doesn\u0027t work a 9:00 to 5:00 day, either."
+                                "text": "The sea doesn't work a 9:00 to 5:00 day, either."
                             },
                             {
                                 "start": 537.663,
@@ -1317,6 +1347,7 @@
                             "ID": 15119,
                             "name": "Lewis F. Powell, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/lewis_f_powell_jr",
+                            "view_count": 0,
                             "last_name": "Powell",
                             "roles": [
                                 {
@@ -1334,7 +1365,7 @@
                                 "id": 32738,
                                 "mime": "image\/png",
                                 "size": 53543,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/lewis_f_powell_jr.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/lewis_f_powell_jr\/lewis_f_powell_jr.thumb.png"
                             },
                             "length_of_service": 5649,
                             "identifier": "lewis_f_powell_jr"
@@ -1358,6 +1389,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -1383,6 +1415,7 @@
                             "ID": 15119,
                             "name": "Lewis F. Powell, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/lewis_f_powell_jr",
+                            "view_count": 0,
                             "last_name": "Powell",
                             "roles": [
                                 {
@@ -1400,7 +1433,7 @@
                                 "id": 32738,
                                 "mime": "image\/png",
                                 "size": 53543,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/lewis_f_powell_jr.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/lewis_f_powell_jr\/lewis_f_powell_jr.thumb.png"
                             },
                             "length_of_service": 5649,
                             "identifier": "lewis_f_powell_jr"
@@ -1424,6 +1457,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -1436,7 +1470,7 @@
                                 "stop": 571.947,
                                 "byte_start": 2406145,
                                 "byte_stop": 2412937,
-                                "text": "--That\u0027s the problem in the opinion."
+                                "text": "--That's the problem in the opinion."
                             },
                             {
                                 "start": 571.947,
@@ -1456,6 +1490,7 @@
                             "ID": 15119,
                             "name": "Lewis F. Powell, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/lewis_f_powell_jr",
+                            "view_count": 0,
                             "last_name": "Powell",
                             "roles": [
                                 {
@@ -1473,7 +1508,7 @@
                                 "id": 32738,
                                 "mime": "image\/png",
                                 "size": 53543,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/lewis_f_powell_jr.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/lewis_f_powell_jr\/lewis_f_powell_jr.thumb.png"
                             },
                             "length_of_service": 5649,
                             "identifier": "lewis_f_powell_jr"
@@ -1497,6 +1532,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -1509,7 +1545,7 @@
                                 "stop": 583.795,
                                 "byte_start": 2440313,
                                 "byte_stop": 2460375,
-                                "text": "Or that we don\u0027t have to find whether they\u0027re clearly erroneous, because they involve legal interpretations."
+                                "text": "Or that we don't have to find whether they're clearly erroneous, because they involve legal interpretations."
                             },
                             {
                                 "start": 583.795,
@@ -1558,7 +1594,7 @@
                                 "stop": 643.324,
                                 "byte_start": 2660473,
                                 "byte_stop": 2698508,
-                                "text": "But what it did was to substitute its own fact findings all the same, without finding the trial court\u0027s findings were clearly erroneous."
+                                "text": "But what it did was to substitute its own fact findings all the same, without finding the trial court's findings were clearly erroneous."
                             },
                             {
                                 "start": 643.324,
@@ -1576,9 +1612,10 @@
                         "byte_stop": 2976660,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -1595,7 +1632,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -1633,6 +1670,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -1656,9 +1694,10 @@
                         "byte_stop": 3022113,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -1675,7 +1714,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -1686,7 +1725,7 @@
                                 "stop": 724.228,
                                 "byte_start": 2998498,
                                 "byte_stop": 3022113,
-                                "text": "Well, I would have thought so, too, although it went ahead and decided them on its own, didn\u0027t it?"
+                                "text": "Well, I would have thought so, too, although it went ahead and decided them on its own, didn't it?"
                             }
                         ]
                     },
@@ -1699,6 +1738,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -1732,7 +1772,7 @@
                                 "stop": 778.483,
                                 "byte_start": 3105913,
                                 "byte_stop": 3239138,
-                                "text": "And while, because primarily I believe the facts in the cases that the Administrator was looking at involved transportation, vehicles which are primarily transport vehicles, when you trace the language back to the origins, it is a case which draws a distinction not between whether the employees are primarily aiding in navigation... after all, the regulations also exempt cooks, surgeons, people who plainly have nothing whatsoever to do with being a \u0022sailor\u0022."
+                                "text": "And while, because primarily I believe the facts in the cases that the Administrator was looking at involved transportation, vehicles which are primarily transport vehicles, when you trace the language back to the origins, it is a case which draws a distinction not between whether the employees are primarily aiding in navigation... after all, the regulations also exempt cooks, surgeons, people who plainly have nothing whatsoever to do with being a \"sailor\"."
                             },
                             {
                                 "start": 778.483,
@@ -1746,7 +1786,7 @@
                                 "stop": 796.374,
                                 "byte_start": 3260872,
                                 "byte_stop": 3310713,
-                                "text": "And when you trace back that language to its origins, it leads you to cases which distinguish between whether a worker is part of the ship\u0027s crew or part of a production crew working aboard the ship."
+                                "text": "And when you trace back that language to its origins, it leads you to cases which distinguish between whether a worker is part of the ship's crew or part of a production crew working aboard the ship."
                             }
                         ]
                     },
@@ -1759,6 +1799,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -1776,7 +1817,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -1787,7 +1828,7 @@
                                 "stop": 805.691,
                                 "byte_start": 3310713,
                                 "byte_stop": 3347912,
-                                "text": "Mr. Barnes, there\u0027s a lot of argument between the two of you as to whether these were pure findings of fact or were something more than that."
+                                "text": "Mr. Barnes, there's a lot of argument between the two of you as to whether these were pure findings of fact or were something more than that."
                             },
                             {
                                 "start": 805.691,
@@ -1807,6 +1848,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -1819,21 +1861,21 @@
                                 "stop": 834.055,
                                 "byte_start": 3372467,
                                 "byte_stop": 3461388,
-                                "text": "If the Ninth Circuit feels that there is an element of legal interpretation in those facts, I don\u0027t say we lose our case, because the remedy is a remand to sort out that which is legal from that which is factual."
+                                "text": "If the Ninth Circuit feels that there is an element of legal interpretation in those facts, I don't say we lose our case, because the remedy is a remand to sort out that which is legal from that which is factual."
                             },
                             {
                                 "start": 834.055,
                                 "stop": 858.001,
                                 "byte_start": 3461388,
                                 "byte_stop": 3557205,
-                                "text": "When someone says, I find the person is a seaman, I find that his duties are maritime, I find... and it gets more and more concrete... I find that he does the work of a Coast Guard licensed engineer, there is of course a range of things, and it\u0027s not so easy to tell when fact starts and when you start getting into a legal term, especially when a statute uses words that are common in the English language."
+                                "text": "When someone says, I find the person is a seaman, I find that his duties are maritime, I find... and it gets more and more concrete... I find that he does the work of a Coast Guard licensed engineer, there is of course a range of things, and it's not so easy to tell when fact starts and when you start getting into a legal term, especially when a statute uses words that are common in the English language."
                             },
                             {
                                 "start": 858.001,
                                 "stop": 862.295,
                                 "byte_start": 3557205,
                                 "byte_stop": 3574341,
-                                "text": "No, I don\u0027t say we lose our case on that."
+                                "text": "No, I don't say we lose our case on that."
                             }
                         ]
                     },
@@ -1846,6 +1888,7 @@
                             "ID": 15045,
                             "name": "Harry A. Blackmun",
                             "href": "https:\/\/api.oyez.org\/people\/harry_a_blackmun",
+                            "view_count": 34,
                             "last_name": "Blackmun",
                             "roles": [
                                 {
@@ -1863,7 +1906,7 @@
                                 "id": 32712,
                                 "mime": "image\/png",
                                 "size": 50281,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/harry_a_blackmun.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/harry_a_blackmun\/harry_a_blackmun.thumb.png"
                             },
                             "length_of_service": 8821,
                             "identifier": "harry_a_blackmun"
@@ -1894,6 +1937,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -1906,28 +1950,28 @@
                                 "stop": 902.64,
                                 "byte_start": 3615719,
                                 "byte_stop": 3735778,
-                                "text": "Well, the reason we make much of that is that when one reviews the trial record, and keeping in mind this was a trial before a judge who heard the evidence and the testimony and concluded that these are the facts, we think that\u0027s very significant, because the Ninth Circuit did not address those findings and say that, we disagree with them because they\u0027re clearly erroneous."
+                                "text": "Well, the reason we make much of that is that when one reviews the trial record, and keeping in mind this was a trial before a judge who heard the evidence and the testimony and concluded that these are the facts, we think that's very significant, because the Ninth Circuit did not address those findings and say that, we disagree with them because they're clearly erroneous."
                             },
                             {
                                 "start": 902.64,
                                 "stop": 904.693,
                                 "byte_start": 3735778,
                                 "byte_stop": 3743928,
-                                "text": "And that\u0027s why we make much of it."
+                                "text": "And that's why we make much of it."
                             },
                             {
                                 "start": 904.693,
                                 "stop": 914.791,
                                 "byte_start": 3743928,
                                 "byte_stop": 3784366,
-                                "text": "As we look at the record before you, at the very least this case could be decided either way on the record that\u0027s before you, at the very least."
+                                "text": "As we look at the record before you, at the very least this case could be decided either way on the record that's before you, at the very least."
                             },
                             {
                                 "start": 914.791,
                                 "stop": 937.535,
                                 "byte_start": 3784366,
                                 "byte_stop": 3875376,
-                                "text": "And if that\u0027s so, if there is room to interpret the evidence that the trial court heard two ways, then, as you\u0027ve recently recognized in the Anderson case, is is not the Ninth Circuit\u0027s job, it\u0027s not the Ninth Circuit\u0027s job to substitute its interpretation for that of the trial court."
+                                "text": "And if that's so, if there is room to interpret the evidence that the trial court heard two ways, then, as you've recently recognized in the Anderson case, is is not the Ninth Circuit's job, it's not the Ninth Circuit's job to substitute its interpretation for that of the trial court."
                             },
                             {
                                 "start": 937.535,
@@ -1947,6 +1991,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -1964,7 +2009,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -1975,14 +2020,14 @@
                                 "stop": 945.071,
                                 "byte_start": 3891468,
                                 "byte_stop": 3905469,
-                                "text": "May I interrupt there, because maybe I\u0027m troubled by the same thing Justice O\u0027Connor is."
+                                "text": "May I interrupt there, because maybe I'm troubled by the same thing Justice O'Connor is."
                             },
                             {
                                 "start": 945.071,
                                 "stop": 963.003,
                                 "byte_start": 3905469,
                                 "byte_stop": 3977149,
-                                "text": "Supposing they had said... and I know their opinion doesn\u0027t quite say this... with respect to the five subsidiary, clearly factual inquiries, the district court was absolutely right, and then they said, nevertheless we don\u0027t think that this person... these people were seamen, because this doesn\u0027t establish their work was in aid of navigation."
+                                "text": "Supposing they had said... and I know their opinion doesn't quite say this... with respect to the five subsidiary, clearly factual inquiries, the district court was absolutely right, and then they said, nevertheless we don't think that this person... these people were seamen, because this doesn't establish their work was in aid of navigation."
                             },
                             {
                                 "start": 963.003,
@@ -2002,6 +2047,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -2034,6 +2080,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -2051,7 +2098,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -2069,7 +2116,7 @@
                                 "stop": 985.557,
                                 "byte_start": 4025633,
                                 "byte_stop": 4067429,
-                                "text": "But is it your view that on the ultimate... I\u0027m still not quite clear... on the ultimate determination of whether they\u0027re seamen or not, that that has to be viewed under the clearly erroneous standard?"
+                                "text": "But is it your view that on the ultimate... I'm still not quite clear... on the ultimate determination of whether they're seamen or not, that that has to be viewed under the clearly erroneous standard?"
                             }
                         ]
                     },
@@ -2082,6 +2129,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -2108,14 +2156,14 @@
                                 "stop": 1007.301,
                                 "byte_start": 4125107,
                                 "byte_stop": 4154364,
-                                "text": "That\u0027s the distinction I\u0027m trying to draw, and what I\u0027m trying to suggest is an approach to analyzing it that goes this way."
+                                "text": "That's the distinction I'm trying to draw, and what I'm trying to suggest is an approach to analyzing it that goes this way."
                             },
                             {
                                 "start": 1007.301,
                                 "stop": 1025.263,
                                 "byte_start": 4154364,
                                 "byte_stop": 4226253,
-                                "text": "When we\u0027re looking at the question of what standard of review to apply to a question like, are the engineers aboard the Arctic Star employed as seamen, that we sort out what is the nature of disagreement between the Ninth Circuit and the trial court."
+                                "text": "When we're looking at the question of what standard of review to apply to a question like, are the engineers aboard the Arctic Star employed as seamen, that we sort out what is the nature of disagreement between the Ninth Circuit and the trial court."
                             },
                             {
                                 "start": 1025.263,
@@ -2142,6 +2190,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -2159,7 +2208,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -2183,6 +2232,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -2195,14 +2245,14 @@
                                 "stop": 1057.194,
                                 "byte_start": 4330116,
                                 "byte_stop": 4353940,
-                                "text": "When the issue is what does \u0022seaman\u0022 mean within the statute, it\u0027s a legal question."
+                                "text": "When the issue is what does \"seaman\" mean within the statute, it's a legal question."
                             },
                             {
                                 "start": 1057.194,
                                 "stop": 1060.626,
                                 "byte_start": 4353940,
                                 "byte_stop": 4367732,
-                                "text": "As a for instance, let\u0027s suppose the--"
+                                "text": "As a for instance, let's suppose the--"
                             }
                         ]
                     },
@@ -2215,6 +2265,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -2232,7 +2283,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -2256,6 +2307,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -2288,6 +2340,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -2305,7 +2358,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -2316,7 +2369,7 @@
                                 "stop": 1077.987,
                                 "byte_start": 4411722,
                                 "byte_stop": 4437113,
-                                "text": "Well, if it\u0027s fact and law, do you require the court to find clearly erroneous?"
+                                "text": "Well, if it's fact and law, do you require the court to find clearly erroneous?"
                             }
                         ]
                     },
@@ -2329,6 +2382,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -2341,7 +2395,7 @@
                                 "stop": 1085.412,
                                 "byte_start": 4437113,
                                 "byte_stop": 4466789,
-                                "text": "We\u0027re talking past each other, I\u0027m sorry."
+                                "text": "We're talking past each other, I'm sorry."
                             },
                             {
                                 "start": 1085.412,
@@ -2361,6 +2415,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -2378,7 +2433,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -2409,6 +2464,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -2434,6 +2490,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -2451,7 +2508,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -2475,6 +2532,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -2500,6 +2558,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -2517,7 +2576,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -2541,6 +2600,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -2553,21 +2613,21 @@
                                 "stop": 1119.324,
                                 "byte_start": 4572846,
                                 "byte_stop": 4602521,
-                                "text": "The word \u0022seaman\u0022 has both legal aspects and fact aspects, depending on what the question is."
+                                "text": "The word \"seaman\" has both legal aspects and fact aspects, depending on what the question is."
                             },
                             {
                                 "start": 1119.324,
                                 "stop": 1124.197,
                                 "byte_start": 4602521,
                                 "byte_stop": 4621956,
-                                "text": "If the question is how do you define a seaman under this statute, that\u0027s a legal interpretation."
+                                "text": "If the question is how do you define a seaman under this statute, that's a legal interpretation."
                             },
                             {
                                 "start": 1124.197,
                                 "stop": 1136.325,
                                 "byte_start": 4621956,
                                 "byte_stop": 4670439,
-                                "text": "If you ask, are they seamen for purposes... when the issue is what do their duties involve, that is factual, and that\u0027s where the disagreement was, as we read it, between the Ninth Circuit and the trial court."
+                                "text": "If you ask, are they seamen for purposes... when the issue is what do their duties involve, that is factual, and that's where the disagreement was, as we read it, between the Ninth Circuit and the trial court."
                             },
                             {
                                 "start": 1136.325,
@@ -2588,7 +2648,7 @@
                                 "stop": 1158.739,
                                 "byte_start": 4728953,
                                 "byte_stop": 4760091,
-                                "text": "And that\u0027s what the Ninth Circuit and the trial court disagreed upon, which we submit to you is factual."
+                                "text": "And that's what the Ninth Circuit and the trial court disagreed upon, which we submit to you is factual."
                             },
                             {
                                 "start": 1158.739,
@@ -2609,7 +2669,7 @@
                                 "stop": 1203.709,
                                 "byte_start": 4842743,
                                 "byte_stop": 4940023,
-                                "text": "And where it\u0027s a dispute over how you view the evidence, the Ninth Circuit\u0027s freedom to substitute its answer for the trial court\u0027s assessment on this point was subject to the restrictive rule that only a clearly erroneous determination could be set aside and the Ninth Circuit\u0027s answer substituted."
+                                "text": "And where it's a dispute over how you view the evidence, the Ninth Circuit's freedom to substitute its answer for the trial court's assessment on this point was subject to the restrictive rule that only a clearly erroneous determination could be set aside and the Ninth Circuit's answer substituted."
                             },
                             {
                                 "start": 1203.709,
@@ -2623,7 +2683,7 @@
                                 "stop": 1250.101,
                                 "byte_start": 5013897,
                                 "byte_stop": 5125597,
-                                "text": "In a nutshell, our opinion is that the trial judge\u0027s determination that the essential nature of the work of the engineers aboard the Arctic Star is maritime and that they are therefore exempt as seamen is one that you cannot... one cannot say is a clearly erroneous determination and therefore the Ninth Circuit should not have reversed the trial court\u0027s judgment."
+                                "text": "In a nutshell, our opinion is that the trial judge's determination that the essential nature of the work of the engineers aboard the Arctic Star is maritime and that they are therefore exempt as seamen is one that you cannot... one cannot say is a clearly erroneous determination and therefore the Ninth Circuit should not have reversed the trial court's judgment."
                             }
                         ]
                     },
@@ -2636,6 +2696,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -2653,7 +2714,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -2685,6 +2746,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -2711,7 +2773,7 @@
                                 "stop": 1275.326,
                                 "byte_start": 5205949,
                                 "byte_stop": 5226534,
-                                "text": "The one that was not accepted was the issue on the definition of \u0022seaman\u0022."
+                                "text": "The one that was not accepted was the issue on the definition of \"seaman\"."
                             },
                             {
                                 "start": 1275.326,
@@ -2738,6 +2800,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2755,7 +2818,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2779,6 +2842,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -2791,7 +2855,7 @@
                                 "stop": 1296.941,
                                 "byte_start": 5291109,
                                 "byte_stop": 5312947,
-                                "text": "--I think it is the law of the land that the Ninth Circuit\u0027s definition of \u0022seaman\u0022 not stands, because--"
+                                "text": "--I think it is the law of the land that the Ninth Circuit's definition of \"seaman\" not stands, because--"
                             }
                         ]
                     },
@@ -2804,6 +2868,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2821,7 +2886,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2845,6 +2910,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -2877,6 +2943,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2894,7 +2961,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2918,6 +2985,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -2930,7 +2998,7 @@
                                 "stop": 1317.254,
                                 "byte_start": 5360176,
                                 "byte_stop": 5394240,
-                                "text": "Well, unless this Court is overruling the Ninth Circuit on the definition of \u0022seaman\u0022, that was the impression I had, it would--"
+                                "text": "Well, unless this Court is overruling the Ninth Circuit on the definition of \"seaman\", that was the impression I had, it would--"
                             }
                         ]
                     },
@@ -2943,6 +3011,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -2960,7 +3029,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -2971,7 +3040,7 @@
                                 "stop": 1318.133,
                                 "byte_start": 5394240,
                                 "byte_stop": 5397688,
-                                "text": "But we didn\u0027t affirm it."
+                                "text": "But we didn't affirm it."
                             }
                         ]
                     },
@@ -2984,6 +3053,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -2996,14 +3066,14 @@
                                 "stop": 1319.565,
                                 "byte_start": 5397688,
                                 "byte_stop": 5403435,
-                                "text": "--Well, that\u0027s correct."
+                                "text": "--Well, that's correct."
                             },
                             {
                                 "start": 1319.565,
                                 "stop": 1322.857,
                                 "byte_start": 5403435,
                                 "byte_stop": 5416601,
-                                "text": "The Court\u0027s correct."
+                                "text": "The Court's correct."
                             },
                             {
                                 "start": 1322.857,
@@ -3031,7 +3101,7 @@
                                 "stop": 1366.025,
                                 "byte_start": 5551811,
                                 "byte_stop": 5589322,
-                                "text": "There have been three very major cases in the 1980\u0027s that this Court has handed down: Pullman, and Bose, and Bessemer City versus Anderson."
+                                "text": "There have been three very major cases in the 1980's that this Court has handed down: Pullman, and Bose, and Bessemer City versus Anderson."
                             },
                             {
                                 "start": 1366.025,
@@ -3059,7 +3129,7 @@
                                 "stop": 1406.343,
                                 "byte_start": 5725682,
                                 "byte_stop": 5750550,
-                                "text": "That\u0027s where the language originate that a mistake was made."
+                                "text": "That's where the language originate that a mistake was made."
                             },
                             {
                                 "start": 1406.343,
@@ -3107,6 +3177,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -3134,7 +3205,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -3145,7 +3216,7 @@
                                 "stop": 1445.216,
                                 "byte_start": 5861832,
                                 "byte_stop": 5906031,
-                                "text": "But didn\u0027t we say in Pullman-Standard that the clearly erroneous standard of review applied just beyond where there were credibility determinations to be made?"
+                                "text": "But didn't we say in Pullman-Standard that the clearly erroneous standard of review applied just beyond where there were credibility determinations to be made?"
                             }
                         ]
                     },
@@ -3158,6 +3229,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -3204,6 +3276,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -3231,7 +3304,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -3242,7 +3315,7 @@
                                 "stop": 1486.175,
                                 "byte_start": 6035703,
                                 "byte_stop": 6069871,
-                                "text": "Well, I thought you were maintaining now that, because there was no issue of credibility in the district court, the clearly erroneous standard didn\u0027t apply."
+                                "text": "Well, I thought you were maintaining now that, because there was no issue of credibility in the district court, the clearly erroneous standard didn't apply."
                             },
                             {
                                 "start": 1486.175,
@@ -3262,6 +3335,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -3274,14 +3348,14 @@
                                 "stop": 1492.35,
                                 "byte_start": 6082305,
                                 "byte_stop": 6094635,
-                                "text": "I\u0027m not saying it doesn\u0027t apply."
+                                "text": "I'm not saying it doesn't apply."
                             },
                             {
                                 "start": 1492.35,
                                 "stop": 1502.384,
                                 "byte_start": 6094635,
                                 "byte_stop": 6134759,
-                                "text": "I don\u0027t find the exact language offhand, but it says that the burden of establishing the clearly erroneous rule is not as great at that point."
+                                "text": "I don't find the exact language offhand, but it says that the burden of establishing the clearly erroneous rule is not as great at that point."
                             },
                             {
                                 "start": 1502.384,
@@ -3357,6 +3431,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -3384,7 +3459,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -3408,6 +3483,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -3420,14 +3496,14 @@
                                 "stop": 1571.06,
                                 "byte_start": 6336424,
                                 "byte_stop": 6409463,
-                                "text": "--Some of the cases I referred to... as a matter of fact, I think Mr. Moore that wrote the encyclopedia on the Federal Rules alludes to that, that it\u0027s not a strict standard of law."
+                                "text": "--Some of the cases I referred to... as a matter of fact, I think Mr. Moore that wrote the encyclopedia on the Federal Rules alludes to that, that it's not a strict standard of law."
                             },
                             {
                                 "start": 1571.06,
                                 "stop": 1582.576,
                                 "byte_start": 6409463,
                                 "byte_stop": 6455438,
-                                "text": "If there\u0027s a necessity for it, like in The New York Times versus Sullivan, then, a constitutional question being of such great importance, First Amendment rights, we\u0027re not... this Court is not bound to follow Rule 52."
+                                "text": "If there's a necessity for it, like in The New York Times versus Sullivan, then, a constitutional question being of such great importance, First Amendment rights, we're not... this Court is not bound to follow Rule 52."
                             },
                             {
                                 "start": 1582.576,
@@ -3445,9 +3521,10 @@
                         "byte_stop": 6540075,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -3464,7 +3541,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -3488,6 +3565,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -3518,9 +3596,10 @@
                         "byte_stop": 6586573,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -3537,7 +3616,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -3561,6 +3640,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -3587,7 +3667,7 @@
                                 "stop": 1621.101,
                                 "byte_start": 6605695,
                                 "byte_stop": 6609561,
-                                "text": "That\u0027s another exemption."
+                                "text": "That's another exemption."
                             },
                             {
                                 "start": 1621.101,
@@ -3615,7 +3695,7 @@
                                 "stop": 1643.636,
                                 "byte_start": 6652297,
                                 "byte_stop": 6699735,
-                                "text": "The seamen question here, as it was presented in the findings of facts and conclusions... and you\u0027ll notice by reading the findings of facts and conclusions that the conclusions are two simple sentences."
+                                "text": "The seamen question here, as it was presented in the findings of facts and conclusions... and you'll notice by reading the findings of facts and conclusions that the conclusions are two simple sentences."
                             },
                             {
                                 "start": 1643.636,
@@ -3643,14 +3723,14 @@
                                 "stop": 1655.474,
                                 "byte_start": 6735993,
                                 "byte_stop": 6747069,
-                                "text": "Well, my client says to me: What\u0027s 213(b)?"
+                                "text": "Well, my client says to me: What's 213(b)?"
                             },
                             {
                                 "start": 1655.474,
                                 "stop": 1660.856,
                                 "byte_start": 6747069,
                                 "byte_stop": 6768594,
-                                "text": "I said: That is the portion of the Act that defines \u0022seaman\u0022."
+                                "text": "I said: That is the portion of the Act that defines \"seaman\"."
                             },
                             {
                                 "start": 1660.856,
@@ -3678,7 +3758,7 @@
                                 "stop": 1685.163,
                                 "byte_start": 6827422,
                                 "byte_stop": 6865874,
-                                "text": "And that beings me to the next issue, that it\u0027s obvious, if that is law, that this is a case of mixed findings and law."
+                                "text": "And that beings me to the next issue, that it's obvious, if that is law, that this is a case of mixed findings and law."
                             },
                             {
                                 "start": 1685.163,
@@ -3698,6 +3778,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -3715,7 +3796,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -3739,6 +3820,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -3856,7 +3938,7 @@
                                 "stop": 1759.552,
                                 "byte_start": 7118322,
                                 "byte_stop": 7163357,
-                                "text": "But after you read that, then you must apply those to the legal definition of \u0022seaman\u0022, and that\u0027s where it becomes mixed findings and law."
+                                "text": "But after you read that, then you must apply those to the legal definition of \"seaman\", and that's where it becomes mixed findings and law."
                             },
                             {
                                 "start": 1759.552,
@@ -3876,6 +3958,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -3893,7 +3976,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -3904,7 +3987,7 @@
                                 "stop": 1775.852,
                                 "byte_start": 7181956,
                                 "byte_stop": 7228558,
-                                "text": "But if the record shows that he doesn\u0027t do the things that seamen do traditionally and he does the things that maintenance and repairmen do, aren\u0027t you back to pure facts again?"
+                                "text": "But if the record shows that he doesn't do the things that seamen do traditionally and he does the things that maintenance and repairmen do, aren't you back to pure facts again?"
                             }
                         ]
                     },
@@ -3917,6 +4000,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -3942,6 +4026,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -3959,7 +4044,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -3970,7 +4055,7 @@
                                 "stop": 1781.317,
                                 "byte_start": 7244859,
                                 "byte_stop": 7250501,
-                                "text": "Why can\u0027t you stop there?"
+                                "text": "Why can't you stop there?"
                             }
                         ]
                     },
@@ -3983,6 +4068,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -4008,6 +4094,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -4025,7 +4112,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -4036,7 +4123,7 @@
                                 "stop": 1787.96,
                                 "byte_start": 7267533,
                                 "byte_stop": 7277042,
-                                "text": "The conclusion is that he\u0027s a welder and a repairman."
+                                "text": "The conclusion is that he's a welder and a repairman."
                             }
                         ]
                     },
@@ -4049,6 +4136,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -4061,14 +4149,14 @@
                                 "stop": 1793.893,
                                 "byte_start": 7277042,
                                 "byte_stop": 7300761,
-                                "text": "The findings as presented by the defendant says that he\u0027s a seaman, he\u0027s exempt."
+                                "text": "The findings as presented by the defendant says that he's a seaman, he's exempt."
                             },
                             {
                                 "start": 1793.893,
                                 "stop": 1797.557,
                                 "byte_start": 7300761,
                                 "byte_stop": 7315389,
-                                "text": "When they spell out 213, I think they\u0027re backed into a corner, Your Honor."
+                                "text": "When they spell out 213, I think they're backed into a corner, Your Honor."
                             },
                             {
                                 "start": 1797.557,
@@ -4103,7 +4191,7 @@
                                 "stop": 1849.73,
                                 "byte_start": 7448718,
                                 "byte_stop": 7524055,
-                                "text": "And I think the Petitioner got backed into a corner on that and I have no sympathy for him, because in making his findings very short and referring to a Section of the Act, they\u0027re referring to the section that defines \u0022seaman\u0022, and that is pure law."
+                                "text": "And I think the Petitioner got backed into a corner on that and I have no sympathy for him, because in making his findings very short and referring to a Section of the Act, they're referring to the section that defines \"seaman\", and that is pure law."
                             },
                             {
                                 "start": 1849.73,
@@ -4117,7 +4205,7 @@
                                 "stop": 1861.367,
                                 "byte_start": 7529280,
                                 "byte_stop": 7570658,
-                                "text": "Mr. Moore in his analysis when he wrote the encyclopedia says it\u0027s almost impossible to separate facts and conclusions in many cases, and this Court has said that, I think in the Bose case."
+                                "text": "Mr. Moore in his analysis when he wrote the encyclopedia says it's almost impossible to separate facts and conclusions in many cases, and this Court has said that, I think in the Bose case."
                             },
                             {
                                 "start": 1861.367,
@@ -4131,7 +4219,7 @@
                                 "stop": 1870.025,
                                 "byte_start": 7587481,
                                 "byte_stop": 7605244,
-                                "text": "I don\u0027t think there will ever be a rule that clearly defines findings."
+                                "text": "I don't think there will ever be a rule that clearly defines findings."
                             },
                             {
                                 "start": 1870.025,
@@ -4145,7 +4233,7 @@
                                 "stop": 1874.808,
                                 "byte_start": 7612349,
                                 "byte_stop": 7624366,
-                                "text": "For instance, they use the word \u0022maritime\u0022."
+                                "text": "For instance, they use the word \"maritime\"."
                             },
                             {
                                 "start": 1874.808,
@@ -4165,6 +4253,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -4182,7 +4271,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -4206,6 +4295,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -4218,7 +4308,7 @@
                                 "stop": 1890.699,
                                 "byte_start": 7679536,
                                 "byte_stop": 7688000,
-                                "text": "--I don\u0027t think so, Your Honor."
+                                "text": "--I don't think so, Your Honor."
                             },
                             {
                                 "start": 1890.699,
@@ -4238,6 +4328,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -4255,7 +4346,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -4266,7 +4357,7 @@
                                 "stop": 1893.769,
                                 "byte_start": 7691762,
                                 "byte_stop": 7700225,
-                                "text": "Isn\u0027t that a pretty fact-bound question in itself?"
+                                "text": "Isn't that a pretty fact-bound question in itself?"
                             }
                         ]
                     },
@@ -4279,6 +4370,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -4304,6 +4396,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -4321,7 +4414,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -4352,6 +4445,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -4364,14 +4458,14 @@
                                 "stop": 1908.5,
                                 "byte_start": 7726557,
                                 "byte_stop": 7759157,
-                                "text": "--I tried to form in my own mind... now, if I had the authority, I\u0027m going to redraft Rule 52, and I would do it this way, I couldn\u0027t get very far."
+                                "text": "--I tried to form in my own mind... now, if I had the authority, I'm going to redraft Rule 52, and I would do it this way, I couldn't get very far."
                             },
                             {
                                 "start": 1908.5,
                                 "stop": 1911.132,
                                 "byte_start": 7759157,
                                 "byte_stop": 7769711,
-                                "text": "And that\u0027s why I called it a moment ago a rule of equity."
+                                "text": "And that's why I called it a moment ago a rule of equity."
                             },
                             {
                                 "start": 1911.132,
@@ -4391,6 +4485,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -4408,7 +4503,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -4439,6 +4534,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -4471,6 +4567,7 @@
                             "ID": 15141,
                             "name": "William H. Rehnquist",
                             "href": "https:\/\/api.oyez.org\/people\/william_h_rehnquist",
+                            "view_count": 28,
                             "last_name": "Rehnquist",
                             "roles": [
                                 {
@@ -4498,7 +4595,7 @@
                                 "id": 32786,
                                 "mime": "image\/png",
                                 "size": 46923,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_rehnquist.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_rehnquist\/william_h_rehnquist.thumb.png"
                             },
                             "length_of_service": 12293,
                             "identifier": "william_h_rehnquist"
@@ -4509,7 +4606,7 @@
                                 "stop": 1961.663,
                                 "byte_start": 7960196,
                                 "byte_stop": 7971794,
-                                "text": "He wasn\u0027t referring to this particular case, was he?"
+                                "text": "He wasn't referring to this particular case, was he?"
                             }
                         ]
                     },
@@ -4522,6 +4619,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -4541,7 +4639,7 @@
                                 "stop": 1965.497,
                                 "byte_start": 7973780,
                                 "byte_stop": 7987154,
-                                "text": "This case didn\u0027t exist."
+                                "text": "This case didn't exist."
                             },
                             {
                                 "start": 1965.497,
@@ -4555,7 +4653,7 @@
                                 "stop": 1977.334,
                                 "byte_start": 8001678,
                                 "byte_stop": 8034488,
-                                "text": "He says, unless it involves national policy or unless the inconsistencies among the circuits are an embarrassment, that these kind of cert\u0027s should not be granted."
+                                "text": "He says, unless it involves national policy or unless the inconsistencies among the circuits are an embarrassment, that these kind of cert's should not be granted."
                             },
                             {
                                 "start": 1977.334,
@@ -4575,6 +4673,7 @@
                             "ID": 15071,
                             "name": "Byron R. White",
                             "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
+                            "view_count": 0,
                             "last_name": "White",
                             "roles": [
                                 {
@@ -4592,7 +4691,7 @@
                                 "id": 32699,
                                 "mime": "image\/png",
                                 "size": 55559,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/byron_r_white.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/byron_r_white\/byron_r_white.thumb.png"
                             },
                             "length_of_service": 11396,
                             "identifier": "byron_r_white"
@@ -4616,6 +4715,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -4648,6 +4748,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -4665,7 +4766,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -4689,6 +4790,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -4714,6 +4816,7 @@
                             "ID": 15104,
                             "name": "Thurgood Marshall",
                             "href": "https:\/\/api.oyez.org\/people\/thurgood_marshall",
+                            "view_count": 53,
                             "last_name": "Marshall",
                             "roles": [
                                 {
@@ -4731,7 +4834,7 @@
                                 "id": 32770,
                                 "mime": "image\/png",
                                 "size": 59272,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/thurgood_marshall.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/thurgood_marshall\/thurgood_marshall.thumb.png"
                             },
                             "length_of_service": 8765,
                             "identifier": "thurgood_marshall"
@@ -4755,6 +4858,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -4767,7 +4871,7 @@
                                 "stop": 2008.954,
                                 "byte_start": 8150576,
                                 "byte_stop": 8161025,
-                                "text": "I haven\u0027t gotten that far, Your Honor."
+                                "text": "I haven't gotten that far, Your Honor."
                             },
                             {
                                 "start": 2008.954,
@@ -4794,6 +4898,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -4811,7 +4916,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -4822,7 +4927,7 @@
                                 "stop": 2012.868,
                                 "byte_start": 8173877,
                                 "byte_stop": 8176699,
-                                "text": "You\u0027ll leave that to us."
+                                "text": "You'll leave that to us."
                             }
                         ]
                     },
@@ -4835,6 +4940,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -4847,7 +4953,7 @@
                                 "stop": 2015.77,
                                 "byte_start": 8176699,
                                 "byte_stop": 8188297,
-                                "text": "It was a good concept, but I didn\u0027t follow it through, apparently."
+                                "text": "It was a good concept, but I didn't follow it through, apparently."
                             }
                         ]
                     },
@@ -4860,6 +4966,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -4877,7 +4984,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -4888,14 +4995,14 @@
                                 "stop": 2020.203,
                                 "byte_start": 8188297,
                                 "byte_stop": 8205956,
-                                "text": "Well, may I ask you a question about it, assuming we don\u0027t dismiss the case."
+                                "text": "Well, may I ask you a question about it, assuming we don't dismiss the case."
                             },
                             {
                                 "start": 2020.203,
                                 "stop": 2027.396,
                                 "byte_start": 8205956,
                                 "byte_stop": 8234795,
-                                "text": "I\u0027ve just been looking at the district court\u0027s findings and there are, as I read it, there are seven."
+                                "text": "I've just been looking at the district court's findings and there are, as I read it, there are seven."
                             },
                             {
                                 "start": 2027.396,
@@ -4916,14 +5023,14 @@
                                 "stop": 2034.415,
                                 "byte_start": 8254753,
                                 "byte_stop": 8262798,
-                                "text": "\u0022Each of the plaintiffs\u0027 employment was that of a seamen. \u0022"
+                                "text": "\"Each of the plaintiffs' employment was that of a seamen. \""
                             },
                             {
                                 "start": 2034.415,
                                 "stop": 2047.064,
                                 "byte_start": 8262798,
                                 "byte_stop": 8313476,
-                                "text": "Now, if we eliminated that sentence and assumed for the purpose of argument that that\u0027s a statement of law or something like that, is there anything in the findings that precede that sentence that you think is erroneous in any way?"
+                                "text": "Now, if we eliminated that sentence and assumed for the purpose of argument that that's a statement of law or something like that, is there anything in the findings that precede that sentence that you think is erroneous in any way?"
                             }
                         ]
                     },
@@ -4936,6 +5043,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -4996,6 +5104,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -5013,7 +5122,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -5024,14 +5133,14 @@
                                 "stop": 2078.523,
                                 "byte_start": 8421727,
                                 "byte_stop": 8439282,
-                                "text": "Of course, that one actually went to this other issue, not to the seaman issue, didn\u0027t it?"
+                                "text": "Of course, that one actually went to this other issue, not to the seaman issue, didn't it?"
                             },
                             {
                                 "start": 2078.523,
                                 "stop": 2079.744,
                                 "byte_start": 8439282,
                                 "byte_stop": 8444193,
-                                "text": "Wasn\u0027t there an issue about--"
+                                "text": "Wasn't there an issue about--"
                             }
                         ]
                     },
@@ -5044,6 +5153,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -5056,7 +5166,7 @@
                                 "stop": 2080.925,
                                 "byte_start": 8444193,
                                 "byte_stop": 8448895,
-                                "text": "Yes, there\u0027s a second issue--"
+                                "text": "Yes, there's a second issue--"
                             }
                         ]
                     },
@@ -5069,6 +5179,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -5086,7 +5197,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -5110,6 +5221,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -5135,6 +5247,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -5152,7 +5265,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -5170,14 +5283,14 @@
                                 "stop": 2106.34,
                                 "byte_start": 8543771,
                                 "byte_stop": 8550563,
-                                "text": "\u0022Each of the plaintiffs\u0027 employment was that of a seaman. \u0022"
+                                "text": "\"Each of the plaintiffs' employment was that of a seaman. \""
                             },
                             {
                                 "start": 2106.34,
                                 "stop": 2109.323,
                                 "byte_start": 8550563,
                                 "byte_stop": 8562475,
-                                "text": "whether that\u0027s a statement of fact or a statement of law?"
+                                "text": "whether that's a statement of fact or a statement of law?"
                             }
                         ]
                     },
@@ -5190,6 +5303,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -5202,7 +5316,7 @@
                                 "stop": 2110.524,
                                 "byte_start": 8562475,
                                 "byte_stop": 8567282,
-                                "text": "--It\u0027s mixed."
+                                "text": "--It's mixed."
                             }
                         ]
                     },
@@ -5215,6 +5329,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -5232,7 +5347,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -5256,6 +5371,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -5268,7 +5384,7 @@
                                 "stop": 2113.536,
                                 "byte_start": 8574805,
                                 "byte_stop": 8579298,
-                                "text": "It\u0027s definitely mixed."
+                                "text": "It's definitely mixed."
                             }
                         ]
                     },
@@ -5281,6 +5397,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -5298,7 +5415,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -5316,7 +5433,7 @@
                                 "stop": 2119.931,
                                 "byte_start": 8590792,
                                 "byte_stop": 8604898,
-                                "text": "Otherwise, there\u0027s really no dispute, as I understand you, about the underlying facts."
+                                "text": "Otherwise, there's really no dispute, as I understand you, about the underlying facts."
                             }
                         ]
                     },
@@ -5329,6 +5446,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -5341,7 +5459,7 @@
                                 "stop": 2121.521,
                                 "byte_start": 8604898,
                                 "byte_stop": 8611272,
-                                "text": "Well, it\u0027s like this case in--"
+                                "text": "Well, it's like this case in--"
                             }
                         ]
                     },
@@ -5354,6 +5472,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -5371,7 +5490,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -5395,6 +5514,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -5414,7 +5534,7 @@
                                 "stop": 2131.829,
                                 "byte_start": 8645231,
                                 "byte_stop": 8652545,
-                                "text": "I have a lot of quarrel with the word \u0022maritime\u0022."
+                                "text": "I have a lot of quarrel with the word \"maritime\"."
                             },
                             {
                                 "start": 2131.829,
@@ -5428,7 +5548,7 @@
                                 "stop": 2144.087,
                                 "byte_start": 8659337,
                                 "byte_stop": 8701551,
-                                "text": "\u0022Maritime\u0022, the word \u0022maritime\u0022 and the way they use it in the findings, does not appear in the Code of Federal Regulations, and I think that was an attempt to get around the burden of trying to define \u0022seaman\u0022."
+                                "text": "\"Maritime\", the word \"maritime\" and the way they use it in the findings, does not appear in the Code of Federal Regulations, and I think that was an attempt to get around the burden of trying to define \"seaman\"."
                             },
                             {
                                 "start": 2144.087,
@@ -5455,6 +5575,7 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -5472,7 +5593,7 @@
                                 "id": 32732,
                                 "mime": "image\/png",
                                 "size": 62101,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                             },
                             "length_of_service": 12611,
                             "identifier": "john_paul_stevens"
@@ -5483,14 +5604,14 @@
                                 "stop": 2154.373,
                                 "byte_start": 8731226,
                                 "byte_stop": 8742720,
-                                "text": "Well, all right, \u0022which was maritime\u0022."
+                                "text": "Well, all right, \"which was maritime\"."
                             },
                             {
                                 "start": 2154.373,
                                 "stop": 2160.907,
                                 "byte_start": 8742720,
                                 "byte_stop": 8768842,
-                                "text": "But you don\u0027t disagree that the services were performed while the Arctic Star was in navigable waters?"
+                                "text": "But you don't disagree that the services were performed while the Arctic Star was in navigable waters?"
                             }
                         ]
                     },
@@ -5503,6 +5624,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -5522,49 +5644,49 @@
                                 "stop": 2168.902,
                                 "byte_start": 8786710,
                                 "byte_stop": 8800816,
-                                "text": "Is it navigable waters when you\u0027re moored in the mouth of a river?"
+                                "text": "Is it navigable waters when you're moored in the mouth of a river?"
                             },
                             {
                                 "start": 2168.902,
                                 "stop": 2169.733,
                                 "byte_start": 8800816,
                                 "byte_stop": 8804160,
-                                "text": "I don\u0027t know, Your Honor."
+                                "text": "I don't know, Your Honor."
                             },
                             {
                                 "start": 2169.733,
                                 "stop": 2170.765,
                                 "byte_start": 8804160,
                                 "byte_stop": 8808235,
-                                "text": "The court didn\u0027t a get into that."
+                                "text": "The court didn't a get into that."
                             },
                             {
                                 "start": 2170.765,
                                 "stop": 2172.474,
                                 "byte_start": 8808235,
                                 "byte_stop": 8815131,
-                                "text": "They didn\u0027t define what\u0027s \u0022navigable\u0022."
+                                "text": "They didn't define what's \"navigable\"."
                             },
                             {
                                 "start": 2172.474,
                                 "stop": 2174.436,
                                 "byte_start": 8815131,
                                 "byte_stop": 8822968,
-                                "text": "That\u0027s one thing that Justice O\u0027Connor pointed out."
+                                "text": "That's one thing that Justice O'Connor pointed out."
                             },
                             {
                                 "start": 2174.436,
                                 "stop": 2178.028,
                                 "byte_start": 8822968,
                                 "byte_stop": 8837283,
-                                "text": "The court didn\u0027t define that and they didn\u0027t define the workplace."
+                                "text": "The court didn't define that and they didn't define the workplace."
                             },
                             {
                                 "start": 2178.028,
                                 "stop": 2187.214,
                                 "byte_start": 8837283,
                                 "byte_stop": 8874064,
-                                "text": "And there again, we were at a disadvantage when we didn\u0027t have a court reporter there to take down what the court\u0027s decision was."
+                                "text": "And there again, we were at a disadvantage when we didn't have a court reporter there to take down what the court's decision was."
                             },
                             {
                                 "start": 2187.214,
@@ -5582,9 +5704,10 @@
                         "byte_stop": 8976255,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -5601,7 +5724,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -5625,6 +5748,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -5648,9 +5772,10 @@
                         "byte_stop": 9039157,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -5667,7 +5792,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -5678,7 +5803,7 @@
                                 "stop": 2228.491,
                                 "byte_start": 8991406,
                                 "byte_stop": 9039157,
-                                "text": "It certainly isn\u0027t clear from the opinion, but I wonder if that is the fault found by the Ninth Circuit, that the facts as far as they went were all right, but there should have been additional findings?"
+                                "text": "It certainly isn't clear from the opinion, but I wonder if that is the fault found by the Ninth Circuit, that the facts as far as they went were all right, but there should have been additional findings?"
                             }
                         ]
                     },
@@ -5691,6 +5816,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -5721,9 +5847,10 @@
                         "byte_stop": 9082416,
                         "speaker": {
                             "ID": 15092,
-                            "name": "Sandra Day O\u0027Connor",
+                            "name": "Sandra Day O'Connor",
                             "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                            "last_name": "O\u0027Connor",
+                            "view_count": 30,
+                            "last_name": "O'Connor",
                             "roles": [
                                 {
                                     "id": 2736,
@@ -5740,7 +5867,7 @@
                                 "id": 32763,
                                 "mime": "image\/png",
                                 "size": 49563,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/sandra_day_oconnor.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sandra_day_oconnor\/sandra_day_oconnor.thumb.png"
                             },
                             "length_of_service": 8894,
                             "identifier": "sandra_day_oconnor"
@@ -5764,6 +5891,7 @@
                             "ID": 18855,
                             "name": "Carson F. Eller",
                             "href": "https:\/\/api.oyez.org\/people\/carson_f_eller",
+                            "view_count": 0,
                             "last_name": "Eller",
                             "roles": null,
                             "thumbnail": null,
@@ -5776,14 +5904,14 @@
                                 "stop": 2244.202,
                                 "byte_start": 9082416,
                                 "byte_stop": 9101956,
-                                "text": "--I find it a little difficult, Justice O\u0027Connor, to carry the Ninth Circuit\u0027s cross."
+                                "text": "--I find it a little difficult, Justice O'Connor, to carry the Ninth Circuit's cross."
                             },
                             {
                                 "start": 2244.202,
                                 "stop": 2255.549,
                                 "byte_start": 9101956,
                                 "byte_stop": 9147409,
-                                "text": "But in an attempt to do so, I point out that I\u0027m sure that they felt that, as I did, that the findings in this case were 180 degrees off from what the existing law was."
+                                "text": "But in an attempt to do so, I point out that I'm sure that they felt that, as I did, that the findings in this case were 180 degrees off from what the existing law was."
                             },
                             {
                                 "start": 2255.549,
@@ -5804,7 +5932,7 @@
                                 "stop": 2273.901,
                                 "byte_start": 9187846,
                                 "byte_stop": 9220761,
-                                "text": "And they should have come right out and said it\u0027s clearly erroneous, but for some reason they don\u0027t care to do that."
+                                "text": "And they should have come right out and said it's clearly erroneous, but for some reason they don't care to do that."
                             },
                             {
                                 "start": 2273.901,
@@ -5894,6 +6022,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -5911,7 +6040,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"
@@ -5943,6 +6072,7 @@
                             "ID": 18504,
                             "name": "Clemens H. Barnes",
                             "href": "https:\/\/api.oyez.org\/people\/clemens_h_barnes",
+                            "view_count": 0,
                             "last_name": "Barnes",
                             "roles": null,
                             "thumbnail": null,
@@ -5962,14 +6092,14 @@
                                 "stop": 2356.445,
                                 "byte_start": 9534544,
                                 "byte_stop": 9550949,
-                                "text": "Sometimes the Star is at anchor while it\u0027s processing."
+                                "text": "Sometimes the Star is at anchor while it's processing."
                             },
                             {
                                 "start": 2356.445,
                                 "stop": 2358.015,
                                 "byte_start": 9550949,
                                 "byte_stop": 9557218,
-                                "text": "That\u0027s part of the picture."
+                                "text": "That's part of the picture."
                             },
                             {
                                 "start": 2358.015,
@@ -6025,7 +6155,7 @@
                                 "stop": 2385.454,
                                 "byte_start": 9661081,
                                 "byte_stop": 9667037,
-                                "text": "It just doesn\u0027t have its own engine."
+                                "text": "It just doesn't have its own engine."
                             },
                             {
                                 "start": 2385.454,
@@ -6039,21 +6169,21 @@
                                 "stop": 2401.025,
                                 "byte_start": 9687830,
                                 "byte_stop": 9729313,
-                                "text": "It\u0027s a question of evaluating and interpreting the facts across the board and not focusing just on one or just on the other."
+                                "text": "It's a question of evaluating and interpreting the facts across the board and not focusing just on one or just on the other."
                             },
                             {
                                 "start": 2401.025,
                                 "stop": 2417.776,
                                 "byte_start": 9729313,
                                 "byte_stop": 9796291,
-                                "text": "The rule of Walling versus General Industries was that a trial court, by this Court, is that a trial court\u0027s findings that a particular worker because of his duties is exempt, there as an executive, should be left undisturbed unless clearly erroneous."
+                                "text": "The rule of Walling versus General Industries was that a trial court, by this Court, is that a trial court's findings that a particular worker because of his duties is exempt, there as an executive, should be left undisturbed unless clearly erroneous."
                             },
                             {
                                 "start": 2417.776,
                                 "stop": 2433.995,
                                 "byte_start": 9796291,
                                 "byte_stop": 9861179,
-                                "text": "The Ninth Circuit in its opinion attempted to distinguish the rule in Walling versus General Industries, just as Mr. Eller has, as having involved a question of overturning a trial court\u0027s evaluations following disputed testimony... credibility, in a word."
+                                "text": "The Ninth Circuit in its opinion attempted to distinguish the rule in Walling versus General Industries, just as Mr. Eller has, as having involved a question of overturning a trial court's evaluations following disputed testimony... credibility, in a word."
                             },
                             {
                                 "start": 2433.995,
@@ -6074,14 +6204,14 @@
                                 "stop": 2469.13,
                                 "byte_start": 9949995,
                                 "byte_stop": 10001717,
-                                "text": "It says that those fact findings are to be left undisturbed unless clearly erroneous and... not if... there is a dispute over credibility, and the trial court\u0027s ability to judge credibility is also to be kept in mind."
+                                "text": "It says that those fact findings are to be left undisturbed unless clearly erroneous and... not if... there is a dispute over credibility, and the trial court's ability to judge credibility is also to be kept in mind."
                             },
                             {
                                 "start": 2469.13,
                                 "stop": 2470.991,
                                 "byte_start": 10001717,
                                 "byte_stop": 10009136,
-                                "text": "The second certainly doesn\u0027t limit the first."
+                                "text": "The second certainly doesn't limit the first."
                             },
                             {
                                 "start": 2470.991,
@@ -6109,7 +6239,7 @@
                                 "stop": 2495.925,
                                 "byte_start": 10083115,
                                 "byte_stop": 10108924,
-                                "text": "The Ninth Circuit didn\u0027t do it, and the trial court in any event was not clearly erroneous in what it found."
+                                "text": "The Ninth Circuit didn't do it, and the trial court in any event was not clearly erroneous in what it found."
                             },
                             {
                                 "start": 2495.925,
@@ -6129,6 +6259,7 @@
                             "ID": 15073,
                             "name": "Warren E. Burger",
                             "href": "https:\/\/api.oyez.org\/people\/warren_e_burger",
+                            "view_count": 0,
                             "last_name": "Burger",
                             "roles": [
                                 {
@@ -6146,7 +6277,7 @@
                                 "id": 32773,
                                 "mime": "image\/png",
                                 "size": 52511,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/warren_burger.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/warren_e_burger\/warren_e_burger.thumb.png"
                             },
                             "length_of_service": 6304,
                             "identifier": "warren_e_burger"

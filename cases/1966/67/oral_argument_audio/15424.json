@@ -36,16 +36,7 @@
                         "stop": 11.557,
                         "byte_start": 103424,
                         "byte_stop": 149713,
-                        "speaker": {
-                            "ID": 20318,
-                            "name": "Cheif Justice Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/cheif_justice_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "cheif_justice_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 0,
@@ -80,6 +71,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -175,6 +167,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -192,7 +185,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -216,6 +209,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -241,6 +235,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -258,7 +253,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -282,6 +277,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -307,6 +303,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -324,7 +321,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -348,6 +345,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -387,6 +385,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -404,7 +403,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -428,6 +427,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -453,6 +453,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -470,7 +471,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -508,6 +509,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -540,6 +542,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -557,7 +560,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -581,6 +584,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -704,6 +708,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -721,7 +726,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -745,6 +750,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -770,6 +776,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -787,7 +794,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -811,6 +818,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -836,6 +844,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -853,7 +862,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -898,6 +907,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -990,16 +1000,7 @@
                         "stop": 741.898,
                         "byte_start": 2901138,
                         "byte_stop": 3071039,
-                        "speaker": {
-                            "ID": 20318,
-                            "name": "Cheif Justice Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/cheif_justice_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "cheif_justice_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 699.403,
@@ -1048,6 +1049,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -1098,16 +1100,7 @@
                         "stop": 793.19,
                         "byte_start": 3250970,
                         "byte_stop": 3276257,
-                        "speaker": {
-                            "ID": 20318,
-                            "name": "Cheif Justice Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/cheif_justice_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "cheif_justice_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 786.873,
@@ -1135,6 +1128,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -1171,16 +1165,7 @@
                         "stop": 814.682,
                         "byte_start": 3308753,
                         "byte_stop": 3362252,
-                        "speaker": {
-                            "ID": 20318,
-                            "name": "Cheif Justice Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/cheif_justice_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "cheif_justice_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 801.308,
@@ -1208,6 +1193,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -1237,16 +1223,7 @@
                         "stop": 823.803,
                         "byte_start": 3367058,
                         "byte_stop": 3398719,
-                        "speaker": {
-                            "ID": 20318,
-                            "name": "Cheif Justice Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/cheif_justice_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "cheif_justice_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 815.899,
@@ -1274,6 +1251,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -1352,16 +1330,7 @@
                         "stop": 890.748,
                         "byte_start": 3659107,
                         "byte_stop": 3666422,
-                        "speaker": {
-                            "ID": 20318,
-                            "name": "Cheif Justice Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/cheif_justice_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "cheif_justice_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 888.903,
@@ -1389,6 +1358,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -1418,16 +1388,7 @@
                         "stop": 908.531,
                         "byte_start": 3683244,
                         "byte_stop": 3737579,
-                        "speaker": {
-                            "ID": 20318,
-                            "name": "Cheif Justice Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/cheif_justice_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "cheif_justice_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 894.948,
@@ -1455,6 +1416,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -1501,6 +1463,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -1518,7 +1481,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -1542,6 +1505,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -1567,6 +1531,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -1584,7 +1549,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -1608,6 +1573,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -1647,6 +1613,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -1664,7 +1631,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -1702,6 +1669,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -1727,6 +1695,7 @@
                             "ID": 15061,
                             "name": "Abe Fortas",
                             "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
+                            "view_count": 0,
                             "last_name": "Fortas",
                             "roles": [
                                 {
@@ -1744,7 +1713,7 @@
                                 "id": 32693,
                                 "mime": "image\/png",
                                 "size": 50111,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/abe_fortas.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/abe_fortas\/abe_fortas.thumb.png"
                             },
                             "length_of_service": 1318,
                             "identifier": "abe_fortas"
@@ -1768,6 +1737,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -1797,16 +1767,7 @@
                         "stop": 1047.615,
                         "byte_start": 4253132,
                         "byte_stop": 4293987,
-                        "speaker": {
-                            "ID": 20318,
-                            "name": "Cheif Justice Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/cheif_justice_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "cheif_justice_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1037.423,
@@ -1834,6 +1795,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -1870,16 +1832,7 @@
                         "stop": 1070.862,
                         "byte_start": 4339231,
                         "byte_stop": 4386879,
-                        "speaker": {
-                            "ID": 20318,
-                            "name": "Cheif Justice Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/cheif_justice_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "cheif_justice_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1058.926,
@@ -1907,6 +1860,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -1964,16 +1918,7 @@
                         "stop": 1163.438,
                         "byte_start": 4551032,
                         "byte_stop": 4757191,
-                        "speaker": {
-                            "ID": 20318,
-                            "name": "Cheif Justice Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/cheif_justice_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "cheif_justice_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1111.895,
@@ -2015,6 +1960,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -2065,16 +2011,7 @@
                         "stop": 1207.747,
                         "byte_start": 4900342,
                         "byte_stop": 4934510,
-                        "speaker": {
-                            "ID": 20318,
-                            "name": "Cheif Justice Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/cheif_justice_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "cheif_justice_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1199.216,
@@ -2102,6 +2039,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -2131,16 +2069,7 @@
                         "stop": 1228.15,
                         "byte_start": 4986232,
                         "byte_stop": 5016116,
-                        "speaker": {
-                            "ID": 20318,
-                            "name": "Cheif Justice Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/cheif_justice_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "cheif_justice_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1220.679,
@@ -2168,6 +2097,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -2225,16 +2155,7 @@
                         "stop": 1314.755,
                         "byte_start": 5332093,
                         "byte_stop": 5362500,
-                        "speaker": {
-                            "ID": 20318,
-                            "name": "Cheif Justice Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/cheif_justice_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "cheif_justice_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1307.16,
@@ -2262,6 +2183,7 @@
                             "ID": 30991,
                             "name": "Justice Learned Hand",
                             "href": "https:\/\/api.oyez.org\/people\/justice_learned_hand",
+                            "view_count": 0,
                             "last_name": "Hand",
                             "roles": null,
                             "thumbnail": null,
@@ -2319,16 +2241,7 @@
                         "stop": 1415.002,
                         "byte_start": 5707212,
                         "byte_stop": 5763532,
-                        "speaker": {
-                            "ID": 20318,
-                            "name": "Cheif Justice Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/cheif_justice_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "cheif_justice_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1400.942,
@@ -2390,16 +2303,7 @@
                         "stop": 1436.882,
                         "byte_start": 5832495,
                         "byte_stop": 5850990,
-                        "speaker": {
-                            "ID": 20318,
-                            "name": "Cheif Justice Warren",
-                            "href": "https:\/\/api.oyez.org\/people\/cheif_justice_warren",
-                            "last_name": "Warren",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "cheif_justice_warren"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1432.267,

@@ -40,6 +40,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -57,7 +58,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"
@@ -88,6 +89,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -156,21 +158,21 @@
                                 "stop": 100.445,
                                 "byte_start": 461406,
                                 "byte_stop": 505292,
-                                "text": "He said to the appellant, he\u0027s about to conclude his cross-examination, \u0022This is the first time you\u0027ve taken stand, isn\u0027t it, Willie?\u0022"
+                                "text": "He said to the appellant, he's about to conclude his cross-examination, \"This is the first time you've taken stand, isn't it, Willie?\""
                             },
                             {
                                 "start": 100.445,
                                 "stop": 102.985,
                                 "byte_start": 505292,
                                 "byte_stop": 515427,
-                                "text": "Willie says \u0022What?\u0022"
+                                "text": "Willie says \"What?\""
                             },
                             {
                                 "start": 102.985,
                                 "stop": 111.765,
                                 "byte_start": 515427,
                                 "byte_stop": 550536,
-                                "text": "The prosecutor then again said, \u0022This is the first time you have taken the stand.\u0022"
+                                "text": "The prosecutor then again said, \"This is the first time you have taken the stand.\""
                             },
                             {
                                 "start": 111.765,
@@ -190,6 +192,7 @@
                             "ID": 15050,
                             "name": "Felix Frankfurter",
                             "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "view_count": 0,
                             "last_name": "Frankfurter",
                             "roles": [
                                 {
@@ -207,7 +210,7 @@
                                 "id": 32706,
                                 "mime": "image\/png",
                                 "size": 45083,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                             },
                             "length_of_service": 8611,
                             "identifier": "felix_frankfurter"
@@ -231,6 +234,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -243,7 +247,7 @@
                                 "stop": 123.971,
                                 "byte_start": 593899,
                                 "byte_stop": 599333,
-                                "text": "\u0022I don\u0027t know what you\u0027re talking about.\u0022"
+                                "text": "\"I don't know what you're talking about.\""
                             },
                             {
                                 "start": 123.971,
@@ -257,35 +261,35 @@
                                 "stop": 137.688,
                                 "byte_start": 604975,
                                 "byte_stop": 654190,
-                                "text": "He didn\u0027t -- at the first time he said, \u0022This is the first time you\u0027ve gone on the stand, isn\u0027t it, Willie?\u0022"
+                                "text": "He didn't -- at the first time he said, \"This is the first time you've gone on the stand, isn't it, Willie?\""
                             },
                             {
                                 "start": 137.688,
                                 "stop": 140.841,
                                 "byte_start": 654190,
                                 "byte_stop": 666833,
-                                "text": "I\u0027m quoting now from page 140 of the record."
+                                "text": "I'm quoting now from page 140 of the record."
                             },
                             {
                                 "start": 140.841,
                                 "stop": 143.107,
                                 "byte_start": 666833,
                                 "byte_stop": 675924,
-                                "text": "Answer - \u0022What?\u0022"
+                                "text": "Answer - \"What?\""
                             },
                             {
                                 "start": 143.107,
                                 "stop": 149.135,
                                 "byte_start": 675924,
                                 "byte_stop": 700061,
-                                "text": "Question - \u0022This is the first time you\u0027ve gone on the stand, isn\u0027t it, Willie?\u0022"
+                                "text": "Question - \"This is the first time you've gone on the stand, isn't it, Willie?\""
                             },
                             {
                                 "start": 149.135,
                                 "stop": 156.737,
                                 "byte_start": 700061,
                                 "byte_stop": 730467,
-                                "text": "Answer - \u0022I am always the stand; I\u0027m everything; I done told you.\u0022"
+                                "text": "Answer - \"I am always the stand; I'm everything; I done told you.\""
                             },
                             {
                                 "start": 156.737,
@@ -355,14 +359,14 @@
                                 "stop": 218.019,
                                 "byte_start": 959718,
                                 "byte_stop": 975600,
-                                "text": "He said, \u0022This is the first time you have taken the stand.\u0022"
+                                "text": "He said, \"This is the first time you have taken the stand.\""
                             },
                             {
                                 "start": 218.019,
                                 "stop": 231.708,
                                 "byte_start": 975600,
                                 "byte_stop": 1030353,
-                                "text": "He stated it as a fact, and at the time we made the objection at the bench, the prosecutor said to Judge Letts, \u0022This is a fact that the jury should know.\u0022"
+                                "text": "He stated it as a fact, and at the time we made the objection at the bench, the prosecutor said to Judge Letts, \"This is a fact that the jury should know.\""
                             },
                             {
                                 "start": 231.708,
@@ -376,7 +380,7 @@
                                 "stop": 246.437,
                                 "byte_start": 1064103,
                                 "byte_stop": 1089181,
-                                "text": "We now contend that this man hadn\u0027t exercised his constitutional right."
+                                "text": "We now contend that this man hadn't exercised his constitutional right."
                             },
                             {
                                 "start": 246.437,
@@ -404,7 +408,7 @@
                                 "stop": 312.662,
                                 "byte_start": 1288443,
                                 "byte_stop": 1354167,
-                                "text": "We think it\u0027s a strong susceptibility of interpretation by the jury that not only was this man a murderer as alleged in the indictment, but also had a criminal record and was tried for other crimes and at no time that he ever taken the stand."
+                                "text": "We think it's a strong susceptibility of interpretation by the jury that not only was this man a murderer as alleged in the indictment, but also had a criminal record and was tried for other crimes and at no time that he ever taken the stand."
                             },
                             {
                                 "start": 312.662,
@@ -418,7 +422,7 @@
                                 "stop": 333.98,
                                 "byte_start": 1367437,
                                 "byte_stop": 1439431,
-                                "text": "Court of Appeals for the District of Columbia asserted by a 5:4 decision, affirmed the judgment of the lower court, and said that when this man took the stand, this became part of what had they -- interpreter called \u0022demeanor evidence.\u0022"
+                                "text": "Court of Appeals for the District of Columbia asserted by a 5:4 decision, affirmed the judgment of the lower court, and said that when this man took the stand, this became part of what had they -- interpreter called \"demeanor evidence.\""
                             },
                             {
                                 "start": 333.98,
@@ -453,7 +457,7 @@
                                 "stop": 405.63,
                                 "byte_start": 1638066,
                                 "byte_stop": 1726046,
-                                "text": "But how can you draw an inconsistency between his taking the stand and giving gibberish answers or indulging a meaningless behavior as the Court of Appeals for this Circuit said, \u0022Because you cannot contrast his taking the stand with nothing when he wasn\u0027t on the stand on the two prior occasions.\u0022"
+                                "text": "But how can you draw an inconsistency between his taking the stand and giving gibberish answers or indulging a meaningless behavior as the Court of Appeals for this Circuit said, \"Because you cannot contrast his taking the stand with nothing when he wasn't on the stand on the two prior occasions.\""
                             }
                         ]
                     },
@@ -466,6 +470,7 @@
                             "ID": 15097,
                             "name": "John M. Harlan II",
                             "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                            "view_count": 0,
                             "last_name": "Harlan",
                             "roles": [
                                 {
@@ -483,7 +488,7 @@
                                 "id": 32728,
                                 "mime": "image\/png",
                                 "size": 53784,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_m_harlan2\/john_m_harlan2.thumb.png"
                             },
                             "length_of_service": 6023,
                             "identifier": "john_m_harlan2"
@@ -507,6 +512,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -526,14 +532,14 @@
                                 "stop": 419.513,
                                 "byte_start": 1764289,
                                 "byte_stop": 1781530,
-                                "text": "He said, \u0022You heard it\u0022 and I\u0027m trying to give it in substance, Mr. Justice Harlan."
+                                "text": "He said, \"You heard it\" and I'm trying to give it in substance, Mr. Justice Harlan."
                             },
                             {
                                 "start": 419.513,
                                 "stop": 423.62,
                                 "byte_start": 1781530,
                                 "byte_stop": 1797935,
-                                "text": "He said, \u0022You heard the defendant testify.\u0022"
+                                "text": "He said, \"You heard the defendant testify.\""
                             },
                             {
                                 "start": 423.62,
@@ -553,6 +559,7 @@
                             "ID": 15097,
                             "name": "John M. Harlan II",
                             "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                            "view_count": 0,
                             "last_name": "Harlan",
                             "roles": [
                                 {
@@ -570,7 +577,7 @@
                                 "id": 32728,
                                 "mime": "image\/png",
                                 "size": 53784,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_m_harlan2\/john_m_harlan2.thumb.png"
                             },
                             "length_of_service": 6023,
                             "identifier": "john_m_harlan2"
@@ -601,6 +608,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -613,7 +621,7 @@
                                 "stop": 438.579,
                                 "byte_start": 1853628,
                                 "byte_stop": 1857808,
-                                "text": "No, it isn\u0027t."
+                                "text": "No, it isn't."
                             }
                         ]
                     },
@@ -626,6 +634,7 @@
                             "ID": 15097,
                             "name": "John M. Harlan II",
                             "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                            "view_count": 0,
                             "last_name": "Harlan",
                             "roles": [
                                 {
@@ -643,7 +652,7 @@
                                 "id": 32728,
                                 "mime": "image\/png",
                                 "size": 53784,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_m_harlan2\/john_m_harlan2.thumb.png"
                             },
                             "length_of_service": 6023,
                             "identifier": "john_m_harlan2"
@@ -654,7 +663,7 @@
                                 "stop": 440.814,
                                 "byte_start": 1857808,
                                 "byte_stop": 1866689,
-                                "text": "No, it isn\u0027t."
+                                "text": "No, it isn't."
                             }
                         ]
                     },
@@ -667,6 +676,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -679,14 +689,14 @@
                                 "stop": 444.307,
                                 "byte_start": 1866689,
                                 "byte_stop": 1880691,
-                                "text": "(Inaudible) I don\u0027t think it is Your Honor, but I can recall it very specifically."
+                                "text": "(Inaudible) I don't think it is Your Honor, but I can recall it very specifically."
                             },
                             {
                                 "start": 444.307,
                                 "stop": 447.478,
                                 "byte_start": 1880691,
                                 "byte_stop": 1893439,
-                                "text": "He said as \u0022the whole sum of nothing.\u0022"
+                                "text": "He said as \"the whole sum of nothing.\""
                             },
                             {
                                 "start": 447.478,
@@ -714,14 +724,14 @@
                                 "stop": 462.963,
                                 "byte_start": 1944012,
                                 "byte_stop": 1955297,
-                                "text": "It didn\u0027t go to its credibility."
+                                "text": "It didn't go to its credibility."
                             },
                             {
                                 "start": 462.963,
                                 "stop": 468.972,
                                 "byte_start": 1955297,
                                 "byte_stop": 1979329,
-                                "text": "He didn\u0027t deny or he didn\u0027t affirm killing the decedent."
+                                "text": "He didn't deny or he didn't affirm killing the decedent."
                             },
                             {
                                 "start": 468.972,
@@ -741,6 +751,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -758,7 +769,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -789,6 +800,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -821,6 +833,7 @@
                             "ID": 15082,
                             "name": "Charles E. Whittaker",
                             "href": "https:\/\/api.oyez.org\/people\/charles_e_whittaker",
+                            "view_count": 0,
                             "last_name": "Whittaker",
                             "roles": [
                                 {
@@ -838,7 +851,7 @@
                                 "id": 32700,
                                 "mime": "image\/png",
                                 "size": 50854,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_whittaker.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/charles_e_whittaker\/charles_e_whittaker.thumb.png"
                             },
                             "length_of_service": 1832,
                             "identifier": "charles_e_whittaker"
@@ -862,6 +875,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -894,6 +908,7 @@
                             "ID": 15082,
                             "name": "Charles E. Whittaker",
                             "href": "https:\/\/api.oyez.org\/people\/charles_e_whittaker",
+                            "view_count": 0,
                             "last_name": "Whittaker",
                             "roles": [
                                 {
@@ -911,7 +926,7 @@
                                 "id": 32700,
                                 "mime": "image\/png",
                                 "size": 50854,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/charles_e_whittaker.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/charles_e_whittaker\/charles_e_whittaker.thumb.png"
                             },
                             "length_of_service": 1832,
                             "identifier": "charles_e_whittaker"
@@ -922,7 +937,7 @@
                                 "stop": 510.621,
                                 "byte_start": 2136377,
                                 "byte_stop": 2145991,
-                                "text": "It wasn\u0027t in the other defense."
+                                "text": "It wasn't in the other defense."
                             }
                         ]
                     },
@@ -935,6 +950,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -947,7 +963,7 @@
                                 "stop": 517.633,
                                 "byte_start": 2145991,
                                 "byte_stop": 2173994,
-                                "text": "Well, I won\u0027t exclude the fact that we did cross-examine some of the government witnesses."
+                                "text": "Well, I won't exclude the fact that we did cross-examine some of the government witnesses."
                             },
                             {
                                 "start": 517.633,
@@ -961,14 +977,14 @@
                                 "stop": 523.647,
                                 "byte_start": 2186951,
                                 "byte_stop": 2198026,
-                                "text": "We weren\u0027t involved in the first and second trial."
+                                "text": "We weren't involved in the first and second trial."
                             },
                             {
                                 "start": 523.647,
                                 "stop": 529.883,
                                 "byte_start": 2198026,
                                 "byte_stop": 2223000,
-                                "text": "And I think anytime you\u0027d cross-examine a witness, you do create -- attempt to create some doubt of facts."
+                                "text": "And I think anytime you'd cross-examine a witness, you do create -- attempt to create some doubt of facts."
                             },
                             {
                                 "start": 529.883,
@@ -988,6 +1004,7 @@
                             "ID": 15050,
                             "name": "Felix Frankfurter",
                             "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "view_count": 0,
                             "last_name": "Frankfurter",
                             "roles": [
                                 {
@@ -1005,7 +1022,7 @@
                                 "id": 32706,
                                 "mime": "image\/png",
                                 "size": 45083,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                             },
                             "length_of_service": 8611,
                             "identifier": "felix_frankfurter"
@@ -1016,7 +1033,7 @@
                                 "stop": 544.04,
                                 "byte_start": 2251003,
                                 "byte_stop": 2279633,
-                                "text": "You didn\u0027t cross-examine or contest the testimony of the mother who was a confirming witness for the daughter, did you?"
+                                "text": "You didn't cross-examine or contest the testimony of the mother who was a confirming witness for the daughter, did you?"
                             }
                         ]
                     },
@@ -1029,6 +1046,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -1054,6 +1072,7 @@
                             "ID": 15050,
                             "name": "Felix Frankfurter",
                             "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "view_count": 0,
                             "last_name": "Frankfurter",
                             "roles": [
                                 {
@@ -1071,7 +1090,7 @@
                                 "id": 32706,
                                 "mime": "image\/png",
                                 "size": 45083,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                             },
                             "length_of_service": 8611,
                             "identifier": "felix_frankfurter"
@@ -1082,7 +1101,7 @@
                                 "stop": 552.294,
                                 "byte_start": 2292694,
                                 "byte_stop": 2312652,
-                                "text": "Well, but -- but wasn\u0027t there -- but she was a witness in the earlier trial."
+                                "text": "Well, but -- but wasn't there -- but she was a witness in the earlier trial."
                             }
                         ]
                     },
@@ -1095,6 +1114,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -1120,6 +1140,7 @@
                             "ID": 15050,
                             "name": "Felix Frankfurter",
                             "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "view_count": 0,
                             "last_name": "Frankfurter",
                             "roles": [
                                 {
@@ -1137,7 +1158,7 @@
                                 "id": 32706,
                                 "mime": "image\/png",
                                 "size": 45083,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                             },
                             "length_of_service": 8611,
                             "identifier": "felix_frankfurter"
@@ -1148,7 +1169,7 @@
                                 "stop": 557.889,
                                 "byte_start": 2315160,
                                 "byte_stop": 2335013,
-                                "text": "And her deposition was taken, I mean, the \u2013 her testimony was introduced, wasn\u0027t it?"
+                                "text": "And her deposition was taken, I mean, the \u2013 her testimony was introduced, wasn't it?"
                             }
                         ]
                     },
@@ -1161,6 +1182,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -1186,6 +1208,7 @@
                             "ID": 15050,
                             "name": "Felix Frankfurter",
                             "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "view_count": 0,
                             "last_name": "Frankfurter",
                             "roles": [
                                 {
@@ -1203,7 +1226,7 @@
                                 "id": 32706,
                                 "mime": "image\/png",
                                 "size": 45083,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                             },
                             "length_of_service": 8611,
                             "identifier": "felix_frankfurter"
@@ -1227,6 +1250,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -1252,6 +1276,7 @@
                             "ID": 15050,
                             "name": "Felix Frankfurter",
                             "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "view_count": 0,
                             "last_name": "Frankfurter",
                             "roles": [
                                 {
@@ -1269,7 +1294,7 @@
                                 "id": 32706,
                                 "mime": "image\/png",
                                 "size": 45083,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                             },
                             "length_of_service": 8611,
                             "identifier": "felix_frankfurter"
@@ -1280,7 +1305,7 @@
                                 "stop": 574.085,
                                 "byte_start": 2345044,
                                 "byte_stop": 2399796,
-                                "text": "Well, was she -- was the testimony which was allowed to be introduced before they introduced a challenge of a testimony on the fact that confirming a daughter\u0027s eye-witness testimony?"
+                                "text": "Well, was she -- was the testimony which was allowed to be introduced before they introduced a challenge of a testimony on the fact that confirming a daughter's eye-witness testimony?"
                             }
                         ]
                     },
@@ -1293,6 +1318,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -1318,6 +1344,7 @@
                             "ID": 15050,
                             "name": "Felix Frankfurter",
                             "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "view_count": 0,
                             "last_name": "Frankfurter",
                             "roles": [
                                 {
@@ -1335,7 +1362,7 @@
                                 "id": 32706,
                                 "mime": "image\/png",
                                 "size": 45083,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                             },
                             "length_of_service": 8611,
                             "identifier": "felix_frankfurter"
@@ -1359,6 +1386,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -1384,6 +1412,7 @@
                             "ID": 15050,
                             "name": "Felix Frankfurter",
                             "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "view_count": 0,
                             "last_name": "Frankfurter",
                             "roles": [
                                 {
@@ -1401,7 +1430,7 @@
                                 "id": 32706,
                                 "mime": "image\/png",
                                 "size": 45083,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                             },
                             "length_of_service": 8611,
                             "identifier": "felix_frankfurter"
@@ -1412,7 +1441,7 @@
                                 "stop": 578.733,
                                 "byte_start": 2402722,
                                 "byte_stop": 2418395,
-                                "text": "I\u0027m asking the question that Justice Stewart asked and Justice Whittaker asked."
+                                "text": "I'm asking the question that Justice Stewart asked and Justice Whittaker asked."
                             },
                             {
                                 "start": 578.733,
@@ -1432,6 +1461,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -1457,6 +1487,7 @@
                             "ID": 15050,
                             "name": "Felix Frankfurter",
                             "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "view_count": 0,
                             "last_name": "Frankfurter",
                             "roles": [
                                 {
@@ -1474,7 +1505,7 @@
                                 "id": 32706,
                                 "mime": "image\/png",
                                 "size": 45083,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                             },
                             "length_of_service": 8611,
                             "identifier": "felix_frankfurter"
@@ -1498,6 +1529,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -1510,21 +1542,21 @@
                                 "stop": 592.708,
                                 "byte_start": 2472417,
                                 "byte_stop": 2474297,
-                                "text": "That\u0027s right."
+                                "text": "That's right."
                             },
                             {
                                 "start": 592.708,
                                 "stop": 595.894,
                                 "byte_start": 2474297,
                                 "byte_stop": 2487045,
-                                "text": "But Just -- Justice Whittaker asked me if there\u0027s any factual defense."
+                                "text": "But Just -- Justice Whittaker asked me if there's any factual defense."
                             },
                             {
                                 "start": 595.894,
                                 "stop": 603.464,
                                 "byte_start": 2487045,
                                 "byte_stop": 2517347,
-                                "text": "I think if I\u0027d say, there was none, it\u0027d be quite inaccurate, because I think when you cross-examine, you do indicate some doubt insofar as the witness\u0027s credibility is concerned."
+                                "text": "I think if I'd say, there was none, it'd be quite inaccurate, because I think when you cross-examine, you do indicate some doubt insofar as the witness's credibility is concerned."
                             }
                         ]
                     },
@@ -1537,6 +1569,7 @@
                             "ID": 15050,
                             "name": "Felix Frankfurter",
                             "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "view_count": 0,
                             "last_name": "Frankfurter",
                             "roles": [
                                 {
@@ -1554,7 +1587,7 @@
                                 "id": 32706,
                                 "mime": "image\/png",
                                 "size": 45083,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                             },
                             "length_of_service": 8611,
                             "identifier": "felix_frankfurter"
@@ -1565,7 +1598,7 @@
                                 "stop": 605.986,
                                 "byte_start": 2517347,
                                 "byte_stop": 2527378,
-                                "text": "You\u0027ve cross-examined some policemen too, didn\u0027t you?"
+                                "text": "You've cross-examined some policemen too, didn't you?"
                             }
                         ]
                     },
@@ -1578,6 +1611,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -1603,6 +1637,7 @@
                             "ID": 15050,
                             "name": "Felix Frankfurter",
                             "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "view_count": 0,
                             "last_name": "Frankfurter",
                             "roles": [
                                 {
@@ -1620,7 +1655,7 @@
                                 "id": 32706,
                                 "mime": "image\/png",
                                 "size": 45083,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                             },
                             "length_of_service": 8611,
                             "identifier": "felix_frankfurter"
@@ -1644,6 +1679,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -1676,6 +1712,7 @@
                             "ID": 15050,
                             "name": "Felix Frankfurter",
                             "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "view_count": 0,
                             "last_name": "Frankfurter",
                             "roles": [
                                 {
@@ -1693,7 +1730,7 @@
                                 "id": 32706,
                                 "mime": "image\/png",
                                 "size": 45083,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                             },
                             "length_of_service": 8611,
                             "identifier": "felix_frankfurter"
@@ -1704,7 +1741,7 @@
                                 "stop": 613.464,
                                 "byte_start": 2544828,
                                 "byte_stop": 2557367,
-                                "text": "But they\u0027re not relevant, not on essential matters, really."
+                                "text": "But they're not relevant, not on essential matters, really."
                             }
                         ]
                     },
@@ -1717,6 +1754,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -1729,7 +1767,7 @@
                                 "stop": 619.64,
                                 "byte_start": 2557367,
                                 "byte_stop": 2582026,
-                                "text": "Well, I think too, we probably were allowed a rather -- wide gamut under the first-degree murder, I think that\u0027s generally true because --"
+                                "text": "Well, I think too, we probably were allowed a rather -- wide gamut under the first-degree murder, I think that's generally true because --"
                             }
                         ]
                     },
@@ -1742,6 +1780,7 @@
                             "ID": 15050,
                             "name": "Felix Frankfurter",
                             "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "view_count": 0,
                             "last_name": "Frankfurter",
                             "roles": [
                                 {
@@ -1759,7 +1798,7 @@
                                 "id": 32706,
                                 "mime": "image\/png",
                                 "size": 45083,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                             },
                             "length_of_service": 8611,
                             "identifier": "felix_frankfurter"
@@ -1770,7 +1809,7 @@
                                 "stop": 622.87,
                                 "byte_start": 2582026,
                                 "byte_stop": 2594983,
-                                "text": "Well, I\u0027m not -- I\u0027m just trying to find out what the police had described."
+                                "text": "Well, I'm not -- I'm just trying to find out what the police had described."
                             }
                         ]
                     },
@@ -1783,6 +1822,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1800,7 +1840,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -1811,7 +1851,7 @@
                                 "stop": 628.347,
                                 "byte_start": 2594983,
                                 "byte_stop": 2616822,
-                                "text": "It\u0027s always possible, at least you know we theoretically hold that the jury simply isn\u0027t going to leave anything the prosecution witness --"
+                                "text": "It's always possible, at least you know we theoretically hold that the jury simply isn't going to leave anything the prosecution witness --"
                             }
                         ]
                     },
@@ -1824,6 +1864,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -1843,7 +1884,7 @@
                                 "stop": 641.887,
                                 "byte_start": 2647960,
                                 "byte_stop": 2671052,
-                                "text": "And I think there\u0027s some serious questions as to whether these people, everything they said might have been totally correct."
+                                "text": "And I think there's some serious questions as to whether these people, everything they said might have been totally correct."
                             },
                             {
                                 "start": 641.887,
@@ -1863,6 +1904,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -1880,7 +1922,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -1904,6 +1946,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -1929,6 +1972,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -1946,7 +1990,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -1970,6 +2014,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -1995,6 +2040,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -2012,7 +2058,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -2036,6 +2082,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -2061,6 +2108,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -2078,7 +2126,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -2102,6 +2150,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -2121,7 +2170,7 @@
                                 "stop": 660.128,
                                 "byte_start": 2737089,
                                 "byte_stop": 2743986,
-                                "text": "It\u0027s not a specific plea."
+                                "text": "It's not a specific plea."
                             }
                         ]
                     },
@@ -2134,6 +2183,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -2151,7 +2201,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -2175,6 +2225,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -2200,6 +2251,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -2217,7 +2269,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -2241,6 +2293,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -2253,7 +2306,7 @@
                                 "stop": 664.05,
                                 "byte_start": 2757256,
                                 "byte_stop": 2759659,
-                                "text": "That\u0027s right, Mr. --"
+                                "text": "That's right, Mr. --"
                             }
                         ]
                     },
@@ -2266,6 +2319,7 @@
                             "ID": 15050,
                             "name": "Felix Frankfurter",
                             "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "view_count": 0,
                             "last_name": "Frankfurter",
                             "roles": [
                                 {
@@ -2283,7 +2337,7 @@
                                 "id": 32706,
                                 "mime": "image\/png",
                                 "size": 45083,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                             },
                             "length_of_service": 8611,
                             "identifier": "felix_frankfurter"
@@ -2307,6 +2361,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -2332,6 +2387,7 @@
                             "ID": 15050,
                             "name": "Felix Frankfurter",
                             "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "view_count": 0,
                             "last_name": "Frankfurter",
                             "roles": [
                                 {
@@ -2349,7 +2405,7 @@
                                 "id": 32706,
                                 "mime": "image\/png",
                                 "size": 45083,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                             },
                             "length_of_service": 8611,
                             "identifier": "felix_frankfurter"
@@ -2373,6 +2429,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -2398,6 +2455,7 @@
                             "ID": 15050,
                             "name": "Felix Frankfurter",
                             "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "view_count": 0,
                             "last_name": "Frankfurter",
                             "roles": [
                                 {
@@ -2415,7 +2473,7 @@
                                 "id": 32706,
                                 "mime": "image\/png",
                                 "size": 45083,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                             },
                             "length_of_service": 8611,
                             "identifier": "felix_frankfurter"
@@ -2439,6 +2497,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -2464,6 +2523,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -2481,7 +2541,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -2505,6 +2565,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -2530,6 +2591,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -2547,7 +2609,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -2571,6 +2633,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -2583,7 +2646,7 @@
                                 "stop": 685.011,
                                 "byte_start": 2832384,
                                 "byte_stop": 2843564,
-                                "text": "I don\u0027t think it is, Mr. Justice Black."
+                                "text": "I don't think it is, Mr. Justice Black."
                             }
                         ]
                     },
@@ -2596,6 +2659,7 @@
                             "ID": 15050,
                             "name": "Felix Frankfurter",
                             "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "view_count": 0,
                             "last_name": "Frankfurter",
                             "roles": [
                                 {
@@ -2613,7 +2677,7 @@
                                 "id": 32706,
                                 "mime": "image\/png",
                                 "size": 45083,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                             },
                             "length_of_service": 8611,
                             "identifier": "felix_frankfurter"
@@ -2624,7 +2688,7 @@
                                 "stop": 688.754,
                                 "byte_start": 2843564,
                                 "byte_stop": 2858506,
-                                "text": "It has only a very small fraction of the five-day trial, isn\u0027t it?"
+                                "text": "It has only a very small fraction of the five-day trial, isn't it?"
                             }
                         ]
                     },
@@ -2637,6 +2701,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -2662,6 +2727,7 @@
                             "ID": 15050,
                             "name": "Felix Frankfurter",
                             "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "view_count": 0,
                             "last_name": "Frankfurter",
                             "roles": [
                                 {
@@ -2679,7 +2745,7 @@
                                 "id": 32706,
                                 "mime": "image\/png",
                                 "size": 45083,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                             },
                             "length_of_service": 8611,
                             "identifier": "felix_frankfurter"
@@ -2703,6 +2769,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -2728,6 +2795,7 @@
                             "ID": 15097,
                             "name": "John M. Harlan II",
                             "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                            "view_count": 0,
                             "last_name": "Harlan",
                             "roles": [
                                 {
@@ -2745,7 +2813,7 @@
                                 "id": 32728,
                                 "mime": "image\/png",
                                 "size": 53784,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_m_harlan2\/john_m_harlan2.thumb.png"
                             },
                             "length_of_service": 6023,
                             "identifier": "john_m_harlan2"
@@ -2769,6 +2837,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -2794,6 +2863,7 @@
                             "ID": 15097,
                             "name": "John M. Harlan II",
                             "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                            "view_count": 0,
                             "last_name": "Harlan",
                             "roles": [
                                 {
@@ -2811,7 +2881,7 @@
                                 "id": 32728,
                                 "mime": "image\/png",
                                 "size": 53784,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_m_harlan2\/john_m_harlan2.thumb.png"
                             },
                             "length_of_service": 6023,
                             "identifier": "john_m_harlan2"
@@ -2835,6 +2905,7 @@
                             "ID": 15050,
                             "name": "Felix Frankfurter",
                             "href": "https:\/\/api.oyez.org\/people\/felix_frankfurter",
+                            "view_count": 0,
                             "last_name": "Frankfurter",
                             "roles": [
                                 {
@@ -2852,7 +2923,7 @@
                                 "id": 32706,
                                 "mime": "image\/png",
                                 "size": 45083,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/felix_frankfurter.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/felix_frankfurter\/felix_frankfurter.thumb.png"
                             },
                             "length_of_service": 8611,
                             "identifier": "felix_frankfurter"
@@ -2876,6 +2947,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -2902,7 +2974,7 @@
                                 "stop": 716.317,
                                 "byte_start": 2940740,
                                 "byte_stop": 2968743,
-                                "text": "He didn\u0027t -- had an intelligence quotient of 65."
+                                "text": "He didn't -- had an intelligence quotient of 65."
                             },
                             {
                                 "start": 716.317,
@@ -2944,14 +3016,14 @@
                                 "stop": 765.453,
                                 "byte_start": 3103848,
                                 "byte_stop": 3165288,
-                                "text": "However, even if that be true, it was our position that this jury should never have known of the fact that this man didn\u0027t take the stand on two prior trials, nor should it also ever be suggested to them that he might have been involved in other offenses."
+                                "text": "However, even if that be true, it was our position that this jury should never have known of the fact that this man didn't take the stand on two prior trials, nor should it also ever be suggested to them that he might have been involved in other offenses."
                             },
                             {
                                 "start": 765.453,
                                 "stop": 773.539,
                                 "byte_start": 3165288,
                                 "byte_stop": 3197680,
-                                "text": "And the record will reflect that he hasn\u0027t convicted of other offenses on prior occasions."
+                                "text": "And the record will reflect that he hasn't convicted of other offenses on prior occasions."
                             },
                             {
                                 "start": 773.539,
@@ -2986,7 +3058,7 @@
                                 "stop": 831.291,
                                 "byte_start": 3397360,
                                 "byte_stop": 3428603,
-                                "text": "In fact, I think it\u0027s further suggested, they have repudiated the ruling of the five judges in the District of Columbia Circuit."
+                                "text": "In fact, I think it's further suggested, they have repudiated the ruling of the five judges in the District of Columbia Circuit."
                             },
                             {
                                 "start": 831.291,
@@ -3000,7 +3072,7 @@
                                 "stop": 849.113,
                                 "byte_start": 3486699,
                                 "byte_stop": 3499969,
-                                "text": "They didn\u0027t put him on the basis of demeanor-evidence."
+                                "text": "They didn't put him on the basis of demeanor-evidence."
                             },
                             {
                                 "start": 849.113,
@@ -3014,7 +3086,7 @@
                                 "stop": 885.694,
                                 "byte_start": 3592547,
                                 "byte_stop": 3646255,
-                                "text": "However, they further, in their brief, say this that even if it was wrong, they concede the question shouldn\u0027t have been asked because they said the question was of negligible importance."
+                                "text": "However, they further, in their brief, say this that even if it was wrong, they concede the question shouldn't have been asked because they said the question was of negligible importance."
                             },
                             {
                                 "start": 885.694,
@@ -3035,21 +3107,21 @@
                                 "stop": 919.937,
                                 "byte_start": 3769866,
                                 "byte_stop": 3783241,
-                                "text": "He didn\u0027t hear the question apparently."
+                                "text": "He didn't hear the question apparently."
                             },
                             {
                                 "start": 919.937,
                                 "stop": 933.36,
                                 "byte_start": 3783241,
                                 "byte_stop": 3836949,
-                                "text": "They didn\u0027t try to analogize between these situations, the fact that the Court wasn\u0027t aware of what the question was, the sequitur is then the jury didn\u0027t hear the question."
+                                "text": "They didn't try to analogize between these situations, the fact that the Court wasn't aware of what the question was, the sequitur is then the jury didn't hear the question."
                             },
                             {
                                 "start": 933.36,
                                 "stop": 945.018,
                                 "byte_start": 3836949,
                                 "byte_stop": 3883551,
-                                "text": "Well, I don\u0027t have to labor the obvious but I was sitting in the courtroom as was the prosecutor, as was the Court reporter."
+                                "text": "Well, I don't have to labor the obvious but I was sitting in the courtroom as was the prosecutor, as was the Court reporter."
                             },
                             {
                                 "start": 945.018,
@@ -3070,14 +3142,14 @@
                                 "stop": 968.176,
                                 "byte_start": 3955440,
                                 "byte_stop": 3976129,
-                                "text": "\u0022This is the first time you\u0027ve taken the stand, Willie, isn\u0027t it?\u0022"
+                                "text": "\"This is the first time you've taken the stand, Willie, isn't it?\""
                             },
                             {
                                 "start": 968.176,
                                 "stop": 978.992,
                                 "byte_start": 3976129,
                                 "byte_stop": 4019493,
-                                "text": "Another suggests that because the Court didn\u0027t hear the question, it then followed that the jury didn\u0027t hear the question, is neither here nor there."
+                                "text": "Another suggests that because the Court didn't hear the question, it then followed that the jury didn't hear the question, is neither here nor there."
                             },
                             {
                                 "start": 978.992,
@@ -3091,14 +3163,14 @@
                                 "stop": 989.008,
                                 "byte_start": 4027747,
                                 "byte_stop": 4059512,
-                                "text": "It must be assumed there\u0027s no evidence in this record, which would demonstrate that the jury never heard that particular question."
+                                "text": "It must be assumed there's no evidence in this record, which would demonstrate that the jury never heard that particular question."
                             },
                             {
                                 "start": 989.008,
                                 "stop": 996.96,
                                 "byte_start": 4059512,
                                 "byte_stop": 4091277,
-                                "text": "So not having heard that the Government now says, \u0022It couldn\u0027t have been prejudicial to this defendant.\u0022"
+                                "text": "So not having heard that the Government now says, \"It couldn't have been prejudicial to this defendant.\""
                             },
                             {
                                 "start": 996.96,
@@ -3112,14 +3184,14 @@
                                 "stop": 1040.741,
                                 "byte_start": 4182288,
                                 "byte_stop": 4266402,
-                                "text": "We say that that question could not have been cured by an instruction from the Court, because I think when you ask a witness or a defendant, \u0022This is the first time you\u0027ve taken the stand\u0022 I suggest the impact upon that jury is tremendously prejudicial."
+                                "text": "We say that that question could not have been cured by an instruction from the Court, because I think when you ask a witness or a defendant, \"This is the first time you've taken the stand\" I suggest the impact upon that jury is tremendously prejudicial."
                             },
                             {
                                 "start": 1040.741,
                                 "stop": 1045.436,
                                 "byte_start": 4266402,
                                 "byte_stop": 4285210,
-                                "text": "It\u0027s not insignificant, it\u0027s not minimal, and it\u0027s not maneuvered."
+                                "text": "It's not insignificant, it's not minimal, and it's not maneuvered."
                             }
                         ]
                     },
@@ -3132,6 +3204,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -3149,7 +3222,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -3173,6 +3246,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -3198,6 +3272,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -3215,7 +3290,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -3253,6 +3328,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -3265,7 +3341,7 @@
                                 "stop": 1069.886,
                                 "byte_start": 4370578,
                                 "byte_stop": 4383013,
-                                "text": "I say it\u0027s prejudiced in several reasons."
+                                "text": "I say it's prejudiced in several reasons."
                             },
                             {
                                 "start": 1069.886,
@@ -3320,6 +3396,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -3337,7 +3414,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -3361,6 +3438,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -3386,6 +3464,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -3403,7 +3482,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -3427,6 +3506,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -3439,35 +3519,35 @@
                                 "stop": 1112.132,
                                 "byte_start": 4548106,
                                 "byte_stop": 4551973,
-                                "text": "That\u0027s right."
+                                "text": "That's right."
                             },
                             {
                                 "start": 1112.132,
                                 "stop": 1123.719,
                                 "byte_start": 4551973,
                                 "byte_stop": 4598366,
-                                "text": "Now, this jury was never told that a mental defective came within the ruling of the Durham rule because they couldn\u0027t have been in 1953."
+                                "text": "Now, this jury was never told that a mental defective came within the ruling of the Durham rule because they couldn't have been in 1953."
                             },
                             {
                                 "start": 1123.719,
                                 "stop": 1131.791,
                                 "byte_start": 4598366,
                                 "byte_stop": 4630653,
-                                "text": "Then that jury might have assumed the fact that he is now claiming he\u0027s a mental defective."
+                                "text": "Then that jury might have assumed the fact that he is now claiming he's a mental defective."
                             },
                             {
                                 "start": 1131.791,
                                 "stop": 1139.15,
                                 "byte_start": 4630653,
                                 "byte_stop": 4660120,
-                                "text": "He also claimed he\u0027s a mental defective in 1953 when he had no right to raise such a defense."
+                                "text": "He also claimed he's a mental defective in 1953 when he had no right to raise such a defense."
                             },
                             {
                                 "start": 1139.15,
                                 "stop": 1157.092,
                                 "byte_start": 4660120,
                                 "byte_stop": 4731800,
-                                "text": "So then that jury might have assumed that this man had that same consistent defense on three particular trials and it wasn\u0027t true, because -- and had he been a mental defective, he would have exhibited at the first trial which he couldn\u0027t do."
+                                "text": "So then that jury might have assumed that this man had that same consistent defense on three particular trials and it wasn't true, because -- and had he been a mental defective, he would have exhibited at the first trial which he couldn't do."
                             }
                         ]
                     },
@@ -3480,6 +3560,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -3497,7 +3578,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -3508,14 +3589,14 @@
                                 "stop": 1164.543,
                                 "byte_start": 4731800,
                                 "byte_stop": 4761684,
-                                "text": "Still, I\u0027m not entirely sure -- probably I am being too smutty, maybe during lunch time, you can think of a way to straighten me on."
+                                "text": "Still, I'm not entirely sure -- probably I am being too smutty, maybe during lunch time, you can think of a way to straighten me on."
                             },
                             {
                                 "start": 1164.543,
                                 "stop": 1169.318,
                                 "byte_start": 4761684,
                                 "byte_stop": 4780701,
-                                "text": "So I won\u0027t waste any more of your time then."
+                                "text": "So I won't waste any more of your time then."
                             }
                         ]
                     },
@@ -3528,6 +3609,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -3553,6 +3635,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -3570,7 +3653,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"
@@ -3601,6 +3684,7 @@
                             "ID": 22128,
                             "name": "Edward L. Carey",
                             "href": "https:\/\/api.oyez.org\/people\/edward_l_carey",
+                            "view_count": 0,
                             "last_name": "Carey",
                             "roles": null,
                             "thumbnail": null,
@@ -3668,6 +3752,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -3685,7 +3770,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"
@@ -3696,7 +3781,7 @@
                                 "stop": 1255.692,
                                 "byte_start": 5109635,
                                 "byte_stop": 5126144,
-                                "text": "We\u0027ll recess now Mr. Carey."
+                                "text": "We'll recess now Mr. Carey."
                             }
                         ]
                     }

@@ -40,6 +40,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -57,7 +58,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"
@@ -84,16 +85,7 @@
                         "stop": 174.875,
                         "byte_start": 239574,
                         "byte_stop": 802983,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 34.029,
@@ -163,7 +155,7 @@
                                 "stop": 150.651,
                                 "byte_start": 650533,
                                 "byte_stop": 706121,
-                                "text": "The petitioner reported to the judge that he had been a narcotics addict on and off for quite awhile, and he requested that he\u0027d be sent to Springfield or to Lexington for treatment."
+                                "text": "The petitioner reported to the judge that he had been a narcotics addict on and off for quite awhile, and he requested that he'd be sent to Springfield or to Lexington for treatment."
                             },
                             {
                                 "start": 150.651,
@@ -190,6 +182,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -207,7 +200,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -218,7 +211,7 @@
                                 "stop": 178.676,
                                 "byte_start": 802983,
                                 "byte_stop": 818134,
-                                "text": "He was in Alcatraz for a while, isn\u0027t it?"
+                                "text": "He was in Alcatraz for a while, isn't it?"
                             }
                         ]
                     },
@@ -227,16 +220,7 @@
                         "stop": 182.525,
                         "byte_start": 818134,
                         "byte_stop": 833599,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 178.676,
@@ -263,6 +247,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -280,7 +265,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -300,16 +285,7 @@
                         "stop": 199.696,
                         "byte_start": 856168,
                         "byte_stop": 902248,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 188.177,
@@ -336,6 +312,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -353,7 +330,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -364,7 +341,7 @@
                                 "stop": 205.01,
                                 "byte_start": 902248,
                                 "byte_stop": 923564,
-                                "text": "It doesn\u0027t show why the recommendation of the sentencing judge wasn\u0027t carried out, does it?"
+                                "text": "It doesn't show why the recommendation of the sentencing judge wasn't carried out, does it?"
                             }
                         ]
                     },
@@ -373,16 +350,7 @@
                         "stop": 381.58,
                         "byte_start": 923564,
                         "byte_stop": 1629811,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 205.01,
@@ -417,7 +385,7 @@
                                 "stop": 264.095,
                                 "byte_start": 1066820,
                                 "byte_stop": 1159816,
-                                "text": "The District Court in California, quite properly I might add a very little attention to this petition, the Court said that defendant\u0027s motion, although replete with conclusions, sets forth no facts upon which these conclusions can be founded, and for this reason alone, the Court may deny the motion."
+                                "text": "The District Court in California, quite properly I might add a very little attention to this petition, the Court said that defendant's motion, although replete with conclusions, sets forth no facts upon which these conclusions can be founded, and for this reason alone, the Court may deny the motion."
                             },
                             {
                                 "start": 264.095,
@@ -472,6 +440,7 @@
                             "ID": 15097,
                             "name": "John M. Harlan II",
                             "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                            "view_count": 0,
                             "last_name": "Harlan",
                             "roles": [
                                 {
@@ -489,7 +458,7 @@
                                 "id": 32728,
                                 "mime": "image\/png",
                                 "size": 53784,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_m_harlan2\/john_m_harlan2.thumb.png"
                             },
                             "length_of_service": 6023,
                             "identifier": "john_m_harlan2"
@@ -509,16 +478,7 @@
                         "stop": 398.192,
                         "byte_start": 1663457,
                         "byte_stop": 1696266,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 390.002,
@@ -538,6 +498,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -555,7 +516,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -575,16 +536,7 @@
                         "stop": 462.679,
                         "byte_start": 1706088,
                         "byte_stop": 1954147,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 400.664,
@@ -612,7 +564,7 @@
                                 "stop": 445.582,
                                 "byte_start": 1816430,
                                 "byte_stop": 1885811,
-                                "text": "So the Court refused to entertain the petition, but in a footnote to that decision, the Court again made the boiler plate assertion that it had reviewed the entire files and records and it found there was no merit in petitioner\u0027s claim."
+                                "text": "So the Court refused to entertain the petition, but in a footnote to that decision, the Court again made the boiler plate assertion that it had reviewed the entire files and records and it found there was no merit in petitioner's claim."
                             },
                             {
                                 "start": 445.582,
@@ -632,6 +584,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -649,7 +602,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -660,7 +613,7 @@
                                 "stop": 472.553,
                                 "byte_start": 1954147,
                                 "byte_stop": 1993644,
-                                "text": "Except the -- not the record but the -- but the judge\u0027s own recollection of the trial and of the -- and of the petitioner\u0027s demeanor at the time of sentencing."
+                                "text": "Except the -- not the record but the -- but the judge's own recollection of the trial and of the -- and of the petitioner's demeanor at the time of sentencing."
                             }
                         ]
                     },
@@ -669,23 +622,14 @@
                         "stop": 482.476,
                         "byte_start": 1993644,
                         "byte_stop": 2033351,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 472.553,
                                 "stop": 482.476,
                                 "byte_start": 1993644,
                                 "byte_stop": 2033351,
-                                "text": "Yes, Your Honor, but the record includes a complete recital of the judge\u0027s recitation of prisoner\u0027s rights and the petitioner\u0027s response thereto."
+                                "text": "Yes, Your Honor, but the record includes a complete recital of the judge's recitation of prisoner's rights and the petitioner's response thereto."
                             }
                         ]
                     },
@@ -698,6 +642,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -715,7 +660,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -735,16 +680,7 @@
                         "stop": 505.214,
                         "byte_start": 2043904,
                         "byte_stop": 2124361,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 485.102,
@@ -758,7 +694,7 @@
                                 "stop": 501.786,
                                 "byte_start": 2059891,
                                 "byte_stop": 2110673,
-                                "text": "However, the probation officer\u0027s report went before the judge at the time of sentencing.Now this -- in this jurisdiction, at least, that is a confidential report."
+                                "text": "However, the probation officer's report went before the judge at the time of sentencing.Now this -- in this jurisdiction, at least, that is a confidential report."
                             },
                             {
                                 "start": 501.786,
@@ -778,6 +714,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -795,7 +732,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"
@@ -806,7 +743,7 @@
                                 "stop": 518.899,
                                 "byte_start": 2124361,
                                 "byte_stop": 2179114,
-                                "text": "We\u0027ll recess now, Mr. Vinson."
+                                "text": "We'll recess now, Mr. Vinson."
                             },
                             {
                                 "start": 518.899,
@@ -822,16 +759,7 @@
                         "stop": 1166.174,
                         "byte_start": 2189563,
                         "byte_stop": 4768162,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 521.515,
@@ -852,14 +780,14 @@
                                 "stop": 587.325,
                                 "byte_start": 2320802,
                                 "byte_stop": 2452773,
-                                "text": "On the record before this Court, there is no indication for such awareness but in a footnote 11 of the Government\u0027s brief, the Government goes outside the record and points out that the probation report, which was before the judge at the time of sentence, confirms the fact that the petitioner was a known addict and did, in fact, receive medical treatment at the time of his incarceration in the Sacramento Jail."
+                                "text": "On the record before this Court, there is no indication for such awareness but in a footnote 11 of the Government's brief, the Government goes outside the record and points out that the probation report, which was before the judge at the time of sentence, confirms the fact that the petitioner was a known addict and did, in fact, receive medical treatment at the time of his incarceration in the Sacramento Jail."
                             },
                             {
                                 "start": 587.325,
                                 "stop": 615.996,
                                 "byte_start": 2452773,
                                 "byte_stop": 2567502,
-                                "text": "After the denial -- rather the refusal to entertain the second 2255 motion, the petitioner duly appealed to the Ninth Circuit which, in essence, denied the appeal on the same ground stated in the District Court\u0027s opinion and this procedure before this Honorable Court then followed."
+                                "text": "After the denial -- rather the refusal to entertain the second 2255 motion, the petitioner duly appealed to the Ninth Circuit which, in essence, denied the appeal on the same ground stated in the District Court's opinion and this procedure before this Honorable Court then followed."
                             },
                             {
                                 "start": 615.996,
@@ -887,7 +815,7 @@
                                 "stop": 662.383,
                                 "byte_start": 2720893,
                                 "byte_stop": 2752972,
-                                "text": "And without laboring the statute, I do wish to call two sentences to the Court\u0027s attention."
+                                "text": "And without laboring the statute, I do wish to call two sentences to the Court's attention."
                             },
                             {
                                 "start": 662.383,
@@ -908,14 +836,14 @@
                                 "stop": 732.444,
                                 "byte_start": 2911378,
                                 "byte_stop": 3033213,
-                                "text": "It is petitioner\u0027s view that this statutory language with reference to successive motions, does not give the sentencing court the power to refuse to entertain a successive 2255 motion when new uncontroverted grounds for relief are raised."
+                                "text": "It is petitioner's view that this statutory language with reference to successive motions, does not give the sentencing court the power to refuse to entertain a successive 2255 motion when new uncontroverted grounds for relief are raised."
                             },
                             {
                                 "start": 732.444,
                                 "stop": 744.631,
                                 "byte_start": 3033213,
                                 "byte_stop": 3082010,
-                                "text": "This Court has never passed directly upon this question of successive motions and the sentencing court\u0027s exercise of jurisdiction to entertain them."
+                                "text": "This Court has never passed directly upon this question of successive motions and the sentencing court's exercise of jurisdiction to entertain them."
                             },
                             {
                                 "start": 744.631,
@@ -943,7 +871,7 @@
                                 "stop": 815.153,
                                 "byte_start": 3280959,
                                 "byte_stop": 3364133,
-                                "text": "Further in Hayman, this Court held that nowhere in the history of Section 2255 was there any evidence that there was any purpose to impinge or limit petitioner\u0027s right of collateral attack."
+                                "text": "Further in Hayman, this Court held that nowhere in the history of Section 2255 was there any evidence that there was any purpose to impinge or limit petitioner's right of collateral attack."
                             },
                             {
                                 "start": 815.153,
@@ -957,7 +885,7 @@
                                 "stop": 853.404,
                                 "byte_start": 3451277,
                                 "byte_stop": 3517106,
-                                "text": "With this guidepost and in the absence of this Court\u0027s treatment of the precise subject, we must look to some of the landmark cases involving the great writ, habeas corpus, that this Court has decided."
+                                "text": "With this guidepost and in the absence of this Court's treatment of the precise subject, we must look to some of the landmark cases involving the great writ, habeas corpus, that this Court has decided."
                             },
                             {
                                 "start": 853.404,
@@ -978,14 +906,14 @@
                                 "stop": 931.297,
                                 "byte_start": 3755029,
                                 "byte_stop": 3828694,
-                                "text": "I call to the Court\u0027s attention the fact that in this case, no consideration, no area in Court has ever been given to petitioner\u0027s allegations with respect to his deprivation of constitutional right."
+                                "text": "I call to the Court's attention the fact that in this case, no consideration, no area in Court has ever been given to petitioner's allegations with respect to his deprivation of constitutional right."
                             },
                             {
                                 "start": 931.297,
                                 "stop": 956.243,
                                 "byte_start": 3828694,
                                 "byte_stop": 3928482,
-                                "text": "Next -- the next landmark of habeas corpus case is the case of Waley v. Johnston, decided by this Court in 1942, when the Court said that on petitioner\u0027s earlier application for a writ of coram nobis, the same issue was not raised as that which was here presented."
+                                "text": "Next -- the next landmark of habeas corpus case is the case of Waley v. Johnston, decided by this Court in 1942, when the Court said that on petitioner's earlier application for a writ of coram nobis, the same issue was not raised as that which was here presented."
                             },
                             {
                                 "start": 956.243,
@@ -999,7 +927,7 @@
                                 "stop": 975.424,
                                 "byte_start": 3956381,
                                 "byte_stop": 4005177,
-                                "text": "There is thus no basis for the holding of the District Court, and the Supreme Court, thereupon, vacated the appellate court\u0027s judgment and remanded for a hearing."
+                                "text": "There is thus no basis for the holding of the District Court, and the Supreme Court, thereupon, vacated the appellate court's judgment and remanded for a hearing."
                             },
                             {
                                 "start": 975.424,
@@ -1034,7 +962,7 @@
                                 "stop": 1037.243,
                                 "byte_start": 4216560,
                                 "byte_stop": 4252400,
-                                "text": "And the Court stated that there\u0027s been no proper occasion prior to this fourth application for the matters raised to be decided."
+                                "text": "And the Court stated that there's been no proper occasion prior to this fourth application for the matters raised to be decided."
                             },
                             {
                                 "start": 1037.243,
@@ -1076,7 +1004,7 @@
                                 "stop": 1143.064,
                                 "byte_start": 4569213,
                                 "byte_stop": 4675688,
-                                "text": "This is a case of Smith versus United States, cited in my brief, where the Court meet head on the problem of interpreting the statutory language involving the Court\u0027s jurisdiction, the Court\u0027s discretion rather in entertaining successive motions for the same relief."
+                                "text": "This is a case of Smith versus United States, cited in my brief, where the Court meet head on the problem of interpreting the statutory language involving the Court's jurisdiction, the Court's discretion rather in entertaining successive motions for the same relief."
                             },
                             {
                                 "start": 1143.064,
@@ -1096,6 +1024,7 @@
                             "ID": 15044,
                             "name": "Arthur J. Goldberg",
                             "href": "https:\/\/api.oyez.org\/people\/arthur_j_goldberg",
+                            "view_count": 30,
                             "last_name": "Goldberg",
                             "roles": [
                                 {
@@ -1113,7 +1042,7 @@
                                 "id": 32695,
                                 "mime": "image\/png",
                                 "size": 50285,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/arthur_j_goldberg.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/arthur_j_goldberg\/arthur_j_goldberg.thumb.png"
                             },
                             "length_of_service": 1028,
                             "identifier": "arthur_j_goldberg"
@@ -1133,16 +1062,7 @@
                         "stop": 1261.113,
                         "byte_start": 5113187,
                         "byte_stop": 5147878,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1252.437,
@@ -1162,6 +1082,7 @@
                             "ID": 15044,
                             "name": "Arthur J. Goldberg",
                             "href": "https:\/\/api.oyez.org\/people\/arthur_j_goldberg",
+                            "view_count": 30,
                             "last_name": "Goldberg",
                             "roles": [
                                 {
@@ -1179,7 +1100,7 @@
                                 "id": 32695,
                                 "mime": "image\/png",
                                 "size": 50285,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/arthur_j_goldberg.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/arthur_j_goldberg\/arthur_j_goldberg.thumb.png"
                             },
                             "length_of_service": 1028,
                             "identifier": "arthur_j_goldberg"
@@ -1199,16 +1120,7 @@
                         "stop": 1307.959,
                         "byte_start": 5152057,
                         "byte_stop": 5335333,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1262.158,
@@ -1222,7 +1134,7 @@
                                 "stop": 1294.289,
                                 "byte_start": 5159372,
                                 "byte_stop": 5280684,
-                                "text": "I believe and its petitioner\u0027s principal position that a judge is required to look at such a petition to entertain it if there are clear factual allegations supporting a claim that there\u0027s a deprivation of constitutional rights and if, again referring to statutory language, the files and records of the case do not conclusively show that the petitioner is entitled to no relief."
+                                "text": "I believe and its petitioner's principal position that a judge is required to look at such a petition to entertain it if there are clear factual allegations supporting a claim that there's a deprivation of constitutional rights and if, again referring to statutory language, the files and records of the case do not conclusively show that the petitioner is entitled to no relief."
                             },
                             {
                                 "start": 1294.289,
@@ -1242,6 +1154,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1259,7 +1172,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -1279,16 +1192,7 @@
                         "stop": 1319.075,
                         "byte_start": 5377233,
                         "byte_stop": 5379741,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1318.44,
@@ -1308,6 +1212,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1325,7 +1230,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -1350,14 +1255,14 @@
                                 "stop": 1366.316,
                                 "byte_start": 5459571,
                                 "byte_stop": 5568763,
-                                "text": "And as the previous application as the Court\u0027s memorandum in the previous application had shown, the Court was there during the sentencing procedure and he sent out the transcript in which the man, so far as one can see from the record, and apparently so far as the trial judge\u0027s impression went, was intelligently knowingly proceeding in the whole sentencing procedure."
+                                "text": "And as the previous application as the Court's memorandum in the previous application had shown, the Court was there during the sentencing procedure and he sent out the transcript in which the man, so far as one can see from the record, and apparently so far as the trial judge's impression went, was intelligently knowingly proceeding in the whole sentencing procedure."
                             },
                             {
                                 "start": 1366.316,
                                 "stop": 1396.17,
                                 "byte_start": 5568763,
                                 "byte_stop": 5688195,
-                                "text": "And I noticed from page 23 of the record in a little footnote, that the Court on this second application said that he\u0027d gone over all those things again and then on the merits of this second application, on the merits, he was satisfied from what had actually happened at the sentencing proceedings that this man was in fact -- in fact not incompetent."
+                                "text": "And I noticed from page 23 of the record in a little footnote, that the Court on this second application said that he'd gone over all those things again and then on the merits of this second application, on the merits, he was satisfied from what had actually happened at the sentencing proceedings that this man was in fact -- in fact not incompetent."
                             },
                             {
                                 "start": 1396.17,
@@ -1371,7 +1276,7 @@
                                 "stop": 1401.21,
                                 "byte_start": 5703764,
                                 "byte_stop": 5708361,
-                                "text": "Is that -- isn\u0027t that true?"
+                                "text": "Is that -- isn't that true?"
                             }
                         ]
                     },
@@ -1380,16 +1285,7 @@
                         "stop": 1403.092,
                         "byte_start": 5708361,
                         "byte_stop": 5715884,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1401.21,
@@ -1409,6 +1305,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1426,7 +1323,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -1437,14 +1334,14 @@
                                 "stop": 1403.959,
                                 "byte_start": 5715884,
                                 "byte_stop": 5719333,
-                                "text": "It\u0027s a long question."
+                                "text": "It's a long question."
                             },
                             {
                                 "start": 1403.959,
                                 "stop": 1404.323,
                                 "byte_start": 5719333,
                                 "byte_stop": 5720795,
-                                "text": "It\u0027s (Voice Overlap)"
+                                "text": "It's (Voice Overlap)"
                             }
                         ]
                     },
@@ -1453,16 +1350,7 @@
                         "stop": 1406.276,
                         "byte_start": 5720795,
                         "byte_stop": 5728632,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1404.323,
@@ -1482,6 +1370,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1499,7 +1388,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -1519,16 +1408,7 @@
                         "stop": 1439.616,
                         "byte_start": 5733752,
                         "byte_stop": 5861961,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1407.564,
@@ -1555,6 +1435,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -1572,7 +1453,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -1583,14 +1464,14 @@
                                 "stop": 1459.715,
                                 "byte_start": 5861961,
                                 "byte_stop": 5942314,
-                                "text": "However, it arose whether it\u0027d be from congenital defectiveness or from intoxication or from the administration of drugs or, however, it allegedly arose, whether or not it existed, it would have been something which the judge could determine from the -- from his observation of the demeanor of the man."
+                                "text": "However, it arose whether it'd be from congenital defectiveness or from intoxication or from the administration of drugs or, however, it allegedly arose, whether or not it existed, it would have been something which the judge could determine from the -- from his observation of the demeanor of the man."
                             },
                             {
                                 "start": 1459.715,
                                 "stop": 1460.991,
                                 "byte_start": 5942314,
                                 "byte_stop": 5947434,
-                                "text": "Wouldn\u0027t that be true?"
+                                "text": "Wouldn't that be true?"
                             }
                         ]
                     },
@@ -1599,16 +1480,7 @@
                         "stop": 1531.092,
                         "byte_start": 5947434,
                         "byte_stop": 6227884,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1460.991,
@@ -1663,6 +1535,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -1680,7 +1553,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"
@@ -1700,16 +1573,7 @@
                         "stop": 1600.107,
                         "byte_start": 6358915,
                         "byte_stop": 6503946,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1563.853,
@@ -1730,7 +1594,7 @@
                                 "stop": 1593.133,
                                 "byte_start": 6375320,
                                 "byte_stop": 6476048,
-                                "text": "Assuming two things assuming that the records in filing the case don\u0027t conclusively rebut his allegations; and secondly, I -- I think the Court might possibly place a limitation upon the number of successive motions predicated on the petitioner having had a full day in Court, an opportunity to be heard and perhaps counsel appointed."
+                                "text": "Assuming two things assuming that the records in filing the case don't conclusively rebut his allegations; and secondly, I -- I think the Court might possibly place a limitation upon the number of successive motions predicated on the petitioner having had a full day in Court, an opportunity to be heard and perhaps counsel appointed."
                             },
                             {
                                 "start": 1593.133,
@@ -1750,6 +1614,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -1767,7 +1632,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"
@@ -1778,7 +1643,7 @@
                                 "stop": 1608.026,
                                 "byte_start": 6503946,
                                 "byte_stop": 6535607,
-                                "text": "And of course, I\u0027m speaking about claims that were known to him at the time his first -- his first claim was (Voice Overlap) --"
+                                "text": "And of course, I'm speaking about claims that were known to him at the time his first -- his first claim was (Voice Overlap) --"
                             }
                         ]
                     },
@@ -1787,16 +1652,7 @@
                         "stop": 1609.625,
                         "byte_start": 6535607,
                         "byte_stop": 6541981,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1608.026,
@@ -1823,6 +1679,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -1840,7 +1697,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"
@@ -1867,16 +1724,7 @@
                         "stop": 1637.713,
                         "byte_start": 6629857,
                         "byte_stop": 6654307,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1631.598,
@@ -1896,6 +1744,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -1913,7 +1762,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"
@@ -1940,23 +1789,14 @@
                         "stop": 1689.268,
                         "byte_start": 6660263,
                         "byte_stop": 6860570,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1639.209,
                                 "stop": 1660.73,
                                 "byte_start": 6660263,
                                 "byte_stop": 6746363,
-                                "text": "Approximately three of the circuits have attempted to graft the test upon these successive motions that involved whether there\u0027s any excuse given by the prisoner for failing to raise issue earlier or whether there\u0027s any indication that he was unaware previously of the significance of the facts there now raised for the first time."
+                                "text": "Approximately three of the circuits have attempted to graft the test upon these successive motions that involved whether there's any excuse given by the prisoner for failing to raise issue earlier or whether there's any indication that he was unaware previously of the significance of the facts there now raised for the first time."
                             },
                             {
                                 "start": 1660.73,
@@ -1970,7 +1810,7 @@
                                 "stop": 1689.268,
                                 "byte_start": 6788368,
                                 "byte_stop": 6860570,
-                                "text": "The second is a much too subjective test to say there\u0027s no indication of an awareness that he was not -- there\u0027s no indication of a lack of awareness of the significance of the facts now alleged."
+                                "text": "The second is a much too subjective test to say there's no indication of an awareness that he was not -- there's no indication of a lack of awareness of the significance of the facts now alleged."
                             }
                         ]
                     },
@@ -1983,6 +1823,7 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
+                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -2000,7 +1841,7 @@
                                 "id": 32719,
                                 "mime": "image\/png",
                                 "size": 51667,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/hugo_l_black.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/hugo_l_black\/hugo_l_black.thumb.png"
                             },
                             "length_of_service": 12447,
                             "identifier": "hugo_l_black"
@@ -2020,16 +1861,7 @@
                         "stop": 1723.971,
                         "byte_start": 6885439,
                         "byte_stop": 6999333,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1695.485,
@@ -2056,6 +1888,7 @@
                             "ID": 15140,
                             "name": "William J. Brennan, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "view_count": 28,
                             "last_name": "Brennan",
                             "roles": [
                                 {
@@ -2073,7 +1906,7 @@
                                 "id": 32778,
                                 "mime": "image\/png",
                                 "size": 56873,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                             },
                             "length_of_service": 12330,
                             "identifier": "william_j_brennan_jr"
@@ -2093,16 +1926,7 @@
                         "stop": 1737.062,
                         "byte_start": 7034128,
                         "byte_stop": 7051682,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1732.662,
@@ -2122,6 +1946,7 @@
                             "ID": 15140,
                             "name": "William J. Brennan, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "view_count": 28,
                             "last_name": "Brennan",
                             "roles": [
                                 {
@@ -2139,7 +1964,7 @@
                                 "id": 32778,
                                 "mime": "image\/png",
                                 "size": 56873,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                             },
                             "length_of_service": 12330,
                             "identifier": "william_j_brennan_jr"
@@ -2159,16 +1984,7 @@
                         "stop": 1747.204,
                         "byte_start": 7076864,
                         "byte_stop": 7092328,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1743.334,
@@ -2195,6 +2011,7 @@
                             "ID": 15140,
                             "name": "William J. Brennan, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "view_count": 28,
                             "last_name": "Brennan",
                             "roles": [
                                 {
@@ -2212,7 +2029,7 @@
                                 "id": 32778,
                                 "mime": "image\/png",
                                 "size": 56873,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                             },
                             "length_of_service": 12330,
                             "identifier": "william_j_brennan_jr"
@@ -2223,7 +2040,7 @@
                                 "stop": 1763.892,
                                 "byte_start": 7092328,
                                 "byte_stop": 7158993,
-                                "text": "(Voice Overlap) relate the first and the second where the raising the same question or the because of the conclusive (Inaudible) to say that he hasn\u0027t have a hearing in fact he has complied with."
+                                "text": "(Voice Overlap) relate the first and the second where the raising the same question or the because of the conclusive (Inaudible) to say that he hasn't have a hearing in fact he has complied with."
                             }
                         ]
                     },
@@ -2232,16 +2049,7 @@
                         "stop": 1768.06,
                         "byte_start": 7158993,
                         "byte_stop": 7175711,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1763.892,
@@ -2261,6 +2069,7 @@
                             "ID": 15140,
                             "name": "William J. Brennan, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "view_count": 28,
                             "last_name": "Brennan",
                             "roles": [
                                 {
@@ -2278,7 +2087,7 @@
                                 "id": 32778,
                                 "mime": "image\/png",
                                 "size": 56873,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                             },
                             "length_of_service": 12330,
                             "identifier": "william_j_brennan_jr"
@@ -2289,7 +2098,7 @@
                                 "stop": 1776.085,
                                 "byte_start": 7175711,
                                 "byte_stop": 7207790,
-                                "text": "And that\u0027s the same answer -- did I understand you to say (Inaudible) about the footnote."
+                                "text": "And that's the same answer -- did I understand you to say (Inaudible) about the footnote."
                             }
                         ]
                     },
@@ -2298,16 +2107,7 @@
                         "stop": 1932.888,
                         "byte_start": 7207790,
                         "byte_stop": 7835042,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1776.085,
@@ -2363,14 +2163,14 @@
                                 "stop": 1862.217,
                                 "byte_start": 7487300,
                                 "byte_stop": 7552293,
-                                "text": "Thereafter, the statutory language we\u0027re here interpreting involving successive motions appeared in the statute as a substitute for the one year limitation with no explanatory or clarifying material with respect to it."
+                                "text": "Thereafter, the statutory language we're here interpreting involving successive motions appeared in the statute as a substitute for the one year limitation with no explanatory or clarifying material with respect to it."
                             },
                             {
                                 "start": 1862.217,
                                 "stop": 1886.625,
                                 "byte_start": 7552293,
                                 "byte_stop": 7649991,
-                                "text": "But I think it\u0027s very obvious that legislatively the Congress drops the one year limitation because it did not want to limit by a very mechanical means of prisoner in asserting constitutional rights."
+                                "text": "But I think it's very obvious that legislatively the Congress drops the one year limitation because it did not want to limit by a very mechanical means of prisoner in asserting constitutional rights."
                             },
                             {
                                 "start": 1886.625,
@@ -2418,6 +2218,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -2435,7 +2236,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"
@@ -2455,23 +2256,14 @@
                         "stop": 1980.401,
                         "byte_start": 7880913,
                         "byte_stop": 8025109,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 1944.357,
                                 "stop": 1963.378,
                                 "byte_start": 7880913,
                                 "byte_stop": 7956982,
-                                "text": "Assuming for the purposes of this motion that Government\u0027s contention is correct that the statute gives the sentencing court very broad discretion, even under these circumstances, it is an abusive judicial discretion for the Court to refuse entertaining petitioner\u0027s motion and to afford him a hearing."
+                                "text": "Assuming for the purposes of this motion that Government's contention is correct that the statute gives the sentencing court very broad discretion, even under these circumstances, it is an abusive judicial discretion for the Court to refuse entertaining petitioner's motion and to afford him a hearing."
                             },
                             {
                                 "start": 1963.378,
@@ -2498,6 +2290,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -2515,7 +2308,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"
@@ -2547,6 +2340,7 @@
                             "ID": 18001,
                             "name": "Beatrice Rosenberg",
                             "href": "https:\/\/api.oyez.org\/people\/beatrice_rosenberg",
+                            "view_count": 0,
                             "last_name": "Rosenberg",
                             "roles": null,
                             "thumbnail": null,
@@ -2573,21 +2367,21 @@
                                 "stop": 2014.513,
                                 "byte_start": 8150706,
                                 "byte_stop": 8161573,
-                                "text": "That\u0027s the first question he has to decide."
+                                "text": "That's the first question he has to decide."
                             },
                             {
                                 "start": 2014.513,
                                 "stop": 2035.879,
                                 "byte_start": 8161573,
                                 "byte_stop": 8246941,
-                                "text": "This Court has emphasized that this is a broad inflexible remedy, designed for that linear occasion when somehow there\u0027s been a breakdown despite all the safeguards that we have, there had somehow been some breakdown in the judicial machinery."
+                                "text": "This Court has emphasized that this is a broad inflexible remedy, designed for that linear occasion when somehow there's been a breakdown despite all the safeguards that we have, there had somehow been some breakdown in the judicial machinery."
                             },
                             {
                                 "start": 2035.879,
                                 "stop": 2055.344,
                                 "byte_start": 8246941,
                                 "byte_stop": 8324890,
-                                "text": "And so the question as to second petition as we see it must remain flexible much as the lower courts sometimes strive for fixed rules and much as I\u0027m sure, we in the Government side, would like to have them."
+                                "text": "And so the question as to second petition as we see it must remain flexible much as the lower courts sometimes strive for fixed rules and much as I'm sure, we in the Government side, would like to have them."
                             },
                             {
                                 "start": 2055.344,
@@ -2601,7 +2395,7 @@
                                 "stop": 2066.929,
                                 "byte_start": 8343803,
                                 "byte_stop": 8371179,
-                                "text": "And I doubt at least we\u0027re not prepared to offer in a very specific way."
+                                "text": "And I doubt at least we're not prepared to offer in a very specific way."
                             },
                             {
                                 "start": 2066.929,
@@ -2615,7 +2409,7 @@
                                 "stop": 2084.357,
                                 "byte_start": 8418722,
                                 "byte_stop": 8440874,
-                                "text": "It\u0027s part of the files and records of the case that this is a second petition."
+                                "text": "It's part of the files and records of the case that this is a second petition."
                             },
                             {
                                 "start": 2084.357,
@@ -2629,7 +2423,7 @@
                                 "stop": 2105.759,
                                 "byte_start": 8471594,
                                 "byte_stop": 8526555,
-                                "text": "I think this explains some of the confusion that my opponent has talked to in the Court of Appeals and the decisions are confusing, they\u0027re not even consistent within a circuit."
+                                "text": "I think this explains some of the confusion that my opponent has talked to in the Court of Appeals and the decisions are confusing, they're not even consistent within a circuit."
                             },
                             {
                                 "start": 2105.759,
@@ -2657,14 +2451,14 @@
                                 "stop": 2160.62,
                                 "byte_start": 8737729,
                                 "byte_stop": 8745984,
-                                "text": "Let\u0027s see what the record shows here."
+                                "text": "Let's see what the record shows here."
                             },
                             {
                                 "start": 2160.62,
                                 "stop": 2175.999,
                                 "byte_start": 8745984,
                                 "byte_stop": 8807424,
-                                "text": "As of this second petition in which about a year and nine months after he pleaded guilty, this prisoner said he didn\u0027t know what he was doing because he was under the influence of narcotics at the time."
+                                "text": "As of this second petition in which about a year and nine months after he pleaded guilty, this prisoner said he didn't know what he was doing because he was under the influence of narcotics at the time."
                             },
                             {
                                 "start": 2175.999,
@@ -2720,21 +2514,21 @@
                                 "stop": 2264.706,
                                 "byte_start": 9084949,
                                 "byte_stop": 9162271,
-                                "text": "The judge made absolutely certain to understand to have a right to have a lawyer that if you don\u0027t have enough money, I\u0027ll appoint a lawyer for you and then he said, he made the defendant say, \u201cYou understand, you have that right."
+                                "text": "The judge made absolutely certain to understand to have a right to have a lawyer that if you don't have enough money, I'll appoint a lawyer for you and then he said, he made the defendant say, \u201cYou understand, you have that right."
                             },
                             {
                                 "start": 2264.706,
                                 "stop": 2270.661,
                                 "byte_start": 9162271,
                                 "byte_stop": 9186095,
-                                "text": "You\u0027re waiving that right here in open court.\u201d"
+                                "text": "You're waiving that right here in open court.\u201d"
                             },
                             {
                                 "start": 2270.661,
                                 "stop": 2276.248,
                                 "byte_start": 9186095,
                                 "byte_stop": 9208456,
-                                "text": "And he went on and said \u201cIn addition, Mr. Sander, that\u0027s at the bottom of page 2.\u201d"
+                                "text": "And he went on and said \u201cIn addition, Mr. Sander, that's at the bottom of page 2.\u201d"
                             },
                             {
                                 "start": 2276.248,
@@ -2762,7 +2556,7 @@
                                 "stop": 2312.519,
                                 "byte_start": 9341785,
                                 "byte_stop": 9353592,
-                                "text": "The judge didn\u0027t hear him and he said, \u201cWhat was that?\u201d"
+                                "text": "The judge didn't hear him and he said, \u201cWhat was that?\u201d"
                             },
                             {
                                 "start": 2312.519,
@@ -2811,14 +2605,14 @@
                                 "stop": 2337.932,
                                 "byte_start": 9440737,
                                 "byte_stop": 9455156,
-                                "text": "Now, I don\u0027t know how long this took when you read it."
+                                "text": "Now, I don't know how long this took when you read it."
                             },
                             {
                                 "start": 2337.932,
                                 "stop": 2357.225,
                                 "byte_start": 9455156,
                                 "byte_stop": 9532374,
-                                "text": "But when a judge is that careful, when the defendant is continually giving the right answers, he went over to have to sign the waiver of information, it\u0027s hard to believe that a judge who was as very careful as this judge was whether he accepted a guilty plea."
+                                "text": "But when a judge is that careful, when the defendant is continually giving the right answers, he went over to have to sign the waiver of information, it's hard to believe that a judge who was as very careful as this judge was whether he accepted a guilty plea."
                             },
                             {
                                 "start": 2357.225,
@@ -2853,7 +2647,7 @@
                                 "stop": 2411.654,
                                 "byte_start": 9661106,
                                 "byte_stop": 9750131,
-                                "text": "But in a probation situation particularly with the plea of guilty, where it\u0027s taken as in this case three weeks to get up a probation report before the defendant is brought back for sentencing, where the defendant has interviewed other people who know and are interviewed."
+                                "text": "But in a probation situation particularly with the plea of guilty, where it's taken as in this case three weeks to get up a probation report before the defendant is brought back for sentencing, where the defendant has interviewed other people who know and are interviewed."
                             },
                             {
                                 "start": 2411.654,
@@ -2867,7 +2661,7 @@
                                 "stop": 2431.994,
                                 "byte_start": 9803003,
                                 "byte_stop": 9831424,
-                                "text": "And there have been occasions where judges have said, \u201cI don\u0027t think I will accept this plea."
+                                "text": "And there have been occasions where judges have said, \u201cI don't think I will accept this plea."
                             },
                             {
                                 "start": 2431.994,
@@ -2887,6 +2681,7 @@
                             "ID": 15044,
                             "name": "Arthur J. Goldberg",
                             "href": "https:\/\/api.oyez.org\/people\/arthur_j_goldberg",
+                            "view_count": 30,
                             "last_name": "Goldberg",
                             "roles": [
                                 {
@@ -2904,7 +2699,7 @@
                                 "id": 32695,
                                 "mime": "image\/png",
                                 "size": 50285,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/arthur_j_goldberg.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/arthur_j_goldberg\/arthur_j_goldberg.thumb.png"
                             },
                             "length_of_service": 1028,
                             "identifier": "arthur_j_goldberg"
@@ -2928,6 +2723,7 @@
                             "ID": 18001,
                             "name": "Beatrice Rosenberg",
                             "href": "https:\/\/api.oyez.org\/people\/beatrice_rosenberg",
+                            "view_count": 0,
                             "last_name": "Rosenberg",
                             "roles": null,
                             "thumbnail": null,
@@ -2940,7 +2736,7 @@
                                 "stop": 2455.059,
                                 "byte_start": 9922748,
                                 "byte_stop": 9923688,
-                                "text": "No, it\u0027s --"
+                                "text": "No, it's --"
                             }
                         ]
                     },
@@ -2953,6 +2749,7 @@
                             "ID": 15044,
                             "name": "Arthur J. Goldberg",
                             "href": "https:\/\/api.oyez.org\/people\/arthur_j_goldberg",
+                            "view_count": 30,
                             "last_name": "Goldberg",
                             "roles": [
                                 {
@@ -2970,7 +2767,7 @@
                                 "id": 32695,
                                 "mime": "image\/png",
                                 "size": 50285,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/arthur_j_goldberg.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/arthur_j_goldberg\/arthur_j_goldberg.thumb.png"
                             },
                             "length_of_service": 1028,
                             "identifier": "arthur_j_goldberg"
@@ -2994,6 +2791,7 @@
                             "ID": 18001,
                             "name": "Beatrice Rosenberg",
                             "href": "https:\/\/api.oyez.org\/people\/beatrice_rosenberg",
+                            "view_count": 0,
                             "last_name": "Rosenberg",
                             "roles": null,
                             "thumbnail": null,
@@ -3027,14 +2825,14 @@
                                 "stop": 2479.905,
                                 "byte_start": 10015326,
                                 "byte_stop": 10023058,
-                                "text": "I\u0027m not saying it\u0027s conclusive."
+                                "text": "I'm not saying it's conclusive."
                             },
                             {
                                 "start": 2479.905,
                                 "stop": 2508.251,
                                 "byte_start": 10023058,
                                 "byte_stop": 10136430,
-                                "text": "I\u0027m saying it\u0027s another factor in the record, because if a probation report for example which show a long history of mental incompetence, it would be the duty of a judge, I think to say, no matter what this man says about vacate -- about waiving counsel, I don\u0027t -- I am not certain that he has a mental capacity probation."
+                                "text": "I'm saying it's another factor in the record, because if a probation report for example which show a long history of mental incompetence, it would be the duty of a judge, I think to say, no matter what this man says about vacate -- about waiving counsel, I don't -- I am not certain that he has a mental capacity probation."
                             }
                         ]
                     },
@@ -3047,6 +2845,7 @@
                             "ID": 15044,
                             "name": "Arthur J. Goldberg",
                             "href": "https:\/\/api.oyez.org\/people\/arthur_j_goldberg",
+                            "view_count": 30,
                             "last_name": "Goldberg",
                             "roles": [
                                 {
@@ -3064,7 +2863,7 @@
                                 "id": 32695,
                                 "mime": "image\/png",
                                 "size": 50285,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/arthur_j_goldberg.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/arthur_j_goldberg\/arthur_j_goldberg.thumb.png"
                             },
                             "length_of_service": 1028,
                             "identifier": "arthur_j_goldberg"
@@ -3088,6 +2887,7 @@
                             "ID": 18001,
                             "name": "Beatrice Rosenberg",
                             "href": "https:\/\/api.oyez.org\/people\/beatrice_rosenberg",
+                            "view_count": 0,
                             "last_name": "Rosenberg",
                             "roles": null,
                             "thumbnail": null,
@@ -3100,7 +2900,7 @@
                                 "stop": 2516.17,
                                 "byte_start": 10149073,
                                 "byte_stop": 10168195,
-                                "text": "Yes, I -- well, I do know what\u0027s in the probation report, Your Honor."
+                                "text": "Yes, I -- well, I do know what's in the probation report, Your Honor."
                             },
                             {
                                 "start": 2516.17,
@@ -3156,14 +2956,14 @@
                                 "stop": 2654.348,
                                 "byte_start": 10605484,
                                 "byte_stop": 10720841,
-                                "text": "And so on the face of this record, if you consider both petitioner\u0027s responses, the fact that he was before the judge then, the fact that the fact of narcotics addiction was in the record and then let me also say that the decision and testimony of experts is that the mere fact that one have taken narcotics normally does not affect one\u0027s mental facility."
+                                "text": "And so on the face of this record, if you consider both petitioner's responses, the fact that he was before the judge then, the fact that the fact of narcotics addiction was in the record and then let me also say that the decision and testimony of experts is that the mere fact that one have taken narcotics normally does not affect one's mental facility."
                             },
                             {
                                 "start": 2654.348,
                                 "stop": 2702.461,
                                 "byte_start": 10720841,
                                 "byte_stop": 10913311,
-                                "text": "This is recorded in the decision in the Juelich case, the testimony of the experts on the Lipscomb case in 209 F2d. at 831, and the same thing is testified to by a -- expert from public health service in the Cox case which it doesn\u0027t show up in the opinion but it\u0027s in the record that was before this Court and this is generally reflected in the jury, that it takes either an extraordinary dose of narcotics or the pains of withdrawal symptoms are the two things that tend to affect ability so that we have that record at the sentence procedure."
+                                "text": "This is recorded in the decision in the Juelich case, the testimony of the experts on the Lipscomb case in 209 F2d. at 831, and the same thing is testified to by a -- expert from public health service in the Cox case which it doesn't show up in the opinion but it's in the record that was before this Court and this is generally reflected in the jury, that it takes either an extraordinary dose of narcotics or the pains of withdrawal symptoms are the two things that tend to affect ability so that we have that record at the sentence procedure."
                             },
                             {
                                 "start": 2702.461,
@@ -3177,21 +2977,21 @@
                                 "stop": 2735.186,
                                 "byte_start": 11007352,
                                 "byte_stop": 11044237,
-                                "text": "Well, it\u0027s true this is an indigent petitioner and one can call denied the tooth of pleading."
+                                "text": "Well, it's true this is an indigent petitioner and one can call denied the tooth of pleading."
                             },
                             {
                                 "start": 2735.186,
                                 "stop": 2794.742,
                                 "byte_start": 11044237,
                                 "byte_stop": 11282474,
-                                "text": "But our statement about the relevancy of the first petition, our position with respect to that is that once a prisoner know that he has a remedy for a plea of guilty that was obtained wrongly, feeling that he\u0027d been overreached that he\u0027d been had in applying the phrase, once he knows that if there\u0027s any real basis in that or such an attitude, the real facts are going to be alleged inarticulately, not very artistically but if a man says they promised me something I didn\u0027t get it, he can say that if it\u0027s true."
+                                "text": "But our statement about the relevancy of the first petition, our position with respect to that is that once a prisoner know that he has a remedy for a plea of guilty that was obtained wrongly, feeling that he'd been overreached that he'd been had in applying the phrase, once he knows that if there's any real basis in that or such an attitude, the real facts are going to be alleged inarticulately, not very artistically but if a man says they promised me something I didn't get it, he can say that if it's true."
                             },
                             {
                                 "start": 2794.742,
                                 "stop": 2818.068,
                                 "byte_start": 11282474,
                                 "byte_stop": 11375783,
-                                "text": "It\u0027s when he\u0027s trying to fit his case to the facts of other cases which you get allegations that may well be is absolutely contradicted by the record as this one was, this first petition."
+                                "text": "It's when he's trying to fit his case to the facts of other cases which you get allegations that may well be is absolutely contradicted by the record as this one was, this first petition."
                             },
                             {
                                 "start": 2818.068,
@@ -3205,21 +3005,21 @@
                                 "stop": 2852.66,
                                 "byte_start": 11496260,
                                 "byte_stop": 11514128,
-                                "text": "We wouldn\u0027t be arguing if the first was entitled to any waiver at all."
+                                "text": "We wouldn't be arguing if the first was entitled to any waiver at all."
                             },
                             {
                                 "start": 2852.66,
                                 "stop": 2854.748,
                                 "byte_start": 11514128,
                                 "byte_stop": 11522487,
-                                "text": "But that isn\u0027t the case here."
+                                "text": "But that isn't the case here."
                             },
                             {
                                 "start": 2854.748,
                                 "stop": 2863.529,
                                 "byte_start": 11522487,
                                 "byte_stop": 11557595,
-                                "text": "In the first place, the second one wasn\u0027t filed to about nine months later from a different prison."
+                                "text": "In the first place, the second one wasn't filed to about nine months later from a different prison."
                             },
                             {
                                 "start": 2863.529,
@@ -3233,7 +3033,7 @@
                                 "stop": 2879.91,
                                 "byte_start": 11602631,
                                 "byte_stop": 11623111,
-                                "text": "The second one says, \u201cI didn\u0027t know what I was doing at all.\u201d"
+                                "text": "The second one says, \u201cI didn't know what I was doing at all.\u201d"
                             },
                             {
                                 "start": 2879.91,
@@ -3260,6 +3060,7 @@
                             "ID": 15140,
                             "name": "William J. Brennan, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "view_count": 28,
                             "last_name": "Brennan",
                             "roles": [
                                 {
@@ -3277,7 +3078,7 @@
                                 "id": 32778,
                                 "mime": "image\/png",
                                 "size": 56873,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                             },
                             "length_of_service": 12330,
                             "identifier": "william_j_brennan_jr"
@@ -3301,6 +3102,7 @@
                             "ID": 18001,
                             "name": "Beatrice Rosenberg",
                             "href": "https:\/\/api.oyez.org\/people\/beatrice_rosenberg",
+                            "view_count": 0,
                             "last_name": "Rosenberg",
                             "roles": null,
                             "thumbnail": null,
@@ -3333,6 +3135,7 @@
                             "ID": 15140,
                             "name": "William J. Brennan, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "view_count": 28,
                             "last_name": "Brennan",
                             "roles": [
                                 {
@@ -3350,7 +3153,7 @@
                                 "id": 32778,
                                 "mime": "image\/png",
                                 "size": 56873,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                             },
                             "length_of_service": 12330,
                             "identifier": "william_j_brennan_jr"
@@ -3374,6 +3177,7 @@
                             "ID": 18001,
                             "name": "Beatrice Rosenberg",
                             "href": "https:\/\/api.oyez.org\/people\/beatrice_rosenberg",
+                            "view_count": 0,
                             "last_name": "Rosenberg",
                             "roles": null,
                             "thumbnail": null,
@@ -3407,7 +3211,7 @@
                                 "stop": 3002.018,
                                 "byte_start": 12045145,
                                 "byte_stop": 12111600,
-                                "text": "And in the late -- in the light of this record, as to the careful resentment which the judge went over every step of the way with him in the light of the fact that he didn\u0027t know he had a remedy."
+                                "text": "And in the late -- in the light of this record, as to the careful resentment which the judge went over every step of the way with him in the light of the fact that he didn't know he had a remedy."
                             },
                             {
                                 "start": 3002.018,
@@ -3434,6 +3238,7 @@
                             "ID": 15140,
                             "name": "William J. Brennan, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "view_count": 28,
                             "last_name": "Brennan",
                             "roles": [
                                 {
@@ -3451,7 +3256,7 @@
                                 "id": 32778,
                                 "mime": "image\/png",
                                 "size": 56873,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                             },
                             "length_of_service": 12330,
                             "identifier": "william_j_brennan_jr"
@@ -3475,6 +3280,7 @@
                             "ID": 18001,
                             "name": "Beatrice Rosenberg",
                             "href": "https:\/\/api.oyez.org\/people\/beatrice_rosenberg",
+                            "view_count": 0,
                             "last_name": "Rosenberg",
                             "roles": null,
                             "thumbnail": null,
@@ -3501,7 +3307,7 @@
                                 "stop": 3080.567,
                                 "byte_start": 12282337,
                                 "byte_stop": 12425697,
-                                "text": "What is significant even on the basis of the record here is that it is clear that having had a probation report which -- having had a probation report and having had the prisoner\u0027s statement that he was a narcotics user, nevertheless at the time of sentence, the judge saw no reason not to continue with the sentencing in the light of the plea of guilty which he had accepted three weeks before."
+                                "text": "What is significant even on the basis of the record here is that it is clear that having had a probation report which -- having had a probation report and having had the prisoner's statement that he was a narcotics user, nevertheless at the time of sentence, the judge saw no reason not to continue with the sentencing in the light of the plea of guilty which he had accepted three weeks before."
                             }
                         ]
                     },
@@ -3514,6 +3320,7 @@
                             "ID": 15140,
                             "name": "William J. Brennan, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "view_count": 28,
                             "last_name": "Brennan",
                             "roles": [
                                 {
@@ -3531,7 +3338,7 @@
                                 "id": 32778,
                                 "mime": "image\/png",
                                 "size": 56873,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                             },
                             "length_of_service": 12330,
                             "identifier": "william_j_brennan_jr"
@@ -3555,6 +3362,7 @@
                             "ID": 18001,
                             "name": "Beatrice Rosenberg",
                             "href": "https:\/\/api.oyez.org\/people\/beatrice_rosenberg",
+                            "view_count": 0,
                             "last_name": "Rosenberg",
                             "roles": null,
                             "thumbnail": null,
@@ -3574,21 +3382,21 @@
                                 "stop": 3121.445,
                                 "byte_start": 12577834,
                                 "byte_stop": 12589223,
-                                "text": "There\u0027s nothing in the -- in the literature."
+                                "text": "There's nothing in the -- in the literature."
                             },
                             {
                                 "start": 3121.445,
                                 "stop": 3184.772,
                                 "byte_start": 12589223,
                                 "byte_stop": 12842611,
-                                "text": "The opinions are to the contrary, that in the light of that fact, and in the light of what the record shows about how intelligently he did answer the question, about the facts that the judge did want him of his right, about the fact that he had already talked about pleading guilty the minute he was arrested, I would say that even at the first application, but I say this that the motion could be denied but I say that the denial on the basis of the files and records is even more supported when it is realized that a year later, a year after sentence, and seven to nine months before the second application, petitioner who was aware that he had a remedy for a involuntary or unknowing plea of guilty with -- let\u0027s put it -- with the way that if he had been overreached by the Government, he had a remedy."
+                                "text": "The opinions are to the contrary, that in the light of that fact, and in the light of what the record shows about how intelligently he did answer the question, about the facts that the judge did want him of his right, about the fact that he had already talked about pleading guilty the minute he was arrested, I would say that even at the first application, but I say this that the motion could be denied but I say that the denial on the basis of the files and records is even more supported when it is realized that a year later, a year after sentence, and seven to nine months before the second application, petitioner who was aware that he had a remedy for a involuntary or unknowing plea of guilty with -- let's put it -- with the way that if he had been overreached by the Government, he had a remedy."
                             },
                             {
                                 "start": 3184.772,
                                 "stop": 3192.318,
                                 "byte_start": 12842611,
                                 "byte_stop": 12872704,
-                                "text": "With that knowledge, he nevertheless made no contention that he didn\u0027t know what he was doing."
+                                "text": "With that knowledge, he nevertheless made no contention that he didn't know what he was doing."
                             }
                         ]
                     },
@@ -3601,6 +3409,7 @@
                             "ID": 15140,
                             "name": "William J. Brennan, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "view_count": 28,
                             "last_name": "Brennan",
                             "roles": [
                                 {
@@ -3618,7 +3427,7 @@
                                 "id": 32778,
                                 "mime": "image\/png",
                                 "size": 56873,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                             },
                             "length_of_service": 12330,
                             "identifier": "william_j_brennan_jr"
@@ -3642,6 +3451,7 @@
                             "ID": 18001,
                             "name": "Beatrice Rosenberg",
                             "href": "https:\/\/api.oyez.org\/people\/beatrice_rosenberg",
+                            "view_count": 0,
                             "last_name": "Rosenberg",
                             "roles": null,
                             "thumbnail": null,
@@ -3675,7 +3485,7 @@
                                 "stop": 3255.945,
                                 "byte_start": 13107388,
                                 "byte_stop": 13127241,
-                                "text": "Now, that\u0027s almost -- that\u0027s not much clear as in 2255."
+                                "text": "Now, that's almost -- that's not much clear as in 2255."
                             },
                             {
                                 "start": 3255.945,
@@ -3696,7 +3506,7 @@
                                 "stop": 3285.272,
                                 "byte_start": 13225044,
                                 "byte_stop": 13244583,
-                                "text": "There were various judges who objected to that saying it\u0027s never too late to do justice."
+                                "text": "There were various judges who objected to that saying it's never too late to do justice."
                             },
                             {
                                 "start": 3285.272,
@@ -3731,7 +3541,7 @@
                                 "stop": 3350.457,
                                 "byte_start": 13412916,
                                 "byte_stop": 13505285,
-                                "text": "But if it could well be that the one person who should have a hearing may not make his allegations the first time he\u0027s heard about it, I think that we have to judge this in the light of experience and common sense and reality."
+                                "text": "But if it could well be that the one person who should have a hearing may not make his allegations the first time he's heard about it, I think that we have to judge this in the light of experience and common sense and reality."
                             }
                         ]
                     },
@@ -3744,6 +3554,7 @@
                             "ID": 15140,
                             "name": "William J. Brennan, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
+                            "view_count": 28,
                             "last_name": "Brennan",
                             "roles": [
                                 {
@@ -3761,7 +3572,7 @@
                                 "id": 32778,
                                 "mime": "image\/png",
                                 "size": 56873,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/william_j_brennan.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_j_brennan_jr\/william_j_brennan_jr.thumb.png"
                             },
                             "length_of_service": 12330,
                             "identifier": "william_j_brennan_jr"
@@ -3785,6 +3596,7 @@
                             "ID": 18001,
                             "name": "Beatrice Rosenberg",
                             "href": "https:\/\/api.oyez.org\/people\/beatrice_rosenberg",
+                            "view_count": 0,
                             "last_name": "Rosenberg",
                             "roles": null,
                             "thumbnail": null,
@@ -3817,6 +3629,7 @@
                             "ID": 15097,
                             "name": "John M. Harlan II",
                             "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                            "view_count": 0,
                             "last_name": "Harlan",
                             "roles": [
                                 {
@@ -3834,7 +3647,7 @@
                                 "id": 32728,
                                 "mime": "image\/png",
                                 "size": 53784,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_m_harlan2\/john_m_harlan2.thumb.png"
                             },
                             "length_of_service": 6023,
                             "identifier": "john_m_harlan2"
@@ -3858,6 +3671,7 @@
                             "ID": 18001,
                             "name": "Beatrice Rosenberg",
                             "href": "https:\/\/api.oyez.org\/people\/beatrice_rosenberg",
+                            "view_count": 0,
                             "last_name": "Rosenberg",
                             "roles": null,
                             "thumbnail": null,
@@ -3870,7 +3684,7 @@
                                 "stop": 3392.833,
                                 "byte_start": 13635584,
                                 "byte_stop": 13674768,
-                                "text": "-- except that obviously we think it is relevant that he didn\u0027t raise it before."
+                                "text": "-- except that obviously we think it is relevant that he didn't raise it before."
                             },
                             {
                                 "start": 3392.833,
@@ -3898,21 +3712,21 @@
                                 "stop": 3426.43,
                                 "byte_start": 13801827,
                                 "byte_stop": 13809246,
-                                "text": "It\u0027s not to hold hearings."
+                                "text": "It's not to hold hearings."
                             },
                             {
                                 "start": 3426.43,
                                 "stop": 3429.642,
                                 "byte_start": 13809246,
                                 "byte_stop": 13821994,
-                                "text": "It\u0027s not to sort out allegations."
+                                "text": "It's not to sort out allegations."
                             },
                             {
                                 "start": 3429.642,
                                 "stop": 3450.3,
                                 "byte_start": 13821994,
                                 "byte_stop": 13904645,
-                                "text": "Our interest is to -- is there anything here that casts doubt, if there were troubling doubt, this is all I think that someone can say, and in judging whether there is a troubling doubt, it is significant that this is the second time we\u0027ve heard about it, because --"
+                                "text": "Our interest is to -- is there anything here that casts doubt, if there were troubling doubt, this is all I think that someone can say, and in judging whether there is a troubling doubt, it is significant that this is the second time we've heard about it, because --"
                             }
                         ]
                     },
@@ -3925,6 +3739,7 @@
                             "ID": 15097,
                             "name": "John M. Harlan II",
                             "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                            "view_count": 0,
                             "last_name": "Harlan",
                             "roles": [
                                 {
@@ -3942,7 +3757,7 @@
                                 "id": 32728,
                                 "mime": "image\/png",
                                 "size": 53784,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_m_harlan2\/john_m_harlan2.thumb.png"
                             },
                             "length_of_service": 6023,
                             "identifier": "john_m_harlan2"
@@ -3966,6 +3781,7 @@
                             "ID": 18001,
                             "name": "Beatrice Rosenberg",
                             "href": "https:\/\/api.oyez.org\/people\/beatrice_rosenberg",
+                            "view_count": 0,
                             "last_name": "Rosenberg",
                             "roles": null,
                             "thumbnail": null,
@@ -3991,6 +3807,7 @@
                             "ID": 15097,
                             "name": "John M. Harlan II",
                             "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                            "view_count": 0,
                             "last_name": "Harlan",
                             "roles": [
                                 {
@@ -4008,7 +3825,7 @@
                                 "id": 32728,
                                 "mime": "image\/png",
                                 "size": 53784,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_m_harlan2\/john_m_harlan2.thumb.png"
                             },
                             "length_of_service": 6023,
                             "identifier": "john_m_harlan2"
@@ -4019,7 +3836,7 @@
                                 "stop": 3477.464,
                                 "byte_start": 14003911,
                                 "byte_stop": 14013315,
-                                "text": "Skepticism is part of discretion, isn\u0027t it?"
+                                "text": "Skepticism is part of discretion, isn't it?"
                             }
                         ]
                     },
@@ -4032,6 +3849,7 @@
                             "ID": 18001,
                             "name": "Beatrice Rosenberg",
                             "href": "https:\/\/api.oyez.org\/people\/beatrice_rosenberg",
+                            "view_count": 0,
                             "last_name": "Rosenberg",
                             "roles": null,
                             "thumbnail": null,
@@ -4065,28 +3883,28 @@
                                 "stop": 3494.657,
                                 "byte_start": 14048946,
                                 "byte_stop": 14082069,
-                                "text": "It sounds easy and it sounds simple to say, well why don\u0027t we settle all this at a half hour hearing."
+                                "text": "It sounds easy and it sounds simple to say, well why don't we settle all this at a half hour hearing."
                             },
                             {
                                 "start": 3494.657,
                                 "stop": 3496.795,
                                 "byte_start": 14082069,
                                 "byte_stop": 14090637,
-                                "text": "But it isn\u0027t that simple."
+                                "text": "But it isn't that simple."
                             },
                             {
                                 "start": 3496.795,
                                 "stop": 3505.934,
                                 "byte_start": 14090637,
                                 "byte_stop": 14127208,
-                                "text": "And it isn\u0027t -- it isn\u0027t just the time of the Court and it isn\u0027t just the expense of transporting prisoners."
+                                "text": "And it isn't -- it isn't just the time of the Court and it isn't just the expense of transporting prisoners."
                             },
                             {
                                 "start": 3505.934,
                                 "stop": 3509.121,
                                 "byte_start": 14127208,
                                 "byte_stop": 14139956,
-                                "text": "I don\u0027t think that\u0027s really the problem."
+                                "text": "I don't think that's really the problem."
                             },
                             {
                                 "start": 3509.121,
@@ -4114,14 +3932,14 @@
                                 "stop": 3563.592,
                                 "byte_start": 14259388,
                                 "byte_stop": 14357817,
-                                "text": "And I think it\u0027s happening, I suppose I have read more of these petitions than almost any person in the Government, and it gets to a point where it gets very difficult to assort the real -- the ones that really troubled you from the ones that sounds troublesome and then turn out not to be."
+                                "text": "And I think it's happening, I suppose I have read more of these petitions than almost any person in the Government, and it gets to a point where it gets very difficult to assort the real -- the ones that really troubled you from the ones that sounds troublesome and then turn out not to be."
                             },
                             {
                                 "start": 3563.592,
                                 "stop": 3593.476,
                                 "byte_start": 14357817,
                                 "byte_stop": 14477354,
-                                "text": "And if we have many experiences that the courts have been having lately with this allegation of the use of narcotics, I think the danger is that when we get the special, the odd, a very extraordinary case and it is the extraordinary case in our federal system where we ought to have a remedy there is always the danger if we have too many hearings, the one person that ought to be believe won\u0027t."
+                                "text": "And if we have many experiences that the courts have been having lately with this allegation of the use of narcotics, I think the danger is that when we get the special, the odd, a very extraordinary case and it is the extraordinary case in our federal system where we ought to have a remedy there is always the danger if we have too many hearings, the one person that ought to be believe won't."
                             },
                             {
                                 "start": 3593.476,
@@ -4163,7 +3981,7 @@
                                 "stop": 3671.712,
                                 "byte_start": 14753207,
                                 "byte_stop": 14790301,
-                                "text": "Now, this definitely means of course that we\u0027re going to have some unnecessary hearings where prisoners will not be let loose."
+                                "text": "Now, this definitely means of course that we're going to have some unnecessary hearings where prisoners will not be let loose."
                             },
                             {
                                 "start": 3671.712,
@@ -4183,6 +4001,7 @@
                             "ID": 15043,
                             "name": "Potter Stewart",
                             "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
+                            "view_count": 31,
                             "last_name": "Stewart",
                             "roles": [
                                 {
@@ -4200,7 +4019,7 @@
                                 "id": 32752,
                                 "mime": "image\/png",
                                 "size": 56350,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/potter_stewart.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/potter_stewart\/potter_stewart.thumb.png"
                             },
                             "length_of_service": 8298,
                             "identifier": "potter_stewart"
@@ -4211,7 +4030,7 @@
                                 "stop": 3677.443,
                                 "byte_start": 14797824,
                                 "byte_stop": 14813288,
-                                "text": "I didn\u0027t get though what the sequel to the Catalano case was."
+                                "text": "I didn't get though what the sequel to the Catalano case was."
                             }
                         ]
                     },
@@ -4224,6 +4043,7 @@
                             "ID": 18001,
                             "name": "Beatrice Rosenberg",
                             "href": "https:\/\/api.oyez.org\/people\/beatrice_rosenberg",
+                            "view_count": 0,
                             "last_name": "Rosenberg",
                             "roles": null,
                             "thumbnail": null,
@@ -4236,7 +4056,7 @@
                                 "stop": 3683.525,
                                 "byte_start": 14813288,
                                 "byte_stop": 14837530,
-                                "text": "It\u0027s at 311 F.2d 186 has just been reported and the District Court\u0027s opinion --"
+                                "text": "It's at 311 F.2d 186 has just been reported and the District Court's opinion --"
                             }
                         ]
                     },
@@ -4265,6 +4085,7 @@
                             "ID": 18001,
                             "name": "Beatrice Rosenberg",
                             "href": "https:\/\/api.oyez.org\/people\/beatrice_rosenberg",
+                            "view_count": 0,
                             "last_name": "Rosenberg",
                             "roles": null,
                             "thumbnail": null,
@@ -4291,7 +4112,7 @@
                                 "stop": 3712.749,
                                 "byte_start": 14903254,
                                 "byte_stop": 14954454,
-                                "text": "It\u0027s a problem of doing justice but it is not -- it cannot be solved so simply as to say, well, whenever there\u0027s any kind of a question, let\u0027s have a hearing."
+                                "text": "It's a problem of doing justice but it is not -- it cannot be solved so simply as to say, well, whenever there's any kind of a question, let's have a hearing."
                             },
                             {
                                 "start": 3712.749,
@@ -4318,6 +4139,7 @@
                             "ID": 15044,
                             "name": "Arthur J. Goldberg",
                             "href": "https:\/\/api.oyez.org\/people\/arthur_j_goldberg",
+                            "view_count": 30,
                             "last_name": "Goldberg",
                             "roles": [
                                 {
@@ -4335,7 +4157,7 @@
                                 "id": 32695,
                                 "mime": "image\/png",
                                 "size": 50285,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/arthur_j_goldberg.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/arthur_j_goldberg\/arthur_j_goldberg.thumb.png"
                             },
                             "length_of_service": 1028,
                             "identifier": "arthur_j_goldberg"
@@ -4359,6 +4181,7 @@
                             "ID": 18001,
                             "name": "Beatrice Rosenberg",
                             "href": "https:\/\/api.oyez.org\/people\/beatrice_rosenberg",
+                            "view_count": 0,
                             "last_name": "Rosenberg",
                             "roles": null,
                             "thumbnail": null,
@@ -4371,14 +4194,14 @@
                                 "stop": 3754.309,
                                 "byte_start": 15117458,
                                 "byte_stop": 15120697,
-                                "text": "No, I don\u0027t."
+                                "text": "No, I don't."
                             },
                             {
                                 "start": 3754.309,
                                 "stop": 3755.024,
                                 "byte_start": 15120697,
                                 "byte_stop": 15123623,
-                                "text": "I\u0027m sorry."
+                                "text": "I'm sorry."
                             },
                             {
                                 "start": 3755.024,
@@ -4419,6 +4242,7 @@
                             "ID": 15097,
                             "name": "John M. Harlan II",
                             "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                            "view_count": 0,
                             "last_name": "Harlan",
                             "roles": [
                                 {
@@ -4436,7 +4260,7 @@
                                 "id": 32728,
                                 "mime": "image\/png",
                                 "size": 53784,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_m_harlan2\/john_m_harlan2.thumb.png"
                             },
                             "length_of_service": 6023,
                             "identifier": "john_m_harlan2"
@@ -4447,7 +4271,7 @@
                                 "stop": 3781.559,
                                 "byte_start": 15199483,
                                 "byte_stop": 15229680,
-                                "text": "What\u0027s the current figure of 2255 of the 2255 petition being filed all over the country?"
+                                "text": "What's the current figure of 2255 of the 2255 petition being filed all over the country?"
                             }
                         ]
                     },
@@ -4460,6 +4284,7 @@
                             "ID": 18001,
                             "name": "Beatrice Rosenberg",
                             "href": "https:\/\/api.oyez.org\/people\/beatrice_rosenberg",
+                            "view_count": 0,
                             "last_name": "Rosenberg",
                             "roles": null,
                             "thumbnail": null,
@@ -4500,7 +4325,7 @@
                                 "stop": 3827.343,
                                 "byte_start": 15392580,
                                 "byte_stop": 15412851,
-                                "text": "To check that there are at least 560 but I\u0027m sure there would be more."
+                                "text": "To check that there are at least 560 but I'm sure there would be more."
                             },
                             {
                                 "start": 3827.343,
@@ -4514,7 +4339,7 @@
                                 "stop": 3843.617,
                                 "byte_start": 15444616,
                                 "byte_stop": 15477948,
-                                "text": "We got responses from some districts and not from others and we just couldn\u0027t get accurate set of figures on this field."
+                                "text": "We got responses from some districts and not from others and we just couldn't get accurate set of figures on this field."
                             }
                         ]
                     },
@@ -4527,6 +4352,7 @@
                             "ID": 15097,
                             "name": "John M. Harlan II",
                             "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
+                            "view_count": 0,
                             "last_name": "Harlan",
                             "roles": [
                                 {
@@ -4544,7 +4370,7 @@
                                 "id": 32728,
                                 "mime": "image\/png",
                                 "size": 53784,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall_harlan_ii.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_m_harlan2\/john_m_harlan2.thumb.png"
                             },
                             "length_of_service": 6023,
                             "identifier": "john_m_harlan2"
@@ -4555,7 +4381,7 @@
                                 "stop": 3848.885,
                                 "byte_start": 15477948,
                                 "byte_stop": 15499055,
-                                "text": "What\u0027s the most accurate 2255 district?"
+                                "text": "What's the most accurate 2255 district?"
                             }
                         ]
                     },
@@ -4568,6 +4394,7 @@
                             "ID": 18001,
                             "name": "Beatrice Rosenberg",
                             "href": "https:\/\/api.oyez.org\/people\/beatrice_rosenberg",
+                            "view_count": 0,
                             "last_name": "Rosenberg",
                             "roles": null,
                             "thumbnail": null,
@@ -4587,7 +4414,7 @@
                                 "stop": 3885.248,
                                 "byte_start": 15586931,
                                 "byte_stop": 15644505,
-                                "text": "Now, I should say that the most -- most active petition came out of Alcatraz but they do spread throughout the country and it is hard to say -- well in theory, it\u0027s hard to say."
+                                "text": "Now, I should say that the most -- most active petition came out of Alcatraz but they do spread throughout the country and it is hard to say -- well in theory, it's hard to say."
                             },
                             {
                                 "start": 3885.248,
@@ -4615,7 +4442,7 @@
                                 "stop": 3911.842,
                                 "byte_start": 15724440,
                                 "byte_stop": 15750875,
-                                "text": "Obviously, it\u0027s a long-term sentence person who is most likely to resort to the remedy."
+                                "text": "Obviously, it's a long-term sentence person who is most likely to resort to the remedy."
                             },
                             {
                                 "start": 3911.842,
@@ -4642,6 +4469,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -4659,7 +4487,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"
@@ -4677,14 +4505,14 @@
                                 "stop": 3955.246,
                                 "byte_start": 15861008,
                                 "byte_stop": 15924433,
-                                "text": "The Court is always confident by the fact that there are lawyers who are willing to give their time and energy to represent those who do not have the means to represent themselves and we\u0027re very much indebted to you for your service in this case."
+                                "text": "The Court is always confident by the fact that there are lawyers who are willing to give their time and energy to represent those who do not have the means to represent themselves and we're very much indebted to you for your service in this case."
                             },
                             {
                                 "start": 3955.246,
                                 "stop": 3964.06,
                                 "byte_start": 15924433,
                                 "byte_stop": 15959751,
-                                "text": "And Ms. Rosenberg, we\u0027re indebted to you as always for your fair and earnest representation of the Government in these matters."
+                                "text": "And Ms. Rosenberg, we're indebted to you as always for your fair and earnest representation of the Government in these matters."
                             }
                         ]
                     },
@@ -4697,6 +4525,7 @@
                             "ID": 18001,
                             "name": "Beatrice Rosenberg",
                             "href": "https:\/\/api.oyez.org\/people\/beatrice_rosenberg",
+                            "view_count": 0,
                             "last_name": "Rosenberg",
                             "roles": null,
                             "thumbnail": null,
@@ -4726,16 +4555,7 @@
                         "stop": 3968.124,
                         "byte_start": 15962363,
                         "byte_stop": 15975946,
-                        "speaker": {
-                            "ID": 24725,
-                            "name": "Fred M. Vinson, Jr.",
-                            "href": "https:\/\/api.oyez.org\/people\/fred_m_vinson_jr",
-                            "last_name": "Vinson,",
-                            "roles": null,
-                            "thumbnail": null,
-                            "length_of_service": 0,
-                            "identifier": "fred_m_vinson_jr"
-                        },
+                        "speaker": null,
                         "text_blocks": [
                             {
                                 "start": 3964.709,
@@ -4749,7 +4569,7 @@
                                 "stop": 3968.124,
                                 "byte_start": 15967796,
                                 "byte_stop": 15975946,
-                                "text": "It\u0027s my pleasure to appear before the Court."
+                                "text": "It's my pleasure to appear before the Court."
                             }
                         ]
                     },
@@ -4762,6 +4582,7 @@
                             "ID": 15099,
                             "name": "Earl Warren",
                             "href": "https:\/\/api.oyez.org\/people\/earl_warren",
+                            "view_count": 52,
                             "last_name": "Warren",
                             "roles": [
                                 {
@@ -4779,7 +4600,7 @@
                                 "id": 32704,
                                 "mime": "image\/png",
                                 "size": 50444,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/earl_warren.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/earl_warren\/earl_warren.thumb.png"
                             },
                             "length_of_service": 5740,
                             "identifier": "earl_warren"

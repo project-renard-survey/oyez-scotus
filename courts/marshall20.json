@@ -2,11 +2,13 @@
     "ID": 15262,
     "name": "Marshall Court (1835)",
     "href": "https:\/\/api.oyez.org\/courts\/marshall20",
+    "view_count": 0,
     "members": [
         {
             "ID": 15085,
             "name": "John Marshall",
             "href": "https:\/\/api.oyez.org\/people\/john_marshall",
+            "view_count": 0,
             "last_name": "Marshall",
             "roles": [
                 {
@@ -24,7 +26,7 @@
                 "id": 32729,
                 "mime": "image\/png",
                 "size": 53035,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_marshall.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_marshall\/john_marshall.thumb.png"
             },
             "length_of_service": 12570,
             "identifier": "john_marshall"
@@ -33,6 +35,7 @@
             "ID": 15091,
             "name": "Joseph Story",
             "href": "https:\/\/api.oyez.org\/people\/joseph_story",
+            "view_count": 0,
             "last_name": "Story",
             "roles": [
                 {
@@ -50,7 +53,7 @@
                 "id": 32736,
                 "mime": "image\/png",
                 "size": 44576,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/joseph_story.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/joseph_story\/joseph_story.thumb.png"
             },
             "length_of_service": 12273,
             "identifier": "joseph_story"
@@ -59,6 +62,7 @@
             "ID": 15143,
             "name": "Smith Thompson",
             "href": "https:\/\/api.oyez.org\/people\/smith_thompson",
+            "view_count": 0,
             "last_name": "Thompson",
             "roles": [
                 {
@@ -76,7 +80,7 @@
                 "id": 32764,
                 "mime": "image\/png",
                 "size": 43703,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/smith_thompson.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/smith_thompson\/smith_thompson.thumb.png"
             },
             "length_of_service": 7413,
             "identifier": "smith_thompson"
@@ -85,6 +89,7 @@
             "ID": 15112,
             "name": "John McLean",
             "href": "https:\/\/api.oyez.org\/people\/john_mclean",
+            "view_count": 0,
             "last_name": "McLean",
             "roles": [
                 {
@@ -102,7 +107,7 @@
                 "id": 32731,
                 "mime": "image\/png",
                 "size": 38658,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_mclean.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_mclean\/john_mclean.thumb.png"
             },
             "length_of_service": 11346,
             "identifier": "john_mclean"
@@ -111,6 +116,7 @@
             "ID": 15125,
             "name": "Henry Baldwin",
             "href": "https:\/\/api.oyez.org\/people\/henry_baldwin",
+            "view_count": 0,
             "last_name": "Baldwin",
             "roles": [
                 {
@@ -128,7 +134,7 @@
                 "id": 32713,
                 "mime": "image\/png",
                 "size": 35799,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/henry_baldwin.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/henry_baldwin\/henry_baldwin.thumb.png"
             },
             "length_of_service": 5207,
             "identifier": "henry_baldwin"
@@ -137,6 +143,7 @@
             "ID": 15087,
             "name": "James M. Wayne",
             "href": "https:\/\/api.oyez.org\/people\/james_m_wayne",
+            "view_count": 0,
             "last_name": "Wayne",
             "roles": [
                 {
@@ -154,7 +161,7 @@
                 "id": 32722,
                 "mime": "image\/png",
                 "size": 55773,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/james_m_wayne.png"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/james_m_wayne\/james_m_wayne.thumb.png"
             },
             "length_of_service": 11860,
             "identifier": "james_m_wayne"
@@ -167,7 +174,7 @@
             "id": 56756,
             "mime": "image\/jpeg",
             "size": 3274208,
-            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/1993-232-3-cd_18.jpg"
+            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/marshall20.jpg"
         }
     ],
     "identifier": "marshall20"

@@ -2,11 +2,12 @@
     "ID": 55430,
     "name": "Jones v. Bock",
     "href": "https:\/\/api.oyez.org\/cases\/2006\/05-7058",
+    "view_count": 0,
     "docket_number": "05-7058",
     "additional_docket_numbers": [
         "05-7142"
     ],
-    "manner_of_jurisdiction": "Writ of \u003Ci\u003Ecertiorari\u003C\/i\u003E",
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
     "first_party": "Lorenzo L. Jones",
     "second_party": "Barbara Bock, Warden, et al.",
     "timeline": [
@@ -37,15 +38,16 @@
         "name": "United States Court of Appeals for the Sixth Circuit",
         "href": "https:\/\/api.oyez.org\/taxonomy\/term\/11"
     },
-    "facts_of_the_case": "\u003Cp\u003ECongress passed the Prisoner Litigation Reform Act (PLRA) in 1995 in an effort to cut down on frivolous lawsuits by prisoners. Under the PLRA, before bringing a federal civil rights suit a prisoner must go through his prison\u0027s internal complaint process. Only after exhausting all of these \u0022administrative remedies\u0022 can the prisoner bring the complaint to federal court.\u003C\/p\u003E\n\u003Cp\u003ELorenzo Jones sustained serious injuries in a car accident while in custody. He sued prison officials in federal court, claiming that they were violating his Eighth Amendment rights by making him do arduous work despite his injuries. The officials moved to dismiss the suit, because Jones had not provided any evidence or description of the administrative remedies he claimed to have pursued. The District Court granted the motion and dismissed the suit.\u003C\/p\u003E\n\u003Cp\u003EOn appeal, the U.S. Court of Appeals for the Sixth Circuit affirmed. The Circuit Court ruled that in order for Jones to sue, he would have had to provide the court with copies of his grievance forms or at least describe the administrative processes he had exhausted. The Circuit Court further ruled that the PLRA requires \u0022total exhaustion,\u0022 which means that if a prisoner\u0027s suit has multiple claims, administrative remedies must have been exhausted for each and every claim.\u003C\/p\u003E\n\u003Cp\u003EThe Supreme Court accepted review in order to resolve the conflict between Circuit Courts over which side bears the burden of proving exhaustion of administrative remedies.\u003C\/p\u003E\n\u003Cp\u003EIn \u003Cem\u003EWilliams v. Overton\u003C\/em\u003E, Timothy Williams suffered from a medical condition which caused tumor growth and disfigurement in his arm. He claimed that prison officials were violating his rights by ignoring his medical needs. Williams\u0027s complaint had two claims: he needed additional surgery on his arm and a single-occupancy, handicapped-accessible cell. Williams went through the administrative remedial process on both grievances and both claims were denied. Williams then sued in federal court.\u003C\/p\u003E\n\u003Cp\u003EThe District Court dismissed the suit, because Williams had neglected to name any prison officials as defendants in his medical complaint. Therefore, the court ruled, the administrative remedies for that claim could not be considered to have been exhausted.\u003C\/p\u003E\n\u003Cp\u003EOn appeal, the U.S. Court of Appeals for the Sixth Circuit affirmed, ruling that \u0022The prisoner must demonstrate that he has exhausted the administrative remedies with respect to each individual he intends to sue.\u0022 The Circuit Court also ruled that the PLRA requires \u0022total exhaustion,\u0022 which meant that Williams\u0027s entire suit was dismissed because of his unexhausted medical claim, even though the administrative remedies for his request for a new cell had been exhausted.\u003C\/p\u003E\n",
-    "question": "\u003Cp\u003E1) Does the Prisoner Litigation and Reform Act require that a prisoner bringing a federal civil rights suit show how he exhausted his administrative remedies before suing, rather than requiring that the defense prove that the administrative remedies were not exhausted?\u003C\/p\u003E\n\u003Cp\u003E2) Does the Prisoner Litigation and Reform Act require a court to dismiss a prisoner\u0027s civil rights suit for failure to exhaust administrative remedies whenever there is a single unexhausted claim, despite the presence of other exhausted claims?\u003C\/p\u003E\n\u003Cp\u003EFrom \u003Cem\u003EWilliams v. Overton\u003C\/em\u003E :\u003C\/p\u003E\n\u003Cp\u003E3) Does the Prisoner Litigation Reform Act require that a prisoner name a particular defendant in his administrative grievance in order to exhaust his administrative remedies as to that defendant and preserve his right to sue?\u003C\/p\u003E\n",
-    "conclusion": "\u003Cp\u003ENo to all. The Court ruled unanimously that the Sixth Circuit\u0027s rules for exhaustion of administrative remedies were not required by the Prisoner Litigation Reform Act. The opinion by Chief Justice John Roberts held that prisoners bring civil rights lawsuits do not need to demonstrate that they have already exhausted all administrative remedies. The Sixth Circuit had assumed that Congress had intended to put the burden on the plaintiff, but the Court ruled that an explicit statement by Congress would have been required. The Justices also held that when a court is presented with a suit with both exhausted and unexhausted claims, the court can let the exhausted claims proceed rather than dismissing the entire suit. The Court rejected the argument that the statute\u0027s use of the word \u0022action\u0022 instead of \u0022claim\u0022 indicated that the entire suit should be dismissed. The opinion explained that Congress was merely using \u0022boilerplate language.\u0022 Finally, the Court ruled that the PLRA did not require a prisoner to name each defendant in his administrative grievance in order to name the defendant in his subsequent lawsuit. By imposing these extraneous rules, the Sixth Circuit had exceeded its legitimate authority over the management of its docket.\u003C\/p\u003E\n",
+    "facts_of_the_case": "<p>Congress passed the Prisoner Litigation Reform Act (PLRA) in 1995 in an effort to cut down on frivolous lawsuits by prisoners. Under the PLRA, before bringing a federal civil rights suit a prisoner must go through his prison's internal complaint process. Only after exhausting all of these \"administrative remedies\" can the prisoner bring the complaint to federal court.<\/p>\n<p>Lorenzo Jones sustained serious injuries in a car accident while in custody. He sued prison officials in federal court, claiming that they were violating his Eighth Amendment rights by making him do arduous work despite his injuries. The officials moved to dismiss the suit, because Jones had not provided any evidence or description of the administrative remedies he claimed to have pursued. The District Court granted the motion and dismissed the suit.<\/p>\n<p>On appeal, the U.S. Court of Appeals for the Sixth Circuit affirmed. The Circuit Court ruled that in order for Jones to sue, he would have had to provide the court with copies of his grievance forms or at least describe the administrative processes he had exhausted. The Circuit Court further ruled that the PLRA requires \"total exhaustion,\" which means that if a prisoner's suit has multiple claims, administrative remedies must have been exhausted for each and every claim.<\/p>\n<p>The Supreme Court accepted review in order to resolve the conflict between Circuit Courts over which side bears the burden of proving exhaustion of administrative remedies.<\/p>\n<p>In <em>Williams v. Overton<\/em>, Timothy Williams suffered from a medical condition which caused tumor growth and disfigurement in his arm. He claimed that prison officials were violating his rights by ignoring his medical needs. Williams's complaint had two claims: he needed additional surgery on his arm and a single-occupancy, handicapped-accessible cell. Williams went through the administrative remedial process on both grievances and both claims were denied. Williams then sued in federal court.<\/p>\n<p>The District Court dismissed the suit, because Williams had neglected to name any prison officials as defendants in his medical complaint. Therefore, the court ruled, the administrative remedies for that claim could not be considered to have been exhausted.<\/p>\n<p>On appeal, the U.S. Court of Appeals for the Sixth Circuit affirmed, ruling that \"The prisoner must demonstrate that he has exhausted the administrative remedies with respect to each individual he intends to sue.\" The Circuit Court also ruled that the PLRA requires \"total exhaustion,\" which meant that Williams's entire suit was dismissed because of his unexhausted medical claim, even though the administrative remedies for his request for a new cell had been exhausted.<\/p>\n",
+    "question": "<p>1) Does the Prisoner Litigation and Reform Act require that a prisoner bringing a federal civil rights suit show how he exhausted his administrative remedies before suing, rather than requiring that the defense prove that the administrative remedies were not exhausted?<\/p>\n<p>2) Does the Prisoner Litigation and Reform Act require a court to dismiss a prisoner's civil rights suit for failure to exhaust administrative remedies whenever there is a single unexhausted claim, despite the presence of other exhausted claims?<\/p>\n<p>From <em>Williams v. Overton<\/em> :<\/p>\n<p>3) Does the Prisoner Litigation Reform Act require that a prisoner name a particular defendant in his administrative grievance in order to exhaust his administrative remedies as to that defendant and preserve his right to sue?<\/p>\n",
+    "conclusion": "<p>No to all. The Court ruled unanimously that the Sixth Circuit's rules for exhaustion of administrative remedies were not required by the Prisoner Litigation Reform Act. The opinion by Chief Justice John Roberts held that prisoners bring civil rights lawsuits do not need to demonstrate that they have already exhausted all administrative remedies. The Sixth Circuit had assumed that Congress had intended to put the burden on the plaintiff, but the Court ruled that an explicit statement by Congress would have been required. The Justices also held that when a court is presented with a suit with both exhausted and unexhausted claims, the court can let the exhausted claims proceed rather than dismissing the entire suit. The Court rejected the argument that the statute's use of the word \"action\" instead of \"claim\" indicated that the entire suit should be dismissed. The opinion explained that Congress was merely using \"boilerplate language.\" Finally, the Court ruled that the PLRA did not require a prisoner to name each defendant in his administrative grievance in order to name the defendant in his subsequent lawsuit. By imposing these extraneous rules, the Sixth Circuit had exceeded its legitimate authority over the management of its docket.<\/p>\n",
     "advocates": [
         {
             "advocate": {
                 "ID": 34910,
                 "name": "Linda M. Olivieri",
                 "href": "https:\/\/api.oyez.org\/people\/linda_m_olivieri",
+                "view_count": 0,
                 "last_name": "Olivieri",
                 "roles": null,
                 "thumbnail": null,
@@ -60,6 +62,7 @@
                 "ID": 28860,
                 "name": "Jean-Claude Andre",
                 "href": "https:\/\/api.oyez.org\/people\/jean_claude_andre",
+                "view_count": 0,
                 "last_name": "Andre",
                 "roles": null,
                 "thumbnail": null,
@@ -94,6 +97,7 @@
                         "ID": 15060,
                         "name": "John Paul Stevens",
                         "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                        "view_count": 0,
                         "last_name": "Stevens",
                         "roles": [
                             {
@@ -111,7 +115,7 @@
                             "id": 32732,
                             "mime": "image\/png",
                             "size": 62101,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                         },
                         "length_of_service": 12611,
                         "identifier": "john_paul_stevens"
@@ -128,13 +132,14 @@
                         "ID": 15049,
                         "name": "Antonin Scalia",
                         "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                        "view_count": 54,
                         "last_name": "Scalia",
                         "roles": [
                             {
                                 "id": 2693,
                                 "type": "scotus_justice",
                                 "date_start": 528094800,
-                                "date_end": 0,
+                                "date_end": 1455343200,
                                 "appointing_president": "Ronald Reagan",
                                 "role_title": "Associate Justice of the Supreme Court of the United States",
                                 "institution_name": "Supreme Court of the United States",
@@ -145,9 +150,9 @@
                             "id": 32678,
                             "mime": "image\/png",
                             "size": 58944,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                         },
-                        "length_of_service": 10699,
+                        "length_of_service": 10732,
                         "identifier": "antonin_scalia"
                     },
                     "vote": "majority",
@@ -162,6 +167,7 @@
                         "ID": 15113,
                         "name": "Anthony M. Kennedy",
                         "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                        "view_count": 73,
                         "last_name": "Kennedy",
                         "roles": [
                             {
@@ -179,9 +185,9 @@
                             "id": 32679,
                             "mime": "image\/png",
                             "size": 47100,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                         },
-                        "length_of_service": 10147,
+                        "length_of_service": 10275,
                         "identifier": "anthony_m_kennedy"
                     },
                     "vote": "majority",
@@ -196,6 +202,7 @@
                         "ID": 15042,
                         "name": "David H. Souter",
                         "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                        "view_count": 0,
                         "last_name": "Souter",
                         "roles": [
                             {
@@ -213,7 +220,7 @@
                             "id": 32703,
                             "mime": "image\/png",
                             "size": 42141,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_souter.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
                         },
                         "length_of_service": 6839,
                         "identifier": "david_h_souter"
@@ -230,6 +237,7 @@
                         "ID": 15100,
                         "name": "Clarence Thomas",
                         "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                        "view_count": 91,
                         "last_name": "Thomas",
                         "roles": [
                             {
@@ -247,9 +255,9 @@
                             "id": 32680,
                             "mime": "image\/png",
                             "size": 49064,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                         },
-                        "length_of_service": 8870,
+                        "length_of_service": 8932,
                         "identifier": "clarence_thomas"
                     },
                     "vote": "majority",
@@ -264,6 +272,7 @@
                         "ID": 15084,
                         "name": "Ruth Bader Ginsburg",
                         "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                        "view_count": 55,
                         "last_name": "Ginsburg",
                         "roles": [
                             {
@@ -281,9 +290,9 @@
                             "id": 32681,
                             "mime": "image\/png",
                             "size": 45030,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
                         },
-                        "length_of_service": 8135,
+                        "length_of_service": 8275,
                         "identifier": "ruth_bader_ginsburg"
                     },
                     "vote": "majority",
@@ -298,6 +307,7 @@
                         "ID": 15139,
                         "name": "Stephen G. Breyer",
                         "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                        "view_count": 58,
                         "last_name": "Breyer",
                         "roles": [
                             {
@@ -315,9 +325,9 @@
                             "id": 32682,
                             "mime": "image\/png",
                             "size": 49908,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
                         },
-                        "length_of_service": 7777,
+                        "length_of_service": 7917,
                         "identifier": "stephen_g_breyer"
                     },
                     "vote": "majority",
@@ -332,6 +342,7 @@
                         "ID": 15086,
                         "name": "John G. Roberts, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                        "view_count": 40,
                         "last_name": "Roberts",
                         "roles": [
                             {
@@ -349,9 +360,9 @@
                             "id": 32683,
                             "mime": "image\/png",
                             "size": 52305,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_g_roberts_jr\/john_g_roberts_jr.thumb.png"
                         },
-                        "length_of_service": 3702,
+                        "length_of_service": 3842,
                         "identifier": "john_g_roberts_jr"
                     },
                     "vote": "majority",
@@ -365,7 +376,8 @@
                     "member": {
                         "ID": 15068,
                         "name": "Samuel A. Alito, Jr.",
-                        "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                        "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                        "view_count": 74,
                         "last_name": "Alito",
                         "roles": [
                             {
@@ -383,10 +395,10 @@
                             "id": 32684,
                             "mime": "image\/png",
                             "size": 44799,
-                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
                         },
-                        "length_of_service": 3531,
-                        "identifier": "samuel_alito_jr"
+                        "length_of_service": 3718,
+                        "identifier": "samuel_a_alito_jr"
                     },
                     "vote": "majority",
                     "opinion_type": "none",
@@ -410,11 +422,13 @@
             "ID": 15149,
             "name": "Roberts Court (2006-2009)",
             "href": "https:\/\/api.oyez.org\/courts\/roberts2",
+            "view_count": 0,
             "members": [
                 {
                     "ID": 15086,
                     "name": "John G. Roberts, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                    "view_count": 40,
                     "last_name": "Roberts",
                     "roles": [
                         {
@@ -432,15 +446,16 @@
                         "id": 32683,
                         "mime": "image\/png",
                         "size": 52305,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_g_roberts_jr\/john_g_roberts_jr.thumb.png"
                     },
-                    "length_of_service": 3702,
+                    "length_of_service": 3842,
                     "identifier": "john_g_roberts_jr"
                 },
                 {
                     "ID": 15060,
                     "name": "John Paul Stevens",
                     "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                    "view_count": 0,
                     "last_name": "Stevens",
                     "roles": [
                         {
@@ -458,7 +473,7 @@
                         "id": 32732,
                         "mime": "image\/png",
                         "size": 62101,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                     },
                     "length_of_service": 12611,
                     "identifier": "john_paul_stevens"
@@ -467,13 +482,14 @@
                     "ID": 15049,
                     "name": "Antonin Scalia",
                     "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                    "view_count": 54,
                     "last_name": "Scalia",
                     "roles": [
                         {
                             "id": 2693,
                             "type": "scotus_justice",
                             "date_start": 528094800,
-                            "date_end": 0,
+                            "date_end": 1455343200,
                             "appointing_president": "Ronald Reagan",
                             "role_title": "Associate Justice of the Supreme Court of the United States",
                             "institution_name": "Supreme Court of the United States",
@@ -484,15 +500,16 @@
                         "id": 32678,
                         "mime": "image\/png",
                         "size": 58944,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                     },
-                    "length_of_service": 10699,
+                    "length_of_service": 10732,
                     "identifier": "antonin_scalia"
                 },
                 {
                     "ID": 15113,
                     "name": "Anthony M. Kennedy",
                     "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                    "view_count": 73,
                     "last_name": "Kennedy",
                     "roles": [
                         {
@@ -510,15 +527,16 @@
                         "id": 32679,
                         "mime": "image\/png",
                         "size": 47100,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                     },
-                    "length_of_service": 10147,
+                    "length_of_service": 10275,
                     "identifier": "anthony_m_kennedy"
                 },
                 {
                     "ID": 15042,
                     "name": "David H. Souter",
                     "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                    "view_count": 0,
                     "last_name": "Souter",
                     "roles": [
                         {
@@ -536,7 +554,7 @@
                         "id": 32703,
                         "mime": "image\/png",
                         "size": 42141,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_souter.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
                     },
                     "length_of_service": 6839,
                     "identifier": "david_h_souter"
@@ -545,6 +563,7 @@
                     "ID": 15100,
                     "name": "Clarence Thomas",
                     "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                    "view_count": 91,
                     "last_name": "Thomas",
                     "roles": [
                         {
@@ -562,15 +581,16 @@
                         "id": 32680,
                         "mime": "image\/png",
                         "size": 49064,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                     },
-                    "length_of_service": 8870,
+                    "length_of_service": 8932,
                     "identifier": "clarence_thomas"
                 },
                 {
                     "ID": 15084,
                     "name": "Ruth Bader Ginsburg",
                     "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                    "view_count": 55,
                     "last_name": "Ginsburg",
                     "roles": [
                         {
@@ -588,15 +608,16 @@
                         "id": 32681,
                         "mime": "image\/png",
                         "size": 45030,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
                     },
-                    "length_of_service": 8135,
+                    "length_of_service": 8275,
                     "identifier": "ruth_bader_ginsburg"
                 },
                 {
                     "ID": 15139,
                     "name": "Stephen G. Breyer",
                     "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                    "view_count": 58,
                     "last_name": "Breyer",
                     "roles": [
                         {
@@ -614,15 +635,16 @@
                         "id": 32682,
                         "mime": "image\/png",
                         "size": 49908,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
                     },
-                    "length_of_service": 7777,
+                    "length_of_service": 7917,
                     "identifier": "stephen_g_breyer"
                 },
                 {
                     "ID": 15068,
                     "name": "Samuel A. Alito, Jr.",
-                    "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                    "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                    "view_count": 74,
                     "last_name": "Alito",
                     "roles": [
                         {
@@ -640,10 +662,10 @@
                         "id": 32684,
                         "mime": "image\/png",
                         "size": 44799,
-                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                        "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
                     },
-                    "length_of_service": 3531,
-                    "identifier": "samuel_alito_jr"
+                    "length_of_service": 3718,
+                    "identifier": "samuel_a_alito_jr"
                 }
             ],
             "court_start": 1138687200,
@@ -652,7 +674,7 @@
                     "id": 12234,
                     "mime": "image\/jpeg",
                     "size": 70439,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/roberts_court_2006-2009.jpg"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/roberts2.jpg"
                 }
             ],
             "identifier": "roberts2"
@@ -662,11 +684,13 @@
         "ID": 15149,
         "name": "Roberts Court (2006-2009)",
         "href": "https:\/\/api.oyez.org\/courts\/roberts2",
+        "view_count": 0,
         "members": [
             {
                 "ID": 15086,
                 "name": "John G. Roberts, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                "view_count": 40,
                 "last_name": "Roberts",
                 "roles": [
                     {
@@ -684,15 +708,16 @@
                     "id": 32683,
                     "mime": "image\/png",
                     "size": 52305,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_g_roberts_jr_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_g_roberts_jr\/john_g_roberts_jr.thumb.png"
                 },
-                "length_of_service": 3702,
+                "length_of_service": 3842,
                 "identifier": "john_g_roberts_jr"
             },
             {
                 "ID": 15060,
                 "name": "John Paul Stevens",
                 "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
+                "view_count": 0,
                 "last_name": "Stevens",
                 "roles": [
                     {
@@ -710,7 +735,7 @@
                     "id": 32732,
                     "mime": "image\/png",
                     "size": 62101,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/john_paul_stevens.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_paul_stevens\/john_paul_stevens.thumb.png"
                 },
                 "length_of_service": 12611,
                 "identifier": "john_paul_stevens"
@@ -719,13 +744,14 @@
                 "ID": 15049,
                 "name": "Antonin Scalia",
                 "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
+                "view_count": 54,
                 "last_name": "Scalia",
                 "roles": [
                     {
                         "id": 2693,
                         "type": "scotus_justice",
                         "date_start": 528094800,
-                        "date_end": 0,
+                        "date_end": 1455343200,
                         "appointing_president": "Ronald Reagan",
                         "role_title": "Associate Justice of the Supreme Court of the United States",
                         "institution_name": "Supreme Court of the United States",
@@ -736,15 +762,16 @@
                     "id": 32678,
                     "mime": "image\/png",
                     "size": 58944,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                 },
-                "length_of_service": 10699,
+                "length_of_service": 10732,
                 "identifier": "antonin_scalia"
             },
             {
                 "ID": 15113,
                 "name": "Anthony M. Kennedy",
                 "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                "view_count": 73,
                 "last_name": "Kennedy",
                 "roles": [
                     {
@@ -762,15 +789,16 @@
                     "id": 32679,
                     "mime": "image\/png",
                     "size": 47100,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/anthony_kennedy_1_3.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
                 },
-                "length_of_service": 10147,
+                "length_of_service": 10275,
                 "identifier": "anthony_m_kennedy"
             },
             {
                 "ID": 15042,
                 "name": "David H. Souter",
                 "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
+                "view_count": 0,
                 "last_name": "Souter",
                 "roles": [
                     {
@@ -788,7 +816,7 @@
                     "id": 32703,
                     "mime": "image\/png",
                     "size": 42141,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/david_souter.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/david_h_souter\/david_h_souter.thumb.png"
                 },
                 "length_of_service": 6839,
                 "identifier": "david_h_souter"
@@ -797,6 +825,7 @@
                 "ID": 15100,
                 "name": "Clarence Thomas",
                 "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                "view_count": 91,
                 "last_name": "Thomas",
                 "roles": [
                     {
@@ -814,15 +843,16 @@
                     "id": 32680,
                     "mime": "image\/png",
                     "size": 49064,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/clarence_thomas.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                 },
-                "length_of_service": 8870,
+                "length_of_service": 8932,
                 "identifier": "clarence_thomas"
             },
             {
                 "ID": 15084,
                 "name": "Ruth Bader Ginsburg",
                 "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                "view_count": 55,
                 "last_name": "Ginsburg",
                 "roles": [
                     {
@@ -840,15 +870,16 @@
                     "id": 32681,
                     "mime": "image\/png",
                     "size": 45030,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/ruth_bader_ginsburg_1_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
                 },
-                "length_of_service": 8135,
+                "length_of_service": 8275,
                 "identifier": "ruth_bader_ginsburg"
             },
             {
                 "ID": 15139,
                 "name": "Stephen G. Breyer",
                 "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                "view_count": 58,
                 "last_name": "Breyer",
                 "roles": [
                     {
@@ -866,15 +897,16 @@
                     "id": 32682,
                     "mime": "image\/png",
                     "size": 49908,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/stephen_g_breyer_0.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
                 },
-                "length_of_service": 7777,
+                "length_of_service": 7917,
                 "identifier": "stephen_g_breyer"
             },
             {
                 "ID": 15068,
                 "name": "Samuel A. Alito, Jr.",
-                "href": "https:\/\/api.oyez.org\/people\/samuel_alito_jr",
+                "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                "view_count": 74,
                 "last_name": "Alito",
                 "roles": [
                     {
@@ -892,10 +924,10 @@
                     "id": 32684,
                     "mime": "image\/png",
                     "size": 44799,
-                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/samuel_a_alito_jr_1.png"
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
                 },
-                "length_of_service": 3531,
-                "identifier": "samuel_alito_jr"
+                "length_of_service": 3718,
+                "identifier": "samuel_a_alito_jr"
             }
         ],
         "court_start": 1138687200,
@@ -904,7 +936,7 @@
                 "id": 12234,
                 "mime": "image\/jpeg",
                 "size": 70439,
-                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/large\/roberts_court_2006-2009.jpg"
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/courts\/roberts2.jpg"
             }
         ],
         "identifier": "roberts2"
