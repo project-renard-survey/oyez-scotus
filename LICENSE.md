@@ -1,3 +1,5 @@
+CC-BY-NC-4.0
+
 The Oyez SCOTUS dataset (c) 2016 by Oyez, Inc.
 
 The Oyez SCOTUS dataset is licensed under a
