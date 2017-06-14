@@ -8,14 +8,14 @@ This bulk-data repository is updated periodically.  The most up-to-date informat
 
 ### Zip Download
 The Most Current complete version of the Bulk Data archive is always available here:
-https://github.com/free-law-coalition/oyez-scotus/archive/master.zip
+[https://github.com/free-law-coalition/oyez-scotus/archive/master.zip](https://github.com/free-law-coalition/oyez-scotus/zipball/master)
 
-You can download Specific Tagged Releases by clicking on the zip links on our release page:
-https://github.com/free-law-coalition/oyez-scotus/releases
+You can download Specific Tagged Releases by clicking on the "zip" links on our release page:
+[https://github.com/free-law-coalition/oyez-scotus/releases](https://github.com/free-law-coalition/oyez-scotus/releases)
 
 ### Git Clone
 You can clone our bulk data repository using the Git Version Control system by cloning our public github url:
-https://github.com/free-law-coalition/oyez-scotus.git
+[https://github.com/free-law-coalition/oyez-scotus.git](https://github.com/free-law-coalition/oyez-scotus.git)
 
 The advantage to using the Git method is you can update to the latest version at any time using the `git pull` command.
 
@@ -49,12 +49,12 @@ JSON (short for **J**ava**S**cript **O**bject **N**otation), has the advantage o
 ```
 
 ## Repository Folder Structure
-The basic structure of this repository is based on the URL Structure of www.oyez.org and our public API available at api.oyez.org.  
+The basic structure of this repository is based on the URL Structure of [oyez.org](https://www.oyez.org) and our public API available at `api.oyez.org`.  
 
 The Public API URL returns the most current version of each file and may be more current than the files in this repository.
 
 ### advocates
-Metadata about the attorneys who have advocated for parties in cases in the Supreme Court.  Referenced from within case metadata.
+Metadata about the attorneys who have advocated for parties in cases in the Supreme Court is located in the [**advocates** folder](https://github.com/free-law-coalition/oyez-scotus/tree/master/advocates).  Referenced from within case metadata.
 
 * File: `advocates/[name].json`
 * Page: `https://www.oyez.org/advocates/[name]`
@@ -63,16 +63,16 @@ Metadata about the attorneys who have advocated for parties in cases in the Supr
 #### Examples
 
 * Lisa S. Blatt
-	* File: `advocates/lisa_s_blatt.json`
-	* Page: https://www.oyez.org/advocates/lisa_s_blatt
-	* API: https://api.oyez.org/people/lisa_s_blatt
+	* File: [advocates/lisa_s_blatt.json](https://github.com/free-law-coalition/oyez-scotus/blob/master/advocates/lisa_s_blatt.json)
+	* Page: [https://www.oyez.org/advocates/lisa_s_blatt](https://www.oyez.org/advocates/lisa_s_blatt)
+	* API: [https://api.oyez.org/people/lisa_s_blatt](https://api.oyez.org/people/lisa_s_blatt)
 * Anthony A. Yang
-	* File: `advocates/anthony_a_yang.json`
-	* Page: https://www.oyez.org/advocates/anthony_a_yang
-	* API: https://api.oyez.org/people/anthony_a_yang
+	* File: [advocates/anthony_a_yang.json](https://github.com/free-law-coalition/oyez-scotus/blob/master/advocates/anthony_a_yang.json)
+	* Page: [https://www.oyez.org/advocates/anthony_a_yang](https://www.oyez.org/advocates/anthony_a_yang)
+	* API: [https://api.oyez.org/people/anthony_a_yang](https://api.oyez.org/people/anthony_a_yang)
 
 ### cases
-Case Information is stored in the **cases** folder.  This includes basic metadata about each case, as well as time-coded transcripts of each available oral argument and opinion announcement.
+Case Information is stored in the [**cases** folder](https://github.com/free-law-coalition/oyez-scotus/tree/master/cases).  This includes basic metadata about each case, as well as time-coded transcripts of each available oral argument and opinion announcement.
 
 This folder is subdivided by term year (e.g. 2016), older cases are presented as a range (e.g. 1789-1850 is presented as a single folder).  
 
@@ -94,29 +94,29 @@ Transcripts are stored in this subfolder in the same format as the Oral Argument
 
 #### Examples
 
-* Brown v. Board of Education of Topeka
-	* Case File: `cases/1940-1955/348us483/case.json`
-	* Oyez URL: https://www.oyez.org/cases/1940-1955/347us483
-	* API URL: https://api.oyez.org/cases/1940-1955/347us483
+* **Brown v. Board of Education of Topeka**
+	* Case File: [cases/1940-1955/348us483/case.json](https://github.com/free-law-coalition/oyez-scotus/tree/master/cases/1940-1955/348us483/case.json)
+	* Oyez URL: [https://www.oyez.org/cases/1940-1955/347us483](https://www.oyez.org/cases/1940-1955/347us483)
+	* API URL: [https://api.oyez.org/cases/1940-1955/347us483](https://api.oyez.org/cases/1940-1955/347us483)
 * Burwell v. Hobby Lobby Stores
-	* Case File: `cases/2013/13-354/case.json`
-	* Oyez URL: https://www.oyez.org/cases/2013/13-354
-	* API URL: https://api.oyez.org/cases/2013/13-354
+	* Case File: [cases/2013/13-354/case.json](https://github.com/free-law-coalition/oyez-scotus/tree/master/cases/2013/13-354/case.json)
+	* Oyez URL: [https://www.oyez.org/cases/2013/13-354](https://www.oyez.org/cases/2013/13-354)
+	* API URL: [https://api.oyez.org/cases/2013/13-354](https://api.oyez.org/cases/2013/13-354)
 	* Oral Argument - March 25, 2014
-		* Transcript File: `cases/2013/13-354/oral_argument_audio/23268.json`
-		* Oyez Player URL: https://apps.oyez.org/player/#/roberts6/oral_argument_audio/23268
-		* API URL: https://api.oyez.org/case_media/oral_argument_audio/23268
+		* Transcript File: [cases/2013/13-354/oral_argument_audio/23268.json](https://github.com/free-law-coalition/oyez-scotus/tree/master/cases/2013/13-354/oral_argument_audio/23268.json)
+		* Oyez Player URL: [https://apps.oyez.org/player/#/roberts6/oral_argument_audio/23268](https://apps.oyez.org/player/#/roberts6/oral_argument_audio/23268)
+		* API URL: [https://api.oyez.org/case_media/oral_argument_audio/23268](https://api.oyez.org/case_media/oral_argument_audio/23268)
 	* Opinion Announcement - June 30, 2014 (Part 1)
-		* Transcript File: `cases/2013/13-354/opinion_announcement_audio/23233.json`
-		* Oyez Player URL: https://api.oyez.org/case_media/opinion_announcement_audio/23233
+		* Transcript File: [cases/2013/13-354/opinion_announcement_audio/23233.json](https://github.com/free-law-coalition/oyez-scotus/tree/master/cases/2013/13-354/opinion_announcement_audio/23233.json)
+		* Oyez Player URL: [https://api.oyez.org/case_media/opinion_announcement_audio/23233](https://api.oyez.org/case_media/opinion_announcement_audio/23233)
 	* Opinion Announcement - June 30, 2014 (Part 2)
-		* Transcript File: `cases/2013/13-354/opinion_announcement_audio/23319.json`
-		* Oyez Player URL: https://apps.oyez.org/player/#/roberts6/opinion_announcement_audio/23319
-		* API URL: https://api.oyez.org/case_media/opinion_announcement_audio/23319
+		* Transcript File: [cases/2013/13-354/opinion_announcement_audio/23319.json](https://github.com/free-law-coalition/oyez-scotus/tree/master/cases/2013/13-354/opinion_announcement_audio/23319.json)
+		* Oyez Player URL: [https://apps.oyez.org/player/#/roberts6/opinion_announcement_audio/23319](https://apps.oyez.org/player/#/roberts6/opinion_announcement_audio/23319)
+		* API URL: [https://api.oyez.org/case_media/opinion_announcement_audio/23319](https://api.oyez.org/case_media/opinion_announcement_audio/23319)
 
 ### courts
 
-Each arrangement of justices that makes up one of the standing courts of the U.S. Supreme Court contains a json file here containing metadata about the seated court.
+Each arrangement of justices that makes up one of the standing courts of the U.S. Supreme Court has a json file in the [**courts** folder](https://github.com/free-law-coalition/oyez-scotus/tree/master/courts) containing metadata about the seated court.
 
 The file is named based on the last name of the chief justice of that particular court followed by a number indicating the particular arrangement.
 
@@ -124,13 +124,13 @@ The file is named based on the last name of the chief justice of that particular
 
 **Roberts Court (2010-2016)**
 
-* File: `courts/roberts6.json`
-* Oyez URL: https://www.oyez.org/court/15151/roberts6
-* API URL: https://api.oyez.org/courts/roberts6
+* File: [courts/roberts6.json](https://github.com/free-law-coalition/oyez-scotus/blob/master/courts/roberts6.json)
+* Oyez URL: [https://www.oyez.org/court/15151/roberts6](https://www.oyez.org/court/15151/roberts6)
+* API URL: [https://api.oyez.org/courts/roberts6](https://api.oyez.org/courts/roberts6)
 
 ### justices
 
-Inside the **justices** folder is a json file containing metadata about each Justice of the U.S. Supreme Court.
+Inside the [**justices** folder](https://github.com/free-law-coalition/oyez-scotus/tree/master/justices) is a json file containing metadata about each Justice of the U.S. Supreme Court.
 
 The basic format of this file is identical to the format for advocates, though some metadata is only on justices and some metadata is only on advocates.
 
@@ -138,14 +138,12 @@ The basic format of this file is identical to the format for advocates, though s
 
 **Antonin Scalia**
 
-* File: `justices/antonin_scalia.json`
-* Oyez URL: https://www.oyez.org/justices/antonin_scalia
-* API URL: https://api.oyez.org/people/antonin_scalia
+* File: [justices/antonin_scalia.json](https://github.com/free-law-coalition/oyez-scotus/blob/master/justices/antonin_scalia.json)
+* Oyez URL: [https://www.oyez.org/justices/antonin_scalia](https://www.oyez.org/justices/antonin_scalia)
+* API URL: [https://api.oyez.org/people/antonin_scalia](https://api.oyez.org/people/antonin_scalia)
 
 ## License Information
-![Creative Commons Attribution-NonCommercial 4.0 International License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png "Creative Commons Attribution-NonCommercial 4.0 International License")
-
-All content on oyez.org and other sites and projects maintained by Oyez is released under the [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+![Creative Commons Attribution-NonCommercial 4.0 International License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png "Creative Commons Attribution-NonCommercial 4.0 International License")  All content on oyez.org and other sites and projects maintained by Oyez is released under the [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
 "Oyez" is a registered trademark of [Oyez, Inc](https://www.oyez.org/).
 
