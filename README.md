@@ -53,7 +53,7 @@ The basic structure of this repository is based on the URL Structure of [oyez.or
 
 The Public API URL returns the most current version of each file and may be more current than the files in this repository.
 
-### advocates
+### Advocates
 Metadata about the attorneys who have advocated for parties in cases in the Supreme Court is located in the [**advocates** folder](https://github.com/free-law-coalition/oyez-scotus/tree/master/advocates).  Referenced from within case metadata.
 
 * File: `advocates/[name].json`
@@ -71,7 +71,7 @@ Metadata about the attorneys who have advocated for parties in cases in the Supr
 	* Page: [https://www.oyez.org/advocates/anthony_a_yang](https://www.oyez.org/advocates/anthony_a_yang)
 	* API: [https://api.oyez.org/people/anthony_a_yang](https://api.oyez.org/people/anthony_a_yang)
 
-### cases
+### Cases
 Case Information is stored in the [**cases** folder](https://github.com/free-law-coalition/oyez-scotus/tree/master/cases).  This includes basic metadata about each case, as well as time-coded transcripts of each available oral argument and opinion announcement.
 
 This folder is subdivided by term year (e.g. 2016), older cases are presented as a range (e.g. 1789-1850 is presented as a single folder).  
@@ -79,6 +79,17 @@ This folder is subdivided by term year (e.g. 2016), older cases are presented as
 Within each year folder is a folder for each case by docket number.  Older cases (such as the aforementioned 1789-1850 collection) may be presented by citation instead of docket number.
 
 Within each case folder is a case.json file containing metadata about the case.  This includes metadata such as citation, timeline of events, parties, advocates, and lower court information.  It also contains listings of Oral Arguments, Opinion Announcements, and Voting breakdown for each Justice where available.
+
+#### API
+Case information can also be obtained using the oyez.org API.
+
+#### Examples
+* Page: [https://www.oyez.org/cases/2016](https://www.oyez.org/cases/2016)
+	* API: [https://api.oyez.org/cases?filter=term:2016&labels=true&page=0&per_page=0](https://api.oyez.org/cases?filter=term:2016&labels=true&page=0&per_page=0)
+* Page: [https://www.oyez.org/cases/2014](https://www.oyez.org/cases/2014)
+	* API: [https://api.oyez.org/cases?filter=term:2014&labels=true&page=0&per_page=0](https://api.oyez.org/cases?filter=term:2014&labels=true&page=0&per_page=0)
+* API query by docket number: [https://api.oyez.org/query/cases/?docket=15-1111](https://api.oyez.org/query/cases/?docket=15-1111)
+* API query by citation: [http://api.oyez.justia.house/query/cases?usreports=410us113](http://api.oyez.justia.house/query/cases?usreports=410us113)
 
 #### Oral Argument Transcripts
 If there are Oral Argument Transcripts available for a case, there is a subfolder under the case folder named `oral_argument_audio`.  Within this folder is one or more json files containing the timecoded transcript of each oral argument.
