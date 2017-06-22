@@ -89,7 +89,7 @@ Case information can also be obtained using the oyez.org API.
 * Page: [https://www.oyez.org/cases/2014](https://www.oyez.org/cases/2014)
 	* API: [https://api.oyez.org/cases?filter=term:2014&labels=true&page=0&per_page=0](https://api.oyez.org/cases?filter=term:2014&labels=true&page=0&per_page=0)
 * API query by docket number: [https://api.oyez.org/query/cases/?docket=15-1111](https://api.oyez.org/query/cases/?docket=15-1111)
-* API query by citation: [http://api.oyez.justia.house/query/cases?usreports=410us113](http://api.oyez.justia.house/query/cases?usreports=410us113)
+* API query by citation: [https://api.oyez.org/query/cases?usreports=410us113](https://api.oyez.org/query/cases?usreports=410us113)
 
 #### Oral Argument Transcripts
 If there are Oral Argument Transcripts available for a case, there is a subfolder under the case folder named `oral_argument_audio`.  Within this folder is one or more json files containing the timecoded transcript of each oral argument.
