@@ -1,0 +1,81 @@
+{
+    "ID": 62849,
+    "name": "Carpenter v. United States",
+    "href": "https:\/\/api.oyez.org\/cases\/2017\/16-402",
+    "view_count": 211,
+    "docket_number": "16-402",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
+    "first_party": "Timothy Ivory Carpenter",
+    "second_party": "United States of America",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1496638800
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/54045"
+        }
+    ],
+    "lower_court": {
+        "ID": 11,
+        "name": "United States Court of Appeals for the Sixth Circuit",
+        "href": "https:\/\/api.oyez.org\/taxonomy\/term\/11"
+    },
+    "facts_of_the_case": "<p>In April 2011, police arrested four men in connection with a series of armed robberies. One of the men confessed to the crimes and gave the FBI his cell phone number and the numbers of the other participants. The FBI used this information to apply for three orders from magistrate judges to obtain \"transactional records\" for each of the phone numbers, which the judges granted under the Stored Communications Act, 18 U.S.C. 2703(d). That Act provides that the government may require the disclosure of certain telecommunications records when \"specific and articulable facts show[] that there are reasonable grounds to believe that the contents of a wire or electronic communication, or the records or other information sought, are relevant and material to an ongoing criminal investigation.\" The transactional records obtained by the government include the date and time of calls, and the approximate location where calls began and ended based on their connections to cell towers\u2014\"cell site\" information.<\/p>\n<p>Based on the cell-site evidence, the government charged Timothy Carpenter with, among other offenses, aiding and abetting robbery that affected interstate commerce, in violation of the Hobbs Act, 18 U.S.C. 1951. Carpenter moved to suppress the government's cell-site evidence on Fourth Amendment grounds, arguing that the FBI needed a warrant based on probable cause to obtain the records. The district court denied the motion to suppress, and the Sixth Circuit affirmed.<\/p>\n",
+    "question": "<p>Does the warrantless search and seizure of cell phone records, which include the location and movements of cell phone users, violate the Fourth Amendment?<\/p>\n",
+    "conclusion": null,
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 62850,
+                "name": "Nathan Freed Wessler",
+                "href": "https:\/\/api.oyez.org\/people\/nathan_freed_wessler",
+                "view_count": 0,
+                "last_name": "Wessler",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "nathan_freed_wessler"
+            },
+            "advocate_description": "for petitioner",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22284"
+        },
+        {
+            "advocate": {
+                "ID": 37093,
+                "name": "Noel J. Francisco",
+                "href": "https:\/\/api.oyez.org\/people\/noel_j_francisco",
+                "view_count": 0,
+                "last_name": "Francisco",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "noel_j_francisco"
+            },
+            "advocate_description": "for respondent",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22285"
+        }
+    ],
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27520"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        null
+    ],
+    "decided_by": null,
+    "term": "2017",
+    "location": null,
+    "opinion_announcement": null,
+    "description": "A case in which the Court will determine whether the warrantless seizure and search of cell phone records revealing the location and movements of a cell phone user over the course of 127 days violates the Fourth Amendment.",
+    "written_opinion": null,
+    "related_cases": null,
+    "justia_url": null
+}

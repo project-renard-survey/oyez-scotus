@@ -1,0 +1,81 @@
+{
+    "ID": 62820,
+    "name": "Wilson v. Sellers",
+    "href": "https:\/\/api.oyez.org\/cases\/2017\/16-6855",
+    "view_count": 74,
+    "docket_number": "16-6855",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
+    "first_party": "Marion Wilson",
+    "second_party": "Eric Sellers, Warden",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1488175200
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53983"
+        }
+    ],
+    "lower_court": {
+        "ID": 15,
+        "name": "United States Court of Appeals for the Eleventh Circuit",
+        "href": "https:\/\/api.oyez.org\/taxonomy\/term\/15"
+    },
+    "facts_of_the_case": "<p>A Georgia jury convicted Marion Wilson of malice murder and several other felonies. At sentencing, Wilson\u2019s attorney argued that Wilson was not the triggerman and presented evidence of his difficult childhood. The trial court sentenced Wilson to death, and the Supreme Court of Georgia affirmed his convictions and sentence on direct appeal. Wilson filed a state petition for a writ of habeas corpus in the Superior Court of Butts County, Georgia, in which he argued ineffective assistance of his trial counsel in the sentencing phase of his trial. His argument rested on lay testimony that could have been used as evidence of his difficult childhood and expert testimony that could have explained his poor judgment skills. The superior court denied the petition in a written order. Wilson then filed an application for a certificate of probable cause to appeal, which the Georgia Supreme Court summarily denied in a one-sentence order.\u00a0<\/p>\n<p>Wilson then filed a federal petition for a writ of habeas corpus, and the district court denied him relief on the grounds that the state trial court reasonably applied clearly established federal law. However, the district court granted Wilson a certificate of appealability on the issue of effective assistance of counsel at sentencing. A panel of the Eleventh Circuit affirmed the district court\u2019s decision, reasoning that \u201cthe one-line decision of the Supreme Court of Georgia . . . is the relevant state-court decision for our review because it is the final decision on the merits.\u201d In his petition for rehearing en banc, Wilson argued that the panel should have examined the last reasoned decision by a state court. Georgia originally argued a federal court should \u201clook through\u201d a summary order to see whether it was based on procedural grounds or merits, but then it changed its position and argued that the court should look to the reasoned opinion. The Eleventh Circuit, sitting en banc, appointed an amicus curiae to argue Georgia\u2019s original position on the matter. The Eleventh Circuit en banc ultimately concluded that federal courts do not need to \u201clook through\u201d a summary decision on the merits to review the reasoning of a lower court.<\/p>\n",
+    "question": "<p>Did the appeals court err in holding that Harrington v. Richter silently abrogates the presumption that a federal court sitting in habeas proceedings should \u201clook through\u201d a summary state court ruling to review the last reasoned decision?<\/p>\n",
+    "conclusion": null,
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 62856,
+                "name": "Brian Kammer",
+                "href": "https:\/\/api.oyez.org\/people\/brian_kammer",
+                "view_count": 0,
+                "last_name": "Kammer",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "brian_kammer"
+            },
+            "advocate_description": "for petitioner",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22292"
+        },
+        {
+            "advocate": {
+                "ID": 62857,
+                "name": "Sabrina D. Graham",
+                "href": "https:\/\/api.oyez.org\/people\/sabrina_d_graham",
+                "view_count": 0,
+                "last_name": "Graham",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "sabrina_d_graham"
+            },
+            "advocate_description": "for respondent",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22293"
+        }
+    ],
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27510"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        null
+    ],
+    "decided_by": null,
+    "term": "2017",
+    "location": null,
+    "opinion_announcement": null,
+    "description": "A case in which the Court will decide whether its decision in Harrington v. Richter implicitly abrogated the presumption that a federal court sitting in habeas proceedings should \u201clook through\u201d a summary state court ruling to review the last reasoned result.",
+    "written_opinion": null,
+    "related_cases": null,
+    "justia_url": null
+}

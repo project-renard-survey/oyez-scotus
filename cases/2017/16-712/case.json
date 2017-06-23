@@ -1,0 +1,81 @@
+{
+    "ID": 62852,
+    "name": "Oil States Energy Services LLC v. Greene\u2019s Energy Group, LLC",
+    "href": "https:\/\/api.oyez.org\/cases\/2017\/16-712",
+    "view_count": 47,
+    "docket_number": "16-712",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
+    "first_party": "Oil States Energy Services LLC",
+    "second_party": "Greene\u2019s Energy Group, LLC",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1497243600
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/54052"
+        }
+    ],
+    "lower_court": {
+        "ID": 17,
+        "name": "United States Court of Appeals for the Federal Circuit",
+        "href": "https:\/\/api.oyez.org\/taxonomy\/term\/17"
+    },
+    "facts_of_the_case": "<p dir=\"ltr\">During hydraulic fracturing (known as \u201cfracking\u201d) procedures, fluid is pumped into oil and gas wells to stimulate production. However, the wellheads that sit on top of oil and gas wells are not designed to withstand continuous exposure to fracking fluids and can sustain significant damage as a result. In an attempt to address this issue, Stinger Wellhead Protection Inc., a subsidiary of Oil States Energy Services, first tried using a design described in Canadian Patent Application No. 2,195,118 (the \u2019118 Application) that relies on using hydraulic pressure first to push a \u201cmandrel\u201d into the wellhead through which the fracking fluid could be pumped without contacting the wellhead equipment. That method failed to sufficiently address the issue, so the Oil States subsidiary attempted a different method using a mechanical lockdown mechanism (described in Patent No. 6,179,053, or the \u2019053 Patent), rather than hydraulic pressure. In 2012, Oil States filed a patent infringement suit against Greene\u2019s Energy Group, during the course of which litigation the district court found the \u2019053 Patent to be distinct from the \u2019118 Application using the \u201cordinary meaning\u201d standard. Greene\u2019s filed for inter partes review, which is a process used by the Patent and Trademark Office where one party asks the U.S. Patent Trial and Appeal Board to reconsider the PTO\u2019s issuance of an existing patent and invalidate it on the ground that it was anticipated by prior art or obvious. Oil States challenges the practice of inter partes review as violating the constitutional right of patent owners to a jury and an Article III forum before having their patent invalidated.\u00a0<\/p>\n",
+    "question": "<p>Does inter partes review violate the Constitution by depriving patent holders of their property rights without providing them a jury and an Article III forum?<\/p>\n",
+    "conclusion": null,
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 56044,
+                "name": "Allyson N. Ho",
+                "href": "https:\/\/api.oyez.org\/people\/allyson_n_ho",
+                "view_count": 0,
+                "last_name": "Ho",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "allyson_n_ho"
+            },
+            "advocate_description": "for petitioner",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22286"
+        },
+        {
+            "advocate": {
+                "ID": 62853,
+                "name": "George E. Quillin",
+                "href": "https:\/\/api.oyez.org\/people\/george_e_quillin",
+                "view_count": 0,
+                "last_name": "Quillin",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "george_e_quillin"
+            },
+            "advocate_description": "for respondent",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22287"
+        }
+    ],
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27522"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        null
+    ],
+    "decided_by": null,
+    "term": "2017",
+    "location": null,
+    "opinion_announcement": null,
+    "description": "A case in which the Court will decide whether inter partes review, an adversarial process used by the Patent and Trademark Office, unconstitutionally deprives patent holders of their right to a jury and access to an Article III forum before depriving them of a property right.",
+    "written_opinion": null,
+    "related_cases": null,
+    "justia_url": null
+}

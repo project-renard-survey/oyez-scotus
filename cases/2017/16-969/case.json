@@ -1,0 +1,81 @@
+{
+    "ID": 62847,
+    "name": "SAS Institute Inc. v. Lee",
+    "href": "https:\/\/api.oyez.org\/cases\/2017\/16-969",
+    "view_count": 53,
+    "docket_number": "16-969",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
+    "first_party": "SAS Institute Inc.",
+    "second_party": "Michelle K. Lee",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1495429200
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/54037"
+        }
+    ],
+    "lower_court": {
+        "ID": 17,
+        "name": "United States Court of Appeals for the Federal Circuit",
+        "href": "https:\/\/api.oyez.org\/taxonomy\/term\/17"
+    },
+    "facts_of_the_case": "<p>SAS Institute Inc. is appealing a decision by the U.S. Court of Appeals for the Federal Circuit in which that court held that the Patent Trial and Appeal Board (PTAB) did not err in issuing a final written decision in an inter partes review that was petitioned by SAS Institute. While the PTAB contends that it need only have addressed certain challenged claims, rather than every challenged claim, SAS alleges that the PTAB in fact misconstrued a claim term, as well as erred by not addressing all the claims SAS challenged in its original petition.\u2028<\/p>\n",
+    "question": "<p>Under 35 U.S.C. \u00a7 318(a), must the Patent Trial and Appeal Board in its final written decision address every claim that is challenged in the petition, or may said decision merely address a subset of those claims?\u2028<\/p>\n",
+    "conclusion": null,
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 25142,
+                "name": "Gregory A.  Castanias",
+                "href": "https:\/\/api.oyez.org\/people\/gregory_a_castanias_0",
+                "view_count": 0,
+                "last_name": "Castanias",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "gregory_a__castanias"
+            },
+            "advocate_description": "for petitioner",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22280"
+        },
+        {
+            "advocate": {
+                "ID": 33557,
+                "name": "Jeffrey B. Wall",
+                "href": "https:\/\/api.oyez.org\/people\/jeffrey_b_wall",
+                "view_count": 0,
+                "last_name": "Wall",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "jeffrey_b_wall"
+            },
+            "advocate_description": "for respondent",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22281"
+        }
+    ],
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27518"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        null
+    ],
+    "decided_by": null,
+    "term": "2017",
+    "location": null,
+    "opinion_announcement": null,
+    "description": "A case in which the court will determine if the Patent Trial and Appeal Board must address every claim that is challenged in a claimant\u2019s petition in its final written decision, or if it may address only a subset of those claims, pursuant to 35 U.S.C. \u00a7 318(a).",
+    "written_opinion": null,
+    "related_cases": null,
+    "justia_url": null
+}
