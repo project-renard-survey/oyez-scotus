@@ -1,0 +1,120 @@
+{
+    "ID": 62839,
+    "name": "Patchak v. Zinke",
+    "href": "https:\/\/api.oyez.org\/cases\/2017\/16-498",
+    "view_count": 86,
+    "docket_number": "16-498",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
+    "first_party": "David Patchak",
+    "second_party": "Ryan Zinke, Sec. of Interior",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1493614800
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/54031"
+        }
+    ],
+    "lower_court": {
+        "ID": 16,
+        "name": "United States Court of Appeals for the District of Columbia Circuit",
+        "href": "https:\/\/api.oyez.org\/taxonomy\/term\/16"
+    },
+    "facts_of_the_case": "<p dir=\"ltr\">The Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians (the Gun Lake Tribe) is an Indian tribe in western Michigan that was first formally recognized by the U.S. Department of the Interior in 1999. In 2001, the Tribe petitioned for a tract of land called the Bradley Property to be put into trust for the Tribe\u2019s use under the Indian Reorganization Act (IRA), 25 U.S.C. \u00a7 465, and the Bureau of Indian Affairs granted the petition in 2005. The Tribe subsequently constructed and opened the Gun Lake Casino on the Bradley Property.<\/p>\n<p>David Patchak lives in a rural area near the Bradley Property and asserts that he moved there because of its unique rural setting and that the construction and operation of the casino caused him injury. Patchak filed a lawsuit against the Secretary of the Interior and other defendants, claiming that the Secretary lacked the authority to put the Bradley Property into trust for the Gun Lake Tribe. That lawsuit was argued up to the U.S. Supreme Court on a threshold issue of standing, and after the Supreme Court held that Patchak had standing to sue, President Obama signed into law the Gun Lake Act, which provided, among other things, that any legal action relating to the Bradley Property \u201cshall not be filed or maintained in a Federal court and shall be promptly dismissed.\u201d<\/p>\n",
+    "question": "<ol><li>Does a statute that directs the federal courts to \u201cpromptly dismiss\u201d a pending lawsuit but that does not amend the underlying substantive or procedural laws violate the Constitution\u2019s separation of powers principles?<\/li>\n<li>Does a statute that does not amend any generally applicable substantive or procedural laws but deprives an individual of the right to pursue a pending lawsuit violate the Due Process Clause of the Fifth Amendment?<\/li>\n<\/ol>",
+    "conclusion": null,
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 62840,
+                "name": "Scott E. Gant",
+                "href": "https:\/\/api.oyez.org\/people\/scott_e_gant",
+                "view_count": 0,
+                "last_name": "Gant",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "scott_e_gant"
+            },
+            "advocate_description": "for petitioner",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22266"
+        },
+        {
+            "advocate": {
+                "ID": 62841,
+                "name": "Conly J. Schulte",
+                "href": "https:\/\/api.oyez.org\/people\/conly_j_schulte",
+                "view_count": 0,
+                "last_name": "Schulte",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "conly_j_schulte"
+            },
+            "advocate_description": "for respondent",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22267"
+        },
+        {
+            "advocate": {
+                "ID": 33557,
+                "name": "Jeffrey B. Wall",
+                "href": "https:\/\/api.oyez.org\/people\/jeffrey_b_wall",
+                "view_count": 0,
+                "last_name": "Wall",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "jeffrey_b_wall"
+            },
+            "advocate_description": "for repondent",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22268"
+        },
+        {
+            "advocate": {
+                "ID": 62842,
+                "name": "Stephen I. Vladeck",
+                "href": "https:\/\/api.oyez.org\/people\/stephen_i_vladeck",
+                "view_count": 0,
+                "last_name": "Vladeck",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "stephen_i_vladeck"
+            },
+            "advocate_description": "for respondent",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22269"
+        }
+    ],
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27516"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        null
+    ],
+    "decided_by": null,
+    "term": "2017",
+    "location": {
+        "latitude": 42.631654,
+        "longitude": -85.655594,
+        "name": "Gun Lake Casino",
+        "street": "1123 129th Ave",
+        "city": "Wayland",
+        "province": "MI",
+        "postal_code": null,
+        "province_name": "Michigan"
+    },
+    "opinion_announcement": null,
+    "description": "A case in which the Court will decide whether a statute that directs the federal courts to \"promptly dismiss\u201d certain lawsuits without affecting any underlying laws violates the Constitution\u2019s separation of powers principles, and whether that statute violates the due process rights of a plaintiff with a pending lawsuit affected by the statute.",
+    "written_opinion": null,
+    "related_cases": null,
+    "justia_url": null
+}

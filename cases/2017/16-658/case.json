@@ -1,0 +1,81 @@
+{
+    "ID": 62819,
+    "name": "Hamer v. Neighborhood Housing Services of Chicago",
+    "href": "https:\/\/api.oyez.org\/cases\/2017\/16-658",
+    "view_count": 54,
+    "docket_number": "16-658",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
+    "first_party": "Chamaine Hamer",
+    "second_party": "Neighborhood Housing Services of Chicago",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1488175200
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/53982"
+        }
+    ],
+    "lower_court": {
+        "ID": 12,
+        "name": "United States Court of Appeals for the Seventh Circuit",
+        "href": "https:\/\/api.oyez.org\/taxonomy\/term\/12"
+    },
+    "facts_of_the_case": "<p>Charmaine Hamer, a former intake specialist for the Housing Services of Chicago (NHS) and Fannie Mae\u2019s Mortgage Help Center, filed suit against her former employers, alleging violations of the Age Discrimination in Employment Act and Title VII of the Civil Rights Act of 1964. The district court granted summary judgment in favor of Fannie Mae and NHS on September 14, 2015.<\/p>\n<p>Under Federal Rule of Appellate Procedure 4(a)(1)(A) and 28 U.S.C. Section 2107(a), Hamer had until October 14, 2015 to appeal the judgment. On October 8, 2015, her attorney filed a motion to extend the appeal deadline to December 14, 2015, which the district court granted. Hamer filed her appeal on December 11, 2015.<\/p>\n<p>In a brief requested by the appellate court, Fannie Mae and NHS argued that Hamer\u2019s appeal was untimely under Rule 4(a)(5)(C) and thus that the appellate court lacked jurisdiction over the appeal. That rule states that \u201c[n]o extension under this Rule 4(a)(5) may exceed 30 days after the prescribed time or 14 days after the date when the order granting the motion is entered, whichever is later.\u201d Hamer argued that the rule is at odds with 28 U.S.C. Section 2107(a), which provides that \u201cthe district court may, upon motion filed not later than 30 days after the expiration of the time otherwise set for bringing appeal, extend the time for appeal upon a showing of excusable neglect or good cause.\u201d The appellate court found Hamer\u2019s argument unpersuasive and dismissed her appeal for lack of jurisdiction.<\/p>\n",
+    "question": "<p>Does Federal Rule of Appellate Procedure 4(a)(5)(C) deprive a court of appeals of jurisdiction over an appeal that is statutorily timely, or is the Rule merely a claim-processing rule subject to considerations such as forfeiture, waiver, and the unique circumstances doctrine?<\/p>\n",
+    "conclusion": null,
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 62855,
+                "name": "Jonathan A. Herstoff",
+                "href": "https:\/\/api.oyez.org\/people\/jonathan_a_herstoff",
+                "view_count": 0,
+                "last_name": "Herstoff",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "jonathan_a_herstoff"
+            },
+            "advocate_description": "for petitioner",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22290"
+        },
+        {
+            "advocate": {
+                "ID": 34236,
+                "name": "Linda T. Coberly",
+                "href": "https:\/\/api.oyez.org\/node\/34236",
+                "view_count": 0,
+                "last_name": "Coberly",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": null
+            },
+            "advocate_description": "for respondent",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22291"
+        }
+    ],
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27509"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        null
+    ],
+    "decided_by": null,
+    "term": "2017",
+    "location": null,
+    "opinion_announcement": null,
+    "description": "A case in which the Court will decide whether Federal Rule of Appellate Procedure 4(a)(5)(C) deprives a court of appeals of jurisdiction over an appeal that is statutorily timely, or whether the Rule is subject to equitable considerations.",
+    "written_opinion": null,
+    "related_cases": null,
+    "justia_url": null
+}

@@ -1,0 +1,86 @@
+{
+    "ID": 62859,
+    "name": "Gill v. Witford",
+    "href": "https:\/\/api.oyez.org\/cases\/2017\/16-1161",
+    "view_count": 0,
+    "docket_number": "16-1161",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Appeal",
+    "first_party": "Beverly R. Gill",
+    "second_party": "William Whitford",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1497848400
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/54059"
+        }
+    ],
+    "lower_court": {
+        "ID": 146,
+        "name": "Federal district court",
+        "href": "https:\/\/api.oyez.org\/courts\/federal_district_court"
+    },
+    "facts_of_the_case": "<p>In 2010, for the first time in over forty years, Wisconsin voters elected a Republican majority in the state assembly and the senate, and a Republican governor. As a result, the Republican leadership developed a voting district map that its drafters calculated would allow Republicans to maintain a majority under any likely voting scenario. The redistricting plan was introduced in July 2011, and both the senate and the assembly passed the bill shortly thereafter. The governor signed the bill into law in August 2011. Even before it was enacted, the plan faced two legal challenges, on constitutional and statutory grounds. A federal court upheld the plan as not violating the \u201cone person one vote\u201d principle nor violating the Equal Protection Clause.<\/p>\n<p>Plaintiffs in this case challenge the plan as an unconstitutional partisan gerrymander. At issue is whether the plan systematically dilutes the voting strength of Democratic voters statewide.<\/p>\n<p>\u00a0<\/p>\n",
+    "question": "<ol><li>Did the district court err in holding that it had the authority to hear a statewide challenge to Wisconsin's redistricting plan, rather than requiring a district-by-district analysis?<\/li>\n<li>Did the district court err in holding that the redistricting plan was an unconstitutional gerrymander?<\/li>\n<li>Did the district court use an incorrect test for a gerrymander?<\/li>\n<li>Are defendants entitled to present evidence that they would have prevailed under the gerrymander test actually used by the district court?<\/li>\n<li>Are partisan gerrymandering claims justiciable?<\/li>\n<\/ol>",
+    "conclusion": null,
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 62823,
+                "name": "Misha Tseytlin",
+                "href": "https:\/\/api.oyez.org\/people\/misha_tseytlin",
+                "view_count": 0,
+                "last_name": "Tseytlin",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "misha_tseytlin"
+            },
+            "advocate_description": "for the appellants",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22294"
+        },
+        {
+            "advocate": {
+                "ID": 38319,
+                "name": "Paul M. Smith",
+                "href": "https:\/\/api.oyez.org\/people\/paul_m_smith",
+                "view_count": 0,
+                "last_name": "Smith",
+                "roles": null,
+                "thumbnail": {
+                    "id": 32800,
+                    "mime": "image\/jpeg",
+                    "size": 4689,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/paul_m_smith\/paul_m_smith.thumb.jpg"
+                },
+                "length_of_service": 0,
+                "identifier": "paul_m_smith"
+            },
+            "advocate_description": "for the appellees",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22295"
+        }
+    ],
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27524"
+    },
+    "decisions": null,
+    "first_party_label": "Appellant",
+    "second_party_label": "Appellee",
+    "heard_by": [
+        null
+    ],
+    "decided_by": null,
+    "term": "2017",
+    "location": null,
+    "opinion_announcement": null,
+    "description": "A case in which the Court will decide whether partisan gerrymandering claims are justiciable, and whether the district court erred in striking down Wisconsin\u2019s redistricting plan as an unconstitutional partisan gerrymander.",
+    "written_opinion": null,
+    "related_cases": null,
+    "justia_url": null
+}
