@@ -3,7 +3,22 @@
     "name": "Louis D. Brandeis",
     "href": "https:\/\/api.oyez.org\/people\/louis_d_brandeis",
     "view_count": 0,
+    "first_name": "Louis",
+    "middle_name": "D.",
     "last_name": "Brandeis",
+    "name_suffix": null,
+    "date_of_birth": -3570112800,
+    "place_of_birth": "Louisville, KY",
+    "date_of_death": -891194400,
+    "place_of_death": null,
+    "gender": "Male",
+    "ethnicity": "German",
+    "family_status": "Upper class\/wealthy",
+    "mother": "Fredericka Dembitz",
+    "father": "Adolph Brandeis",
+    "mothers_occupation": null,
+    "fathers_occupation": "Grain merchant",
+    "biography": "<p>Louis Dembitz Brandeis was the son of Jewish immigrants. He was born and raised in Louisville, Kentucky where his father was a successful grain merchant. Brandeis entered Harvard Law School when he was eighteen and earned the highest average in the law school's history, graduating in 1877.<\/p>\n<p>Brandeis came to the Supreme Court with extraordinary credentials as a lawyer and public figure. He proved to be an equally extraordinary justice by employing the skills that made him renowned as an attorney: he mastered procedural details, researched the facts and the law, and went to great lengths to fashion opinions that were clear and logical.<\/p>\n<p>For Brandeis, law was a device to shape social, economic, and political affairs. Law had to operate on the basis of two key assumptions: that the individual was the basic force in society and that the individual had limited capabilities. Brandeis did not seek to coddle the individual; rather, he sought to stretch individual potential to its limit.<\/p>\n<p>It is difficult to isolate a single opinion among the hundreds that Brandeis wrote. Whatever the choice, some student will surely take exception. However, the opinion with the greatest impact on the law must be the federalism case of Erie v. Tompkins, one of the last opinions Brandeis wrote.<\/p>\n",
     "roles": [
         {
             "id": 2719,
@@ -22,6 +37,21 @@
         "size": 33357,
         "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/louis_d_brandeis\/louis_d_brandeis.thumb.png"
     },
+    "images": [
+        {
+            "file": {
+                "id": 12161,
+                "mime": "image\/jpeg",
+                "size": 38226,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/louis_d_brandeis\/louis_d_brandeis.jpg"
+            },
+            "image_field_caption": "The Collection of the Supreme Court of the United States (Artist: Eben F. Comins)"
+        }
+    ],
+    "religion": "Jewish",
     "length_of_service": 8288,
-    "identifier": "louis_d_brandeis"
+    "identifier": "louis_d_brandeis",
+    "law_school": "Harvard",
+    "number_of_children": 2,
+    "home_state": "Massachusetts"
 }

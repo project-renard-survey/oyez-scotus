@@ -3,7 +3,22 @@
     "name": "John H. Clarke",
     "href": "https:\/\/api.oyez.org\/people\/john_h_clarke",
     "view_count": 0,
+    "first_name": "John",
+    "middle_name": "H.",
     "last_name": "Clarke",
+    "name_suffix": null,
+    "date_of_birth": -3543415200,
+    "place_of_birth": "Lisbon, OH",
+    "date_of_death": -781988400,
+    "place_of_death": null,
+    "gender": "Male",
+    "ethnicity": "Scotch\/Irish",
+    "family_status": "Upper-middle class",
+    "mother": "Melissa Hessin",
+    "father": "John Clarke",
+    "mothers_occupation": null,
+    "fathers_occupation": "Lawyer",
+    "biography": "<p>John H. Clarke was born and raised in Lisbon, Ohio. After graduating from Western Reserve College, he read law and entered his father's practice in Ohio. Clarke quickly ventured on his own. He published the Youngstown Vindicator; it became the outlet for Clarke's strong progressivism. He supported suffrage for women, a mandatory civil service, and public disclosure of campaign expenditures. Clarke read widely and lectured on Shakespeare and James Russell Lowell.<\/p>\n<p>Clarke, a progressive Democrat, twice entered unsuccessful contests for the U.S. Senate. President Wilson appointed him to the federal district court for the Northern District of Ohio.<\/p>\n<p>Wilson nominated Clarke to replace Charles Evans Hughes, who resigned to run against Wilson for the presidency in 1916. Clarke's support for progressive causes never reached fruition on the Court because Clarke reisgned after less than six years in order to promote American participation in the League of Nations.<\/p>\n",
     "roles": [
         {
             "id": 2706,
@@ -22,6 +37,21 @@
         "size": 32752,
         "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_h_clarke\/john_h_clarke.thumb.png"
     },
+    "images": [
+        {
+            "file": {
+                "id": 12148,
+                "mime": "image\/jpeg",
+                "size": 41876,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_h_clarke\/john_h_clarke.jpg"
+            },
+            "image_field_caption": "The Collection of the Supreme Court of the United States (Artist: Edeth Stevenson Wright)"
+        }
+    ],
+    "religion": "Protestant",
     "length_of_service": 2170,
-    "identifier": "john_h_clarke"
+    "identifier": "john_h_clarke",
+    "law_school": "Western Reserve",
+    "number_of_children": 0,
+    "home_state": "Ohio"
 }

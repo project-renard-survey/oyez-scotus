@@ -3,7 +3,22 @@
     "name": "John M. Harlan",
     "href": "https:\/\/api.oyez.org\/people\/john_m_harlan",
     "view_count": 0,
+    "first_name": "John",
+    "middle_name": "M.",
     "last_name": "Harlan",
+    "name_suffix": null,
+    "date_of_birth": -4310215200,
+    "place_of_birth": "Boyle County, KY",
+    "date_of_death": -1837188000,
+    "place_of_death": null,
+    "gender": "Male",
+    "ethnicity": "English",
+    "family_status": "Upper class\/wealthy",
+    "mother": "Eliza S. Davenport",
+    "father": "James Harlan",
+    "mothers_occupation": null,
+    "fathers_occupation": "Lawyer",
+    "biography": "<p>John Marshall Harlan was born to a civic-minded family whose members played active roles in public life. Harlan studied law at Transylvania University (\"The Harvard of the West\") and finished his legal education in his father's law office.<\/p>\n<p>Harlan was a slaveholder and a member of the southern aristocracy, but he remained loyal to the Union over the Confederacy. Later, as head of the Kentucky delegation to the 1876 Republican national convention, Harlan helped the drive to nominate Ohio governor Rutherford B. Hayes. A year later, President Hayes nominated Harlan to the Supreme Court.<\/p>\n<p>Harlan sat longer than most justices. In his long tenure, he earned the title of \"great dissenter.\" Always within spitting distance of a spittoon, Harlan was perhaps the last of the tobacco-chewing justices.<\/p>\n",
     "roles": [
         {
             "id": 2783,
@@ -22,6 +37,21 @@
         "size": 59106,
         "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_m_harlan\/john_m_harlan.thumb.png"
     },
+    "images": [
+        {
+            "file": {
+                "id": 12222,
+                "mime": "image\/jpeg",
+                "size": 28141,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_m_harlan\/john_m_harlan.jpg"
+            },
+            "image_field_caption": "The Collection of the Supreme Court of the United States (Artist: Pierre Troubetzkoy)"
+        }
+    ],
+    "religion": "Presbyterian",
     "length_of_service": 12351,
-    "identifier": "john_m_harlan"
+    "identifier": "john_m_harlan",
+    "law_school": "Transylvania",
+    "number_of_children": 6,
+    "home_state": "Kentucky"
 }

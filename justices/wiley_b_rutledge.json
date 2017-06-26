@@ -2,8 +2,23 @@
     "ID": 15102,
     "name": "Wiley B. Rutledge",
     "href": "https:\/\/api.oyez.org\/people\/wiley_b_rutledge",
-    "view_count": 129,
+    "view_count": 137,
+    "first_name": "Wiley",
+    "middle_name": "B.",
     "last_name": "Rutledge",
+    "name_suffix": null,
+    "date_of_birth": -2380989600,
+    "place_of_birth": "Cloverport, KY",
+    "date_of_death": -640897200,
+    "place_of_death": null,
+    "gender": "Male",
+    "ethnicity": "English",
+    "family_status": "Middle class",
+    "mother": "Mary Lou Wigginton",
+    "father": "Wiley Rutledge",
+    "mothers_occupation": null,
+    "fathers_occupation": "Baptist minister",
+    "biography": "<p>Wiley Rutledge was President Franklin Delano Roovelt's eighth and last appointment to the Supreme Court. Rutledge had spoken out in support of Roosevelt's court-packing plan while dean of the University of Iowa Law School. Roosevelt appointed him to the federal appellate bench in 1939 where Rutledge demonstrated strong liberal credentials.<\/p>\n<p>Rutledge proved to be a strong liberal on the High Court. He did not see the Fourteenth Amendment as a limitation on the reach of the Bill of Rights. Due process had meaning that might go beyond specific Bill of Rights provisions.<\/p>\n",
     "roles": [
         {
             "id": 2746,
@@ -22,6 +37,21 @@
         "size": 43753,
         "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/wiley_b_rutledge\/wiley_b_rutledge.thumb_1.png"
     },
+    "images": [
+        {
+            "file": {
+                "id": 12188,
+                "mime": "image\/jpeg",
+                "size": 43816,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/wiley_b_rutledge\/wiley_b_rutledge.jpg"
+            },
+            "image_field_caption": "The Collection of the Supreme Court of the United States (Artist: Harold M. Brett)"
+        }
+    ],
+    "religion": "Unitarian",
     "length_of_service": 2399,
-    "identifier": "wiley_b_rutledge"
+    "identifier": "wiley_b_rutledge",
+    "law_school": "Indiana; Colorado",
+    "number_of_children": 3,
+    "home_state": "Iowa"
 }
