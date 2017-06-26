@@ -1,0 +1,112 @@
+{
+    "ID": 62860,
+    "name": "Trump v. International Refugee Assistance Project",
+    "href": "https:\/\/api.oyez.org\/cases\/2017\/16-1436",
+    "view_count": 0,
+    "docket_number": "16-1436",
+    "additional_docket_numbers": [
+        "16-1540"
+    ],
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
+    "first_party": "Donald J. Trump",
+    "second_party": "International Refugee Assistance Project",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1498453200
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/54081"
+        }
+    ],
+    "lower_court": {
+        "ID": 9,
+        "name": "United States Court of Appeals for the Fourth Circuit",
+        "href": "https:\/\/api.oyez.org\/taxonomy\/term\/9"
+    },
+    "facts_of_the_case": null,
+    "question": null,
+    "conclusion": null,
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 33557,
+                "name": "Jeffrey B. Wall",
+                "href": "https:\/\/api.oyez.org\/people\/jeffrey_b_wall",
+                "view_count": 0,
+                "last_name": "Wall",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "jeffrey_b_wall"
+            },
+            "advocate_description": "for petitioners",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22296"
+        },
+        {
+            "advocate": {
+                "ID": 62861,
+                "name": "Omar C. Jadwat",
+                "href": "https:\/\/api.oyez.org\/people\/omar_c_jadwat",
+                "view_count": 0,
+                "last_name": "Jadwat",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "omar_c_jadwat"
+            },
+            "advocate_description": "for respondents",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22297"
+        }
+    ],
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27525"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        null
+    ],
+    "decided_by": null,
+    "term": "2017",
+    "location": null,
+    "opinion_announcement": null,
+    "description": null,
+    "written_opinion": [
+        {
+            "id": 16349,
+            "title": "Concurring opinion",
+            "author": null,
+            "type": {
+                "value": "concurring",
+                "label": "Concurring opinion"
+            },
+            "justia_opinion_id": 3752812,
+            "justia_opinion_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/582\/16-1436\/concur3.html",
+            "judge_full_name": "Clarence Thomas",
+            "judge_last_name": "Thomas",
+            "href": "https:\/\/api.oyez.org\/case_document\/written_opinion\/16349"
+        },
+        {
+            "id": 16350,
+            "title": "Opinion of the Court",
+            "author": null,
+            "type": {
+                "value": "majority",
+                "label": "Opinion of the Court"
+            },
+            "justia_opinion_id": 3752813,
+            "justia_opinion_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/582\/16-1436\/",
+            "judge_full_name": null,
+            "judge_last_name": null,
+            "href": "https:\/\/api.oyez.org\/case_document\/written_opinion\/16350"
+        }
+    ],
+    "related_cases": null,
+    "justia_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/582\/16-1436\/"
+}
