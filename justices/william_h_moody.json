@@ -3,7 +3,22 @@
     "name": "William H. Moody",
     "href": "https:\/\/api.oyez.org\/people\/william_h_moody",
     "view_count": 0,
+    "first_name": "William",
+    "middle_name": "H.",
     "last_name": "Moody",
+    "name_suffix": null,
+    "date_of_birth": -3661351200,
+    "place_of_birth": "Newbury, MA",
+    "date_of_death": -1656784800,
+    "place_of_death": null,
+    "gender": "Male",
+    "ethnicity": "English",
+    "family_status": "Upper class\/wealthy",
+    "mother": "Melissa Emerson",
+    "father": "Henry Moody",
+    "mothers_occupation": null,
+    "fathers_occupation": "Businessman, farmer",
+    "biography": "<p>William Moody graduated Harvard College and studied law briefly thereafter. He left law school and apprenticed in a law office in Boston, entering the bar in1878.<\/p>\n<p>Moody was active in Republican politics and was named district attorney for eastern Massachusetts in 1890. He rose to prominence when he prosecuted the alleged ax-murderer, Lizzie Borden. Although she was acquitted, his prosecutorial skill was noted by leading Republicans of the day.<\/p>\n<p>Moody had powerful friends in high places. He was close to New York police commissioner Theodore Roosevelt. When Roosevelt assumed the presidency, he called on Moody to serve as Secretary of the Navy. Later Roosevelt appointed him attorney general and then elevated him to the High Court to replace Justice Henry Brown.<\/p>\n<p>Moody's Court career was cut short by a form of crippling rheumatism that forced his early retirement from the bench.<\/p>\n",
     "roles": [
         {
             "id": 2765,
@@ -22,6 +37,21 @@
         "size": 50896,
         "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_moody\/william_h_moody.thumb.png"
     },
+    "images": [
+        {
+            "file": {
+                "id": 12205,
+                "mime": "image\/jpeg",
+                "size": 35425,
+                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/william_h_moody\/william_h_moody.jpg"
+            },
+            "image_field_caption": "The Collection of the Supreme Court of the United States (Artist: C. Gregory Stapko)"
+        }
+    ],
+    "religion": "Episcopalian",
     "length_of_service": 1434,
-    "identifier": "william_h_moody"
+    "identifier": "william_h_moody",
+    "law_school": "Harvard",
+    "number_of_children": 4,
+    "home_state": "Massachusetts"
 }
