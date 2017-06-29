@@ -1,4 +1,4 @@
-#   Oyez Bulk Data Archive
+#  Oyez Bulk Data Archive
 An extract of data provided by Oyez's archive of materials from the Supreme Court of the United States. See [oyez.org](https://www.oyez.org).
 
 ## Updates
