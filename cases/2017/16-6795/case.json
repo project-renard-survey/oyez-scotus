@@ -2,7 +2,7 @@
     "ID": 62831,
     "name": "Ayestas v. Davis",
     "href": "https:\/\/api.oyez.org\/cases\/2017\/16-6795",
-    "view_count": 95,
+    "view_count": 99,
     "docket_number": "16-6795",
     "additional_docket_numbers": null,
     "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
@@ -23,9 +23,45 @@
         "href": "https:\/\/api.oyez.org\/taxonomy\/term\/10"
     },
     "facts_of_the_case": "<p dir=\"ltr\">In July 1997, Carlos Manuel Ayestas, a Honduran national, was convicted and sentenced to death for the murder of Santiaga Paneque at her home in Houston, Texas. Ayestas appealed his conviction and filed for state habeas relief based on a claim of ineffective assistance of counsel; he argued that his trial counsel failed to secure the testimony of family members who could have presented mitigating evidence. The state habeas court found that Ayestas\u2019 trial attorney was not ineffective and denied his application for habeas relief. The Texas Court of Criminal Appeals adopted the findings of the state habeas court and denied relief as well. <\/p>\n<p>In 2009, Ayestas, with a new attorney, filed a federal habeas petition and claimed that his trial counsel had been ineffective because he had failed to conduct a reasonable investigation that would have uncovered \u201cavailable and abundant\u201d mitigating factors. However, the district court found that his claim was procedurally defaulted because it had not been raised in the state habeas proceeding and denied relief. The U.S. Court of Appeals for the Fifth Circuit affirmed. The U.S. Supreme Court subsequently decided Martinez v. Ryan, which held that ineffectiveness of state habeas counsel in failing to bring an ineffective assistance of trial counsel claim may excuse a procedural default. The Supreme Court later extended the holding of Martinez to Texas\u2019 habeas scheme in Trevino v. Thaler. In light of these decisions, Ayestas asked for a rehearing. On rehearing in the district court, Ayestas filed a motion for investigative assistance that was \u201creasonably necessary\u201d to develop his broader ineffective assistance of counsel claim under 18 U.S.C. \u00a73599(f). The district court denied the motion based on Fifth Circuit precedent that holds that investigative assistance is not \u201creasonably necessary\u201d unless the habeas petitioner can carry the ultimate burden of proof on the underlying claim at the time of the request for investigative assistance. The district court determined that Ayestas could not meet his burden of proof on the ineffective assistance of counsel claim and therefore denied the motion. The appellate court affirmed.<\/p>\n",
-    "question": "<p>Are investigative services under 18 U.S.C. \u00a73599(f) only \u201creasonably necessary\u201d when the habeas petitioner requesting the services can meet the burden of proof for the underlying claim for habeas relief at the time of the request for the investigative services? <\/p>\n",
+    "question": "<p>Are investigative services under 18 U.S.C. \u00a73599(f) only \u201creasonably necessary\u201d when the habeas petitioner requesting the services can meet the burden of proof for the underlying claim for habeas relief at the time of the request for the investigative services?<\/p>\n",
     "conclusion": null,
-    "advocates": null,
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 56070,
+                "name": "Scott A. Keller",
+                "href": "https:\/\/api.oyez.org\/people\/scott_a_keller",
+                "view_count": 0,
+                "last_name": "Keller",
+                "roles": null,
+                "thumbnail": {
+                    "id": 32795,
+                    "mime": "image\/jpeg",
+                    "size": 5270,
+                    "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/scott_a_keller\/scott_a_keller.thumb.jpg"
+                },
+                "length_of_service": 0,
+                "identifier": "scott_a_keller"
+            },
+            "advocate_description": "Solicitor General, U.S. Department of Justice, for the respondent",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22319"
+        },
+        {
+            "advocate": {
+                "ID": 62880,
+                "name": "Lee B. Kovarsky",
+                "href": "https:\/\/api.oyez.org\/people\/lee_b_kovarsky",
+                "view_count": 0,
+                "last_name": "Kovarsky",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "lee_b_kovarsky"
+            },
+            "advocate_description": "for the petitioner",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22320"
+        }
+    ],
     "oral_argument_audio": null,
     "citation": {
         "volume": null,

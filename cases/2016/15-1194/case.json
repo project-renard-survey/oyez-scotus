@@ -2,7 +2,7 @@
     "ID": 62772,
     "name": "Packingham v. North Carolina",
     "href": "https:\/\/api.oyez.org\/cases\/2016\/15-1194",
-    "view_count": 1104,
+    "view_count": 1124,
     "docket_number": "15-1194",
     "additional_docket_numbers": null,
     "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
@@ -38,7 +38,7 @@
     },
     "facts_of_the_case": "<p dir=\"ltr\">Lester Packingham was convicted of taking \u201cindecent liberties\u201d with a minor in 2002, as a 21-year-old college student. Per North Carolina law, he was sentenced to a standard 10-12 month imprisonment, followed by a 24-month supervised release. Aside from being told to \u201cremain away from\u201d the minor, his conviction entailed no special stipulations. Packingham was arrested in 2010 after authorities came across a post on his Facebook profile, thanking God for having a parking ticket dismissed. He was arrested for violating North Carolina\u2019s laws regarding convicted sex offenders, which barred the offender\u2019s access to social media websites. <\/p>\n<p>\u00a0\n<\/p><p>In his defense, Packingham argued that the law violated his First Amendment rights. He was convicted in trial court, which found that the state had a weighty interest in keeping sexual predators off of social media websites for the \u201cprotection of minors.\u201d The North Carolina Court of Appeals reversed and held that the social media website provision of the law was unconstitutional. The North Carolina Supreme Court reversed and held that the law was constitutional by finding that the law was a \u201climitation on conduct\u201d and not a restriction of free speech. The court found that the state had a sufficient interest in \u201cforestalling the illicit lurking and contact\u201d of registered sex offenders and their potential future victims.<\/p>\n",
     "question": "<p>Does a North Carolina law prohibiting registered sex offenders from accessing various websites, where minors are known to be active and have accounts, regardless of whether or not the sex offender directly interacted with a minor, violate the First Amendment?<\/p>\n",
-    "conclusion": null,
+    "conclusion": "<p dir=\"ltr\">The North Carolina law prohibiting registered sex offenders from accessing various websites, where minors are known to be active and have accounts, regardless of whether or not the sex offender directly interacted with a minor violates the First Amendment. Justice Anthony M. Kennedy delivered the opinion of the 5-3 majority. The Court held that, in order to be valid under the First Amendment, a content-neutral regulation of speech must be narrowly tailored to serve a significant government interest. In other words, the law cannot burden substantially more speech than necessary to advance the government\u2019s legitimate interest. In this case, although the government has a legitimate interest in protecting children from abuse, this law too broadly restricted access to all sorts of websites. Even if it were limited only to social media websites, the law would still unconstitutionally restrict speech because of the vast number of functions that social media websites perform in the modern world. First Amendment jurisprudence has never allowed for such a broad regulation of speech, and similarly broad restrictions have been struck down. However, a state could accomplish the same goal by enacting a more narrowly written statute. <\/p>\n<p dir=\"ltr\">Justice Samuel A. Alito, Jr., wrote an opinion concurring in the judgment in which he argued that the majority opinion erred in equating the entire internet with a traditionally public forum instead of recognizing the importance of allowing states to regulate certain types of websites. The government certainly has a compelling interest in protecting children from potential sexual predation, and the internet is a place that allows sexual offenders to contact children in ways that they might not otherwise be able, so the government should be able to regulate sex offenders\u2019 use of the internet to an extent. However, the North Carolina law at issue here went too far because it encompassed websites that were unlikely to facilitate a sex crime against a child. Because the North Carolina law prohibited more speech than necessary to further the government\u2019s significant interest, it violated the First Amendment. Chief Justice John G. Roberts, Jr. and Justice Clarence Thomas joined in the opinion concurring in the judgment.<\/p>\n<p>\u00a0<\/p>\n<p dir=\"ltr\">Justice Neil Gorsuch did not participate in the discussion or decision of this case.<\/p>\n",
     "advocates": [
         {
             "advocate": {
@@ -86,7 +86,501 @@
         "year": null,
         "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27474"
     },
-    "decisions": null,
+    "decisions": [
+        {
+            "description": "The North Carolina law prohibiting registered sex offenders from accessing various websites, where minors are known to be active and have accounts, regardless of whether or not the sex offender directly interacted with a minor violates the First Amendment.",
+            "votes": [
+                {
+                    "member": {
+                        "ID": 15113,
+                        "name": "Anthony M. Kennedy",
+                        "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                        "view_count": 64,
+                        "last_name": "Kennedy",
+                        "roles": [
+                            {
+                                "id": 2757,
+                                "type": "scotus_justice",
+                                "date_start": 572162400,
+                                "date_end": 0,
+                                "appointing_president": "Ronald Reagan",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2757"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32679,
+                            "mime": "image\/png",
+                            "size": 47100,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
+                        },
+                        "length_of_service": 10275,
+                        "identifier": "anthony_m_kennedy"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": null,
+                    "seniority": 2,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/209210"
+                },
+                {
+                    "member": {
+                        "ID": 15139,
+                        "name": "Stephen G. Breyer",
+                        "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                        "view_count": 36,
+                        "last_name": "Breyer",
+                        "roles": [
+                            {
+                                "id": 2785,
+                                "type": "scotus_justice",
+                                "date_start": 775890000,
+                                "date_end": 0,
+                                "appointing_president": "Bill Clinton",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2785"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32682,
+                            "mime": "image\/png",
+                            "size": 49908,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
+                        },
+                        "length_of_service": 7917,
+                        "identifier": "stephen_g_breyer"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15113,
+                            "name": "Anthony M. Kennedy",
+                            "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                            "view_count": 64,
+                            "last_name": "Kennedy",
+                            "roles": [
+                                {
+                                    "id": 2757,
+                                    "type": "scotus_justice",
+                                    "date_start": 572162400,
+                                    "date_end": 0,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2757"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32679,
+                                "mime": "image\/png",
+                                "size": 47100,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
+                            },
+                            "length_of_service": 10275,
+                            "identifier": "anthony_m_kennedy"
+                        }
+                    ],
+                    "seniority": 5,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/209211"
+                },
+                {
+                    "member": {
+                        "ID": 15084,
+                        "name": "Ruth Bader Ginsburg",
+                        "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                        "view_count": 38,
+                        "last_name": "Ginsburg",
+                        "roles": [
+                            {
+                                "id": 2728,
+                                "type": "scotus_justice",
+                                "date_start": 744958800,
+                                "date_end": 0,
+                                "appointing_president": "Bill Clinton",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2728"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32681,
+                            "mime": "image\/png",
+                            "size": 45030,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
+                        },
+                        "length_of_service": 8275,
+                        "identifier": "ruth_bader_ginsburg"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15113,
+                            "name": "Anthony M. Kennedy",
+                            "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                            "view_count": 64,
+                            "last_name": "Kennedy",
+                            "roles": [
+                                {
+                                    "id": 2757,
+                                    "type": "scotus_justice",
+                                    "date_start": 572162400,
+                                    "date_end": 0,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2757"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32679,
+                                "mime": "image\/png",
+                                "size": 47100,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
+                            },
+                            "length_of_service": 10275,
+                            "identifier": "anthony_m_kennedy"
+                        }
+                    ],
+                    "seniority": 4,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/209212"
+                },
+                {
+                    "member": {
+                        "ID": 15131,
+                        "name": "Sonia Sotomayor",
+                        "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
+                        "view_count": 44,
+                        "last_name": "Sotomayor",
+                        "roles": [
+                            {
+                                "id": 2776,
+                                "type": "scotus_justice",
+                                "date_start": 1249707600,
+                                "date_end": 0,
+                                "appointing_president": null,
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2776"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32685,
+                            "mime": "image\/png",
+                            "size": 50379,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/sonia_sotomayor\/sonia_sotomayor.thumb.png"
+                        },
+                        "length_of_service": 2433,
+                        "identifier": "sonia_sotomayor"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15113,
+                            "name": "Anthony M. Kennedy",
+                            "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                            "view_count": 64,
+                            "last_name": "Kennedy",
+                            "roles": [
+                                {
+                                    "id": 2757,
+                                    "type": "scotus_justice",
+                                    "date_start": 572162400,
+                                    "date_end": 0,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2757"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32679,
+                                "mime": "image\/png",
+                                "size": 47100,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
+                            },
+                            "length_of_service": 10275,
+                            "identifier": "anthony_m_kennedy"
+                        }
+                    ],
+                    "seniority": 7,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/209213"
+                },
+                {
+                    "member": {
+                        "ID": 15094,
+                        "name": "Elena Kagan",
+                        "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
+                        "view_count": 53,
+                        "last_name": "Kagan",
+                        "roles": [
+                            {
+                                "id": 2738,
+                                "type": "scotus_justice",
+                                "date_start": 1281157200,
+                                "date_end": 0,
+                                "appointing_president": "Barack Obama",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2738"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32690,
+                            "mime": "image\/png",
+                            "size": 44456,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
+                        },
+                        "length_of_service": 2347,
+                        "identifier": "elena_kagan"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15113,
+                            "name": "Anthony M. Kennedy",
+                            "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                            "view_count": 64,
+                            "last_name": "Kennedy",
+                            "roles": [
+                                {
+                                    "id": 2757,
+                                    "type": "scotus_justice",
+                                    "date_start": 572162400,
+                                    "date_end": 0,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2757"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32679,
+                                "mime": "image\/png",
+                                "size": 47100,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
+                            },
+                            "length_of_service": 10275,
+                            "identifier": "anthony_m_kennedy"
+                        }
+                    ],
+                    "seniority": 8,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/209214"
+                },
+                {
+                    "member": {
+                        "ID": 15068,
+                        "name": "Samuel A. Alito, Jr.",
+                        "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                        "view_count": 41,
+                        "last_name": "Alito",
+                        "roles": [
+                            {
+                                "id": 2712,
+                                "type": "scotus_justice",
+                                "date_start": 1138687200,
+                                "date_end": 0,
+                                "appointing_president": "George W. Bush",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2712"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32684,
+                            "mime": "image\/png",
+                            "size": 44799,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
+                        },
+                        "length_of_service": 3718,
+                        "identifier": "samuel_a_alito_jr"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "concurrence",
+                    "joining": null,
+                    "seniority": 6,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/209215"
+                },
+                {
+                    "member": {
+                        "ID": 15086,
+                        "name": "John G. Roberts, Jr.",
+                        "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                        "view_count": 33,
+                        "last_name": "Roberts",
+                        "roles": [
+                            {
+                                "id": 2730,
+                                "type": "scotus_justice",
+                                "date_start": 1127970000,
+                                "date_end": 0,
+                                "appointing_president": "George W. Bush",
+                                "role_title": "Chief Justice of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32683,
+                            "mime": "image\/png",
+                            "size": 52305,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_g_roberts_jr\/john_g_roberts_jr.thumb.png"
+                        },
+                        "length_of_service": 3842,
+                        "identifier": "john_g_roberts_jr"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15068,
+                            "name": "Samuel A. Alito, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                            "view_count": 41,
+                            "last_name": "Alito",
+                            "roles": [
+                                {
+                                    "id": 2712,
+                                    "type": "scotus_justice",
+                                    "date_start": 1138687200,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2712"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32684,
+                                "mime": "image\/png",
+                                "size": 44799,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
+                            },
+                            "length_of_service": 3718,
+                            "identifier": "samuel_a_alito_jr"
+                        }
+                    ],
+                    "seniority": 1,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/209216"
+                },
+                {
+                    "member": {
+                        "ID": 15100,
+                        "name": "Clarence Thomas",
+                        "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                        "view_count": 74,
+                        "last_name": "Thomas",
+                        "roles": [
+                            {
+                                "id": 2744,
+                                "type": "scotus_justice",
+                                "date_start": 688194000,
+                                "date_end": 0,
+                                "appointing_president": "George H. W. Bush",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2744"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32680,
+                            "mime": "image\/png",
+                            "size": 49064,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
+                        },
+                        "length_of_service": 9347,
+                        "identifier": "clarence_thomas"
+                    },
+                    "vote": "majority",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15068,
+                            "name": "Samuel A. Alito, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
+                            "view_count": 41,
+                            "last_name": "Alito",
+                            "roles": [
+                                {
+                                    "id": 2712,
+                                    "type": "scotus_justice",
+                                    "date_start": 1138687200,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2712"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32684,
+                                "mime": "image\/png",
+                                "size": 44799,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/samuel_alito_jr\/samuel_alito_jr.thumb.png"
+                            },
+                            "length_of_service": 3718,
+                            "identifier": "samuel_a_alito_jr"
+                        }
+                    ],
+                    "seniority": 3,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/209217"
+                },
+                {
+                    "member": {
+                        "ID": 62836,
+                        "name": "Neil Gorsuch",
+                        "href": "https:\/\/api.oyez.org\/people\/neil_gorsuch",
+                        "view_count": 52,
+                        "last_name": "Gorsuch",
+                        "roles": [
+                            {
+                                "id": 3506,
+                                "type": "scotus_justice",
+                                "date_start": 1491541200,
+                                "date_end": 0,
+                                "appointing_president": "Donald J. Trump",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/3506"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 79753,
+                            "mime": "image\/png",
+                            "size": 121461,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/filefield_paths\/neil_gorsuch.thumb__0.png"
+                        },
+                        "length_of_service": 74,
+                        "identifier": "neil_gorsuch"
+                    },
+                    "vote": "none",
+                    "opinion_type": "none",
+                    "joining": null,
+                    "seniority": 9,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/209218"
+                }
+            ],
+            "majority_vote": 8,
+            "minority_vote": 0,
+            "winning_party": "Packingham",
+            "decision_type": "majority opinion",
+            "href": "https:\/\/api.oyez.org\/case_decision\/case_decision\/16820"
+        }
+    ],
     "first_party_label": "Petitioner",
     "second_party_label": "Respondent",
     "heard_by": [
@@ -100,7 +594,7 @@
                     "ID": 15086,
                     "name": "John G. Roberts, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                    "view_count": 32,
+                    "view_count": 33,
                     "last_name": "Roberts",
                     "roles": [
                         {
@@ -127,7 +621,7 @@
                     "ID": 15113,
                     "name": "Anthony M. Kennedy",
                     "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
-                    "view_count": 68,
+                    "view_count": 64,
                     "last_name": "Kennedy",
                     "roles": [
                         {
@@ -154,7 +648,7 @@
                     "ID": 15100,
                     "name": "Clarence Thomas",
                     "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
-                    "view_count": 81,
+                    "view_count": 74,
                     "last_name": "Thomas",
                     "roles": [
                         {
@@ -181,7 +675,7 @@
                     "ID": 15084,
                     "name": "Ruth Bader Ginsburg",
                     "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
-                    "view_count": 43,
+                    "view_count": 38,
                     "last_name": "Ginsburg",
                     "roles": [
                         {
@@ -208,7 +702,7 @@
                     "ID": 15139,
                     "name": "Stephen G. Breyer",
                     "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                    "view_count": 37,
+                    "view_count": 36,
                     "last_name": "Breyer",
                     "roles": [
                         {
@@ -235,7 +729,7 @@
                     "ID": 15068,
                     "name": "Samuel A. Alito, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
-                    "view_count": 39,
+                    "view_count": 41,
                     "last_name": "Alito",
                     "roles": [
                         {
@@ -262,7 +756,7 @@
                     "ID": 15131,
                     "name": "Sonia Sotomayor",
                     "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
-                    "view_count": 50,
+                    "view_count": 44,
                     "last_name": "Sotomayor",
                     "roles": [
                         {
@@ -289,7 +783,7 @@
                     "ID": 15094,
                     "name": "Elena Kagan",
                     "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
-                    "view_count": 54,
+                    "view_count": 53,
                     "last_name": "Kagan",
                     "roles": [
                         {
@@ -335,7 +829,7 @@
                 "ID": 15086,
                 "name": "John G. Roberts, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                "view_count": 32,
+                "view_count": 33,
                 "last_name": "Roberts",
                 "roles": [
                     {
@@ -362,7 +856,7 @@
                 "ID": 15113,
                 "name": "Anthony M. Kennedy",
                 "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
-                "view_count": 68,
+                "view_count": 64,
                 "last_name": "Kennedy",
                 "roles": [
                     {
@@ -389,7 +883,7 @@
                 "ID": 15100,
                 "name": "Clarence Thomas",
                 "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
-                "view_count": 81,
+                "view_count": 74,
                 "last_name": "Thomas",
                 "roles": [
                     {
@@ -416,7 +910,7 @@
                 "ID": 15084,
                 "name": "Ruth Bader Ginsburg",
                 "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
-                "view_count": 43,
+                "view_count": 38,
                 "last_name": "Ginsburg",
                 "roles": [
                     {
@@ -443,7 +937,7 @@
                 "ID": 15139,
                 "name": "Stephen G. Breyer",
                 "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                "view_count": 37,
+                "view_count": 36,
                 "last_name": "Breyer",
                 "roles": [
                     {
@@ -470,7 +964,7 @@
                 "ID": 15068,
                 "name": "Samuel A. Alito, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
-                "view_count": 39,
+                "view_count": 41,
                 "last_name": "Alito",
                 "roles": [
                     {
@@ -497,7 +991,7 @@
                 "ID": 15131,
                 "name": "Sonia Sotomayor",
                 "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
-                "view_count": 50,
+                "view_count": 44,
                 "last_name": "Sotomayor",
                 "roles": [
                     {
@@ -524,7 +1018,7 @@
                 "ID": 15094,
                 "name": "Elena Kagan",
                 "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
-                "view_count": 54,
+                "view_count": 53,
                 "last_name": "Kagan",
                 "roles": [
                     {
@@ -551,7 +1045,7 @@
                 "ID": 62836,
                 "name": "Neil Gorsuch",
                 "href": "https:\/\/api.oyez.org\/people\/neil_gorsuch",
-                "view_count": 49,
+                "view_count": 52,
                 "last_name": "Gorsuch",
                 "roles": [
                     {
@@ -591,7 +1085,7 @@
         "province_name": "North Carolina"
     },
     "opinion_announcement": null,
-    "description": "A case in which the Court will determine whether a North Carolina law prohibiting registered sex offenders from accessing various websites where minors are known to be active and have accounts, regardless of whether or not the sex offender directly interacted with a minor, violates the First Amendment.",
+    "description": "A case in which the Court determined that the North Carolina law prohibiting registered sex offenders from accessing various websites, where minors are known to be active and have accounts, regardless of whether or not the sex offender directly interacted with a minor violates the First Amendment.",
     "written_opinion": [
         {
             "id": 16301,

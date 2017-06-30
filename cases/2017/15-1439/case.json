@@ -1,0 +1,66 @@
+{
+    "ID": 62863,
+    "name": "Cyan, Inc. v. Beaver County Employees' Retirement Fund",
+    "href": "https:\/\/api.oyez.org\/cases\/2017\/15-1439",
+    "view_count": 0,
+    "docket_number": "15-1439",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
+    "first_party": "Cyan, Inc., et. al.",
+    "second_party": "Beaver County Employees' Retirement Fund, et. al.",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1498539600
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/54085"
+        }
+    ],
+    "lower_court": {
+        "ID": 76,
+        "name": "State appellate court",
+        "href": "https:\/\/api.oyez.org\/courts\/state_appellate_court"
+    },
+    "facts_of_the_case": "<p>Since the enactment of the Securities Act of 1933, state courts have had concurrent jurisdiction to decide federal law claims brought under that statute. Congress then passed the Securities Litigation Uniform Standards Act of 1988, which precluded certain state law securities class actions, and amended the 1933 Act to reflect that limitation on state court claims.<\/p>\n<p>Beaver County Employees' Retirement Fund filed a lawsuit in a California superior court asserting claims under the 1933 Act. Cyan Inc. moved to dismiss the claims, arguing that the amended 1933 Act precluded state courts from exercising subject matter jurisdiction over 1933 Act claims entirely. The superior court rejected Cyan's objection to the exercise of jurisdiction. Federal district courts are split as to whether state courts have subject matter jurisdiction over covered class actions that allege only 1933 Act claims.<\/p>\n",
+    "question": "<p>Do\u00a0state courts have subject matter jurisdiction over covered class actions that allege only Securities Act of 1933 claims?<\/p>\n",
+    "conclusion": null,
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 62865,
+                "name": "Andrew S. Love",
+                "href": "https:\/\/api.oyez.org\/people\/andrew_s_love",
+                "view_count": 0,
+                "last_name": "Love",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "andrew_s_love"
+            },
+            "advocate_description": "for respondents",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22298"
+        }
+    ],
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27527"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        null
+    ],
+    "decided_by": null,
+    "term": "2017",
+    "location": null,
+    "opinion_announcement": null,
+    "description": "A case in which the Court will determine whether state courts may exercise subject matter jurisdiction over covered class actions that allege only Securities Act of 1933 claims.",
+    "written_opinion": null,
+    "related_cases": null,
+    "justia_url": null
+}

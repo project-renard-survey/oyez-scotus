@@ -1,0 +1,81 @@
+{
+    "ID": 62875,
+    "name": "Marinello v. United States",
+    "href": "https:\/\/api.oyez.org\/cases\/2017\/16-1144",
+    "view_count": 0,
+    "docket_number": "16-1144",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
+    "first_party": "Carlo J. Marinello, III",
+    "second_party": "United States of America",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1498539600
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/54090"
+        }
+    ],
+    "lower_court": {
+        "ID": 7,
+        "name": "United States Court of Appeals for the Second Circuit",
+        "href": "https:\/\/api.oyez.org\/taxonomy\/term\/7"
+    },
+    "facts_of_the_case": "<p>Carlo J. Marinello II owned and operated a freight service that couriered items to and from the United States and Canada. Between 1992 and 2010, Marinello did not keep an accounting of his business, nor did he file personal or corporate income tax returns. Indeed, he shredded bank statements and business records. After an investigation by the IRS, Marinello was indicted by a grand jury on nine counts of tax-related offenses, and a jury found him guilty on all counts. He was sentenced to 36 months in prison, one year of parole, and was ordered to pay over $350,000 to the IRS in restitution.<\/p>\n<p>One of the counts of which Marinello was charged and convicted was violation of 26 U.S.C. \u00a7 7212(a), which imposes criminal liability on one who \"in any . . . way corruptly . . . obstructs or impedes, or endeavors to obstruct or impede, the due administration of this title.\" Marinello appealed his conviction on the grounds that the phrase \"the due administration of this title\" requires the defendant be aware of IRS action, and the government provided no evidence at trial that Marinello knew of a pending IRS investigation against him. Finding that knowledge of a pending investigation is not an element of the offense of which Marinello was convicted, the Second Circuit affirmed his conviction and sentence.<\/p>\n",
+    "question": "<p>Does a conviction under 26 U.S.C. 7212(a) for corruptly endeavoring to obstruct or impede the due administration of the tax laws require that the government prove the defendant acted with knowledge of a pending Internal Revenue Service action?<\/p>\n",
+    "conclusion": null,
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 62876,
+                "name": "Joseph M. LaTona",
+                "href": "https:\/\/api.oyez.org\/people\/joseph_m_latona",
+                "view_count": 0,
+                "last_name": "LaTona",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "joseph_m_latona"
+            },
+            "advocate_description": "for petitioner",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22309"
+        },
+        {
+            "advocate": {
+                "ID": 33557,
+                "name": "Jeffrey B. Wall",
+                "href": "https:\/\/api.oyez.org\/people\/jeffrey_b_wall",
+                "view_count": 0,
+                "last_name": "Wall",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "jeffrey_b_wall"
+            },
+            "advocate_description": "for respondent",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22310"
+        }
+    ],
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27532"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        null
+    ],
+    "decided_by": null,
+    "term": "2017",
+    "location": null,
+    "opinion_announcement": null,
+    "description": "A case in which the Court will decide whether a conviction under 26 U.S.C. 7212(a) for corruptly endeavoring to obstruct or impede the due administration of the tax laws requires proof that the defendant acted with knowledge of a pending Internal Revenue Service action.",
+    "written_opinion": null,
+    "related_cases": null,
+    "justia_url": null
+}

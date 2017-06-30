@@ -1,0 +1,111 @@
+{
+    "ID": 62877,
+    "name": "Digital Realty Trust, Inc. v. Somers",
+    "href": "https:\/\/api.oyez.org\/cases\/2017\/16-1276",
+    "view_count": 0,
+    "docket_number": "16-1276",
+    "additional_docket_numbers": null,
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
+    "first_party": "Digital Realty Trust, Inc.",
+    "second_party": "Paul Somers",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1498453200
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/54091"
+        }
+    ],
+    "lower_court": {
+        "ID": 5,
+        "name": "United States Court of Appeals for the Ninth Circuit",
+        "href": "https:\/\/api.oyez.org\/taxonomy\/term\/5"
+    },
+    "facts_of_the_case": "<p>Paul Somers worked as Vice President of Digital Realty Trust from 2010 to 2014. According to his complaint, Somers filed several reports to senior management regarding possible securities law violations by the company, after which reports the company fired him. He did not report his concerns to the Securities and Exchange Commission (SEC) before he was terminated. Somers then sued Digital Realty, alleging violations of state and federal laws, including Section 21F of the Exchange Act, which includes the anti-retaliation protections created by the Dodd-Frank Act. Digital Realty sought to dismiss the Section 21F claim on the ground that, because Somers did not actually report the possible violations to the SEC, he was not a \"whistleblower\" as defined in the Act and thus not entitled to protection under its provisions.<\/p>\n<p>The Fifth Circuit in 2013 had strictly applied the Act's definition of \"whistleblower\" to the anti-retaliation provision, while the Second Circuit, finding the statute itself ambiguous and applying <em>Chevron<\/em> deference to the SEC's reasonable interpretation of it, had held in 2015 that the provision extends to all those who make disclosures of suspected violations, regardless of whether the disclosures are made internally or to the SEC. The district court in this case followed the Second Circuit's approach and denied Digital Realty's motion to dismiss. The Ninth Circuit affirmed the district court's decision.<\/p>\n",
+    "question": "<p>Does the anti-retaliation provision for \"whistleblowers\" in the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 extend protection to individuals who have not reported alleged misconduct to the Securities and Exchange Commission and thus fall outside the act\u2019s definition of \"whistleblower\"?<\/p>\n",
+    "conclusion": null,
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 33978,
+                "name": "Kannon K. Shanmugam",
+                "href": "https:\/\/api.oyez.org\/people\/kannon_k_shanmugam",
+                "view_count": 0,
+                "last_name": "Shanmugam",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "kannon_k_shanmugam"
+            },
+            "advocate_description": "for petitioner",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22311"
+        },
+        {
+            "advocate": {
+                "ID": 38345,
+                "name": "Peter K. Stris",
+                "href": "https:\/\/api.oyez.org\/people\/peter_k_stris",
+                "view_count": 0,
+                "last_name": "Stris",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "peter_k_stris"
+            },
+            "advocate_description": "for respondent",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22312"
+        },
+        {
+            "advocate": {
+                "ID": 62878,
+                "name": "Brendan S. Maher",
+                "href": "https:\/\/api.oyez.org\/people\/brendan_s_maher",
+                "view_count": 0,
+                "last_name": "Maher",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "brendan_s_maher"
+            },
+            "advocate_description": "for respondent",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22313"
+        },
+        {
+            "advocate": {
+                "ID": 62794,
+                "name": "Daniel L. Geyser",
+                "href": "https:\/\/api.oyez.org\/people\/daniel_l_geyser",
+                "view_count": 0,
+                "last_name": "Geyser",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "daniel_l_geyser"
+            },
+            "advocate_description": "for respondent",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22314"
+        }
+    ],
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27533"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        null
+    ],
+    "decided_by": null,
+    "term": "2017",
+    "location": null,
+    "opinion_announcement": null,
+    "description": "A case in which the Court will resolve a circuit split as to whether the anti-retaliation provision for \"whistleblowers\" in the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 applies only to individuals who fall within the act\u2019s specific definition of \"whistleblower,\" that is, those who disclose allegedly unlawful activity to the Securities and Exchange Commission.",
+    "written_opinion": null,
+    "related_cases": null,
+    "justia_url": null
+}

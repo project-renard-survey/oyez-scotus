@@ -1,0 +1,83 @@
+{
+    "ID": 62869,
+    "name": "Christie v. National Collegiate Athletic Association",
+    "href": "https:\/\/api.oyez.org\/cases\/2017\/16-476",
+    "view_count": 0,
+    "docket_number": "16-476",
+    "additional_docket_numbers": [
+        "16-477"
+    ],
+    "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
+    "first_party": "Christopher J. Christie, Governor of New Jersey, et al.",
+    "second_party": "National Collegiate Athletic Association, et. al.",
+    "timeline": [
+        {
+            "event": "Granted",
+            "dates": [
+                1498539600
+            ],
+            "href": "https:\/\/api.oyez.org\/case_timeline\/case_timeline\/54087"
+        }
+    ],
+    "lower_court": {
+        "ID": 8,
+        "name": "United States Court of Appeals for the Third Circuit",
+        "href": "https:\/\/api.oyez.org\/taxonomy\/term\/8"
+    },
+    "facts_of_the_case": "<p>In 1992, Congress passed the Professional and Amateur Sports Protection Act (PASPA), 28 U.S.C. \u00a7\u00a7 3701-3704, to prohibit state-sanctioned sports gambling. Included in PASPA are exceptions for state-sponsored sports wagering in Nevada and sports lotteries in Oregon and Delaware, as well as for New Jersey, provided that New Jersey also enact a sports gambling scheme within one year of PASPA's enactment, which it did not do. PASPA also permits any sports league whose games are or will be the subject of sports gambling to bring an action to enjoin the gambling.<\/p>\n<p>In 2011, the New Jersey Legislature held a referendum asking voters whether sports gambling should be permitted, and 64 percent voted in favor of a state constitutional amendment that would permit sports gambling. The legislature then drafted and received voter approval of a sports-wagering constitutional amendment, after which time, in 2012, it enacted the Sports Wagering Act (\"2012 Act\"), which authorized certain regulated sports wagering at New Jersey casinos and racetracks and implemented a comprehensive regulatory scheme for licensing casinos and sporting events.<\/p>\n<p>Five sports leagues sued under PASPA to enjoin the New Jersey law, which the state defended by arguing that PASPA was unconstitutional under the anti-commandeering doctrine. The district court held that PASPA was constitutional and enjoined the 2012 Act. The legislature passed a second law (\"2014 Law\") that purported to repeal the regulatory scheme for licensing casinos and sporting events, effectively providing tacit authorization of them. The leagues again sued to enjoin the 2014 Law, and the district court granted summary judgment in favor of the leagues and issued a permanent injunction against the governor and other state agencies. A divided panel of the Third Circuit affirmed, and upon rehearing, the Third Circuit en banc affirmed the majority opinion of the panel.<\/p>\n",
+    "question": "<p>Does a federal statute that prohibits modification or repeal of state-law prohibitions on private conduct impermissibly commandeer the regulatory power of states in contravention of New York v. United States?<\/p>\n",
+    "conclusion": null,
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 43165,
+                "name": "Theodore B. Olson",
+                "href": "https:\/\/api.oyez.org\/people\/theodore_b_olson",
+                "view_count": 0,
+                "last_name": "Olson",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "theodore_b_olson"
+            },
+            "advocate_description": "for petitioners",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22302"
+        },
+        {
+            "advocate": {
+                "ID": 37772,
+                "name": "Paul D. Clement",
+                "href": "https:\/\/api.oyez.org\/people\/paul_d_clement",
+                "view_count": 43,
+                "last_name": "Clement",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "paul_d_clement"
+            },
+            "advocate_description": "for respondents",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22303"
+        }
+    ],
+    "oral_argument_audio": null,
+    "citation": {
+        "volume": null,
+        "page": null,
+        "year": null,
+        "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27529"
+    },
+    "decisions": null,
+    "first_party_label": "Petitioner",
+    "second_party_label": "Respondent",
+    "heard_by": [
+        null
+    ],
+    "decided_by": null,
+    "term": "2017",
+    "location": null,
+    "opinion_announcement": null,
+    "description": "A case in which the Court will decide whether a federal statute that prohibits modification or repeal of state-law prohibitions on private conduct impermissibly commandeers the regulatory power of states in contravention of New York v. United States.",
+    "written_opinion": null,
+    "related_cases": null,
+    "justia_url": null
+}
