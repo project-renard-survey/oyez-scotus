@@ -42,7 +42,7 @@
                                     "id": 2693,
                                     "type": "scotus_justice",
                                     "date_start": 528094800,
-                                    "date_end": 0,
+                                    "date_end": 1455343200,
                                     "appointing_president": "Ronald Reagan",
                                     "role_title": "Associate Justice of the Supreme Court of the United States",
                                     "institution_name": "Supreme Court of the United States",
@@ -53,9 +53,9 @@
                                 "id": 32678,
                                 "mime": "image\/png",
                                 "size": 58944,
-                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/antonin_scalia_0.png"
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/antonin_scalia\/antonin_scalia.thumb.png"
                             },
-                            "length_of_service": 10699,
+                            "length_of_service": 10732,
                             "identifier": "antonin_scalia"
                         },
                         "text_blocks": [
@@ -85,7 +85,7 @@
                                 "stop": 42.776,
                                 "byte_start": 218413,
                                 "byte_stop": 260731,
-                                "text": "To detect the relative heat of Kyllo\u0027s home, officers used a thermal imager to scan the home in the middle of the night."
+                                "text": "To detect the relative heat of Kyllo's home, officers used a thermal imager to scan the home in the middle of the night."
                             },
                             {
                                 "start": 42.776,
@@ -99,7 +99,7 @@
                                 "stop": 66.003,
                                 "byte_start": 298034,
                                 "byte_stop": 353623,
-                                "text": "The scan of Kyllo\u0027s home showed that the roof over the garage and the side wall were relatively warm compared to adjoining roofs."
+                                "text": "The scan of Kyllo's home showed that the roof over the garage and the side wall were relatively warm compared to adjoining roofs."
                             },
                             {
                                 "start": 66.003,
@@ -337,7 +337,7 @@
                                 "stop": 432.796,
                                 "byte_start": 1787641,
                                 "byte_stop": 0,
-                                "text": "Justice Stevens has filed a dissenting opinion in which the Chief Justice, Justice O\u0027Connor and Justice Kennedy have joined."
+                                "text": "Justice Stevens has filed a dissenting opinion in which the Chief Justice, Justice O'Connor and Justice Kennedy have joined."
                             }
                         ]
                     }
