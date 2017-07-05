@@ -2,7 +2,6 @@
     "ID": 55330,
     "name": "Day v. McDonough",
     "href": "https:\/\/api.oyez.org\/cases\/2005\/04-1324",
-    "view_count": 0,
     "docket_number": "04-1324",
     "additional_docket_numbers": null,
     "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
@@ -45,7 +44,6 @@
                 "ID": 29072,
                 "name": "J. Brett Busby",
                 "href": "https:\/\/api.oyez.org\/people\/j_brett_busby",
-                "view_count": 0,
                 "last_name": "Busby",
                 "roles": null,
                 "thumbnail": null,
@@ -60,7 +58,6 @@
                 "ID": 19379,
                 "name": "Christopher M. Kise",
                 "href": "https:\/\/api.oyez.org\/people\/christopher_m_kise",
-                "view_count": 0,
                 "last_name": "Kise",
                 "roles": null,
                 "thumbnail": null,
@@ -72,10 +69,9 @@
         },
         {
             "advocate": {
-                "ID": 20751,
+                "ID": 20978,
                 "name": "Douglas Hallward-Driemeier",
-                "href": "https:\/\/api.oyez.org\/people\/douglas_hallward_driemeier",
-                "view_count": 0,
+                "href": "https:\/\/api.oyez.org\/node\/20978",
                 "last_name": "Hallward-Driemeier",
                 "roles": null,
                 "thumbnail": null,
@@ -110,7 +106,6 @@
                         "ID": 15086,
                         "name": "John G. Roberts, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                        "view_count": 40,
                         "last_name": "Roberts",
                         "roles": [
                             {
@@ -145,7 +140,6 @@
                         "ID": 15060,
                         "name": "John Paul Stevens",
                         "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
-                        "view_count": 0,
                         "last_name": "Stevens",
                         "roles": [
                             {
@@ -180,7 +174,6 @@
                         "ID": 15049,
                         "name": "Antonin Scalia",
                         "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                        "view_count": 54,
                         "last_name": "Scalia",
                         "roles": [
                             {
@@ -215,7 +208,6 @@
                         "ID": 15113,
                         "name": "Anthony M. Kennedy",
                         "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
-                        "view_count": 73,
                         "last_name": "Kennedy",
                         "roles": [
                             {
@@ -250,7 +242,6 @@
                         "ID": 15042,
                         "name": "David H. Souter",
                         "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
-                        "view_count": 0,
                         "last_name": "Souter",
                         "roles": [
                             {
@@ -285,7 +276,6 @@
                         "ID": 15100,
                         "name": "Clarence Thomas",
                         "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
-                        "view_count": 91,
                         "last_name": "Thomas",
                         "roles": [
                             {
@@ -305,7 +295,7 @@
                             "size": 49064,
                             "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                         },
-                        "length_of_service": 8932,
+                        "length_of_service": 9347,
                         "identifier": "clarence_thomas"
                     },
                     "vote": "minority",
@@ -315,7 +305,6 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
@@ -348,7 +337,6 @@
                         "ID": 15084,
                         "name": "Ruth Bader Ginsburg",
                         "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
-                        "view_count": 55,
                         "last_name": "Ginsburg",
                         "roles": [
                             {
@@ -383,7 +371,6 @@
                         "ID": 15139,
                         "name": "Stephen G. Breyer",
                         "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                        "view_count": 58,
                         "last_name": "Breyer",
                         "roles": [
                             {
@@ -413,7 +400,6 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
@@ -440,7 +426,6 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
-                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -473,7 +458,6 @@
                         "ID": 15068,
                         "name": "Samuel A. Alito, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
-                        "view_count": 74,
                         "last_name": "Alito",
                         "roles": [
                             {
@@ -518,13 +502,11 @@
             "ID": 15149,
             "name": "Roberts Court (2006-2009)",
             "href": "https:\/\/api.oyez.org\/courts\/roberts2",
-            "view_count": 0,
             "members": [
                 {
                     "ID": 15086,
                     "name": "John G. Roberts, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                    "view_count": 40,
                     "last_name": "Roberts",
                     "roles": [
                         {
@@ -551,7 +533,6 @@
                     "ID": 15060,
                     "name": "John Paul Stevens",
                     "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
-                    "view_count": 0,
                     "last_name": "Stevens",
                     "roles": [
                         {
@@ -578,7 +559,6 @@
                     "ID": 15049,
                     "name": "Antonin Scalia",
                     "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                    "view_count": 54,
                     "last_name": "Scalia",
                     "roles": [
                         {
@@ -605,7 +585,6 @@
                     "ID": 15113,
                     "name": "Anthony M. Kennedy",
                     "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
-                    "view_count": 73,
                     "last_name": "Kennedy",
                     "roles": [
                         {
@@ -632,7 +611,6 @@
                     "ID": 15042,
                     "name": "David H. Souter",
                     "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
-                    "view_count": 0,
                     "last_name": "Souter",
                     "roles": [
                         {
@@ -659,7 +637,6 @@
                     "ID": 15100,
                     "name": "Clarence Thomas",
                     "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
-                    "view_count": 91,
                     "last_name": "Thomas",
                     "roles": [
                         {
@@ -679,14 +656,13 @@
                         "size": 49064,
                         "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                     },
-                    "length_of_service": 8932,
+                    "length_of_service": 9347,
                     "identifier": "clarence_thomas"
                 },
                 {
                     "ID": 15084,
                     "name": "Ruth Bader Ginsburg",
                     "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
-                    "view_count": 55,
                     "last_name": "Ginsburg",
                     "roles": [
                         {
@@ -713,7 +689,6 @@
                     "ID": 15139,
                     "name": "Stephen G. Breyer",
                     "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                    "view_count": 58,
                     "last_name": "Breyer",
                     "roles": [
                         {
@@ -740,7 +715,6 @@
                     "ID": 15068,
                     "name": "Samuel A. Alito, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
-                    "view_count": 74,
                     "last_name": "Alito",
                     "roles": [
                         {
@@ -780,13 +754,11 @@
         "ID": 15149,
         "name": "Roberts Court (2006-2009)",
         "href": "https:\/\/api.oyez.org\/courts\/roberts2",
-        "view_count": 0,
         "members": [
             {
                 "ID": 15086,
                 "name": "John G. Roberts, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                "view_count": 40,
                 "last_name": "Roberts",
                 "roles": [
                     {
@@ -813,7 +785,6 @@
                 "ID": 15060,
                 "name": "John Paul Stevens",
                 "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
-                "view_count": 0,
                 "last_name": "Stevens",
                 "roles": [
                     {
@@ -840,7 +811,6 @@
                 "ID": 15049,
                 "name": "Antonin Scalia",
                 "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                "view_count": 54,
                 "last_name": "Scalia",
                 "roles": [
                     {
@@ -867,7 +837,6 @@
                 "ID": 15113,
                 "name": "Anthony M. Kennedy",
                 "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
-                "view_count": 73,
                 "last_name": "Kennedy",
                 "roles": [
                     {
@@ -894,7 +863,6 @@
                 "ID": 15042,
                 "name": "David H. Souter",
                 "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
-                "view_count": 0,
                 "last_name": "Souter",
                 "roles": [
                     {
@@ -921,7 +889,6 @@
                 "ID": 15100,
                 "name": "Clarence Thomas",
                 "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
-                "view_count": 91,
                 "last_name": "Thomas",
                 "roles": [
                     {
@@ -941,14 +908,13 @@
                     "size": 49064,
                     "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                 },
-                "length_of_service": 8932,
+                "length_of_service": 9347,
                 "identifier": "clarence_thomas"
             },
             {
                 "ID": 15084,
                 "name": "Ruth Bader Ginsburg",
                 "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
-                "view_count": 55,
                 "last_name": "Ginsburg",
                 "roles": [
                     {
@@ -975,7 +941,6 @@
                 "ID": 15139,
                 "name": "Stephen G. Breyer",
                 "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                "view_count": 58,
                 "last_name": "Breyer",
                 "roles": [
                     {
@@ -1002,7 +967,6 @@
                 "ID": 15068,
                 "name": "Samuel A. Alito, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
-                "view_count": 74,
                 "last_name": "Alito",
                 "roles": [
                     {
@@ -1048,6 +1012,64 @@
         }
     ],
     "description": null,
-    "written_opinion": null,
-    "related_cases": null
+    "written_opinion": [
+        {
+            "id": 2390,
+            "title": "Dissenting opinion",
+            "author": null,
+            "type": {
+                "value": "dissenting",
+                "label": "Dissenting opinion"
+            },
+            "justia_opinion_id": 1962046,
+            "justia_opinion_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/547\/198\/dissent2.html",
+            "judge_full_name": "Antonin Scalia",
+            "judge_last_name": "Scalia",
+            "href": "https:\/\/api.oyez.org\/case_document\/written_opinion\/2390"
+        },
+        {
+            "id": 2391,
+            "title": "Dissenting opinion",
+            "author": null,
+            "type": {
+                "value": "dissenting",
+                "label": "Dissenting opinion"
+            },
+            "justia_opinion_id": 1962047,
+            "justia_opinion_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/547\/198\/dissent.html",
+            "judge_full_name": "John Paul Stevens",
+            "judge_last_name": "Stevens",
+            "href": "https:\/\/api.oyez.org\/case_document\/written_opinion\/2391"
+        },
+        {
+            "id": 2392,
+            "title": "Syllabus",
+            "author": null,
+            "type": {
+                "value": "syllabus",
+                "label": "Syllabus"
+            },
+            "justia_opinion_id": 1962048,
+            "justia_opinion_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/547\/198\/",
+            "judge_full_name": null,
+            "judge_last_name": null,
+            "href": "https:\/\/api.oyez.org\/case_document\/written_opinion\/2392"
+        },
+        {
+            "id": 2393,
+            "title": "Opinion of the Court",
+            "author": null,
+            "type": {
+                "value": "majority",
+                "label": "Opinion of the Court"
+            },
+            "justia_opinion_id": 1962049,
+            "justia_opinion_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/547\/198\/opinion.html",
+            "judge_full_name": "Ruth Bader Ginsburg",
+            "judge_last_name": "Ginsburg",
+            "href": "https:\/\/api.oyez.org\/case_document\/written_opinion\/2393"
+        }
+    ],
+    "related_cases": null,
+    "justia_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/547\/198\/"
 }
