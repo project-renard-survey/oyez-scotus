@@ -2,7 +2,6 @@
     "ID": 61251,
     "name": "Curtis Publishing Company v. Butts",
     "href": "https:\/\/api.oyez.org\/cases\/1966\/37",
-    "view_count": 153,
     "docket_number": "37",
     "additional_docket_numbers": null,
     "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
@@ -50,14 +49,13 @@
     },
     "decisions": [
         {
-            "description": null,
+            "description": "Public figures asserting a defamation claim must show that a statement was made \"with knowledge that it was false or with reckless disregard for whether it was false or not,\" the same standard to which public officials are held under New York Times v. Sullivan.",
             "votes": [
                 {
                     "member": {
                         "ID": 15099,
                         "name": "Earl Warren",
                         "href": "https:\/\/api.oyez.org\/people\/earl_warren",
-                        "view_count": 52,
                         "last_name": "Warren",
                         "roles": [
                             {
@@ -92,7 +90,6 @@
                         "ID": 15089,
                         "name": "Hugo L. Black",
                         "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
-                        "view_count": 33,
                         "last_name": "Black",
                         "roles": [
                             {
@@ -127,7 +124,6 @@
                         "ID": 15107,
                         "name": "William O. Douglas",
                         "href": "https:\/\/api.oyez.org\/people\/william_o_douglas",
-                        "view_count": 0,
                         "last_name": "Douglas",
                         "roles": [
                             {
@@ -157,7 +153,6 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
-                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -190,7 +185,6 @@
                         "ID": 15083,
                         "name": "Tom C. Clark",
                         "href": "https:\/\/api.oyez.org\/people\/tom_c_clark",
-                        "view_count": 0,
                         "last_name": "Clark",
                         "roles": [
                             {
@@ -225,7 +219,6 @@
                         "ID": 15097,
                         "name": "John M. Harlan II",
                         "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
-                        "view_count": 0,
                         "last_name": "Harlan",
                         "roles": [
                             {
@@ -260,7 +253,6 @@
                         "ID": 15140,
                         "name": "William J. Brennan, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
-                        "view_count": 28,
                         "last_name": "Brennan",
                         "roles": [
                             {
@@ -295,7 +287,6 @@
                         "ID": 15043,
                         "name": "Potter Stewart",
                         "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
-                        "view_count": 31,
                         "last_name": "Stewart",
                         "roles": [
                             {
@@ -330,7 +321,6 @@
                         "ID": 15071,
                         "name": "Byron R. White",
                         "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
-                        "view_count": 0,
                         "last_name": "White",
                         "roles": [
                             {
@@ -360,7 +350,6 @@
                             "ID": 15140,
                             "name": "William J. Brennan, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
-                            "view_count": 28,
                             "last_name": "Brennan",
                             "roles": [
                                 {
@@ -393,7 +382,6 @@
                         "ID": 15061,
                         "name": "Abe Fortas",
                         "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
-                        "view_count": 0,
                         "last_name": "Fortas",
                         "roles": [
                             {
@@ -426,19 +414,18 @@
             ],
             "majority_vote": 5,
             "minority_vote": 4,
-            "winning_party": null,
+            "winning_party": "Butts",
             "decision_type": "plurality opinion",
             "href": "https:\/\/api.oyez.org\/case_decision\/case_decision\/15596"
         },
         {
-            "description": null,
+            "description": "The conduct of the Associated Press did not constitute a severe departure from accepted publishing standards, so it may not be held liable for defamation of a public figure.",
             "votes": [
                 {
                     "member": {
                         "ID": 15099,
                         "name": "Earl Warren",
                         "href": "https:\/\/api.oyez.org\/people\/earl_warren",
-                        "view_count": 52,
                         "last_name": "Warren",
                         "roles": [
                             {
@@ -473,7 +460,6 @@
                         "ID": 15089,
                         "name": "Hugo L. Black",
                         "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
-                        "view_count": 33,
                         "last_name": "Black",
                         "roles": [
                             {
@@ -508,7 +494,6 @@
                         "ID": 15107,
                         "name": "William O. Douglas",
                         "href": "https:\/\/api.oyez.org\/people\/william_o_douglas",
-                        "view_count": 0,
                         "last_name": "Douglas",
                         "roles": [
                             {
@@ -538,7 +523,6 @@
                             "ID": 15089,
                             "name": "Hugo L. Black",
                             "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
-                            "view_count": 33,
                             "last_name": "Black",
                             "roles": [
                                 {
@@ -571,7 +555,6 @@
                         "ID": 15083,
                         "name": "Tom C. Clark",
                         "href": "https:\/\/api.oyez.org\/people\/tom_c_clark",
-                        "view_count": 0,
                         "last_name": "Clark",
                         "roles": [
                             {
@@ -606,7 +589,6 @@
                         "ID": 15097,
                         "name": "John M. Harlan II",
                         "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
-                        "view_count": 0,
                         "last_name": "Harlan",
                         "roles": [
                             {
@@ -641,7 +623,6 @@
                         "ID": 15140,
                         "name": "William J. Brennan, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
-                        "view_count": 28,
                         "last_name": "Brennan",
                         "roles": [
                             {
@@ -676,7 +657,6 @@
                         "ID": 15043,
                         "name": "Potter Stewart",
                         "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
-                        "view_count": 31,
                         "last_name": "Stewart",
                         "roles": [
                             {
@@ -711,7 +691,6 @@
                         "ID": 15071,
                         "name": "Byron R. White",
                         "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
-                        "view_count": 0,
                         "last_name": "White",
                         "roles": [
                             {
@@ -741,7 +720,6 @@
                             "ID": 15140,
                             "name": "William J. Brennan, Jr.",
                             "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
-                            "view_count": 28,
                             "last_name": "Brennan",
                             "roles": [
                                 {
@@ -774,7 +752,6 @@
                         "ID": 15061,
                         "name": "Abe Fortas",
                         "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
-                        "view_count": 0,
                         "last_name": "Fortas",
                         "roles": [
                             {
@@ -807,7 +784,7 @@
             ],
             "majority_vote": 9,
             "minority_vote": 0,
-            "winning_party": "Curtis Publishing Company",
+            "winning_party": "Associated Press",
             "decision_type": "plurality opinion",
             "href": "https:\/\/api.oyez.org\/case_decision\/case_decision\/15597"
         }
@@ -819,13 +796,11 @@
             "ID": 15294,
             "name": "Warren Court (1965-1967)",
             "href": "https:\/\/api.oyez.org\/courts\/warren13",
-            "view_count": 0,
             "members": [
                 {
                     "ID": 15099,
                     "name": "Earl Warren",
                     "href": "https:\/\/api.oyez.org\/people\/earl_warren",
-                    "view_count": 52,
                     "last_name": "Warren",
                     "roles": [
                         {
@@ -852,7 +827,6 @@
                     "ID": 15089,
                     "name": "Hugo L. Black",
                     "href": "https:\/\/api.oyez.org\/people\/hugo_l_black",
-                    "view_count": 33,
                     "last_name": "Black",
                     "roles": [
                         {
@@ -879,7 +853,6 @@
                     "ID": 15107,
                     "name": "William O. Douglas",
                     "href": "https:\/\/api.oyez.org\/people\/william_o_douglas",
-                    "view_count": 0,
                     "last_name": "Douglas",
                     "roles": [
                         {
@@ -906,7 +879,6 @@
                     "ID": 15083,
                     "name": "Tom C. Clark",
                     "href": "https:\/\/api.oyez.org\/people\/tom_c_clark",
-                    "view_count": 0,
                     "last_name": "Clark",
                     "roles": [
                         {
@@ -933,7 +905,6 @@
                     "ID": 15097,
                     "name": "John M. Harlan II",
                     "href": "https:\/\/api.oyez.org\/people\/john_m_harlan2",
-                    "view_count": 0,
                     "last_name": "Harlan",
                     "roles": [
                         {
@@ -960,7 +931,6 @@
                     "ID": 15140,
                     "name": "William J. Brennan, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/william_j_brennan_jr",
-                    "view_count": 28,
                     "last_name": "Brennan",
                     "roles": [
                         {
@@ -987,7 +957,6 @@
                     "ID": 15043,
                     "name": "Potter Stewart",
                     "href": "https:\/\/api.oyez.org\/people\/potter_stewart",
-                    "view_count": 31,
                     "last_name": "Stewart",
                     "roles": [
                         {
@@ -1014,7 +983,6 @@
                     "ID": 15071,
                     "name": "Byron R. White",
                     "href": "https:\/\/api.oyez.org\/people\/byron_r_white",
-                    "view_count": 0,
                     "last_name": "White",
                     "roles": [
                         {
@@ -1041,7 +1009,6 @@
                     "ID": 15061,
                     "name": "Abe Fortas",
                     "href": "https:\/\/api.oyez.org\/people\/abe_fortas",
-                    "view_count": 0,
                     "last_name": "Fortas",
                     "roles": [
                         {
@@ -1090,7 +1057,37 @@
         "province_name": "Alabama"
     },
     "opinion_announcement": null,
-    "description": null,
-    "written_opinion": null,
-    "related_cases": null
+    "description": "A case in which the Court held that public figures asserting a defamation claim must show that a statement was made \"with knowledge that it was false or with reckless disregard for whether it was false or not,\" the same standard to which public officials are held under New York Times v. Sullivan.",
+    "written_opinion": [
+        {
+            "id": 12687,
+            "title": "Syllabus",
+            "author": null,
+            "type": {
+                "value": "syllabus",
+                "label": "Syllabus"
+            },
+            "justia_opinion_id": 1946732,
+            "justia_opinion_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/388\/130\/",
+            "judge_full_name": null,
+            "judge_last_name": null,
+            "href": "https:\/\/api.oyez.org\/case_document\/written_opinion\/12687"
+        },
+        {
+            "id": 12688,
+            "title": "View Case",
+            "author": null,
+            "type": {
+                "value": "case",
+                "label": null
+            },
+            "justia_opinion_id": 1946733,
+            "justia_opinion_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/388\/130\/case.html",
+            "judge_full_name": null,
+            "judge_last_name": null,
+            "href": "https:\/\/api.oyez.org\/case_document\/written_opinion\/12688"
+        }
+    ],
+    "related_cases": null,
+    "justia_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/388\/130\/"
 }

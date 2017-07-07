@@ -2,7 +2,6 @@
     "ID": 62252,
     "name": "Law v. Siegel",
     "href": "https:\/\/api.oyez.org\/cases\/2013\/12-5196",
-    "view_count": 0,
     "docket_number": "12-5196",
     "additional_docket_numbers": null,
     "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
@@ -32,10 +31,53 @@
         }
     ],
     "lower_court": null,
-    "facts_of_the_case": "<p>On January 5, 2004, Stephen Law filed for bankruptcy. He claimed that there were two liens on his property consuming all of the property's value beyond a homestead exemption. A homestead exemption protects equity in a house when filing for bankruptcy. One of these liens turned out to be a fictional construction involving a woman in China. Alfred Siegel (the Trustee) claimed that, in exposing the false lien, he incurred $465,000 in attorney fees. Because these costs resulted from Law's misconduct and misrepresentation, the Bankruptcy Court added a surcharge equal to the full amount of Law's homestead exemption to offset the Trustee's costs.<\/p>\n<p>Law appealed the decision to the Appellate Panel for the Ninth Circuit (BAP). Under the Bankruptcy Act of 1978, federal appeals courts may may create panels of judges to hear appeals from Bankruptcy Court. The BAP affirmed the order and held that the surcharge was necessary to protect the Bankruptcy Court's integrity. Law appealed to the U.S. Court of Appeals for the Ninth Circuit, which affirmed the BAP decision.<\/p>\n",
+    "facts_of_the_case": "<p>On January 5, 2004, Stephen Law filed for bankruptcy. He claimed that there were two liens on his property consuming all of the property's value beyond a homestead exemption. A homestead exemption protects equity in a house when filing for bankruptcy. One of these liens turned out to be a fictional construction involving a woman in China. Alfred Siegel (the Trustee) claimed that, in exposing the false lien, he incurred $465,000 in attorney fees. Because these costs resulted from Law's misconduct and misrepresentation, the Bankruptcy Court added a surcharge equal to the full amount of Law's homestead exemption to offset the Trustee's costs.<\/p>\n<p>Law appealed the decision to the Appellate Panel for the Ninth Circuit (BAP). Under the Bankruptcy Act of 1978, federal appeals courts may create panels of judges to hear appeals from Bankruptcy Court. The BAP affirmed the order and held that the surcharge was necessary to protect the Bankruptcy Court's integrity. Law appealed to the U.S. Court of Appeals for the Ninth Circuit, which affirmed the BAP decision.<\/p>\n",
     "question": "<p>When a debtor creates fictional liens to prevent a trustee from selling a property, should a Bankruptcy Court allow a surcharge to extend to normally exempted homestead property?<\/p>\n",
     "conclusion": "<p>No. Justice Antonin Scalia delivered the opinion for the unanimous Court. The Supreme Court held that, while a Bankruptcy Court has the authority to issue any order, process, or judgment necessary to carry out the provisions of the Bankruptcy Code, it may not contravene specific statutory provisions. In this case, the Bankruptcy Court exceeded the limits of its authority by awarding the Law\u2019s homestead exemption to Siegel. Although the statute does not require a debtor to establish a homestead exemption, once he has done so the Bankruptcy Court may not refuse to honor that exemption. Even in the case that a debtor is dishonest, the Bankruptcy Court may not impose sanctions that would violate the terms of the Bankruptcy Code, such as the debtor\u2019s ability to establish a homestead exemption.<\/p>\n",
-    "advocates": null,
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 62300,
+                "name": "Matthew S. Hellman",
+                "href": "https:\/\/api.oyez.org\/people\/matthew_s_hellman",
+                "last_name": "Hellman",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "matthew_s_hellman"
+            },
+            "advocate_description": "for petitioner",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22276"
+        },
+        {
+            "advocate": {
+                "ID": 37171,
+                "name": "Neal Kumar Katyal",
+                "href": "https:\/\/api.oyez.org\/people\/neal_kumar_katyal",
+                "last_name": "Katyal",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "neal_kumar_katyal"
+            },
+            "advocate_description": "for respondent",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22277"
+        },
+        {
+            "advocate": {
+                "ID": 41442,
+                "name": "Sarah E. Harrington",
+                "href": "https:\/\/api.oyez.org\/people\/sarah_e_harrington",
+                "last_name": "Harrington",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "sarah_e_harrington"
+            },
+            "advocate_description": "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22278"
+        }
+    ],
     "oral_argument_audio": [
         {
             "id": 23696,
@@ -60,7 +102,6 @@
                         "ID": 15049,
                         "name": "Antonin Scalia",
                         "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                        "view_count": 54,
                         "last_name": "Scalia",
                         "roles": [
                             {
@@ -95,7 +136,6 @@
                         "ID": 15086,
                         "name": "John G. Roberts, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                        "view_count": 40,
                         "last_name": "Roberts",
                         "roles": [
                             {
@@ -125,7 +165,6 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
@@ -158,7 +197,6 @@
                         "ID": 15113,
                         "name": "Anthony M. Kennedy",
                         "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
-                        "view_count": 73,
                         "last_name": "Kennedy",
                         "roles": [
                             {
@@ -188,7 +226,6 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
@@ -221,7 +258,6 @@
                         "ID": 15084,
                         "name": "Ruth Bader Ginsburg",
                         "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
-                        "view_count": 55,
                         "last_name": "Ginsburg",
                         "roles": [
                             {
@@ -251,7 +287,6 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
@@ -284,7 +319,6 @@
                         "ID": 15139,
                         "name": "Stephen G. Breyer",
                         "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                        "view_count": 58,
                         "last_name": "Breyer",
                         "roles": [
                             {
@@ -314,7 +348,6 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
@@ -347,7 +380,6 @@
                         "ID": 15100,
                         "name": "Clarence Thomas",
                         "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
-                        "view_count": 91,
                         "last_name": "Thomas",
                         "roles": [
                             {
@@ -367,7 +399,7 @@
                             "size": 49064,
                             "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                         },
-                        "length_of_service": 8932,
+                        "length_of_service": 9347,
                         "identifier": "clarence_thomas"
                     },
                     "vote": "majority",
@@ -377,7 +409,6 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
@@ -410,7 +441,6 @@
                         "ID": 15068,
                         "name": "Samuel A. Alito, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
-                        "view_count": 74,
                         "last_name": "Alito",
                         "roles": [
                             {
@@ -440,7 +470,6 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
@@ -473,7 +502,6 @@
                         "ID": 15131,
                         "name": "Sonia Sotomayor",
                         "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
-                        "view_count": 63,
                         "last_name": "Sotomayor",
                         "roles": [
                             {
@@ -503,7 +531,6 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
@@ -536,7 +563,6 @@
                         "ID": 15094,
                         "name": "Elena Kagan",
                         "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
-                        "view_count": 80,
                         "last_name": "Kagan",
                         "roles": [
                             {
@@ -556,7 +582,7 @@
                             "size": 44456,
                             "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                         },
-                        "length_of_service": 2069,
+                        "length_of_service": 2347,
                         "identifier": "elena_kagan"
                     },
                     "vote": "majority",
@@ -566,7 +592,6 @@
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
@@ -609,13 +634,11 @@
             "ID": 15151,
             "name": "Roberts Court (2010-2016)",
             "href": "https:\/\/api.oyez.org\/courts\/roberts6",
-            "view_count": 0,
             "members": [
                 {
                     "ID": 15086,
                     "name": "John G. Roberts, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                    "view_count": 40,
                     "last_name": "Roberts",
                     "roles": [
                         {
@@ -642,7 +665,6 @@
                     "ID": 15049,
                     "name": "Antonin Scalia",
                     "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                    "view_count": 54,
                     "last_name": "Scalia",
                     "roles": [
                         {
@@ -669,7 +691,6 @@
                     "ID": 15113,
                     "name": "Anthony M. Kennedy",
                     "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
-                    "view_count": 73,
                     "last_name": "Kennedy",
                     "roles": [
                         {
@@ -696,7 +717,6 @@
                     "ID": 15100,
                     "name": "Clarence Thomas",
                     "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
-                    "view_count": 91,
                     "last_name": "Thomas",
                     "roles": [
                         {
@@ -716,14 +736,13 @@
                         "size": 49064,
                         "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                     },
-                    "length_of_service": 8932,
+                    "length_of_service": 9347,
                     "identifier": "clarence_thomas"
                 },
                 {
                     "ID": 15084,
                     "name": "Ruth Bader Ginsburg",
                     "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
-                    "view_count": 55,
                     "last_name": "Ginsburg",
                     "roles": [
                         {
@@ -750,7 +769,6 @@
                     "ID": 15139,
                     "name": "Stephen G. Breyer",
                     "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                    "view_count": 58,
                     "last_name": "Breyer",
                     "roles": [
                         {
@@ -777,7 +795,6 @@
                     "ID": 15068,
                     "name": "Samuel A. Alito, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
-                    "view_count": 74,
                     "last_name": "Alito",
                     "roles": [
                         {
@@ -804,7 +821,6 @@
                     "ID": 15131,
                     "name": "Sonia Sotomayor",
                     "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
-                    "view_count": 63,
                     "last_name": "Sotomayor",
                     "roles": [
                         {
@@ -831,7 +847,6 @@
                     "ID": 15094,
                     "name": "Elena Kagan",
                     "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
-                    "view_count": 80,
                     "last_name": "Kagan",
                     "roles": [
                         {
@@ -851,7 +866,7 @@
                         "size": 44456,
                         "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                     },
-                    "length_of_service": 2069,
+                    "length_of_service": 2347,
                     "identifier": "elena_kagan"
                 }
             ],
@@ -871,13 +886,11 @@
         "ID": 15151,
         "name": "Roberts Court (2010-2016)",
         "href": "https:\/\/api.oyez.org\/courts\/roberts6",
-        "view_count": 0,
         "members": [
             {
                 "ID": 15086,
                 "name": "John G. Roberts, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                "view_count": 40,
                 "last_name": "Roberts",
                 "roles": [
                     {
@@ -904,7 +917,6 @@
                 "ID": 15049,
                 "name": "Antonin Scalia",
                 "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                "view_count": 54,
                 "last_name": "Scalia",
                 "roles": [
                     {
@@ -931,7 +943,6 @@
                 "ID": 15113,
                 "name": "Anthony M. Kennedy",
                 "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
-                "view_count": 73,
                 "last_name": "Kennedy",
                 "roles": [
                     {
@@ -958,7 +969,6 @@
                 "ID": 15100,
                 "name": "Clarence Thomas",
                 "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
-                "view_count": 91,
                 "last_name": "Thomas",
                 "roles": [
                     {
@@ -978,14 +988,13 @@
                     "size": 49064,
                     "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                 },
-                "length_of_service": 8932,
+                "length_of_service": 9347,
                 "identifier": "clarence_thomas"
             },
             {
                 "ID": 15084,
                 "name": "Ruth Bader Ginsburg",
                 "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
-                "view_count": 55,
                 "last_name": "Ginsburg",
                 "roles": [
                     {
@@ -1012,7 +1021,6 @@
                 "ID": 15139,
                 "name": "Stephen G. Breyer",
                 "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                "view_count": 58,
                 "last_name": "Breyer",
                 "roles": [
                     {
@@ -1039,7 +1047,6 @@
                 "ID": 15068,
                 "name": "Samuel A. Alito, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
-                "view_count": 74,
                 "last_name": "Alito",
                 "roles": [
                     {
@@ -1066,7 +1073,6 @@
                 "ID": 15131,
                 "name": "Sonia Sotomayor",
                 "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
-                "view_count": 63,
                 "last_name": "Sotomayor",
                 "roles": [
                     {
@@ -1093,7 +1099,6 @@
                 "ID": 15094,
                 "name": "Elena Kagan",
                 "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
-                "view_count": 80,
                 "last_name": "Kagan",
                 "roles": [
                     {
@@ -1113,7 +1118,7 @@
                     "size": 44456,
                     "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                 },
-                "length_of_service": 2069,
+                "length_of_service": 2347,
                 "identifier": "elena_kagan"
             }
         ],
@@ -1148,6 +1153,36 @@
         }
     ],
     "description": "A case in which the Court found that a bankruptcy court may not enforce specific statutory exceptions.",
-    "written_opinion": null,
-    "related_cases": null
+    "written_opinion": [
+        {
+            "id": 1187,
+            "title": "Syllabus",
+            "author": null,
+            "type": {
+                "value": "syllabus",
+                "label": "Syllabus"
+            },
+            "justia_opinion_id": 1970828,
+            "justia_opinion_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/571\/12-5196\/",
+            "judge_full_name": null,
+            "judge_last_name": null,
+            "href": "https:\/\/api.oyez.org\/case_document\/written_opinion\/1187"
+        },
+        {
+            "id": 1188,
+            "title": "Opinion of the Court",
+            "author": null,
+            "type": {
+                "value": "majority",
+                "label": "Opinion of the Court"
+            },
+            "justia_opinion_id": 1970829,
+            "justia_opinion_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/571\/12-5196\/opinion3.html",
+            "judge_full_name": null,
+            "judge_last_name": null,
+            "href": "https:\/\/api.oyez.org\/case_document\/written_opinion\/1188"
+        }
+    ],
+    "related_cases": null,
+    "justia_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/571\/12-5196\/"
 }
