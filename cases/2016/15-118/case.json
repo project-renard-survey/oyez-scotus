@@ -37,7 +37,7 @@
     },
     "facts_of_the_case": "<p dir=\"ltr\">On June 7, 2010, Sergio Adrian Hernandez Guereca, a fifteen-year old Mexican national, was playing with friends on the cement culvert of the Rio Grande that separates El Paso, Texas from Juarez, Mexico. Hernandez and his friends took turns running up the incline of the culvert to touch the barbed-wire fence on the U.S. side of it and then running back down the incline to the Mexican side. Jesus Mesa, Jr., a U.S. Border Patrol Agent, arrived on the scene and detained one of Hernandez\u2019s friends at the U.S. border, while Hernandez retreated to the the Mexican side of the River and hid behind the pillars of the Paso del Norte bridge. Mesa, still standing on the U.S. side of the border, fired at least two shots at Hernandez, one of which struck him in the head and killed him. <\/p>\n<p>\u00a0\n<\/p><p>Six months after Hernandez\u2019s death, his parents sued Mesa in federal district court in Texas and alleged that Mesa violated the Fourth and Fifth Amendments of the U.S. Constitution through the use of deadly force and the failure to use of reasonable force when making arrests. Mesa moved to dismiss and argued that Hernandez lacked constitutional protection because he was an alien without voluntary attachments to the United States who was standing in Mexico when he was killed. Applying a formalist test, the district court concluded that the Constitution\u2019s deadly-force protections stop at the border for non-citizens like Hernandez. The U.S. Court of Appeals for the Fifth Circuit affirmed in part and reversed in part and held that the Fifth Amendment protections against deadly force applied but not the Fourth Amendment protections. The appellate court also held that Mesa was not entitled to qualified immunity. Rehearing the case en banc, the appellate declined to answer the Fifth Amendment question, but held that Mesa was entitled to qualified immunity and that Hernandez could not assert a claim under the Fourth Amendment because he was a Mexican citizen without a significant voluntary connection to the United States who was on Mexican soil when he was shot and killed. <\/p>\n",
     "question": "<p>\u00a0<\/p>\n<ol><li dir=\"ltr\">\n<p dir=\"ltr\">Does a formalist or functionalist analysis govern the extraterritorial application of the Fourth Amendment's prohibition on unjustified deadly force, as applied to a cross-border shooting of an unarmed Mexican citizen in an enclosed area controlled by the United States?<\/p>\n<\/li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">May qualified immunity be granted or denied based on facts - such as the victim's legal status - unknown to the officer at the time of the incident?<\/p>\n<\/li>\n<li dir=\"ltr\"> Can the claim in this case be properly asserted under Bivens v. Six Unknown Fed. Narcotics Agents, which governs when federal agents may be liable for damages for violating an individual\u2019s constitutional right?<\/li>\n<\/ol>",
-    "conclusion": null,
+    "conclusion": "<p dir=\"ltr\">Qualified immunity may not be granted based on facts that were unknown to the officer at the time of the incident, and a court should consider whether an implied right of action is appropriate under Bivens v. Six Unknown Federal Narcotics Agents before addressing sensitive Fourth Amendment questions. In a per curiam opinion, the Court held that the lower appellate court erred in addressing the Fourth Amendment question in this case before considering whether there was an implied right of action under the Bivens precedent. Although this approach is appropriate in many cases, in this case the resolution of the Fourth Amendment question has such potentially far-reaching consequences that it may not be appropriate for the judicial branch to answer. Recent precedent established that a Bivens remedy is not available when there are \u201cspecial factors counseling hesitation\u201d from the courts, which might apply in this case. The Court also held that, because qualified immunity analysis was based on whether a reasonable officer would know that his actions were unlawful, the only relevant facts were what the officer knew at the time of the incident.<\/p>\n<p dir=\"ltr\">In his dissent, Justice Clarence Thomas wrote that a remedy under the Bivens precedent should only be available in cases that are meaningfully similar to Bivens. Because this case was not, a Bivens remedy should not be available. Justice Stephen G. Breyer wrote a separate dissent in which he argued that precedent had established that the extraterritorial reach of the Constitution was determined by functional concerns, not formal ones. In this case, because the officer was a U.S. official who did not know whether he was shooting at an American citizen or whether the bullet would land in U.S. or Mexican territory, the constitutional protections of the Fourth Amendment should apply. Not applying the Fourth Amendment to the facts of this case based solely on the location of the injury relative to the border line would create anomalous precedent that would be difficult to apply to other border cases. Justice Ruth Bader Ginsburg joined in the dissent. <\/p>\n<p>\u00a0<\/p>\n<p dir=\"ltr\">Justice Neil Gorsuch did not participate in the discussion or decision of this case. <\/p>\n",
     "advocates": [
         {
             "advocate": {
@@ -97,7 +97,147 @@
         "year": null,
         "href": "https:\/\/api.oyez.org\/case_citation\/case_citation\/27469"
     },
-    "decisions": null,
+    "decisions": [
+        {
+            "description": "Qualified immunity may not be granted based on facts that were unknown to the officer at the time of the incident, and a court should consider whether an implied right of action is appropriate under Bivens v. Six Unknown Federal Narcotics Agents before addressing sensitive Fourth Amendment questions.",
+            "votes": [
+                {
+                    "member": {
+                        "ID": 15100,
+                        "name": "Clarence Thomas",
+                        "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
+                        "last_name": "Thomas",
+                        "roles": [
+                            {
+                                "id": 2744,
+                                "type": "scotus_justice",
+                                "date_start": 688194000,
+                                "date_end": 0,
+                                "appointing_president": "George H. W. Bush",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2744"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32680,
+                            "mime": "image\/png",
+                            "size": 49064,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
+                        },
+                        "length_of_service": 9347,
+                        "identifier": "clarence_thomas"
+                    },
+                    "vote": "none",
+                    "opinion_type": "dissent",
+                    "joining": null,
+                    "seniority": 3,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/209354"
+                },
+                {
+                    "member": {
+                        "ID": 15139,
+                        "name": "Stephen G. Breyer",
+                        "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                        "last_name": "Breyer",
+                        "roles": [
+                            {
+                                "id": 2785,
+                                "type": "scotus_justice",
+                                "date_start": 775890000,
+                                "date_end": 0,
+                                "appointing_president": "Bill Clinton",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2785"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32682,
+                            "mime": "image\/png",
+                            "size": 49908,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
+                        },
+                        "length_of_service": 7917,
+                        "identifier": "stephen_g_breyer"
+                    },
+                    "vote": "none",
+                    "opinion_type": "dissent",
+                    "joining": null,
+                    "seniority": 5,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/209355"
+                },
+                {
+                    "member": {
+                        "ID": 15084,
+                        "name": "Ruth Bader Ginsburg",
+                        "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
+                        "last_name": "Ginsburg",
+                        "roles": [
+                            {
+                                "id": 2728,
+                                "type": "scotus_justice",
+                                "date_start": 744958800,
+                                "date_end": 0,
+                                "appointing_president": "Bill Clinton",
+                                "role_title": "Associate Justice of the Supreme Court of the United States",
+                                "institution_name": "Supreme Court of the United States",
+                                "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2728"
+                            }
+                        ],
+                        "thumbnail": {
+                            "id": 32681,
+                            "mime": "image\/png",
+                            "size": 45030,
+                            "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/ruth_bader_ginsburg\/ruth_bader_ginsburg.thumb.png"
+                        },
+                        "length_of_service": 8275,
+                        "identifier": "ruth_bader_ginsburg"
+                    },
+                    "vote": "none",
+                    "opinion_type": "none",
+                    "joining": [
+                        {
+                            "ID": 15139,
+                            "name": "Stephen G. Breyer",
+                            "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
+                            "last_name": "Breyer",
+                            "roles": [
+                                {
+                                    "id": 2785,
+                                    "type": "scotus_justice",
+                                    "date_start": 775890000,
+                                    "date_end": 0,
+                                    "appointing_president": "Bill Clinton",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2785"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32682,
+                                "mime": "image\/png",
+                                "size": 49908,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/stephen_g_breyer\/stephen_g_breyer.thumb.png"
+                            },
+                            "length_of_service": 7917,
+                            "identifier": "stephen_g_breyer"
+                        }
+                    ],
+                    "seniority": 4,
+                    "ideology": 0,
+                    "href": "https:\/\/api.oyez.org\/decision_vote\/decision_vote\/209356"
+                }
+            ],
+            "majority_vote": 0,
+            "minority_vote": 0,
+            "winning_party": "Mesa",
+            "decision_type": "per curiam",
+            "href": "https:\/\/api.oyez.org\/case_decision\/case_decision\/16836"
+        }
+    ],
     "first_party_label": "Petitioner",
     "second_party_label": "Respondent",
     "heard_by": [
@@ -583,7 +723,7 @@
         "province_name": null
     },
     "opinion_announcement": null,
-    "description": "A case in which the Court will decide what analysis governs the extraterritorial application of the Fourth Amendment's prohibition on unjustified deadly force as applied to a cross-border shooting of an unarmed Mexican citizen in an enclosed area controlled by the United States and whether the officer who committed the shooting is entitled to qualified immunity or liable for damages.",
+    "description": "A case in which the Court determined that qualified immunity may not be granted based on facts that were unknown to the officer at the time of the incident, and that a court should consider whether an implied right of action is appropriate under Bivens v. Six Unknown Federal Narcotics Agents before addressing sensitive Fourth Amendment questions.",
     "written_opinion": [
         {
             "id": 16340,
