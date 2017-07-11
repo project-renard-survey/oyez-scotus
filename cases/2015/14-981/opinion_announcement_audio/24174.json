@@ -1,0 +1,360 @@
+{
+    "id": 24174,
+    "title": "Opinion Announcement - June 23, 2016",
+    "transcript": {
+        "title": "Fisher v. University of Texas",
+        "duration": null,
+        "sections": [
+            {
+                "start": 0,
+                "stop": 7.055,
+                "byte_start": 0,
+                "byte_stop": 0,
+                "turns": [
+                    {
+                        "start": 0,
+                        "stop": 7.055,
+                        "byte_start": 0,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15086,
+                            "name": "John G. Roberts, Jr.",
+                            "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
+                            "last_name": "Roberts",
+                            "roles": [
+                                {
+                                    "id": 2730,
+                                    "type": "scotus_justice",
+                                    "date_start": 1127970000,
+                                    "date_end": 0,
+                                    "appointing_president": "George W. Bush",
+                                    "role_title": "Chief Justice of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2730"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32683,
+                                "mime": "image\/png",
+                                "size": 52305,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/john_g_roberts_jr\/john_g_roberts_jr.thumb.png"
+                            },
+                            "length_of_service": 3842,
+                            "identifier": "john_g_roberts_jr"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 0,
+                                "stop": 7.055,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "Justice Kennedy has our opinion this morning in case 14-981, Fisher versus the University of Texas."
+                            }
+                        ]
+                    },
+                    {
+                        "start": 7.055,
+                        "stop": 333.85,
+                        "byte_start": 0,
+                        "byte_stop": 0,
+                        "speaker": {
+                            "ID": 15113,
+                            "name": "Anthony M. Kennedy",
+                            "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
+                            "last_name": "Kennedy",
+                            "roles": [
+                                {
+                                    "id": 2757,
+                                    "type": "scotus_justice",
+                                    "date_start": 572162400,
+                                    "date_end": 0,
+                                    "appointing_president": "Ronald Reagan",
+                                    "role_title": "Associate Justice of the Supreme Court of the United States",
+                                    "institution_name": "Supreme Court of the United States",
+                                    "href": "https:\/\/api.oyez.org\/preson_role\/scotus_justice\/2757"
+                                }
+                            ],
+                            "thumbnail": {
+                                "id": 32679,
+                                "mime": "image\/png",
+                                "size": 47100,
+                                "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/anthony_m_kennedy\/anthony_m_kennedy.thumb.png"
+                            },
+                            "length_of_service": 10275,
+                            "identifier": "anthony_m_kennedy"
+                        },
+                        "text_blocks": [
+                            {
+                                "start": 7.055,
+                                "stop": 13.32,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "The University of Texas at Austin relies upon a complex system of admissions."
+                            },
+                            {
+                                "start": 13.32,
+                                "stop": 17.41,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "That system has undergone significant evolution over the past two decades."
+                            },
+                            {
+                                "start": 17.41,
+                                "stop": 28.94,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "Under the policy that operates today and that operated when this lawsuit began; the University selects a significant majority of its class through the so-called Top Ten Percent Plan."
+                            },
+                            {
+                                "start": 28.94,
+                                "stop": 40.16,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "That plan was enacted by the Texas State Legislature and it offers admission to any student who graduates from a Texas high school in the top 10% of his or her class."
+                            },
+                            {
+                                "start": 40.16,
+                                "stop": 53.445,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "So that leaves only about 25% of the places in the incoming freshman class to be filled by the admissions process that's at issue here in this case and that process is called holistic review."
+                            },
+                            {
+                                "start": 53.445,
+                                "stop": 57.71,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "Under holistic review each applicant is scored on two metrics."
+                            },
+                            {
+                                "start": 57.71,
+                                "stop": 75.54,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "First is the academic index and this index consists of the applicant's SAT score and high school academic performance, high school grades. The second metric is the personal achievement index or PAI."
+                            },
+                            {
+                                "start": 75.54,
+                                "stop": 80.235,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "The PAI is based in part on a full file review by a reader."
+                            },
+                            {
+                                "start": 80.235,
+                                "stop": 93.6,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "The reader assesses the applicant's potential contribution to the diversity of the student body based on the applicant's leadership experience, extracurricular activities, community services and other special circumstances."
+                            },
+                            {
+                                "start": 93.6,
+                                "stop": 101.029,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "Special circumstances can include the applicant's race along with other factors like socioeconomic status."
+                            },
+                            {
+                                "start": 101.029,
+                                "stop": 117.42,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "Although admissions' officers can consider race as a positive feature of a minority student's application, there is no dispute that race is but a factor of a factor of a factor in the holistic review calculus."
+                            },
+                            {
+                                "start": 117.42,
+                                "stop": 131.89,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "Petitioner Abigail Fisher was not in the top 10% of her high school class and she was denied admission to the University's 2008 freshman class for the places filled by the holistic review process."
+                            },
+                            {
+                                "start": 131.89,
+                                "stop": 133.73,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "She filed suit."
+                            },
+                            {
+                                "start": 133.73,
+                                "stop": 146.1,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "She alleged that consideration of race as part of the holistic review process disadvantaged her and other Caucasian applicants all in violation of the Equal Protection Clause of the Fourteenth Amendment."
+                            },
+                            {
+                                "start": 146.1,
+                                "stop": 150.51,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "The University prevailed in the District Court and in the Court of Appeals."
+                            },
+                            {
+                                "start": 150.51,
+                                "stop": 155.19,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "This Court vacated that judgment in a case that we now call Fisher I."
+                            },
+                            {
+                                "start": 155.19,
+                                "stop": 163.525,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "In Fischer I, this Court remanded the case so the university program could be evaluated under the proper strict scrutiny standard."
+                            },
+                            {
+                                "start": 163.525,
+                                "stop": 172.09,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "Fisher I explained that under the Equal Protection Clause, race may not be considered by university unless the admissions process can withstand strict scrutiny."
+                            },
+                            {
+                                "start": 172.09,
+                                "stop": 198.73,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "Strict scrutiny requires the university to demonstrate with clarity that its purpose or interest is both constitutionally permissible and substantial and that its use of a racial classification is necessary to the accomplishment of its purpose and this imposes on the university the ultimate burden of demonstrating that race neutral alternatives that are both available and workable do not suffice to fulfill its interest in student body diversity."
+                            },
+                            {
+                                "start": 198.73,
+                                "stop": 208.08,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "On remand following Fisher I applying this test, the Court of Appeals again affirmed the entry of summary judgment for the university."
+                            },
+                            {
+                                "start": 208.08,
+                                "stop": 226.035,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "This Court now holds that the Court of Appeals was correct to conclude that the university has met its burden given the state of the record and the data available to the university in 2008 when petitioner's application was rejected she was not denied equal treatment."
+                            },
+                            {
+                                "start": 226.035,
+                                "stop": 231.85,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "The petitioner claims that the university has not articulated its compelling interest with sufficient clarity."
+                            },
+                            {
+                                "start": 231.85,
+                                "stop": 237.48,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "She argues that the university has failed to state precisely what level of minority enrollment it seeks."
+                            },
+                            {
+                                "start": 237.48,
+                                "stop": 252.38,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "The compelling interest that justifies consideration of race in college admissions, however, is not an interest in enrolling a certain number of minority students rather it is an interest in obtaining the educational benefits that flow from student body diversity."
+                            },
+                            {
+                                "start": 252.38,
+                                "stop": 259.055,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "The record here reveals that the university articulated concrete and precise goals with respect to its admissions decisions."
+                            },
+                            {
+                                "start": 259.055,
+                                "stop": 263.84,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "These goals mirror the compelling interest that this Court has approved in prior cases."
+                            },
+                            {
+                                "start": 263.84,
+                                "stop": 270.44,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "The petitioner also claims that the university need not consider race because it had already achieved critical mass in 2003."
+                            },
+                            {
+                                "start": 270.44,
+                                "stop": 291.07,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "Under the Top Ten Percent Plan and race neutral holistic review, the record, however, shows that the university's conclusion that race neutral programs had not achieved the diversity goals it sought was supported by significant statistical and anecdotal evidence."
+                            },
+                            {
+                                "start": 291.07,
+                                "stop": 296.805,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "Finally, petitioner argues that there were other race neutral means the university could have implemented."
+                            },
+                            {
+                                "start": 296.805,
+                                "stop": 305.445,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "In particular, she argues the University could have uncapped the Ten Percent Plan and admitted more if not all students through that system."
+                            },
+                            {
+                                "start": 305.445,
+                                "stop": 312.805,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "That approach, however, would sacrifice all other aspects of diversity in pursuit of enrolling a higher number of minority students."
+                            },
+                            {
+                                "start": 312.805,
+                                "stop": 322.095,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "To compel university to admit students based on class rank alone is in deep tension with the goal of educational diversity as this Court's cases have defined it."
+                            },
+                            {
+                                "start": 322.095,
+                                "stop": 328.055,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "For these and other reasons set forth in the opinion, the judgment of the Court of Appeals for the Fifth Circuit is affirmed."
+                            },
+                            {
+                                "start": 328.055,
+                                "stop": 333.85,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "Justice Alito has filed a dissenting opinion in which the Chief Justice and Justice Thomas joins."
+                            },
+                            {
+                                "start": 333.85,
+                                "stop": 0,
+                                "byte_start": 0,
+                                "byte_stop": 0,
+                                "text": "Justice Thomas has also filed a dissenting opinion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "media_file": [
+        {
+            "id": 79349,
+            "mime": "audio\/mpeg",
+            "size": 1382630,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.mp3\/case_data\/2015\/14-981\/14-981_20160623-opinion.delivery.mp3"
+        },
+        {
+            "id": 79356,
+            "mime": "audio\/ogg",
+            "size": 3514988,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.ogg\/case_data\/2015\/14-981\/14-981_20160623-opinion.ogg"
+        },
+        {
+            "id": 79357,
+            "mime": "application\/x-mpegURL",
+            "size": 5761,
+            "href": "https:\/\/s3.amazonaws.com\/oyez.case-media.hls\/case_data\/2015\/14-981\/14-981_20160623-opinion.m3u8"
+        }
+    ],
+    "damaged": false,
+    "unavailable": false
+}
