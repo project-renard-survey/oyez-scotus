@@ -2,7 +2,6 @@
     "ID": 55990,
     "name": "Loughrin v. United States",
     "href": "https:\/\/api.oyez.org\/cases\/2013\/13-316",
-    "view_count": 0,
     "docket_number": "13-316",
     "additional_docket_numbers": null,
     "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
@@ -35,7 +34,36 @@
     "facts_of_the_case": "<p>Kevin Loughrin created a scheme to obtain cash by stealing checks from people's outgoing mail, altering them to make purchases at Target, and returning the purchases for cash. When the scheme came to an end, he and Theresa Thongsarn were indicted on six counts of bank fraud, two counts of aggravated identity theft, and one count of possession of stolen mail. Loughrin moved to dismiss the case and alleged violations of the Speedy Trial Act; the district court denied the motion to dismiss. At trial, Loughrin requested that the jury instructions specify that the jury had to find that he had the intent to defraud a financial institution in order to find him guilty of bank fraud. The district court held that such an instruction was not necessary and declined to use it. Loughrin was convicted on all counts and sentenced to 36 months in prison. The U.S. Court of Appeals for the Tenth Circuit affirmed.<\/p>\n",
     "question": "<p>In order to find the defendant guilty of bank fraud, is the prosecution required to show that the defendant acted with intent to defraud the bank?<\/p>\n",
     "conclusion": "<p>No. Justice Elena Kagan wrote the opinion for the unanimous Court. The Court held that, while one clause of the statute requires the intent to defraud a bank, the second clause does not require it. Instead, this second clause only requires that the defendant intend to obtain any property under the control of a bank. The Court held that requiring these two clauses to be read as having the same intent would render the second one meaningless; the structure of the statute indicated that the two clauses had different requirements. However, because the second clause should not apply to any and all fraud where the defrauder receives a check, the Court stated that the specific language limited its coverage to circumstances where the defendant's false statement \"naturally induces\" the bank to part with money in its control, instead of where a bank is only tangentially involved.<\/p>\n<p>Justice Antonin G. Scalia wrote an opinion concurring in part and concurring in the judgment in which he argued against the \"natural inducement\" test promoted by the Court. He argued that the dictionary definition of \"by means of\" language of the second clause included tangential involvement of a bank, although he agreed that the clause should not apply to all fraud where the defrauder receives a check. Justice Clarence Thomas joined the concurrence in part and concurrence in the judgment. In his separate opinion concurring in part and concurring in the judgment, Justice Samuel A. Alito, Jr. wrote that the second clause only requires that the defendant knowingly execute a scheme to obtain bank property, instead of intentionally doing so.<\/p>\n",
-    "advocates": null,
+    "advocates": [
+        {
+            "advocate": {
+                "ID": 33951,
+                "name": "Kevin Russell",
+                "href": "https:\/\/api.oyez.org\/people\/kevin_russell",
+                "last_name": "Russell",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "kevin_russell"
+            },
+            "advocate_description": "for the Petitioner",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22186"
+        },
+        {
+            "advocate": {
+                "ID": 17293,
+                "name": "Anthony A. Yang",
+                "href": "https:\/\/api.oyez.org\/people\/anthony_a_yang",
+                "last_name": "Yang",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "anthony_a_yang"
+            },
+            "advocate_description": "for the Respondent",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/22187"
+        }
+    ],
     "oral_argument_audio": [
         {
             "id": 23204,
@@ -60,7 +88,6 @@
                         "ID": 15094,
                         "name": "Elena Kagan",
                         "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
-                        "view_count": 80,
                         "last_name": "Kagan",
                         "roles": [
                             {
@@ -80,7 +107,7 @@
                             "size": 44456,
                             "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                         },
-                        "length_of_service": 2069,
+                        "length_of_service": 2347,
                         "identifier": "elena_kagan"
                     },
                     "vote": "majority",
@@ -95,7 +122,6 @@
                         "ID": 15068,
                         "name": "Samuel A. Alito, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
-                        "view_count": 74,
                         "last_name": "Alito",
                         "roles": [
                             {
@@ -130,7 +156,6 @@
                         "ID": 15100,
                         "name": "Clarence Thomas",
                         "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
-                        "view_count": 91,
                         "last_name": "Thomas",
                         "roles": [
                             {
@@ -150,7 +175,7 @@
                             "size": 49064,
                             "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                         },
-                        "length_of_service": 8932,
+                        "length_of_service": 9347,
                         "identifier": "clarence_thomas"
                     },
                     "vote": "majority",
@@ -160,7 +185,6 @@
                             "ID": 15094,
                             "name": "Elena Kagan",
                             "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
-                            "view_count": 80,
                             "last_name": "Kagan",
                             "roles": [
                                 {
@@ -180,14 +204,13 @@
                                 "size": 44456,
                                 "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                             },
-                            "length_of_service": 2069,
+                            "length_of_service": 2347,
                             "identifier": "elena_kagan"
                         },
                         {
                             "ID": 15049,
                             "name": "Antonin Scalia",
                             "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                            "view_count": 54,
                             "last_name": "Scalia",
                             "roles": [
                                 {
@@ -220,7 +243,6 @@
                         "ID": 15049,
                         "name": "Antonin Scalia",
                         "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                        "view_count": 54,
                         "last_name": "Scalia",
                         "roles": [
                             {
@@ -250,7 +272,6 @@
                             "ID": 15094,
                             "name": "Elena Kagan",
                             "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
-                            "view_count": 80,
                             "last_name": "Kagan",
                             "roles": [
                                 {
@@ -270,7 +291,7 @@
                                 "size": 44456,
                                 "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                             },
-                            "length_of_service": 2069,
+                            "length_of_service": 2347,
                             "identifier": "elena_kagan"
                         }
                     ],
@@ -283,7 +304,6 @@
                         "ID": 15086,
                         "name": "John G. Roberts, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                        "view_count": 40,
                         "last_name": "Roberts",
                         "roles": [
                             {
@@ -313,7 +333,6 @@
                             "ID": 15094,
                             "name": "Elena Kagan",
                             "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
-                            "view_count": 80,
                             "last_name": "Kagan",
                             "roles": [
                                 {
@@ -333,7 +352,7 @@
                                 "size": 44456,
                                 "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                             },
-                            "length_of_service": 2069,
+                            "length_of_service": 2347,
                             "identifier": "elena_kagan"
                         }
                     ],
@@ -346,7 +365,6 @@
                         "ID": 15113,
                         "name": "Anthony M. Kennedy",
                         "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
-                        "view_count": 73,
                         "last_name": "Kennedy",
                         "roles": [
                             {
@@ -376,7 +394,6 @@
                             "ID": 15094,
                             "name": "Elena Kagan",
                             "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
-                            "view_count": 80,
                             "last_name": "Kagan",
                             "roles": [
                                 {
@@ -396,7 +413,7 @@
                                 "size": 44456,
                                 "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                             },
-                            "length_of_service": 2069,
+                            "length_of_service": 2347,
                             "identifier": "elena_kagan"
                         }
                     ],
@@ -409,7 +426,6 @@
                         "ID": 15084,
                         "name": "Ruth Bader Ginsburg",
                         "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
-                        "view_count": 55,
                         "last_name": "Ginsburg",
                         "roles": [
                             {
@@ -439,7 +455,6 @@
                             "ID": 15094,
                             "name": "Elena Kagan",
                             "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
-                            "view_count": 80,
                             "last_name": "Kagan",
                             "roles": [
                                 {
@@ -459,7 +474,7 @@
                                 "size": 44456,
                                 "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                             },
-                            "length_of_service": 2069,
+                            "length_of_service": 2347,
                             "identifier": "elena_kagan"
                         }
                     ],
@@ -472,7 +487,6 @@
                         "ID": 15139,
                         "name": "Stephen G. Breyer",
                         "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                        "view_count": 58,
                         "last_name": "Breyer",
                         "roles": [
                             {
@@ -502,7 +516,6 @@
                             "ID": 15094,
                             "name": "Elena Kagan",
                             "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
-                            "view_count": 80,
                             "last_name": "Kagan",
                             "roles": [
                                 {
@@ -522,7 +535,7 @@
                                 "size": 44456,
                                 "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                             },
-                            "length_of_service": 2069,
+                            "length_of_service": 2347,
                             "identifier": "elena_kagan"
                         }
                     ],
@@ -535,7 +548,6 @@
                         "ID": 15131,
                         "name": "Sonia Sotomayor",
                         "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
-                        "view_count": 63,
                         "last_name": "Sotomayor",
                         "roles": [
                             {
@@ -565,7 +577,6 @@
                             "ID": 15094,
                             "name": "Elena Kagan",
                             "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
-                            "view_count": 80,
                             "last_name": "Kagan",
                             "roles": [
                                 {
@@ -585,7 +596,7 @@
                                 "size": 44456,
                                 "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                             },
-                            "length_of_service": 2069,
+                            "length_of_service": 2347,
                             "identifier": "elena_kagan"
                         }
                     ],
@@ -608,13 +619,11 @@
             "ID": 15151,
             "name": "Roberts Court (2010-2016)",
             "href": "https:\/\/api.oyez.org\/courts\/roberts6",
-            "view_count": 0,
             "members": [
                 {
                     "ID": 15086,
                     "name": "John G. Roberts, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                    "view_count": 40,
                     "last_name": "Roberts",
                     "roles": [
                         {
@@ -641,7 +650,6 @@
                     "ID": 15049,
                     "name": "Antonin Scalia",
                     "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                    "view_count": 54,
                     "last_name": "Scalia",
                     "roles": [
                         {
@@ -668,7 +676,6 @@
                     "ID": 15113,
                     "name": "Anthony M. Kennedy",
                     "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
-                    "view_count": 73,
                     "last_name": "Kennedy",
                     "roles": [
                         {
@@ -695,7 +702,6 @@
                     "ID": 15100,
                     "name": "Clarence Thomas",
                     "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
-                    "view_count": 91,
                     "last_name": "Thomas",
                     "roles": [
                         {
@@ -715,14 +721,13 @@
                         "size": 49064,
                         "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                     },
-                    "length_of_service": 8932,
+                    "length_of_service": 9347,
                     "identifier": "clarence_thomas"
                 },
                 {
                     "ID": 15084,
                     "name": "Ruth Bader Ginsburg",
                     "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
-                    "view_count": 55,
                     "last_name": "Ginsburg",
                     "roles": [
                         {
@@ -749,7 +754,6 @@
                     "ID": 15139,
                     "name": "Stephen G. Breyer",
                     "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                    "view_count": 58,
                     "last_name": "Breyer",
                     "roles": [
                         {
@@ -776,7 +780,6 @@
                     "ID": 15068,
                     "name": "Samuel A. Alito, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
-                    "view_count": 74,
                     "last_name": "Alito",
                     "roles": [
                         {
@@ -803,7 +806,6 @@
                     "ID": 15131,
                     "name": "Sonia Sotomayor",
                     "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
-                    "view_count": 63,
                     "last_name": "Sotomayor",
                     "roles": [
                         {
@@ -830,7 +832,6 @@
                     "ID": 15094,
                     "name": "Elena Kagan",
                     "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
-                    "view_count": 80,
                     "last_name": "Kagan",
                     "roles": [
                         {
@@ -850,7 +851,7 @@
                         "size": 44456,
                         "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                     },
-                    "length_of_service": 2069,
+                    "length_of_service": 2347,
                     "identifier": "elena_kagan"
                 }
             ],
@@ -870,13 +871,11 @@
         "ID": 15151,
         "name": "Roberts Court (2010-2016)",
         "href": "https:\/\/api.oyez.org\/courts\/roberts6",
-        "view_count": 0,
         "members": [
             {
                 "ID": 15086,
                 "name": "John G. Roberts, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                "view_count": 40,
                 "last_name": "Roberts",
                 "roles": [
                     {
@@ -903,7 +902,6 @@
                 "ID": 15049,
                 "name": "Antonin Scalia",
                 "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                "view_count": 54,
                 "last_name": "Scalia",
                 "roles": [
                     {
@@ -930,7 +928,6 @@
                 "ID": 15113,
                 "name": "Anthony M. Kennedy",
                 "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
-                "view_count": 73,
                 "last_name": "Kennedy",
                 "roles": [
                     {
@@ -957,7 +954,6 @@
                 "ID": 15100,
                 "name": "Clarence Thomas",
                 "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
-                "view_count": 91,
                 "last_name": "Thomas",
                 "roles": [
                     {
@@ -977,14 +973,13 @@
                     "size": 49064,
                     "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                 },
-                "length_of_service": 8932,
+                "length_of_service": 9347,
                 "identifier": "clarence_thomas"
             },
             {
                 "ID": 15084,
                 "name": "Ruth Bader Ginsburg",
                 "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
-                "view_count": 55,
                 "last_name": "Ginsburg",
                 "roles": [
                     {
@@ -1011,7 +1006,6 @@
                 "ID": 15139,
                 "name": "Stephen G. Breyer",
                 "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                "view_count": 58,
                 "last_name": "Breyer",
                 "roles": [
                     {
@@ -1038,7 +1032,6 @@
                 "ID": 15068,
                 "name": "Samuel A. Alito, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
-                "view_count": 74,
                 "last_name": "Alito",
                 "roles": [
                     {
@@ -1065,7 +1058,6 @@
                 "ID": 15131,
                 "name": "Sonia Sotomayor",
                 "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
-                "view_count": 63,
                 "last_name": "Sotomayor",
                 "roles": [
                     {
@@ -1092,7 +1084,6 @@
                 "ID": 15094,
                 "name": "Elena Kagan",
                 "href": "https:\/\/api.oyez.org\/people\/elena_kagan",
-                "view_count": 80,
                 "last_name": "Kagan",
                 "roles": [
                     {
@@ -1112,7 +1103,7 @@
                     "size": 44456,
                     "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/elena_kagan\/elena_kagan.thumb.png"
                 },
-                "length_of_service": 2069,
+                "length_of_service": 2347,
                 "identifier": "elena_kagan"
             }
         ],
@@ -1147,6 +1138,64 @@
         }
     ],
     "description": "A case in which the Court held that, to find someone guilty of bank fraud, only one of the two bank fraud statutes must be met, not both.",
-    "written_opinion": null,
-    "related_cases": null
+    "written_opinion": [
+        {
+            "id": 1041,
+            "title": "Concurring opinion",
+            "author": null,
+            "type": {
+                "value": "concurring",
+                "label": "Concurring opinion"
+            },
+            "justia_opinion_id": 1970961,
+            "justia_opinion_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/573\/13-316\/concur4.html",
+            "judge_full_name": null,
+            "judge_last_name": null,
+            "href": "https:\/\/api.oyez.org\/case_document\/written_opinion\/1041"
+        },
+        {
+            "id": 1042,
+            "title": "Syllabus",
+            "author": null,
+            "type": {
+                "value": "syllabus",
+                "label": "Syllabus"
+            },
+            "justia_opinion_id": 1970962,
+            "justia_opinion_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/573\/13-316\/",
+            "judge_full_name": null,
+            "judge_last_name": null,
+            "href": "https:\/\/api.oyez.org\/case_document\/written_opinion\/1042"
+        },
+        {
+            "id": 1043,
+            "title": "Opinion of the Court",
+            "author": null,
+            "type": {
+                "value": "majority",
+                "label": "Opinion of the Court"
+            },
+            "justia_opinion_id": 1970963,
+            "justia_opinion_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/573\/13-316\/opinion3.html",
+            "judge_full_name": null,
+            "judge_last_name": null,
+            "href": "https:\/\/api.oyez.org\/case_document\/written_opinion\/1043"
+        },
+        {
+            "id": 1044,
+            "title": "Concurring opinion",
+            "author": null,
+            "type": {
+                "value": "concurring",
+                "label": "Concurring opinion"
+            },
+            "justia_opinion_id": 1970964,
+            "justia_opinion_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/573\/13-316\/concur5.html",
+            "judge_full_name": "Samuel A. Alito, Jr.",
+            "judge_last_name": "Alito",
+            "href": "https:\/\/api.oyez.org\/case_document\/written_opinion\/1044"
+        }
+    ],
+    "related_cases": null,
+    "justia_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/573\/13-316\/"
 }
