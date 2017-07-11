@@ -2,7 +2,6 @@
     "ID": 55701,
     "name": "Abbott v. Abbott",
     "href": "https:\/\/api.oyez.org\/cases\/2009\/08-645",
-    "view_count": 48,
     "docket_number": "08-645",
     "additional_docket_numbers": null,
     "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
@@ -38,14 +37,13 @@
     },
     "facts_of_the_case": "<p>Timothy Abbott, a British citizen, and Jacquelyn Abbott, an American citizen, litigated their divorce in the Chilean courts. Mrs. Abbott was awarded custody of their son, while Mr. Abbott was awarded visitation rights. At Mrs. Abbott's request, the Chilean court entered an order prohibiting the child's removal from Chile by either the father or mother without express mutual consent. One year later, Mrs. Abbott moved the child from Chile without Mr. Abbott's consent. Upon location of the child in Texas, Mr. Abbott requested an order in a Texas federal district court that the child be returned to Chile pursuant to the Hague Convention on the Civil Aspects of International Child Abduction. The district court denied the order holding that the child's removal did not constitute a breach of the father's \"rights of custody\" as defined by the Hague convention.<\/p>\n<p>On appeal, the U.S. Court of Appeals for the Fifth Circuit affirmed, holding that the Chilean court's order and Chilean statute that required father's consent before the child could leave Chile did not give a non-custodial father \"rights of custody\" within the meaning of the Hague Convention. The court stated that Mr. Abbott merely possessed the rights of \"access to the child.\"<\/p>\n",
     "question": "<p>Does a clause that prohibits one parent from removing a child from a country without the other parent's consent confer a \"right of custody\" within the meaning of the Hague Convention on International Child Abduction?<\/p>\n",
-    "conclusion": "<p>No. The Supreme Court held that a parent has a right of custody under the Hague Convention on International Child Abduction when the parent retains a <em>ne exeat<\/em> right (the right to restrain someone from leaving a country). Here, Mr. Abbott retained such a right. With Justice Anthony M. Kennedy writing for the majority, the Court first recognized that the Convention applies because the child in question is under 16 and was a habitual resident of Chile. (Chile and the U.S. are signatories to the Convention.) The Court then reasoned that the Convention's text, the U.S. State Department's views, signatory states' court orders, and the Convention's purposes all suggest that Mr. Abbott retained a <em>ne exeat<\/em> right under Article 49 of the Convention. Because Mr. Abbott possessed direct and regular visitation rights with his child, his <em>ne exeat<\/em> followed. The Court noted that Mr. Abbott's <em>ne exeat<\/em> right gave him a right of custody to his child, so long as Ms. Abbott could not find an exception in the Convention precluding the exercise of Mr. Abbott's right to custody.<\/p>\n<p>Justice John Paul Stevens, joined by Justices Clarence Thomas and Stephen G. Breyer, dissented. He argued that Mr. Abbott merely possessed a limited veto power over Ms. Abbott's ability take their son from Chile, not a custody right. He went on to explain that using the Convention's powerful return remedy under these circumstances is contrary to the Convention's \"text and purpose.\"<\/p>\n",
+    "conclusion": "<p>Yes. The Supreme Court held that a parent has a right of custody under the Hague Convention on International Child Abduction when the parent retains a <em>ne exeat<\/em> right (the right to restrain someone from leaving a country). Here, Mr. Abbott retained such a right. With Justice Anthony M. Kennedy writing for the majority, the Court first recognized that the Convention applies because the child in question is under 16 and was a habitual resident of Chile. (Chile and the U.S. are signatories to the Convention.) The Court then reasoned that the Convention's text, the U.S. State Department's views, signatory states' court orders, and the Convention's purposes all suggest that Mr. Abbott retained a <em>ne exeat<\/em> right under Article 49 of the Convention. Because Mr. Abbott possessed direct and regular visitation rights with his child, his <em>ne exeat<\/em> followed. The Court noted that Mr. Abbott's <em>ne exeat<\/em> right gave him a right of custody to his child, so long as Ms. Abbott could not find an exception in the Convention precluding the exercise of Mr. Abbott's right to custody.<\/p>\n<p>Justice John Paul Stevens, joined by Justices Clarence Thomas and Stephen G. Breyer, dissented. He argued that Mr. Abbott merely possessed a limited veto power over Ms. Abbott's ability take their son from Chile, not a custody right. He went on to explain that using the Convention's powerful return remedy under these circumstances is contrary to the Convention's \"text and purpose.\"<\/p>\n",
     "advocates": [
         {
             "advocate": {
                 "ID": 16153,
                 "name": "Amy Howe",
                 "href": "https:\/\/api.oyez.org\/people\/amy_howe",
-                "view_count": 0,
                 "last_name": "Howe",
                 "roles": null,
                 "thumbnail": null,
@@ -60,7 +58,6 @@
                 "ID": 24885,
                 "name": "Ginger D. Anders",
                 "href": "https:\/\/api.oyez.org\/people\/ginger_anders",
-                "view_count": 0,
                 "last_name": "Anders",
                 "roles": null,
                 "thumbnail": null,
@@ -75,7 +72,6 @@
                 "ID": 33850,
                 "name": "Karl E. Hays",
                 "href": "https:\/\/api.oyez.org\/people\/karl_e_hays",
-                "view_count": 0,
                 "last_name": "Hays",
                 "roles": null,
                 "thumbnail": null,
@@ -110,7 +106,6 @@
                         "ID": 15086,
                         "name": "John G. Roberts, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                        "view_count": 40,
                         "last_name": "Roberts",
                         "roles": [
                             {
@@ -145,7 +140,6 @@
                         "ID": 15060,
                         "name": "John Paul Stevens",
                         "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
-                        "view_count": 0,
                         "last_name": "Stevens",
                         "roles": [
                             {
@@ -180,7 +174,6 @@
                         "ID": 15049,
                         "name": "Antonin Scalia",
                         "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                        "view_count": 54,
                         "last_name": "Scalia",
                         "roles": [
                             {
@@ -215,7 +208,6 @@
                         "ID": 15113,
                         "name": "Anthony M. Kennedy",
                         "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
-                        "view_count": 73,
                         "last_name": "Kennedy",
                         "roles": [
                             {
@@ -250,7 +242,6 @@
                         "ID": 15100,
                         "name": "Clarence Thomas",
                         "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
-                        "view_count": 91,
                         "last_name": "Thomas",
                         "roles": [
                             {
@@ -270,7 +261,7 @@
                             "size": 49064,
                             "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                         },
-                        "length_of_service": 8932,
+                        "length_of_service": 9347,
                         "identifier": "clarence_thomas"
                     },
                     "vote": "minority",
@@ -280,7 +271,6 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
-                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -313,7 +303,6 @@
                         "ID": 15084,
                         "name": "Ruth Bader Ginsburg",
                         "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
-                        "view_count": 55,
                         "last_name": "Ginsburg",
                         "roles": [
                             {
@@ -348,7 +337,6 @@
                         "ID": 15139,
                         "name": "Stephen G. Breyer",
                         "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                        "view_count": 58,
                         "last_name": "Breyer",
                         "roles": [
                             {
@@ -378,7 +366,6 @@
                             "ID": 15060,
                             "name": "John Paul Stevens",
                             "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
-                            "view_count": 0,
                             "last_name": "Stevens",
                             "roles": [
                                 {
@@ -411,7 +398,6 @@
                         "ID": 15068,
                         "name": "Samuel A. Alito, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
-                        "view_count": 74,
                         "last_name": "Alito",
                         "roles": [
                             {
@@ -446,7 +432,6 @@
                         "ID": 15131,
                         "name": "Sonia Sotomayor",
                         "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
-                        "view_count": 63,
                         "last_name": "Sotomayor",
                         "roles": [
                             {
@@ -491,13 +476,11 @@
             "ID": 15154,
             "name": "Roberts Court (2009-2010)",
             "href": "https:\/\/api.oyez.org\/courts\/roberts4",
-            "view_count": 0,
             "members": [
                 {
                     "ID": 15086,
                     "name": "John G. Roberts, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                    "view_count": 40,
                     "last_name": "Roberts",
                     "roles": [
                         {
@@ -524,7 +507,6 @@
                     "ID": 15060,
                     "name": "John Paul Stevens",
                     "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
-                    "view_count": 0,
                     "last_name": "Stevens",
                     "roles": [
                         {
@@ -551,7 +533,6 @@
                     "ID": 15049,
                     "name": "Antonin Scalia",
                     "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                    "view_count": 54,
                     "last_name": "Scalia",
                     "roles": [
                         {
@@ -578,7 +559,6 @@
                     "ID": 15113,
                     "name": "Anthony M. Kennedy",
                     "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
-                    "view_count": 73,
                     "last_name": "Kennedy",
                     "roles": [
                         {
@@ -605,7 +585,6 @@
                     "ID": 15100,
                     "name": "Clarence Thomas",
                     "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
-                    "view_count": 91,
                     "last_name": "Thomas",
                     "roles": [
                         {
@@ -625,14 +604,13 @@
                         "size": 49064,
                         "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                     },
-                    "length_of_service": 8932,
+                    "length_of_service": 9347,
                     "identifier": "clarence_thomas"
                 },
                 {
                     "ID": 15084,
                     "name": "Ruth Bader Ginsburg",
                     "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
-                    "view_count": 55,
                     "last_name": "Ginsburg",
                     "roles": [
                         {
@@ -659,7 +637,6 @@
                     "ID": 15139,
                     "name": "Stephen G. Breyer",
                     "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                    "view_count": 58,
                     "last_name": "Breyer",
                     "roles": [
                         {
@@ -686,7 +663,6 @@
                     "ID": 15068,
                     "name": "Samuel A. Alito, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
-                    "view_count": 74,
                     "last_name": "Alito",
                     "roles": [
                         {
@@ -713,7 +689,6 @@
                     "ID": 15131,
                     "name": "Sonia Sotomayor",
                     "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
-                    "view_count": 63,
                     "last_name": "Sotomayor",
                     "roles": [
                         {
@@ -753,13 +728,11 @@
         "ID": 15154,
         "name": "Roberts Court (2009-2010)",
         "href": "https:\/\/api.oyez.org\/courts\/roberts4",
-        "view_count": 0,
         "members": [
             {
                 "ID": 15086,
                 "name": "John G. Roberts, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                "view_count": 40,
                 "last_name": "Roberts",
                 "roles": [
                     {
@@ -786,7 +759,6 @@
                 "ID": 15060,
                 "name": "John Paul Stevens",
                 "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
-                "view_count": 0,
                 "last_name": "Stevens",
                 "roles": [
                     {
@@ -813,7 +785,6 @@
                 "ID": 15049,
                 "name": "Antonin Scalia",
                 "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                "view_count": 54,
                 "last_name": "Scalia",
                 "roles": [
                     {
@@ -840,7 +811,6 @@
                 "ID": 15113,
                 "name": "Anthony M. Kennedy",
                 "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
-                "view_count": 73,
                 "last_name": "Kennedy",
                 "roles": [
                     {
@@ -867,7 +837,6 @@
                 "ID": 15100,
                 "name": "Clarence Thomas",
                 "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
-                "view_count": 91,
                 "last_name": "Thomas",
                 "roles": [
                     {
@@ -887,14 +856,13 @@
                     "size": 49064,
                     "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                 },
-                "length_of_service": 8932,
+                "length_of_service": 9347,
                 "identifier": "clarence_thomas"
             },
             {
                 "ID": 15084,
                 "name": "Ruth Bader Ginsburg",
                 "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
-                "view_count": 55,
                 "last_name": "Ginsburg",
                 "roles": [
                     {
@@ -921,7 +889,6 @@
                 "ID": 15139,
                 "name": "Stephen G. Breyer",
                 "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                "view_count": 58,
                 "last_name": "Breyer",
                 "roles": [
                     {
@@ -948,7 +915,6 @@
                 "ID": 15068,
                 "name": "Samuel A. Alito, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
-                "view_count": 74,
                 "last_name": "Alito",
                 "roles": [
                     {
@@ -975,7 +941,6 @@
                 "ID": 15131,
                 "name": "Sonia Sotomayor",
                 "href": "https:\/\/api.oyez.org\/people\/sonia_sotomayor",
-                "view_count": 63,
                 "last_name": "Sotomayor",
                 "roles": [
                     {
@@ -1030,6 +995,50 @@
         }
     ],
     "description": "A case in which the Court held that the Hague Convention gave a father a right to have his child brought back to Chile from Texas after the child's mother violated her divorce agreement that required both parents' consent for the child to be taken out of Chile.",
-    "written_opinion": null,
-    "related_cases": null
+    "written_opinion": [
+        {
+            "id": 1564,
+            "title": "Dissenting opinion",
+            "author": null,
+            "type": {
+                "value": "dissenting",
+                "label": "Dissenting opinion"
+            },
+            "justia_opinion_id": 1963295,
+            "justia_opinion_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/560\/08-645\/dissent.html",
+            "judge_full_name": "John Paul Stevens",
+            "judge_last_name": "Stevens",
+            "href": "https:\/\/api.oyez.org\/case_document\/written_opinion\/1564"
+        },
+        {
+            "id": 1565,
+            "title": "Syllabus",
+            "author": null,
+            "type": {
+                "value": "syllabus",
+                "label": "Syllabus"
+            },
+            "justia_opinion_id": 1963296,
+            "justia_opinion_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/560\/08-645\/",
+            "judge_full_name": null,
+            "judge_last_name": null,
+            "href": "https:\/\/api.oyez.org\/case_document\/written_opinion\/1565"
+        },
+        {
+            "id": 1566,
+            "title": "Opinion of the Court",
+            "author": null,
+            "type": {
+                "value": "majority",
+                "label": "Opinion of the Court"
+            },
+            "justia_opinion_id": 1963297,
+            "justia_opinion_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/560\/08-645\/opinion.html",
+            "judge_full_name": "Anthony M. Kennedy",
+            "judge_last_name": "Kennedy",
+            "href": "https:\/\/api.oyez.org\/case_document\/written_opinion\/1566"
+        }
+    ],
+    "related_cases": null,
+    "justia_url": "https:\/\/supreme.justia.com\/cases\/federal\/us\/560\/08-645\/"
 }
