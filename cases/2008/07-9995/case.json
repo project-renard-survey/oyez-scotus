@@ -2,7 +2,6 @@
     "ID": 55613,
     "name": "Rivera v. Illinois",
     "href": "https:\/\/api.oyez.org\/cases\/2008\/07-9995",
-    "view_count": 0,
     "docket_number": "07-9995",
     "additional_docket_numbers": null,
     "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
@@ -45,7 +44,6 @@
                 "ID": 31510,
                 "name": "James K. Leven",
                 "href": "https:\/\/api.oyez.org\/people\/james_k_leven",
-                "view_count": 0,
                 "last_name": "Leven",
                 "roles": null,
                 "thumbnail": null,
@@ -57,25 +55,9 @@
         },
         {
             "advocate": {
-                "ID": 36594,
-                "name": "Matthew D. Roberts",
-                "href": "https:\/\/api.oyez.org\/people\/matthew_d_roberts",
-                "view_count": 0,
-                "last_name": "Roberts",
-                "roles": null,
-                "thumbnail": null,
-                "length_of_service": 0,
-                "identifier": "matthew_d_roberts"
-            },
-            "advocate_description": "argued the cause for the United States, as amicus curiae, supporting the respondent",
-            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/19846"
-        },
-        {
-            "advocate": {
                 "ID": 36643,
                 "name": "Michael A. Scodro",
                 "href": "https:\/\/api.oyez.org\/people\/michael_a_scodro",
-                "view_count": 0,
                 "last_name": "Scodro",
                 "roles": null,
                 "thumbnail": null,
@@ -84,6 +66,20 @@
             },
             "advocate_description": "argued the cause for the respondent",
             "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/19847"
+        },
+        {
+            "advocate": {
+                "ID": 36594,
+                "name": "Matthew D. Roberts",
+                "href": "https:\/\/api.oyez.org\/people\/matthew_d_roberts",
+                "last_name": "Roberts",
+                "roles": null,
+                "thumbnail": null,
+                "length_of_service": 0,
+                "identifier": "matthew_d_roberts"
+            },
+            "advocate_description": "argued the cause for the United States, as amicus curiae, supporting the respondent",
+            "href": "https:\/\/api.oyez.org\/case_advocate\/case_advocate\/19846"
         }
     ],
     "oral_argument_audio": [
@@ -110,7 +106,6 @@
                         "ID": 15086,
                         "name": "John G. Roberts, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                        "view_count": 40,
                         "last_name": "Roberts",
                         "roles": [
                             {
@@ -145,7 +140,6 @@
                         "ID": 15060,
                         "name": "John Paul Stevens",
                         "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
-                        "view_count": 0,
                         "last_name": "Stevens",
                         "roles": [
                             {
@@ -180,7 +174,6 @@
                         "ID": 15049,
                         "name": "Antonin Scalia",
                         "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                        "view_count": 54,
                         "last_name": "Scalia",
                         "roles": [
                             {
@@ -215,7 +208,6 @@
                         "ID": 15113,
                         "name": "Anthony M. Kennedy",
                         "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
-                        "view_count": 73,
                         "last_name": "Kennedy",
                         "roles": [
                             {
@@ -250,7 +242,6 @@
                         "ID": 15042,
                         "name": "David H. Souter",
                         "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
-                        "view_count": 0,
                         "last_name": "Souter",
                         "roles": [
                             {
@@ -285,7 +276,6 @@
                         "ID": 15100,
                         "name": "Clarence Thomas",
                         "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
-                        "view_count": 91,
                         "last_name": "Thomas",
                         "roles": [
                             {
@@ -305,7 +295,7 @@
                             "size": 49064,
                             "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                         },
-                        "length_of_service": 8932,
+                        "length_of_service": 9347,
                         "identifier": "clarence_thomas"
                     },
                     "vote": "majority",
@@ -320,7 +310,6 @@
                         "ID": 15084,
                         "name": "Ruth Bader Ginsburg",
                         "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
-                        "view_count": 55,
                         "last_name": "Ginsburg",
                         "roles": [
                             {
@@ -355,7 +344,6 @@
                         "ID": 15139,
                         "name": "Stephen G. Breyer",
                         "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                        "view_count": 58,
                         "last_name": "Breyer",
                         "roles": [
                             {
@@ -390,7 +378,6 @@
                         "ID": 15068,
                         "name": "Samuel A. Alito, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
-                        "view_count": 74,
                         "last_name": "Alito",
                         "roles": [
                             {
@@ -435,13 +422,11 @@
             "ID": 15149,
             "name": "Roberts Court (2006-2009)",
             "href": "https:\/\/api.oyez.org\/courts\/roberts2",
-            "view_count": 0,
             "members": [
                 {
                     "ID": 15086,
                     "name": "John G. Roberts, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                    "view_count": 40,
                     "last_name": "Roberts",
                     "roles": [
                         {
@@ -468,7 +453,6 @@
                     "ID": 15060,
                     "name": "John Paul Stevens",
                     "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
-                    "view_count": 0,
                     "last_name": "Stevens",
                     "roles": [
                         {
@@ -495,7 +479,6 @@
                     "ID": 15049,
                     "name": "Antonin Scalia",
                     "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                    "view_count": 54,
                     "last_name": "Scalia",
                     "roles": [
                         {
@@ -522,7 +505,6 @@
                     "ID": 15113,
                     "name": "Anthony M. Kennedy",
                     "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
-                    "view_count": 73,
                     "last_name": "Kennedy",
                     "roles": [
                         {
@@ -549,7 +531,6 @@
                     "ID": 15042,
                     "name": "David H. Souter",
                     "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
-                    "view_count": 0,
                     "last_name": "Souter",
                     "roles": [
                         {
@@ -576,7 +557,6 @@
                     "ID": 15100,
                     "name": "Clarence Thomas",
                     "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
-                    "view_count": 91,
                     "last_name": "Thomas",
                     "roles": [
                         {
@@ -596,14 +576,13 @@
                         "size": 49064,
                         "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                     },
-                    "length_of_service": 8932,
+                    "length_of_service": 9347,
                     "identifier": "clarence_thomas"
                 },
                 {
                     "ID": 15084,
                     "name": "Ruth Bader Ginsburg",
                     "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
-                    "view_count": 55,
                     "last_name": "Ginsburg",
                     "roles": [
                         {
@@ -630,7 +609,6 @@
                     "ID": 15139,
                     "name": "Stephen G. Breyer",
                     "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                    "view_count": 58,
                     "last_name": "Breyer",
                     "roles": [
                         {
@@ -657,7 +635,6 @@
                     "ID": 15068,
                     "name": "Samuel A. Alito, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
-                    "view_count": 74,
                     "last_name": "Alito",
                     "roles": [
                         {
@@ -697,13 +674,11 @@
         "ID": 15149,
         "name": "Roberts Court (2006-2009)",
         "href": "https:\/\/api.oyez.org\/courts\/roberts2",
-        "view_count": 0,
         "members": [
             {
                 "ID": 15086,
                 "name": "John G. Roberts, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                "view_count": 40,
                 "last_name": "Roberts",
                 "roles": [
                     {
@@ -730,7 +705,6 @@
                 "ID": 15060,
                 "name": "John Paul Stevens",
                 "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
-                "view_count": 0,
                 "last_name": "Stevens",
                 "roles": [
                     {
@@ -757,7 +731,6 @@
                 "ID": 15049,
                 "name": "Antonin Scalia",
                 "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                "view_count": 54,
                 "last_name": "Scalia",
                 "roles": [
                     {
@@ -784,7 +757,6 @@
                 "ID": 15113,
                 "name": "Anthony M. Kennedy",
                 "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
-                "view_count": 73,
                 "last_name": "Kennedy",
                 "roles": [
                     {
@@ -811,7 +783,6 @@
                 "ID": 15042,
                 "name": "David H. Souter",
                 "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
-                "view_count": 0,
                 "last_name": "Souter",
                 "roles": [
                     {
@@ -838,7 +809,6 @@
                 "ID": 15100,
                 "name": "Clarence Thomas",
                 "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
-                "view_count": 91,
                 "last_name": "Thomas",
                 "roles": [
                     {
@@ -858,14 +828,13 @@
                     "size": 49064,
                     "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                 },
-                "length_of_service": 8932,
+                "length_of_service": 9347,
                 "identifier": "clarence_thomas"
             },
             {
                 "ID": 15084,
                 "name": "Ruth Bader Ginsburg",
                 "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
-                "view_count": 55,
                 "last_name": "Ginsburg",
                 "roles": [
                     {
@@ -892,7 +861,6 @@
                 "ID": 15139,
                 "name": "Stephen G. Breyer",
                 "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                "view_count": 58,
                 "last_name": "Breyer",
                 "roles": [
                     {
@@ -919,7 +887,6 @@
                 "ID": 15068,
                 "name": "Samuel A. Alito, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
-                "view_count": 74,
                 "last_name": "Alito",
                 "roles": [
                     {
@@ -975,5 +942,6 @@
     ],
     "description": "A case in which the Court found that the Due Process Clause does not require the automatic reversal of a conviction because of the lower court's good-faith error in denying the defendant's pre-trial motion to dismiss a juror.",
     "written_opinion": null,
-    "related_cases": null
+    "related_cases": null,
+    "justia_url": null
 }
