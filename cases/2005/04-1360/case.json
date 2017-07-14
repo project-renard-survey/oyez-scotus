@@ -2,7 +2,6 @@
     "ID": 55365,
     "name": "Hudson v. Michigan",
     "href": "https:\/\/api.oyez.org\/cases\/2005\/04-1360",
-    "view_count": 301,
     "docket_number": "04-1360",
     "additional_docket_numbers": null,
     "manner_of_jurisdiction": "Writ of <i>certiorari<\/i>",
@@ -45,14 +44,13 @@
     },
     "facts_of_the_case": "<p>Booker T. Hudson was convicted of drug and firearm possession in state court after police found cocaine and a gun in his home. The police had a search warrant, but failed to follow the Fourth Amendment \"knock and announce\" rule which requires police officers to wait 20-30 seconds after knocking and announcing their presence before they enter the home. The trial judge ruled that the evidence found in the home could therefore not be used, but the Michigan Court of Appeals reversed based on two Michigan Supreme Court cases that created an exception to the suppression of evidence when the evidence in question would have inevitably been found.<\/p>\n",
     "question": "<p>Does the general rule excluding evidence obtained in violation of the Fourth Amendment apply to the \"knock-and-announce\" rule?<\/p>\n",
-    "conclusion": "<p>No. In a 5-4 decision, the Court ruled that evidence need not be excluded when police violate the \"knock-and-announce\" rule. The opinion by Justice Scalia reaffirmed the validity of both the knock-and-announce rule and the \"exclusionary rule\" for evidence obtained by police in most cases of Fourth Amendment violation. However, the majority held that the exclusionary rule could not be invoked for evidence obtained after a knock-and-announce violation, because the interests violated by the abrupt entry of the police \"have nothing to do with the seizure of the evidence.\" Justice Scalia wrote that the knock-and-announce rule was meant to prevent violence, property-damage, and impositions on privacy, not to prevent police from conducting a search for which they have a valid warrant. The Court also found that the social costs of the exclusionary rule as applied to the knock-and-announce rule outweighed any possible \"deterrence benefits,\" and that alternative measures such as civil suits and internal police discipline could adequately deter violations. Justice Stephen Breyer wrote a dissenting opinion, and was joined by Justices Stevens, Souter, and Ginsburg. The dissent noted the Court's long history of upholding the exclusionary rule and doubted that the majority's cited precedents supported its conclusion. The dissent also expressed doubt that knock-and-announce violations could be deterred without excluding the evidence obtained from the searches.<\/p>\n",
+    "conclusion": "<p>No. In a 5-4 decision, the Court ruled that evidence need not be excluded when police violate the \"knock-and-announce\" rule. The opinion by Justice Scalia reaffirmed the validity of both the knock-and-announce rule and the \"exclusionary rule\" for evidence obtained by police in most cases of Fourth Amendment violation. However, the majority held that the exclusionary rule could not be invoked for evidence obtained after a knock-and-announce violation, because the interests violated by the abrupt entry of the police \"have nothing to do with the seizure of the evidence.\" Justice Scalia wrote that the knock-and-announce rule was meant to prevent violence, property-damage, and impositions on privacy, not to prevent police from conducting a search for which they have a valid warrant. The Court also found that the social costs of the exclusionary rule as applied to the knock-and-announce rule outweighed any possible \"deterrence benefits,\" and that alternative measures such as civil suits and internal police discipline could adequately deter violations. Justice Stephen Breyer wrote a dissenting opinion, and was joined by Justices Stevens, Souter, and Ginsburg. The dissent noted the Court's long history of upholding the exclusionary rule and doubted that the majority's cited precedents supported its conclusion. The dissent also expressed doubt that knock-and-announce violations could be deterred without excluding the evidence obtained from the searches.<\/p>\n<p><em>Learn more about the Roberts Court and the Fourth Amendment in <a href=\"http:\/\/projects.oyez.org\/shifting-scales\/\">Shifting Scales<\/a>, a nonpartisan Oyez resource.<\/em><\/p>\n",
     "advocates": [
         {
             "advocate": {
                 "ID": 42452,
                 "name": "Timothy A. Baughman",
                 "href": "https:\/\/api.oyez.org\/people\/timothy_a_baughman",
-                "view_count": 0,
                 "last_name": "Baughman",
                 "roles": null,
                 "thumbnail": null,
@@ -67,7 +65,6 @@
                 "ID": 21199,
                 "name": "David A. Moran",
                 "href": "https:\/\/api.oyez.org\/people\/david_a_moran",
-                "view_count": 0,
                 "last_name": "Moran",
                 "roles": null,
                 "thumbnail": null,
@@ -82,7 +79,6 @@
                 "ID": 21494,
                 "name": "David B. Salmons",
                 "href": "https:\/\/api.oyez.org\/people\/david_b_salmons",
-                "view_count": 0,
                 "last_name": "Salmons",
                 "roles": null,
                 "thumbnail": null,
@@ -124,7 +120,6 @@
                         "ID": 15060,
                         "name": "John Paul Stevens",
                         "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
-                        "view_count": 0,
                         "last_name": "Stevens",
                         "roles": [
                             {
@@ -154,7 +149,6 @@
                             "ID": 15139,
                             "name": "Stephen G. Breyer",
                             "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                            "view_count": 58,
                             "last_name": "Breyer",
                             "roles": [
                                 {
@@ -187,7 +181,6 @@
                         "ID": 15049,
                         "name": "Antonin Scalia",
                         "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                        "view_count": 54,
                         "last_name": "Scalia",
                         "roles": [
                             {
@@ -222,7 +215,6 @@
                         "ID": 15113,
                         "name": "Anthony M. Kennedy",
                         "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
-                        "view_count": 73,
                         "last_name": "Kennedy",
                         "roles": [
                             {
@@ -257,7 +249,6 @@
                         "ID": 15042,
                         "name": "David H. Souter",
                         "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
-                        "view_count": 0,
                         "last_name": "Souter",
                         "roles": [
                             {
@@ -287,7 +278,6 @@
                             "ID": 15139,
                             "name": "Stephen G. Breyer",
                             "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                            "view_count": 58,
                             "last_name": "Breyer",
                             "roles": [
                                 {
@@ -320,7 +310,6 @@
                         "ID": 15100,
                         "name": "Clarence Thomas",
                         "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
-                        "view_count": 91,
                         "last_name": "Thomas",
                         "roles": [
                             {
@@ -340,7 +329,7 @@
                             "size": 49064,
                             "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                         },
-                        "length_of_service": 8932,
+                        "length_of_service": 9347,
                         "identifier": "clarence_thomas"
                     },
                     "vote": "majority",
@@ -355,7 +344,6 @@
                         "ID": 15084,
                         "name": "Ruth Bader Ginsburg",
                         "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
-                        "view_count": 55,
                         "last_name": "Ginsburg",
                         "roles": [
                             {
@@ -385,7 +373,6 @@
                             "ID": 15139,
                             "name": "Stephen G. Breyer",
                             "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                            "view_count": 58,
                             "last_name": "Breyer",
                             "roles": [
                                 {
@@ -418,7 +405,6 @@
                         "ID": 15139,
                         "name": "Stephen G. Breyer",
                         "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                        "view_count": 58,
                         "last_name": "Breyer",
                         "roles": [
                             {
@@ -453,7 +439,6 @@
                         "ID": 15086,
                         "name": "John G. Roberts, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                        "view_count": 40,
                         "last_name": "Roberts",
                         "roles": [
                             {
@@ -488,7 +473,6 @@
                         "ID": 15068,
                         "name": "Samuel A. Alito, Jr.",
                         "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
-                        "view_count": 74,
                         "last_name": "Alito",
                         "roles": [
                             {
@@ -533,13 +517,11 @@
             "ID": 15153,
             "name": "Roberts Court (2005-2006)",
             "href": "https:\/\/api.oyez.org\/courts\/roberts1",
-            "view_count": 0,
             "members": [
                 {
                     "ID": 15086,
                     "name": "John G. Roberts, Jr.",
                     "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                    "view_count": 40,
                     "last_name": "Roberts",
                     "roles": [
                         {
@@ -566,7 +548,6 @@
                     "ID": 15060,
                     "name": "John Paul Stevens",
                     "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
-                    "view_count": 0,
                     "last_name": "Stevens",
                     "roles": [
                         {
@@ -593,7 +574,6 @@
                     "ID": 15092,
                     "name": "Sandra Day O'Connor",
                     "href": "https:\/\/api.oyez.org\/people\/sandra_day_oconnor",
-                    "view_count": 30,
                     "last_name": "O'Connor",
                     "roles": [
                         {
@@ -620,7 +600,6 @@
                     "ID": 15049,
                     "name": "Antonin Scalia",
                     "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                    "view_count": 54,
                     "last_name": "Scalia",
                     "roles": [
                         {
@@ -647,7 +626,6 @@
                     "ID": 15113,
                     "name": "Anthony M. Kennedy",
                     "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
-                    "view_count": 73,
                     "last_name": "Kennedy",
                     "roles": [
                         {
@@ -674,7 +652,6 @@
                     "ID": 15042,
                     "name": "David H. Souter",
                     "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
-                    "view_count": 0,
                     "last_name": "Souter",
                     "roles": [
                         {
@@ -701,7 +678,6 @@
                     "ID": 15100,
                     "name": "Clarence Thomas",
                     "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
-                    "view_count": 91,
                     "last_name": "Thomas",
                     "roles": [
                         {
@@ -721,14 +697,13 @@
                         "size": 49064,
                         "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                     },
-                    "length_of_service": 8932,
+                    "length_of_service": 9347,
                     "identifier": "clarence_thomas"
                 },
                 {
                     "ID": 15084,
                     "name": "Ruth Bader Ginsburg",
                     "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
-                    "view_count": 55,
                     "last_name": "Ginsburg",
                     "roles": [
                         {
@@ -755,7 +730,6 @@
                     "ID": 15139,
                     "name": "Stephen G. Breyer",
                     "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                    "view_count": 58,
                     "last_name": "Breyer",
                     "roles": [
                         {
@@ -795,13 +769,11 @@
         "ID": 15149,
         "name": "Roberts Court (2006-2009)",
         "href": "https:\/\/api.oyez.org\/courts\/roberts2",
-        "view_count": 0,
         "members": [
             {
                 "ID": 15086,
                 "name": "John G. Roberts, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/john_g_roberts_jr",
-                "view_count": 40,
                 "last_name": "Roberts",
                 "roles": [
                     {
@@ -828,7 +800,6 @@
                 "ID": 15060,
                 "name": "John Paul Stevens",
                 "href": "https:\/\/api.oyez.org\/people\/john_paul_stevens",
-                "view_count": 0,
                 "last_name": "Stevens",
                 "roles": [
                     {
@@ -855,7 +826,6 @@
                 "ID": 15049,
                 "name": "Antonin Scalia",
                 "href": "https:\/\/api.oyez.org\/people\/antonin_scalia",
-                "view_count": 54,
                 "last_name": "Scalia",
                 "roles": [
                     {
@@ -882,7 +852,6 @@
                 "ID": 15113,
                 "name": "Anthony M. Kennedy",
                 "href": "https:\/\/api.oyez.org\/people\/anthony_m_kennedy",
-                "view_count": 73,
                 "last_name": "Kennedy",
                 "roles": [
                     {
@@ -909,7 +878,6 @@
                 "ID": 15042,
                 "name": "David H. Souter",
                 "href": "https:\/\/api.oyez.org\/people\/david_h_souter",
-                "view_count": 0,
                 "last_name": "Souter",
                 "roles": [
                     {
@@ -936,7 +904,6 @@
                 "ID": 15100,
                 "name": "Clarence Thomas",
                 "href": "https:\/\/api.oyez.org\/people\/clarence_thomas",
-                "view_count": 91,
                 "last_name": "Thomas",
                 "roles": [
                     {
@@ -956,14 +923,13 @@
                     "size": 49064,
                     "href": "https:\/\/api.oyez.org\/sites\/default\/files\/images\/people\/clarence_thomas\/clarence_thomas.thumb.png"
                 },
-                "length_of_service": 8932,
+                "length_of_service": 9347,
                 "identifier": "clarence_thomas"
             },
             {
                 "ID": 15084,
                 "name": "Ruth Bader Ginsburg",
                 "href": "https:\/\/api.oyez.org\/people\/ruth_bader_ginsburg",
-                "view_count": 55,
                 "last_name": "Ginsburg",
                 "roles": [
                     {
@@ -990,7 +956,6 @@
                 "ID": 15139,
                 "name": "Stephen G. Breyer",
                 "href": "https:\/\/api.oyez.org\/people\/stephen_g_breyer",
-                "view_count": 58,
                 "last_name": "Breyer",
                 "roles": [
                     {
@@ -1017,7 +982,6 @@
                 "ID": 15068,
                 "name": "Samuel A. Alito, Jr.",
                 "href": "https:\/\/api.oyez.org\/people\/samuel_a_alito_jr",
-                "view_count": 74,
                 "last_name": "Alito",
                 "roles": [
                     {
@@ -1064,5 +1028,6 @@
     ],
     "description": "A case in which the Court ruled that the general rule excluding evidence obtained in violation of the Fourth Amendment does not apply to the \"knock-and-announce\" rule.",
     "written_opinion": null,
-    "related_cases": null
+    "related_cases": null,
+    "justia_url": null
 }
